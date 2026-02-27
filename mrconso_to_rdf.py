@@ -34,7 +34,7 @@ SAB_TO_VOCAB = {
 # Vocabulary → external URI prefixes
 # --------------------------
 reference_uri_prefixes = {
-    "snomed": "http://snomed.info/sct/",
+    "snomed": "http://snomed.info/id/",
     "loinc": "http://loinc.org/rdf/",
     "rxnorm": "http://purl.bioontology.org/ontology/RXNORM/",
     "icd10cm": "http://purl.bioontology.org/ontology/ICD10CM/",
@@ -90,12 +90,12 @@ def flush_concept(cui, labels, code_pairs, output_buffer):
     if not cui:
         return
 
-    subject = f"umls_concept:{cui}"
+    subject = f"umls_concept:{cui} a umls:Concept ;"
     output_buffer.append(f"{subject}\n")
 
     # Labels (already deduplicated via set)
     for lbl, lang in sorted(labels):
-        safe_lbl = lbl.replace('"', '\\"')
+        safe_lbl = lbl.replace('\\', '\\\\').replace('"', '\\"')
         output_buffer.append(f'    rdfs:label "{safe_lbl}"@{lang} ;\n')
 
     # Codes
