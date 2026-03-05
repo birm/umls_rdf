@@ -1,0 +1,130 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix umls_semantic: <https://uts.nlm.nih.gov/uts/umls/semantic-network/> .
+
+umls_semantic:T116 rdfs:label "Amino Acid, Peptide, or Protein"@en .
+umls_semantic:T121 rdfs:label "Pharmacologic Substance"@en .
+umls_semantic:T130 rdfs:label "Indicator, Reagent, or Diagnostic Aid"@en .
+umls_semantic:T109 rdfs:label "Organic Chemical"@en .
+umls_semantic:T126 rdfs:label "Enzyme"@en .
+umls_semantic:T123 rdfs:label "Biologically Active Substance"@en .
+umls_semantic:T131 rdfs:label "Hazardous or Poisonous Substance"@en .
+umls_semantic:T125 rdfs:label "Hormone"@en .
+umls_semantic:T114 rdfs:label "Nucleic Acid, Nucleoside, or Nucleotide"@en .
+umls_semantic:T127 rdfs:label "Vitamin"@en .
+umls_semantic:T195 rdfs:label "Antibiotic"@en .
+umls_semantic:T129 rdfs:label "Immunologic Factor"@en .
+umls_semantic:T024 rdfs:label "Tissue"@en .
+umls_semantic:T073 rdfs:label "Manufactured Object"@en .
+umls_semantic:T170 rdfs:label "Intellectual Product"@en .
+umls_semantic:T029 rdfs:label "Body Location or Region"@en .
+umls_semantic:T184 rdfs:label "Sign or Symptom"@en .
+umls_semantic:T033 rdfs:label "Finding"@en .
+umls_semantic:T191 rdfs:label "Neoplastic Process"@en .
+umls_semantic:T023 rdfs:label "Body Part, Organ, or Organ Component"@en .
+umls_semantic:T005 rdfs:label "Virus"@en .
+umls_semantic:T047 rdfs:label "Disease or Syndrome"@en .
+umls_semantic:T019 rdfs:label "Congenital Abnormality"@en .
+umls_semantic:T169 rdfs:label "Functional Concept"@en .
+umls_semantic:T190 rdfs:label "Anatomical Abnormality"@en .
+umls_semantic:T037 rdfs:label "Injury or Poisoning"@en .
+umls_semantic:T185 rdfs:label "Classification"@en .
+umls_semantic:T018 rdfs:label "Embryonic Structure"@en .
+umls_semantic:T046 rdfs:label "Pathologic Function"@en .
+umls_semantic:T101 rdfs:label "Patient or Disabled Group"@en .
+umls_semantic:T093 rdfs:label "Health Care Related Organization"@en .
+umls_semantic:T089 rdfs:label "Regulation or Law"@en .
+umls_semantic:T061 rdfs:label "Therapeutic or Preventive Procedure"@en .
+umls_semantic:T081 rdfs:label "Quantitative Concept"@en .
+umls_semantic:T062 rdfs:label "Research Activity"@en .
+umls_semantic:T041 rdfs:label "Mental Process"@en .
+umls_semantic:T055 rdfs:label "Individual Behavior"@en .
+umls_semantic:T004 rdfs:label "Fungus"@en .
+umls_semantic:T060 rdfs:label "Diagnostic Procedure"@en .
+umls_semantic:T070 rdfs:label "Natural Phenomenon or Process"@en .
+umls_semantic:T197 rdfs:label "Inorganic Chemical"@en .
+umls_semantic:T057 rdfs:label "Occupational Activity"@en .
+umls_semantic:T083 rdfs:label "Geographic Area"@en .
+umls_semantic:T074 rdfs:label "Medical Device"@en .
+umls_semantic:T002 rdfs:label "Plant"@en .
+umls_semantic:T065 rdfs:label "Educational Activity"@en .
+umls_semantic:T092 rdfs:label "Organization"@en .
+umls_semantic:T204 rdfs:label "Eukaryote"@en .
+umls_semantic:T025 rdfs:label "Cell"@en .
+umls_semantic:T196 rdfs:label "Element, Ion, or Isotope"@en .
+umls_semantic:T067 rdfs:label "Phenomenon or Process"@en .
+umls_semantic:T080 rdfs:label "Qualitative Concept"@en .
+umls_semantic:T098 rdfs:label "Population Group"@en .
+umls_semantic:T051 rdfs:label "Event"@en .
+umls_semantic:T040 rdfs:label "Organism Function"@en .
+umls_semantic:T034 rdfs:label "Laboratory or Test Result"@en .
+umls_semantic:T042 rdfs:label "Organ or Tissue Function"@en .
+umls_semantic:T097 rdfs:label "Professional or Occupational Group"@en .
+umls_semantic:T064 rdfs:label "Governmental or Regulatory Activity"@en .
+umls_semantic:T054 rdfs:label "Social Behavior"@en .
+umls_semantic:T007 rdfs:label "Bacterium"@en .
+umls_semantic:T044 rdfs:label "Molecular Function"@en .
+umls_semantic:T053 rdfs:label "Behavior"@en .
+umls_semantic:T039 rdfs:label "Physiologic Function"@en .
+umls_semantic:T103 rdfs:label "Chemical"@en .
+umls_semantic:T015 rdfs:label "Mammal"@en .
+umls_semantic:T020 rdfs:label "Acquired Abnormality"@en .
+umls_semantic:T030 rdfs:label "Body Space or Junction"@en .
+umls_semantic:T026 rdfs:label "Cell Component"@en .
+umls_semantic:T122 rdfs:label "Biomedical or Dental Material"@en .
+umls_semantic:T043 rdfs:label "Cell Function"@en .
+umls_semantic:T059 rdfs:label "Laboratory Procedure"@en .
+umls_semantic:T052 rdfs:label "Activity"@en .
+umls_semantic:T056 rdfs:label "Daily or Recreational Activity"@en .
+umls_semantic:T079 rdfs:label "Temporal Concept"@en .
+umls_semantic:T091 rdfs:label "Biomedical Occupation or Discipline"@en .
+umls_semantic:T192 rdfs:label "Receptor"@en .
+umls_semantic:T031 rdfs:label "Body Substance"@en .
+umls_semantic:T048 rdfs:label "Mental or Behavioral Dysfunction"@en .
+umls_semantic:T058 rdfs:label "Health Care Activity"@en .
+umls_semantic:T120 rdfs:label "Chemical Viewed Functionally"@en .
+umls_semantic:T100 rdfs:label "Age Group"@en .
+umls_semantic:T171 rdfs:label "Language"@en .
+umls_semantic:T032 rdfs:label "Organism Attribute"@en .
+umls_semantic:T095 rdfs:label "Self-help or Relief Organization"@en .
+umls_semantic:T078 rdfs:label "Idea or Concept"@en .
+umls_semantic:T090 rdfs:label "Occupation or Discipline"@en .
+umls_semantic:T167 rdfs:label "Substance"@en .
+umls_semantic:T068 rdfs:label "Human-caused Phenomenon or Process"@en .
+umls_semantic:T069 rdfs:label "Environmental Effect of Humans"@en .
+umls_semantic:T168 rdfs:label "Food"@en .
+umls_semantic:T028 rdfs:label "Gene or Genome"@en .
+umls_semantic:T014 rdfs:label "Reptile"@en .
+umls_semantic:T050 rdfs:label "Experimental Model of Disease"@en .
+umls_semantic:T045 rdfs:label "Genetic Function"@en .
+umls_semantic:T011 rdfs:label "Amphibian"@en .
+umls_semantic:T013 rdfs:label "Fish"@en .
+umls_semantic:T094 rdfs:label "Professional Society"@en .
+umls_semantic:T087 rdfs:label "Amino Acid Sequence"@en .
+umls_semantic:T104 rdfs:label "Chemical Viewed Structurally"@en .
+umls_semantic:T066 rdfs:label "Machine Activity"@en .
+umls_semantic:T049 rdfs:label "Cell or Molecular Dysfunction"@en .
+umls_semantic:T008 rdfs:label "Animal"@en .
+umls_semantic:T201 rdfs:label "Clinical Attribute"@en .
+umls_semantic:T038 rdfs:label "Biologic Function"@en .
+umls_semantic:T194 rdfs:label "Archaeon"@en .
+umls_semantic:T022 rdfs:label "Body System"@en .
+umls_semantic:T086 rdfs:label "Nucleotide Sequence"@en .
+umls_semantic:T012 rdfs:label "Bird"@en .
+umls_semantic:T017 rdfs:label "Anatomical Structure"@en .
+umls_semantic:T082 rdfs:label "Spatial Concept"@en .
+umls_semantic:T088 rdfs:label "Carbohydrate Sequence"@en .
+umls_semantic:T099 rdfs:label "Family Group"@en .
+umls_semantic:T001 rdfs:label "Organism"@en .
+umls_semantic:T063 rdfs:label "Molecular Biology Research Technique"@en .
+umls_semantic:T096 rdfs:label "Group"@en .
+umls_semantic:T102 rdfs:label "Group Attribute"@en .
+umls_semantic:T077 rdfs:label "Conceptual Entity"@en .
+umls_semantic:T075 rdfs:label "Research Device"@en .
+umls_semantic:T072 rdfs:label "Physical Object"@en .
+umls_semantic:T071 rdfs:label "Entity"@en .
+umls_semantic:T200 rdfs:label "Clinical Drug"@en .
+umls_semantic:T085 rdfs:label "Molecular Sequence"@en .
+umls_semantic:T010 rdfs:label "Vertebrate"@en .
+umls_semantic:T016 rdfs:label "Human"@en .
+umls_semantic:T021 rdfs:label "Fully Formed Anatomical Structure"@en .
+umls_semantic:T203 rdfs:label "Drug Delivery Device"@en .

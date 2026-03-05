@@ -24,8 +24,16 @@ def row_to_ttl(row):
     cui1 = row["CUI1"]
     rel = row["REL"]
     cui2 = row["CUI2"]
+    rela = None
+    if row.get("RELA", None) is not None:
+        rela = f"{row['SAB']}_{row['RELA']}"
 
-    return f"umls_concept:{cui1} umls:{rel} umls_concept:{cui2} .\n"
+    rel_row = f"umls_concept:{cui1} umls:{rel} umls_concept:{cui2} .\n"
+    rela_row = ""
+    if rela:
+        rela_row = f"umls_concept:{cui1} umls:{rela} umls_concept:{cui2} .\n"
+
+    return rel_row + rela_row 
 
 
 def write_batch(triples, batch_number):
@@ -42,7 +50,7 @@ def convert_rels_to_rdf(INPUT_PQ, OUTPUT_DIR, BATCH_SIZE):
     df = pd.read_parquet(
         INPUT_PQ,
         engine="pyarrow",
-        columns=["CUI1", "REL", "CUI2", "SUPPRESS"]
+        columns=["CUI1", "REL", "CUI2", "RELA", "SAB", "SUPPRESS"]
     )
 
     batch_number = 1
