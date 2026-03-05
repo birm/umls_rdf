@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1234881,lidocaine / penicillin G Injectable Suspension [Tardocillin],BrandedDrugForm
+1234882,lidocaine / penicillin G Injectable Suspension [Pendysin],BrandedDrugForm
+1234883,lidocaine 9 MG/ML / penicillin G 300000 UNT/ML [Tardocillin],BrandedDrugComp
+1234884,lidocaine 9 MG/ML / penicillin G 300000 UNT/ML Injectable Suspension,ClinicalDrug
+1234885,lidocaine 9 MG/ML / penicillin G 300000 UNT/ML Injectable Suspension [Tardocillin],BrandedDrug
+1234886,lidocaine 25 MG / penicillin G 1200000 UNT [Pendysin],BrandedDrugComp
+1234887,lidocaine 25 MG / penicillin G 1200000 UNT Injectable Suspension,ClinicalDrug
+1234888,lidocaine 25 MG / penicillin G 1200000 UNT Injectable Suspension [Pendysin],BrandedDrug
+1235610,penicillin G 50000 UNT/ML Injectable Solution,ClinicalDrug
+1235611,penicillin G 120000 UNT/ML Injectable Solution,ClinicalDrug
+1235612,penicillin G 72000 UNT/ML,ClinicalDrugComp
+1235613,penicillin G 72000 UNT/ML Injectable Solution,ClinicalDrug
+1235614,penicillin G 75000 UNT/ML,ClinicalDrugComp
+1235615,penicillin G 75000 UNT/ML Injectable Solution,ClinicalDrug
+1236160,4 ML lidocaine 9 MG/ML / penicillin G 300000 UNT/ML Injectable Suspension,QuantClinicalDrug
+1236161,4 ML lidocaine 9 MG/ML / penicillin G 300000 UNT/ML Injectable Suspension [Tardocillin],QuantBrandedDrug
+1236280,100 ML penicillin G 120000 UNT/ML Injectable Solution,QuantClinicalDrug
+1236295,120 ML penicillin G 100000 UNT/ML Injectable Solution,QuantClinicalDrug
+1236301,240 ML penicillin G 75000 UNT/ML Injectable Solution,QuantClinicalDrug
+1236361,250 ML penicillin G 50000 UNT/ML Injectable Solution,QuantClinicalDrug
+1236362,250 ML penicillin G 72000 UNT/ML Injectable Solution,QuantClinicalDrug
+1718414,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 UNT/ML [BenzaPen],BrandedDrugComp
+1718415,penicillin G Injectable Suspension [BenzaPen],BrandedDrugForm
+1718416,BenzaPen Injectable Product,BrandedDoseGroup
+1718417,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 UNT/ML Injectable Suspension [BenzaPen],BrandedDrug
+1728416,penicillin G,Ingredient
+1728420,penicillin G 40000 UNT/ML Oral Solution,ClinicalDrug
+1728421,penicillin G 50 MG/ML Oral Solution,ClinicalDrug
+1728442,penicillin G 600000 UNT Injectable Suspension,ClinicalDrug
+1728446,clemizolpenicillin 300000 UNT / penicillin G 100000 UNT Injectable Suspension,ClinicalDrug
+1728447,clemizolpenicillin 800000 UNT / penicillin G 200000 UNT Injectable Suspension,ClinicalDrug
+1728449,penicillin G 100000 UNT Oral Tablet,ClinicalDrug
+1728451,penicillin G 1 UNT/MG Topical Ointment,ClinicalDrug
+1728472,penicillin G 20000 UNT/ML Injectable Solution,ClinicalDrug
+1728474,penicillin G 400000 UNT Oral Tablet,ClinicalDrug
+1728475,penicillin G 500000 UNT Oral Tablet,ClinicalDrug
+1728477,penicillin G 250000 UNT,ClinicalDrugComp
+1728478,penicillin G 500000 UNT,ClinicalDrugComp
+1728506,penicillin G 600000 UNT,ClinicalDrugComp
+1728507,penicillin G 100000 UNT/ML,ClinicalDrugComp
+1728509,penicillin G 1 UNT/MG,ClinicalDrugComp
+1728543,penicillin G potassium 60000 UNT/ML,ClinicalDrugComp
+1728544,penicillin G benzathine 300000 UNT/ML,ClinicalDrugComp
+1728545,penicillin G procaine 300000 UNT/ML,ClinicalDrugComp
+1728546,penicillin G 10000 UNT/ML,ClinicalDrugComp
+1728547,penicillin G 10000 UNT/ML Injectable Solution,ClinicalDrug
+1728548,penicillin G 100000 UNT/ML Injectable Solution,ClinicalDrug
+1728549,penicillin G benzathine 150000 UNT/ML,ClinicalDrugComp
+1728550,penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Injectable Suspension,ClinicalDrug
+1728551,penicillin G procaine 150000 UNT/ML,ClinicalDrugComp
+1728572,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 UNT/ML Injectable Suspension,ClinicalDrug
+1728573,2 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+1728574,2 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe [Bicillin],QuantBrandedDrug
+1728575,penicillin G benzathine 600000 UNT/ML,ClinicalDrugComp
+1728576,penicillin G procaine 600000 UNT/ML,ClinicalDrugComp
+1728577,penicillin G benzathine 900000 UNT/ML,ClinicalDrugComp
+1728579,penicillin G benzathine 450000 UNT/ML,ClinicalDrugComp
+1728580,1 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+1728602,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 UNT/ML Injectable Suspension [Bicillin],BrandedDrug
+1728603,1 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+1728604,1 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe [Bicillin L-A],QuantBrandedDrug
+1728605,2 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+1728606,2 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe [Bicillin L-A],QuantBrandedDrug
+1728608,4 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe [Bicillin L-A],QuantBrandedDrug
+1728609,penicillin G benzathine 600000 UNT/ML Injectable Suspension,ClinicalDrug
+1728610,penicillin G benzathine 600000 UNT/ML Injectable Suspension [Bicillin L-A],BrandedDrug
+1728611,penicillin G benzathine 300000 UNT/ML Injectable Suspension,ClinicalDrug
+1728642,penicillin G benzathine 300000 UNT/ML Injectable Suspension [Bicillin L-A],BrandedDrug
+1728644,4 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe [Bicillin],QuantBrandedDrug
+1728649,penicillin G potassium 500000 UNT/ML,ClinicalDrugComp
+1728650,penicillin G potassium 500000 UNT/ML Oral Solution,ClinicalDrug
+1728651,penicillin G potassium 250000 UNT,ClinicalDrugComp
+1728732,penicillin G potassium 250000 UNT Oral Tablet,ClinicalDrug
+1728734,penicillin G potassium 400000 UNT,ClinicalDrugComp
+1728735,penicillin G potassium 400000 UNT Oral Tablet,ClinicalDrug
+1728736,penicillin G potassium 400000 UNT Oral Tablet [Truxcillin],BrandedDrug
+1728737,penicillin G potassium 50000 UNT/ML,ClinicalDrugComp
+1728738,penicillin G potassium 50000 UNT/ML Oral Suspension,ClinicalDrug
+1728739,penicillin G benzathine 50000 UNT/ML,ClinicalDrugComp
+1728740,penicillin G benzathine 50000 UNT/ML Oral Suspension,ClinicalDrug
+1728741,penicillin G potassium 100000 UNT/ML,ClinicalDrugComp
+1728860,2 ML penicillin G procaine 600000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+1728861,penicillin G potassium 10000 UNT/ML,ClinicalDrugComp
+1728882,penicillin G potassium 10000 UNT/ML Injectable Solution,ClinicalDrug
+1728883,penicillin G sodium 10000 UNT/ML,ClinicalDrugComp
+1728884,penicillin G sodium 10000 UNT/ML Injectable Solution,ClinicalDrug
+1728885,Penicillin G Potassium 100000 UNT/ML Injectable Solution [Pfizerpen],BrandedDrug
+1728886,penicillin G benzathine 900000 UNT/ML / penicillin G procaine 300000 UNT/ML Injectable Suspension,ClinicalDrug
+1728887,penicillin G potassium 500000 UNT,ClinicalDrugComp
+1728888,penicillin G potassium 500000 UNT Oral Tablet,ClinicalDrug
+1728889,penicillin G potassium 800000 UNT,ClinicalDrugComp
+1728890,penicillin G potassium 800000 UNT Oral Tablet,ClinicalDrug
+1728891,Penicillin G Potassium 200000 UNT/ML,ClinicalDrugComp
+1728912,Penicillin G Potassium 200000 UNT/ML Injectable Solution,ClinicalDrug
+1728915,penicillin G procaine 500000 UNT/ML,ClinicalDrugComp
+1728916,penicillin G procaine 500000 UNT/ML Injectable Suspension,ClinicalDrug
+1728917,penicillin G benzathine 900000 UNT/ML / penicillin G sodium 300000 UNT/ML Injectable Suspension,ClinicalDrug
+1728918,penicillin G potassium 20000 UNT/ML Oral Solution,ClinicalDrug
+1728919,penicillin G potassium 80000 UNT/ML,ClinicalDrugComp
+1728920,penicillin G potassium 80000 UNT/ML Oral Solution,ClinicalDrug
+1728942,penicillin G procaine 600000 UNT/ML Injectable Suspension,ClinicalDrug
+1728943,penicillin G procaine 600000 UNT/ML Injectable Suspension [Wycillin],BrandedDrug
+1734533,penicillin G benzathine 1200000 UNT [Lentocilin],BrandedDrugComp
+1734534,Lentocilin Injectable Product,BrandedDoseGroup
+1734535,penicillin G Injection [Lentocilin],BrandedDrugForm
+1734536,penicillin G benzathine 1200000 UNT Injection [Lentocilin],BrandedDrug
+1831278,penicillin G Injectable Solution [Extencin],BrandedDrugForm
+1831279,penicillin G 240000 UNT/ML [Extencin],BrandedDrugComp
+1831280,penicillin G 240000 UNT/ML Injectable Solution [Extencin],BrandedDrug
+1832397,5 ML penicillin G 240000 UNT/ML Injectable Solution [Extencin],QuantBrandedDrug
+1832398,5 ML penicillin G 240000 UNT/ML Injectable Solution [Extencin] by Delbert,MarketedProduct
+19001145,penicillin G 229 MG/ML Injectable Suspension [Penidural-LA],BrandedDrug
+19001146,penicillin G benzathine 115 MG/ML Oral Solution,ClinicalDrug
+19006318,penicillin G 375 MG/ML Injectable Solution,ClinicalDrug
+19017203,penicillin G benzathine 450000 UNT/ML / penicillin G procaine 150000 UNT/ML [Bicillin],BrandedDrugComp
+19020240,penicillin G potassium 250000 UNT [Truxcillin],BrandedDrugComp
+19020301,penicillin G potassium 400000 UNT [Truxcillin],BrandedDrugComp
+19027561,50 ML penicillin G potassium 40000 UNT/ML Injection,QuantClinicalDrug
+19033597,Penicillin G Potassium 100000 UNT/ML [Pfizerpen],BrandedDrugComp
+19035413,50 ML penicillin G potassium 20000 UNT/ML Injection,QuantClinicalDrug
+19035414,50 ML penicillin G potassium 60000 UNT/ML Injection,QuantClinicalDrug
+19037558,penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML [Bicillin],BrandedDrugComp
+19037559,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 UNT/ML [Bicillin],BrandedDrugComp
+19056482,penicillin G benzathine 600000 UNT/ML [Bicillin L-A],BrandedDrugComp
+19056483,penicillin G benzathine 300000 UNT/ML [Bicillin L-A],BrandedDrugComp
+19060616,penicillin G 100000 UNT/ML Oral Suspension,ClinicalDrug
+19061625,penicillin G 100000 UNT/ML Oral Tablet,ClinicalDrug
+19079216,penicillin G 250000 UNT Oral Tablet,ClinicalDrug
+19079217,penicillin G 300000 UNT/ML Injectable Suspension,ClinicalDrug
+19082624,penicillin G 400000 UNT,ClinicalDrugComp
+19084375,penicillin G 300000 UNT/ML,ClinicalDrugComp
+19084376,penicillin G 20000 UNT/ML,ClinicalDrugComp
+19084377,penicillin G 40000 UNT/ML,ClinicalDrugComp
+19085704,penicillin G procaine 600000 UNT/ML [Wycillin],BrandedDrugComp
+19086075,penicillin G 200000 UNT,ClinicalDrugComp
+19091634,penicillin G 100000 UNT,ClinicalDrugComp
+19091636,penicillin G 50 MG/ML,ClinicalDrugComp
+19095240,penicillin G potassium 40000 UNT/ML,ClinicalDrugComp
+19095258,penicillin G potassium 20000 UNT/ML,ClinicalDrugComp
+19095753,penicillin G benzathine 115 MG/ML,ClinicalDrugComp
+19095960,penicillin G 1000000 UNT/ML,ClinicalDrugComp
+19100279,penicillin G 375 MG/ML,ClinicalDrugComp
+19101076,penicillin G 229 MG/ML,ClinicalDrugComp
+19104507,penicillin G 18 MG/ML Injectable Solution,ClinicalDrug
+19104820,penicillin G 24 MG/ML Injectable Solution,ClinicalDrug
+19104821,penicillin G 6 MG/ML Injectable Solution,ClinicalDrug
+19104822,penicillin G 12 MG/ML Injectable Solution,ClinicalDrug
+19105806,penicillin G 300000 UNT/ML Oral Suspension,ClinicalDrug
+19105807,penicillin G 45.8 MG/ML Oral Suspension,ClinicalDrug
+19106642,penicillin G 31.2 MG Oral Tablet,ClinicalDrug
+19106643,penicillin G 625 MG Oral Tablet,ClinicalDrug
+19106776,merbromin 10 MG / penicillin G 100000 UNT Oral Tablet,ClinicalDrug
+19111299,penicillin G 45.8 MG/ML,ClinicalDrugComp
+19111300,penicillin G 31.2 MG,ClinicalDrugComp
+19111301,penicillin G 625 MG,ClinicalDrugComp
+19111302,penicillin G 24 MG/ML,ClinicalDrugComp
+19111303,penicillin G 12 MG/ML,ClinicalDrugComp
+19111304,penicillin G 18 MG/ML,ClinicalDrugComp
+19111305,penicillin G 6 MG/ML,ClinicalDrugComp
+19112835,penicillin G 20000 MG/ML,ClinicalDrugComp
+19112836,penicillin G 20000 MG/ML Oral Solution,ClinicalDrug
+19114762,penicillin G 600000 MG/ML,ClinicalDrugComp
+19114763,penicillin G 600000 MG/ML Injectable Solution,ClinicalDrug
+19115065,penicillin G 229 MG/ML Injectable Suspension,ClinicalDrug
+19115169,penicillin G 1000000 UNT/ML Injectable Solution,ClinicalDrug
+19115407,penicillin G 229 MG/ML [Penidural-LA],BrandedDrugComp
+19123872,penicillin G procaine 150000 MEQ/ML,ClinicalDrugComp
+19123873,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 MEQ/ML Injectable Suspension,ClinicalDrug
+19123874,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 MEQ/ML Injectable Suspension [Bicillin],BrandedDrug
+19127537,2 ML penicillin G benzathine 900000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+19127538,1 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe [Bicillin],QuantBrandedDrug
+19127540,penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Injectable Suspension [Bicillin],BrandedDrug
+19127541,4 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+19127544,4 ML penicillin G benzathine 300000 UNT/ML / penicillin G procaine 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+19127591,penicillin G potassium 156 MG,ClinicalDrugComp
+19127592,penicillin G potassium 156 MG Oral Tablet,ClinicalDrug
+19127593,penicillin G benzathine 200000 UNT,ClinicalDrugComp
+19127594,penicillin G benzathine 200000 UNT Oral Tablet,ClinicalDrug
+19127595,penicillin G potassium 200000 UNT,ClinicalDrugComp
+19127596,penicillin G potassium 200000 UNT Oral Tablet,ClinicalDrug
+19127597,penicillin G potassium 25 MG/ML,ClinicalDrugComp
+19127598,penicillin G potassium 25 MG/ML Oral Suspension,ClinicalDrug
+19127599,penicillin G potassium 50 MG/ML,ClinicalDrugComp
+19127600,penicillin G potassium 50 MG/ML Oral Suspension,ClinicalDrug
+19127601,penicillin G potassium 313 MG,ClinicalDrugComp
+19127602,penicillin G potassium 313 MG Oral Tablet,ClinicalDrug
+19127603,penicillin G potassium 125 MG,ClinicalDrugComp
+19127604,penicillin G potassium 125 MG Oral Tablet,ClinicalDrug
+19127605,penicillin G potassium 250 MG,ClinicalDrugComp
+19127606,penicillin G potassium 250 MG Oral Tablet,ClinicalDrug
+19127607,penicillin G potassium 250000 UNT Oral Tablet [Truxcillin],BrandedDrug
+19127608,penicillin G potassium 100000 UNT/ML Injectable Solution,ClinicalDrug
+19127609,penicillin G sodium 100000 UNT/ML,ClinicalDrugComp
+19127610,penicillin G sodium 100000 UNT/ML Injectable Solution,ClinicalDrug
+19127611,penicillin G procaine 300000 UNT/ML Injectable Suspension,ClinicalDrug
+19127612,penicillin G sodium 300000 UNT/ML,ClinicalDrugComp
+19127613,penicillin G sodium 300000 UNT/ML Injectable Suspension,ClinicalDrug
+19127614,Penicillin G Potassium 20000 UNT/ML [Pfizerpen],BrandedDrugComp
+19127615,Penicillin G Potassium 20000 UNT/ML Injectable Solution [Pfizerpen],BrandedDrug
+19127616,penicillin G benzathine 600000 UNT/ML [Permapen],BrandedDrugComp
+19127617,2 ML penicillin G benzathine 600000 UNT/ML Prefilled Syringe [Permapen],QuantBrandedDrug
+19127618,penicillin G procaine 450000 UNT/ML,ClinicalDrugComp
+19127619,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 450000 UNT/ML Injectable Suspension,ClinicalDrug
+19127620,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 450000 UNT/ML [Bicillin],BrandedDrugComp
+19127621,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 450000 UNT/ML Injectable Suspension [Bicillin],BrandedDrug
+19127622,penicillin G potassium 30000 UNT/ML,ClinicalDrugComp
+19127623,penicillin G potassium 30000 UNT/ML Injectable Solution,ClinicalDrug
+19127624,penicillin G potassium 500 MG,ClinicalDrugComp
+19127625,penicillin G potassium 500 MG Oral Tablet,ClinicalDrug
+19127626,penicillin G procaine 900000 UNT/ML,ClinicalDrugComp
+19127627,penicillin G procaine 900000 UNT/ML / penicillin G sodium 300000 UNT/ML Injectable Suspension,ClinicalDrug
+19127628,penicillin G benzathine 900000 UNT/ML / penicillin G procaine 300000 UNT/ML Injectable Solution,ClinicalDrug
+19127631,1 ML penicillin G procaine 600000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+19127633,penicillin G potassium 31.3 MG/ML,ClinicalDrugComp
+19127634,penicillin G potassium 31.3 MG/ML Oral Suspension,ClinicalDrug
+19133038,"2 ML Penicillin G, Benzathine 600000 UNT/ML / Penicillin G, Procaine 600000 UNT/ML Prefilled Syringe",ClinicalDrug
+19134095,2 ML penicillin G benzathine 450000 UNT/ML / penicillin G procaine 150000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+19134096,2 ML penicillin G benzathine 450000 UNT/ML / penicillin G procaine 150000 UNT/ML Prefilled Syringe [Bicillin],QuantBrandedDrug
+19134197,penicillin G benzathine 150000 UNT/ML / penicillin G procaine 150000 MEQ/ML [Bicillin],BrandedDrugComp
+2050957,penicillin G 5000000 IU Injection by Alvogen,MarketedProduct
+2050958,penicillin G 1200000 UNT Injection [MOLDAMIN] by Korea Orphan & Essential Drug Center,MarketedProduct
+2050959,penicillin G 1200000 UNT Injection [HANALL MYCIN] by Hanall,MarketedProduct
+21024671,Penicillin G 1200000 UNT Injection,ClinicalDrug
+21024672,Penicillin G 1200000 UNT Injection [Farmaproina] Box of 1,BrandedDrugBox
+21024673,Penicillin G 441 MG/ML [Cilicaine],BrandedDrugComp
+21027485,Penicillin G 625 MG Injection [Crystapen] Box of 25 by Thornton & Ross,MarketedProduct
+21027486,Penicillin G 1200000 UNT [Extencilline],BrandedDrugComp
+21027487,Penicillin G 60 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21027488,Penicillin G 2400000 IU Injection [Extencilline] by Imported (France),MarketedProduct
+21029029,5 ML Penicillin G 1.5 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21029552,50 ML Penicillin G 12 MG/ML Injectable Solution Box of 1 by Special Order,MarketedProduct
+21034396,Penicillin G 441 MG/ML,ClinicalDrugComp
+21034397,Penicillin G 600000 UNT Injection Box of 1,ClinicalDrugBox
+21034398,Penicillin G 600000 UNT Injection [Farmaproina] Box of 1 by Imported (Spain),MarketedProduct
+21037241,Penicillin G 625 MG Injection Box of 25,ClinicalDrugBox
+21037242,Penicillin G 625 MG Injection Box of 25 by Alliance,MarketedProduct
+21037243,Penicillin G 625 MG Injection [Crystapen] Box of 25,BrandedDrugBox
+21037244,Penicillin G 2400000 UNT Injection Box of 50,ClinicalDrugBox
+21037245,Penicillin G 1200 MG,ClinicalDrugComp
+21037246,Penicillin G 1200 MG Injection Box of 25 by Alliance,MarketedProduct
+21038449,1 ML Penicillin G 1.5 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21039427,50 ML Penicillin G 24 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21039428,50 ML Penicillin G 24 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21040038,3.4 ML Penicillin G 441 MG/ML Prefilled Syringe [Cilicaine] by Imported (Australia),MarketedProduct
+21044297,Penicillin G 1200000 UNT,ClinicalDrugComp
+21044298,Penicillin G 1200000 UNT Injection Box of 1,ClinicalDrugBox
+21044299,Penicillin G 441 MG/ML Prefilled Syringe [Cilicaine],BrandedDrug
+21044300,Penicillin G 600000 UNT Injection [Farmaproina],BrandedDrug
+21047163,Penicillin G 625 MG Injection Box of 2 by A A H,MarketedProduct
+21047164,Penicillin G 600000 UNT Injection [Extencilline] Box of 50 by Imported (France),MarketedProduct
+21048260,1 ML Penicillin G 3 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21056889,Penicillin G 625 MG Injection by Genus,MarketedProduct
+21056890,Penicillin G 625 MG Injection Box of 25 by A A H,MarketedProduct
+21056891,Penicillin G 625 MG Injection [Crystapen] by Thornton & Ross,MarketedProduct
+21056892,Penicillin G 600000 UNT Injection Box of 50,ClinicalDrugBox
+21056893,Penicillin G 3 MG/ML Ophthalmic Solution,ClinicalDrug
+21056894,Penicillin G 12 MG/ML Injectable Solution Box of 50,ClinicalDrugBox
+21056895,Penicillin G 2400000 UNT Injection [Extencilline] Box of 50,BrandedDrugBox
+21056896,Penicillin G 2400000 IU Injection [Extencilline] Box of 50 by Imported (France),MarketedProduct
+21056897,Penicillin G 1200 MG Injection [Crystapen] by Thornton & Ross,MarketedProduct
+21058561,10 ML Penicillin G 1.5 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21063947,Penicillin G 441 MG/ML Prefilled Syringe Box of 5,ClinicalDrugBox
+21066744,Penicillin G 24 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21068336,5 ML Penicillin G 60 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21068529,10 ML Penicillin G 3 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21068926,50 ML Penicillin G 12 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21073868,Penicillin G 600000 UNT [Farmaproina],BrandedDrugComp
+21076656,Penicillin G 625 MG Injection Box of 2,ClinicalDrugBox
+21076657,Penicillin G 2400000 UNT,ClinicalDrugComp
+21076658,Penicillin G 2400000 UNT Injection,ClinicalDrug
+21076659,Penicillin G 6 MG/ML Ophthalmic Solution,ClinicalDrug
+21078689,50 ML Penicillin G 12 MG/ML Injectable Solution,QuantClinicalDrug
+21078690,50 ML Penicillin G 24 MG/ML Injectable Solution Box of 50 by Special Order,MarketedProduct
+21079346,3.4 ML Penicillin G 441 MG/ML Prefilled Syringe,QuantClinicalDrug
+21083548,Penicillin G Injection [Farmaproina],BrandedDrugForm
+21083549,Penicillin G 600000 UNT Injection [Farmaproina] Box of 1,BrandedDrugBox
+21086388,Penicillin G Injection [Retarpen],BrandedDrugForm
+21086389,Penicillin G 600000 UNT [Extencilline],BrandedDrugComp
+21086390,Penicillin G 600000 UNT Injection [Extencilline],BrandedDrug
+21086391,Penicillin G 600000 UNT Injection [Extencilline] Box of 50,BrandedDrugBox
+21086392,Penicillin G 1200000 UNT Injection [Extencilline] Box of 50,BrandedDrugBox
+21086393,Penicillin G 2400000 UNT Injection [Retarpen],BrandedDrug
+21086394,Penicillin G 1.5 MG/ML,ClinicalDrugComp
+21086395,Penicillin G 1.5 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21086396,Penicillin G 1200 MG Injection Box of 25 by Genus,MarketedProduct
+21088440,50 ML Penicillin G 24 MG/ML Injectable Solution Box of 1 by Special Order,MarketedProduct
+21093310,Penicillin G 1200000 IU Injection [Farmaproina] by Imported (Spain),MarketedProduct
+21096152,Penicillin G Ophthalmic Solution,ClinicalDrugForm
+21096154,Penicillin G 1200000 UNT Injection [Extencilline],BrandedDrug
+21096155,Penicillin G 2400000 UNT [Retarpen],BrandedDrugComp
+21096156,Penicillin G 2400000 UNT Injection [Retarpen] Box of 50,BrandedDrugBox
+21096157,Penicillin G 6 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21096158,Penicillin G 1200 MG Injection by Genus,MarketedProduct
+21097331,1 ML Penicillin G 60 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21098296,50 ML Penicillin G 24 MG/ML Injectable Solution by Special Order,MarketedProduct
+21098952,3.4 ML Penicillin G 441 MG/ML Prefilled Syringe [Cilicaine],QuantBrandedDrug
+21103216,Penicillin G 1200000 IU Injection [Farmaproina] Box of 1 by Imported (Spain),MarketedProduct
+21106024,Penicillin G 625 MG Injection by A A H,MarketedProduct
+21106025,Penicillin G 625 MG Injection [Crystapen] Box of 2,BrandedDrugBox
+21106026,Penicillin G 1200000 IU Injection [Extencilline] by Imported (France),MarketedProduct
+21106027,Penicillin G 1200 MG Injection Box of 25,ClinicalDrugBox
+21106028,Penicillin G 1200 MG Injection [Crystapen] Box of 25 by Thornton & Ross,MarketedProduct
+21107741,10 ML Penicillin G 3 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21108133,50 ML Penicillin G 12 MG/ML Injectable Solution Box of 50 by Special Order,MarketedProduct
+21108766,3.4 ML Penicillin G 441 MG/ML Prefilled Syringe Box of 5,QuantClinicalBox
+21113058,Penicillin G 1200000 UNT Injection [Farmaproina],BrandedDrug
+21115805,Penicillin G 625 MG Injection,ClinicalDrug
+21115806,Penicillin G 600000 UNT Injection [Extencilline] by Imported (France),MarketedProduct
+21115807,Penicillin G 2400000 IU Injection [Retarpen] Box of 50 by Imported (Austria),MarketedProduct
+21115808,Penicillin G 2400000 UNT Injection [Extencilline],BrandedDrug
+21117292,5 ML Penicillin G 3 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21117293,5 ML Penicillin G 60 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21117867,50 ML Penicillin G 24 MG/ML Injectable Solution,QuantClinicalDrug
+21125470,Penicillin G 625 MG Injection Box of 2 by Genus,MarketedProduct
+21125471,Penicillin G 12 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21125472,Penicillin G 1200 MG [Crystapen],BrandedDrugComp
+21127626,50 ML Penicillin G 12 MG/ML Injectable Solution by Special Order,MarketedProduct
+21132493,Penicillin G 1200000 UNT [Farmaproina],BrandedDrugComp
+21132494,Penicillin G 441 MG/ML Prefilled Syringe,ClinicalDrug
+21135361,Penicillin G 1200000 UNT Injection Box of 50,ClinicalDrugBox
+21135362,Penicillin G 3 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21135363,Penicillin G 1.5 MG/ML Ophthalmic Solution,ClinicalDrug
+21136540,1 ML Penicillin G 60 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21137093,10 ML Penicillin G 1.5 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21138136,3.4 ML Penicillin G 441 MG/ML Prefilled Syringe [Cilicaine] Box of 5,QuantBrandedBox
+21145243,Penicillin G 625 MG Injection Box of 25 by Genus,MarketedProduct
+21145244,Penicillin G 60 MG/ML Ophthalmic Solution,ClinicalDrug
+21145245,Penicillin G 1200 MG Injection,ClinicalDrug
+21146400,1 ML Penicillin G 6 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21146791,5 ML Penicillin G 1.5 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21146792,5 ML Penicillin G 6 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21155177,Penicillin G Injection [Extencilline],BrandedDrugForm
+21155178,Penicillin G 625 MG [Crystapen],BrandedDrugComp
+21155179,Penicillin G 625 MG Injection [Crystapen],BrandedDrug
+21155180,Penicillin G 625 MG Injection [Crystapen] Box of 2 by Thornton & Ross,MarketedProduct
+21155182,Penicillin G 3 MG/ML,ClinicalDrugComp
+21155183,Penicillin G 24 MG/ML Injectable Solution Box of 50,ClinicalDrugBox
+21155184,Penicillin G 2400000 IU Injection [Retarpen] by Imported (Austria),MarketedProduct
+21155185,Penicillin G 1200 MG Injection by Alliance,MarketedProduct
+21155186,Penicillin G 1200 MG Injection Box of 25 by A A H,MarketedProduct
+21155187,Penicillin G 1200 MG Injection [Crystapen] Box of 25,BrandedDrugBox
+21156374,1 ML Penicillin G 6 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21157331,50 ML Penicillin G 12 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21162194,Penicillin G 441 MG/ML Prefilled Syringe [Cilicaine] Box of 5,BrandedDrugBox
+21164993,Penicillin G Injection [Crystapen],BrandedDrugForm
+21164994,Penicillin G 1200000 IU Injection [Extencilline] Box of 50 by Imported (France),MarketedProduct
+21164995,Penicillin G 60 MG/ML,ClinicalDrugComp
+21164996,Penicillin G 1200 MG Injection by A A H,MarketedProduct
+21164997,Penicillin G 1200 MG Injection [Crystapen],BrandedDrug
+21166145,1 ML Penicillin G 3 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21166501,5 ML Penicillin G 3 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21171929,Penicillin G Prefilled Syringe [Cilicaine],BrandedDrugForm
+21171930,Penicillin G 600000 UNT Injection [Farmaproina] by Imported (Spain),MarketedProduct
+21174740,Penicillin G 625 MG Injection by Alliance,MarketedProduct
+21174741,Penicillin G 625 MG Injection Box of 2 by Alliance,MarketedProduct
+21174742,Penicillin G 2400000 UNT [Extencilline],BrandedDrugComp
+21175875,1 ML Penicillin G 1.5 MG/ML Ophthalmic Solution,QuantClinicalDrug
+21176276,5 ML Penicillin G 6 MG/ML Ophthalmic Solution by Special Order,MarketedProduct
+21177493,3.4 ML Penicillin G 441 MG/ML Prefilled Syringe [Cilicaine] Box of 5 by Imported (Australia),MarketedProduct
+21602841,benzylpenicillin; parenteral,Atc5th
+21602848,benzathine benzylpenicillin; parenteral,Atc5th
+21602849,procaine benzylpenicillin; parenteral,Atc5th
+21603565,benzylpenicillin; ophthalmic,Atc5th
+2903573,1.17 ML penicillin G 450 MG/ML Injection [Bicillin L-A] Box of 10,QuantBrandedBox
+2903574,1.17 ML penicillin G 450 MG/ML Injection [Bicillin L-A] Box of 5,QuantBrandedBox
+2903575,1.17 ML penicillin G 450 MG/ML Injection [Bicillin L-A],QuantBrandedDrug
+2903576,1.17 ML penicillin G 450 MG/ML Injection Box of 10,QuantClinicalBox
+2903577,1.17 ML penicillin G 450 MG/ML Injection Box of 5,QuantClinicalBox
+2903578,1.17 ML penicillin G 450 MG/ML Injection,QuantClinicalDrug
+2905297,2.3 ML penicillin G 450 MG/ML Injection [Bicillin L-A] Box of 10,QuantBrandedBox
+2905298,2.3 ML penicillin G 450 MG/ML Injection [Bicillin L-A] Box of 5,QuantBrandedBox
+2905299,2.3 ML penicillin G 450 MG/ML Injection [Bicillin L-A],QuantBrandedDrug
+2905300,2.3 ML penicillin G 450 MG/ML Injection Box of 10,QuantClinicalBox
+2905301,2.3 ML penicillin G 450 MG/ML Injection Box of 5,QuantClinicalBox
+2905302,2.3 ML penicillin G 450 MG/ML Injection,QuantClinicalDrug
+2918019,penicillin G 6000 MG Injection,ClinicalDrug
+2918020,penicillin G 6000 MG Injection [Pen G] by Sandoz,MarketedProduct
+2918021,penicillin G 6000 MG Injection [Pen G],BrandedDrug
+2918022,penicillin G 6000 MG [Pen G],BrandedDrugComp
+2918023,penicillin G 3000 MG Injection [Pen G] by Sandoz,MarketedProduct
+2918024,penicillin G 3000 MG Injection [Pen G],BrandedDrug
+2918025,penicillin G 3000 MG [Pen G],BrandedDrugComp
+2918026,penicillin G 1200 MG Injection [Pen G] by Sandoz,MarketedProduct
+2918027,penicillin G 1200 MG Injection [Pen G],BrandedDrug
+2918028,penicillin G 1200 MG [Pen G],BrandedDrugComp
+2918029,penicillin G 625 MG Injection [Pen G] by Sandoz,MarketedProduct
+2918030,penicillin G 625 MG Injection [Pen G],BrandedDrug
+2918031,penicillin G 625 MG [Pen G],BrandedDrugComp
+2918032,penicillin G Injection [Pen G],BrandedDrugForm
+35135687,1010 MG Penicillin G 400 UNT/MG Oral Granules,QuantClinicalDrug
+35140235,Penicillin G 400 UNT/MG Oral Granules [Bicillin],BrandedDrug
+35143647,Penicillin G Oral Granules [Bicillin],BrandedDrugForm
+35143958,Penicillin G 400 UNT/MG Oral Granules,ClinicalDrug
+35144698,Penicillin G 400 UNT/MG [Bicillin],BrandedDrugComp
+35145594,1000 MG Penicillin G 400 UNT/MG Oral Granules,QuantClinicalDrug
+35150370,Penicillin G 200000 UNT Injection,ClinicalDrug
+35154560,1000 MG Penicillin G 400 UNT/MG Oral Granules [Bicillin],QuantBrandedDrug
+35155196,Penicillin G 400 UNT/MG,ClinicalDrugComp
+35159309,Penicillin G Oral Granules,ClinicalDrugForm
+35406777,Penicillin G 500000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ],BrandedDrug
+35406790,Penicillin G 500000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ] Box of 1,BrandedDrugBox
+35407421,Penicillin G 240000 UNT/ML Injectable Suspension,ClinicalDrug
+35408143,Penicillin G Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ],BrandedDrugForm
+35408835,Penicillin G 500000 UNT/ML [BENZATHINE BENZYLPENICILLINE SANDOZ],BrandedDrugComp
+35409769,Penicillin G 500000 UNT/ML Injectable Suspension Box of 1,ClinicalDrugBox
+35410731,Penicillin G 240000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ] Box of 1,BrandedDrugBox
+35411054,Penicillin G 240000 UNT/ML,ClinicalDrugComp
+35411102,Penicillin G 240000 UNT/ML [BENZATHINE BENZYLPENICILLINE SANDOZ],BrandedDrugComp
+35412104,Penicillin G 240000 UNT/ML Injectable Suspension Box of 1,ClinicalDrugBox
+35412308,Penicillin G 240000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ],BrandedDrug
+35413208,2 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1 by Delbert,MarketedProduct
+35413284,4 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1 by Delbert,MarketedProduct
+35413285,4 ML Penicillin G 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+35413287,4 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1,QuantBrandedBox
+35413294,4 ML Penicillin G 300000 UNT/ML Prefilled Syringe Box of 1,QuantClinicalBox
+35413296,4 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline],QuantBrandedDrug
+35413311,5 ML Penicillin G 240000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ] Box of 1 by Sandoz,MarketedProduct
+35413369,5 ML Penicillin G 500000 UNT/ML Injectable Suspension,QuantClinicalDrug
+35413379,5 ML Penicillin G 240000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ] Box of 1,QuantBrandedBox
+35413395,5 ML Penicillin G 240000 UNT/ML Injectable Suspension,QuantClinicalDrug
+35413427,5 ML Penicillin G 240000 UNT/ML Injectable Suspension Box of 1,QuantClinicalBox
+35413434,5 ML Penicillin G 500000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ],QuantBrandedDrug
+35413458,5 ML Penicillin G 500000 UNT/ML Injectable Suspension Box of 1,QuantClinicalBox
+35413472,5 ML Penicillin G 500000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ] Box of 1,QuantBrandedBox
+35413484,5 ML Penicillin G 500000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ] Box of 1 by Sandoz,MarketedProduct
+35413502,5 ML Penicillin G 240000 UNT/ML Injectable Suspension [BENZATHINE BENZYLPENICILLINE SANDOZ],QuantBrandedDrug
+35413545,8 ML Penicillin G 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+35413546,8 ML Penicillin G 300000 UNT/ML Prefilled Syringe Box of 1,QuantClinicalBox
+35413547,8 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline],QuantBrandedDrug
+35413548,8 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1,QuantBrandedBox
+35413549,8 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1 by Delbert,MarketedProduct
+35417185,2.02 ML Penicillin G 300000 UNT/ML Prefilled Syringe Box of 1,QuantClinicalBox
+35417186,2.02 ML Penicillin G 300000 UNT/ML Prefilled Syringe,QuantClinicalDrug
+35417394,2.02 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1,QuantBrandedBox
+35417491,2.02 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline] Box of 1 by Delbert,MarketedProduct
+35417714,2.02 ML Penicillin G 300000 UNT/ML Prefilled Syringe [Extencilline],QuantBrandedDrug
+35603085,penicillin G Injection,ClinicalDrugForm
+35603086,penicillin G potassium 20000 UNT/ML Injection,ClinicalDrug
+35603087,penicillin G potassium 40000 UNT/ML Injection,ClinicalDrug
+35603088,penicillin G potassium 60000 UNT/ML Injection,ClinicalDrug
+35605820,penicillin G procaine 300000 UNT/ML [Vetripen],BrandedDrugComp
+35605821,penicillin G Injectable Suspension [Vetripen],BrandedDrugForm
+35605822,penicillin G procaine 300000 UNT/ML Injectable Suspension [Vetripen],BrandedDrug
+35746545,Penicillin G 1200 MG Injectable Solution Box of 25 by Genus,MarketedProduct
+35746546,Penicillin G 1200 MG Injectable Solution by A A H,MarketedProduct
+35746547,Penicillin G 625 MG Injectable Solution [Crystapen] by Thornton & Ross,MarketedProduct
+35746548,Penicillin G 625 MG Injectable Solution Box of 2 by A A H,MarketedProduct
+35746549,Penicillin G 625 MG Injectable Solution by Alliance,MarketedProduct
+35749842,Penicillin G 441 MG/ML Injectable Solution Box of 5,ClinicalDrugBox
+35753921,Penicillin G 600000 UNT Injectable Suspension Box of 50,ClinicalDrugBox
+35754201,Penicillin G 1200 MG Injectable Solution [Crystapen],BrandedDrug
+35754202,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 25,BrandedDrugBox
+35754933,Penicillin G 1200 MG Injectable Solution Box of 25 by Alliance,MarketedProduct
+35758332,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 2,BrandedDrugBox
+35758590,Penicillin G 441 MG/ML Injectable Solution [Cilicaine],BrandedDrug
+35759050,Penicillin G 1200 MG Injectable Solution [Crystapen] Box of 25 by Thornton & Ross,MarketedProduct
+35759051,Penicillin G 1200 MG Injectable Solution Box of 25 by A A H,MarketedProduct
+35759052,Penicillin G 625 MG Injectable Solution Box of 25 by Genus,MarketedProduct
+35762372,Penicillin G 600000 UNT Injectable Suspension Box of 1,ClinicalDrugBox
+35762530,Penicillin G 625 MG Injectable Solution [Crystapen],BrandedDrug
+35762809,Penicillin G 441 MG/ML Injectable Solution [Cilicaine] Box of 5,BrandedDrugBox
+35763263,Penicillin G 625 MG Injectable Solution Box of 2 by Genus,MarketedProduct
+35766643,Penicillin G 600000 UNT Injectable Suspension [Extencilline] Box of 50,BrandedDrugBox
+35767370,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 25 by Thornton & Ross,MarketedProduct
+35767371,Penicillin G 625 MG Injectable Solution Box of 2 by Alliance,MarketedProduct
+35767372,Penicillin G 625 MG Injectable Solution by Genus,MarketedProduct
+35770513,Penicillin G Injectable Solution [Cilicaine],BrandedDrugForm
+35770645,Penicillin G 625 MG Injectable Solution Box of 2,ClinicalDrugBox
+35770946,Penicillin G 1200 MG Injectable Solution [Crystapen] Box of 25,BrandedDrugBox
+35770947,Penicillin G 600000 UNT Injectable Suspension [Extencilline],BrandedDrug
+35771229,Penicillin G 600000 UNT Injectable Suspension [Farmaproina] Box of 1,BrandedDrugBox
+35771719,Penicillin G 1200 MG Injectable Solution by Genus,MarketedProduct
+35774787,Penicillin G Injectable Suspension [Farmaproina],BrandedDrugForm
+35774919,Penicillin G 1200 MG Injectable Solution Box of 25,ClinicalDrugBox
+35775398,Penicillin G 600000 UNT Injectable Suspension [Farmaproina],BrandedDrug
+35775834,Penicillin G 1200 MG Injectable Solution [Crystapen] by Thornton & Ross,MarketedProduct
+35775835,Penicillin G 1200 MG Injectable Solution by Alliance,MarketedProduct
+35775836,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 2 by Thornton & Ross,MarketedProduct
+35775837,Penicillin G 625 MG Injectable Solution Box of 25 by A A H,MarketedProduct
+35775838,Penicillin G 625 MG Injectable Solution Box of 25 by Alliance,MarketedProduct
+35775839,Penicillin G 625 MG Injectable Solution by A A H,MarketedProduct
+35788930,3.4 ML Penicillin G 441 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+35788931,3.4 ML Penicillin G 441 MG/ML Injectable Solution,QuantClinicalDrug
+35788932,3.4 ML Penicillin G 441 MG/ML Injectable Solution [Cilicaine],QuantBrandedDrug
+35788933,3.4 ML Penicillin G 441 MG/ML Injectable Solution [Cilicaine] Box of 5,QuantBrandedBox
+35830151,penicillin G 1000000 UNT Injection,ClinicalDrug
+35862162,penicillin G 2400 MG Injectable Solution,ClinicalDrug
+35862163,penicillin G 500 MG Injectable Solution,ClinicalDrug
+35862164,penicillin G 4800 MG Injectable Solution,ClinicalDrug
+35862165,penicillin G 4800 MG,ClinicalDrugComp
+35862166,penicillin G 960 MG Inhalation Powder,ClinicalDrug
+35862167,penicillin G 960 MG Injectable Solution,ClinicalDrug
+35862168,penicillin G 960 MG,ClinicalDrugComp
+35862169,penicillin G Inhalation Powder,ClinicalDrugForm
+36061947,penicillin G 2400000 UNT Injectable Suspension [BENZETACIL] Box of 1,BrandedDrugBox
+36061948,penicillin G 2400000 UNT [BENZETACIL],BrandedDrugComp
+36061949,penicillin G 1200000 UNT Injectable Suspension Box of 1 by Brancaster,MarketedProduct
+36061950,penicillin G 1200000 UNT Injectable Suspension by Brancaster,MarketedProduct
+36061951,penicillin G Injectable Suspension [BENZETACIL],BrandedDrugForm
+36074454,penicillin G 2400000 UNT Injectable Suspension [BENZETACIL],BrandedDrug
+36074455,penicillin G 2400000 UNT Injectable Suspension Box of 1 by Brancaster,MarketedProduct
+36074456,penicillin G 2400000 UNT Injectable Suspension Box of 1,ClinicalDrugBox
+36074457,penicillin G 2400000 UNT Injectable Suspension by Brancaster,MarketedProduct
+36221413,penicillin G Injectable Product,ClinicalDoseGroup
+36221414,penicillin G Oral Liquid Product,ClinicalDoseGroup
+36221415,penicillin G Oral Product,ClinicalDoseGroup
+36221416,penicillin G Pill,ClinicalDoseGroup
+36221417,penicillin G Topical Product,ClinicalDoseGroup
+36221989,clemizolpenicillin / penicillin G Injectable Product,ClinicalDoseGroup
+36222207,Bactracillin G Injectable Product,BrandedDoseGroup
+36225382,merbromin / penicillin G Oral Product,ClinicalDoseGroup
+36225383,merbromin / penicillin G Pill,ClinicalDoseGroup
+36228474,Permapen Injectable Product,BrandedDoseGroup
+36231776,Pfizerpen Injectable Product,BrandedDoseGroup
+36233886,Bicillin Injectable Product,BrandedDoseGroup
+36233887,Bicillin L-A Injectable Product,BrandedDoseGroup
+36234631,Aquacillin Injectable Product,BrandedDoseGroup
+36236174,Agri-Cillin Injectable Product,BrandedDoseGroup
+36238074,Combi-Pen-48 Injectable Product,BrandedDoseGroup
+36238077,Pro-Pen-G Injectable Product,BrandedDoseGroup
+36238447,Pen-Ben Injectable Product,BrandedDoseGroup
+36239233,Truxcillin Oral Product,BrandedDoseGroup
+36239234,Truxcillin Pill,BrandedDoseGroup
+36239554,Norocillin Injectable Product,BrandedDoseGroup
+36240368,Pen-Aqueous Injectable Product,BrandedDoseGroup
+36240369,Pen-G Max Injectable Product,BrandedDoseGroup
+36240375,PenJect Injectable Product,BrandedDoseGroup
+36240386,Penidural-LA Injectable Product,BrandedDoseGroup
+36242021,Wycillin Injectable Product,BrandedDoseGroup
+36247376,dihydrostreptomycin / penicillin G Injectable Product,ClinicalDoseGroup
+36247377,Quartermaster Injectable Product,BrandedDoseGroup
+36247543,novobiocin / penicillin G Injectable Product,ClinicalDoseGroup
+36247553,Bactracillin G Benzathine Injectable Product,BrandedDoseGroup
+36247586,Albadry Injectable Product,BrandedDoseGroup
+36248042,Go-dry Injectable Product,BrandedDoseGroup
+36248043,Masti-clear Injectable Product,BrandedDoseGroup
+36248188,Vetripen Injectable Product,BrandedDoseGroup
+36257265,Penicillin G 240000 UNT/ML Intramuscular Solution,ClinicalDrug
+36258159,Penicillin G 1000000 UNT Injectable Solution [Penicilline G Kela],BrandedDrug
+36259468,Penicillin G Injectable Solution [Penicilline G Kela],BrandedDrugForm
+36264114,Penicillin G 2000000 UNT,ClinicalDrugComp
+36264319,Penicillin G 240000 UNT/ML [Penadur],BrandedDrugComp
+36264929,Penicillin G 1000000 UNT Injectable Solution Box of 100,ClinicalDrugBox
+36265830,Penicillin G 2000000 UNT Injectable Solution [Penicilline G Kela] Box of 100,BrandedDrugBox
+36265831,Penicillin G 240000 UNT/ML Intramuscular Solution [Penadur],BrandedDrug
+36266271,Penicillin G 2000000 UNT Injectable Solution [Penicilline G Kela] Box of 100 by Kela,MarketedProduct
+36266864,Penicillin G 1000000 UNT [Penicilline G Kela],BrandedDrugComp
+36266865,Penicillin G 5000000 UNT [Penicilline G Kela],BrandedDrugComp
+36267504,Penicillin G 5000000 UNT Injectable Solution Box of 100,ClinicalDrugBox
+36267505,Penicillin G 2000000 UNT Injectable Solution,ClinicalDrug
+36268421,Penicillin G 1000000 UNT Injectable Solution [Penicilline G Kela] Box of 100,BrandedDrugBox
+36268422,Penicillin G 2000000 UNT Injectable Solution [Penicilline G Kela],BrandedDrug
+36270007,Penicillin G 1000000 IU Injectable Solution,ClinicalDrug
+36271361,Penicillin G 5000000 UNT Injectable Solution [Penicilline G Kela] Box of 100 by Kela,MarketedProduct
+36272051,Penicillin G Intramuscular Solution,ClinicalDrugForm
+36274811,Penicillin G Intramuscular Solution [Penadur],BrandedDrugForm
+36275131,Penicillin G 2000000 UNT Injectable Solution Box of 100,ClinicalDrugBox
+36276081,Penicillin G 5000000 UNT Injectable Solution [Penicilline G Kela] Box of 100,BrandedDrugBox
+36276082,Penicillin G 5000000 UNT Injectable Solution [Penicilline G Kela],BrandedDrug
+36276447,Penicillin G 1000000 UNT Injectable Solution [Penicilline G Kela] Box of 100 by Kela,MarketedProduct
+36277071,Penicillin G 2000000 UNT [Penicilline G Kela],BrandedDrugComp
+36279206,5 ML Penicillin G 240000 UNT/ML Intramuscular Solution,QuantClinicalDrug
+36279230,5 ML Penicillin G 240000 UNT/ML Intramuscular Solution [Penadur],QuantBrandedDrug
+36279279,5 ML Penicillin G 240000 UNT/ML Intramuscular Solution [Penadur] by Vesale,MarketedProduct
+36403500,Penicillin G 600000 UNT Injectable Solution Box of 50,ClinicalDrugBox
+36404278,Penicillin G 2400000 UNT Injectable Solution,ClinicalDrug
+36404363,Penicillin G 1200000 UNT Injectable Solution Box of 1,ClinicalDrugBox
+36404455,Penicillin G 1200000 UNT Injectable Solution [Extencilline] Box of 50,BrandedDrugBox
+36404456,Penicillin G 1200000 UNT Injectable Solution [Extencilline],BrandedDrug
+36404457,Penicillin G 600000 UNT Injectable Solution [Extencilline],BrandedDrug
+36405048,Penicillin G 2400000 UNT Injectable Solution Box of 50,ClinicalDrugBox
+36405224,Penicillin G 2400000 UNT Injectable Solution [Extencilline] Box of 50,BrandedDrugBox
+36405742,Penicillin G Injectable Solution [Extencilline],BrandedDrugForm
+36405743,Penicillin G Injectable Solution [Retarpen],BrandedDrugForm
+36406067,Penicillin G 600000 UNT Injectable Solution [Farmaproina] Box of 1,BrandedDrugBox
+36406546,Penicillin G Injectable Solution [Farmaproina],BrandedDrugForm
+36406699,Penicillin G 600000 UNT Injectable Solution Box of 1,ClinicalDrugBox
+36406782,Penicillin G 2400000 UNT Injectable Solution [Retarpen],BrandedDrug
+36407381,Penicillin G 1200000 UNT Injectable Solution Box of 50,ClinicalDrugBox
+36407560,Penicillin G 2400000 UNT Injectable Solution [Extencilline],BrandedDrug
+36407561,Penicillin G 2400000 UNT Injectable Solution [Retarpen] Box of 50,BrandedDrugBox
+36407639,Penicillin G 600000 UNT Injectable Solution [Farmaproina],BrandedDrug
+36408166,Penicillin G 600000 UNT Injectable Solution,ClinicalDrug
+36408272,Penicillin G 600000 UNT Injectable Solution [Extencilline] Box of 50,BrandedDrugBox
+36408942,Penicillin G 1200000 UNT Injectable Solution,ClinicalDrug
+36409142,Penicillin G 1200000 UNT Injectable Solution [Farmaproina] Box of 1,BrandedDrugBox
+36409143,Penicillin G 1200000 UNT Injectable Solution [Farmaproina],BrandedDrug
+36418188,100 ML Penicillin G 100000 UNT/ML Injectable Suspension Box of 10,QuantClinicalBox
+36421925,Penicillin G 100000 UNT/ML Injectable Suspension Box of 10,ClinicalDrugBox
+36421926,Penicillin G 10000000 UNT Injectable Suspension Box of 5,ClinicalDrugBox
+36780845,5 ML Penicillin G 240000 UNT/ML Injectable Solution [Penadur] Box of 1 by Vesale,MarketedProduct
+36780846,5 ML Penicillin G 240000 UNT/ML Injectable Solution [Penadur] Box of 1,QuantBrandedBox
+36780847,5 ML Penicillin G 240000 UNT/ML Injectable Solution [Penadur],QuantBrandedDrug
+36790206,Penicillin G 240000 UNT/ML Injectable Solution [Penadur] Box of 1,BrandedDrugBox
+36790207,Penicillin G 240000 UNT/ML Injectable Solution [Penadur],BrandedDrug
+36790208,Penicillin G Injectable Solution [Penadur],BrandedDrugForm
+36810661,Penicillin G 1200000 UNT Injectable Suspension [Farmaproina] Box of 1,BrandedDrugBox
+36810734,Penicillin G 2400000 UNT Injectable Suspension [Retarpen],BrandedDrug
+36810909,Penicillin G Injectable Suspension [Retarpen],BrandedDrugForm
+36811101,Penicillin G 1200000 UNT Injectable Suspension,ClinicalDrug
+36812269,Penicillin G 1200000 UNT Injectable Suspension Box of 50,ClinicalDrugBox
+36812431,Penicillin G 2400000 UNT Injectable Suspension Box of 50,ClinicalDrugBox
+36812726,Penicillin G 2400000 UNT Injectable Suspension [Extencilline],BrandedDrug
+36812792,Penicillin G 1200000 UNT Injectable Suspension [Farmaproina],BrandedDrug
+36813684,Penicillin G 2400000 UNT Injectable Suspension [Retarpen] Box of 50,BrandedDrugBox
+36813852,Penicillin G 2400000 UNT Injectable Suspension,ClinicalDrug
+36814008,Penicillin G 1200000 UNT Injectable Suspension [Extencilline] Box of 50,BrandedDrugBox
+36814105,Penicillin G 1200000 UNT Injectable Suspension [Extencilline],BrandedDrug
+36814547,Penicillin G 1200000 UNT Injectable Suspension Box of 1,ClinicalDrugBox
+36814595,Penicillin G 2400000 UNT Injectable Suspension [Extencilline] Box of 50,BrandedDrugBox
+36880443,Penicillin G 197 MG/ML,ClinicalDrugComp
+36880875,Penicillin G Injectable Suspension [Extencilline],BrandedDrugForm
+36881425,Penicillin G 35.9 MG/ML,ClinicalDrugComp
+36881679,Penicillin G 65.5 MG/ML [Retacillin],BrandedDrugComp
+36881902,Penicillin G 441 MG/ML Injection,ClinicalDrug
+36882342,Penicillin G 1000000 IU,ClinicalDrugComp
+36882343,Penicillin G 3000 MG,ClinicalDrugComp
+36882830,Penicillin G 3000 MG Injection,ClinicalDrug
+36883130,Penicillin G 65.5 MG/ML Injectable Solution [Retacillin],BrandedDrug
+36883801,Penicillin G 35.9 MG/ML Injectable Solution,ClinicalDrug
+36884270,Penicillin G 65.5 MG/ML,ClinicalDrugComp
+36884739,Penicillin G 300000 UNT/ML Prefilled Syringe,ClinicalDrug
+36884740,Penicillin G 450 MG/ML Injection,ClinicalDrug
+36885210,Penicillin G 450 MG/ML,ClinicalDrugComp
+36885719,Penicillin G 101 MG/ML Injectable Solution,ClinicalDrug
+36888137,Penicillin G 101 MG/ML,ClinicalDrugComp
+36888637,Penicillin G 59.4 MG/ML Injectable Solution,ClinicalDrug
+36890664,Penicillin G 65.5 MG/ML Injectable Solution,ClinicalDrug
+36891085,Penicillin G 203 MG/ML,ClinicalDrugComp
+36892619,Penicillin G 5000000 UNT Prefilled Syringe,ClinicalDrug
+36892620,Penicillin G 375 MG/ML Injection,ClinicalDrug
+36893099,Penicillin G 5000000 IU,ClinicalDrugComp
+36894050,Penicillin G 59.4 MG/ML,ClinicalDrugComp
+36894474,Penicillin G Injection [Bicillin L-A],BrandedDrugForm
+36894544,Penicillin G 1000000 UNT Prefilled Syringe,ClinicalDrug
+36894545,Penicillin G 203 MG/ML Injectable Solution,ClinicalDrug
+36930185,penicillin G 625 MG Injection Box of 10 by A A H,MarketedProduct
+36933776,penicillin G 625 MG Injection Box of 1 by Sandoz,MarketedProduct
+36937441,penicillin G 625 MG Injection [Crystapen],BrandedDrug
+36940489,penicillin G 625 MG Injection by Sandoz,MarketedProduct
+36944298,penicillin G 625 MG Injection [Crystapen] by Thornton & Ross,MarketedProduct
+36948690,penicillin G Injection [Crystapen],BrandedDrugForm
+36951507,penicillin G 625 MG Injection Box of 1,ClinicalDrugBox
+36952031,penicillin G 625 MG Injectable Solution by Sandoz,MarketedProduct
+36953203,penicillin G 625 MG Injection Box of 10,ClinicalDrugBox
+36954600,penicillin G 625 MG Injectable Solution Box of 1 by Sandoz,MarketedProduct
+36955301,penicillin G 625 MG Injectable Solution Box of 10 by A A H,MarketedProduct
+36967096,penicillin G 625 MG Injectable Solution Box of 10 by Sandoz,MarketedProduct
+36968761,penicillin G 625 MG Injection Box of 10 by Sandoz,MarketedProduct
+37017482,Penicillin G-containing product in parenteral dose form,ClinicalDrugForm
+37203910,Penicillin G procaine 600000 unit/mL suspension for injection,ClinicalDrug
+37205146,Penicillin G benzathine 150000 unit/mL and penicillin G procaine 150000 unit/mL suspension for injection,ClinicalDrug
+37205147,Penicillin G benzathine 900000 unit/mL and penicillin G procaine 300000 unit/mL suspension for injection,ClinicalDrug
+37205170,Penicillin G benzathine 300000 unit/mL suspension for injection,ClinicalDrug
+37205171,Penicillin G benzathine 600000 unit/mL suspension for injection,ClinicalDrug
+37205874,Penicillin G-containing product in oral dose form,ClinicalDrugForm
+37592053,Penicillin G 10000000 UNT Injectable Solution by Infectopharm,MarketedProduct
+37592054,Penicillin G 1000000 UNT Injectable Solution by Infectopharm,MarketedProduct
+37592055,Penicillin G 5000000 UNT Injectable Solution by Infectopharm,MarketedProduct
+40062127,merbromin / penicillin G Oral Tablet,ClinicalDrugForm
+40067102,Penicilling g,Ingredient
+40067103,Penicilling g 300000 UNT/ML,ClinicalDrugComp
+40067105,penicillin G Injectable Suspension [Penidural-LA],BrandedDrugForm
+40069434,penicillin G Injectable Solution [Pfizerpen],BrandedDrugForm
+40071850,Penicillin G 1000000 UNT,ClinicalDrugComp
+40071851,Penicillin G 1000000 UNT Injectable Solution,ClinicalDrug
+40071854,Penicillin G 1000000 UNT/ML Injectable Solution [Pfizerpen],BrandedDrug
+40071855,Penicillin G 10000000 UNT,ClinicalDrugComp
+40071856,Penicillin G 10000000 UNT Injectable Solution,ClinicalDrug
+40072167,Penicillin G 1200000 UNT,ClinicalDrugComp
+40072169,Penicillin G 125 MG,ClinicalDrugComp
+40072170,Penicillin G 125 MG Oral Tablet,ClinicalDrug
+40072171,Penicillin G 150000 UNT/ML,ClinicalDrugComp
+40072173,Penicillin G 150000 UNT/ML / Penicillin G 450000 UNT/ML Injectable Suspension,ClinicalDrug
+40072174,Penicillin G 150000 UNT/ML / Penicillin G 450000 UNT/ML Injectable Suspension [bicillin C-R],BrandedDrug
+40072175,Penicillin G 150000 UNT/ML Injectable Suspension,ClinicalDrug
+40072176,Penicillin G 150000 UNT/ML Injectable Suspension [bicillin C-R],BrandedDrug
+40072182,Penicillin G 156 MG,ClinicalDrugComp
+40072183,Penicillin G 156 MG Oral Tablet,ClinicalDrug
+40072190,Penicillin G 20000 UNT/ML Oral Solution,ClinicalDrug
+40072193,Penicillin G 200000 UNT Injectable Solution,ClinicalDrug
+40072194,Penicillin G 200000 UNT Oral Tablet,ClinicalDrug
+40072195,Penicillin G 2000000 UNT,ClinicalDrugComp
+40072196,Penicillin G 2000000 UNT Injectable Solution,ClinicalDrug
+40072197,Penicillin G 20000000 UNT,ClinicalDrugComp
+40072198,Penicillin G 20000000 UNT Injectable Solution,ClinicalDrug
+40072203,Penicillin G 2400000 UNT,ClinicalDrugComp
+40072208,Penicillin G 25 MG/ML,ClinicalDrugComp
+40072209,Penicillin G 25 MG/ML Oral Suspension,ClinicalDrug
+40072210,Penicillin G 250 MG,ClinicalDrugComp
+40072211,Penicillin G 250 MG Oral Tablet,ClinicalDrug
+40072220,Penicillin G 30000 UNT/ML,ClinicalDrugComp
+40072221,Penicillin G 30000 UNT/ML Injectable Solution,ClinicalDrug
+40072223,Penicillin G 300000 UNT / Penicillin G 900000 UNT Injectable Suspension,ClinicalDrug
+40072225,Penicillin G 300000 UNT/ML / Penicillin G 900000 UNT/ML Injectable Suspension,ClinicalDrug
+40072226,Penicillin G 300000 UNT/ML / Penicillin G 900000 UNT/ML Injectable Suspension [bicillin C-R],BrandedDrug
+40072227,Penicillin G 300000 UNT/ML / Penicilling g 300000 UNT/ML Injectable Suspension,ClinicalDrug
+40072229,Penicillin G 300000 UNT/ML Injectable Suspension [Bicillin L-A],BrandedDrug
+40072232,Penicillin G 3000000 UNT,ClinicalDrugComp
+40072233,Penicillin G 3000000 UNT Injectable Suspension,ClinicalDrug
+40072238,Penicillin G 31.2 MG/ML,ClinicalDrugComp
+40072239,Penicillin G 31.2 MG/ML Oral Suspension,ClinicalDrug
+40072240,Penicillin G 312 MG,ClinicalDrugComp
+40072241,Penicillin G 312 MG Oral Tablet,ClinicalDrug
+40072246,Penicillin G 40000 UNT/ML Injectable Solution,ClinicalDrug
+40072567,Penicillin G 450000 UNT/ML,ClinicalDrugComp
+40072570,Penicillin G 50 MG/ML Oral Suspension,ClinicalDrug
+40072571,Penicillin G 500 MG,ClinicalDrugComp
+40072572,Penicillin G 500 MG Oral Tablet,ClinicalDrug
+40072578,Penicillin G 500000 UNT/ML,ClinicalDrugComp
+40072579,Penicillin G 500000 UNT/ML Injectable Suspension,ClinicalDrug
+40072580,Penicillin G 500000 UNT/ML Oral Solution,ClinicalDrug
+40072581,Penicillin G 5000000 UNT,ClinicalDrugComp
+40072582,Penicillin G 5000000 UNT Injectable Solution,ClinicalDrug
+40072588,Penicillin G 60000 UNT/ML,ClinicalDrugComp
+40072589,Penicillin G 60000 UNT/ML Injectable Solution,ClinicalDrug
+40072592,Penicillin G 600000 UNT/ML,ClinicalDrugComp
+40072594,Penicillin G 600000 UNT/ML Injectable Suspension [Bicillin L-A],BrandedDrug
+40072595,Penicillin G 600000 UNT/ML Injectable Suspension [Wycillin],BrandedDrug
+40072600,Penicillin G 80000 UNT/ML,ClinicalDrugComp
+40072601,Penicillin G 80000 UNT/ML Oral Solution,ClinicalDrug
+40072602,Penicillin G 800000 UNT,ClinicalDrugComp
+40072603,Penicillin G 800000 UNT Oral Tablet,ClinicalDrug
+40072605,Penicillin G 900000 UNT/ML,ClinicalDrugComp
+40072606,penicillin G Injectable Solution,ClinicalDrugForm
+40072608,penicillin G Injectable Suspension,ClinicalDrugForm
+40072609,penicillin G Injectable Suspension [Bicillin L-A],BrandedDrugForm
+40072610,Penicillin G Injectable Suspension [Wycillin],BrandedDrugForm
+40072611,Penicillin G Injectable Suspension [bicillin C-R],BrandedDrugForm
+40072613,Penicillin G MILLION UNT Injectable Suspension,ClinicalDrug
+40072614,penicillin G Oral Solution,ClinicalDrugForm
+40072615,penicillin G Oral Suspension,ClinicalDrugForm
+40072616,penicillin G Oral Tablet,ClinicalDrugForm
+40072624,Penicillin G Potassium Injectable Solution,ClinicalDrugForm
+40072626,penicillin G Topical Ointment,ClinicalDrugForm
+40072628,"Penicillin G, Benzathine / Penicillin G, Procaine Injectable Suspension",ClinicalDrugForm
+40072631,"Penicillin G, Benzathine Oral Solution",ClinicalDrugForm
+40094637,clemizolpenicillin / penicillin G Injectable Suspension,ClinicalDrugForm
+40102987,Penicillin G / Penicillin G Injectable Suspension,ClinicalDrugForm
+40102988,Penicillin G / Penicilling g Injectable Suspension,ClinicalDrugForm
+40118262,Penicillin G 1000000 UNT/ML [Pfizerpen],BrandedDrugComp
+40118264,Penicillin G 150000 UNT/ML / Penicillin G 450000 UNT/ML [bicillin C-R],BrandedDrugComp
+40118268,Penicillin G 250000 UNT Oral Tablet [Truxicillin],BrandedDrug
+40118273,Penicillin G 300000 UNT/ML [Bicillin L-A],BrandedDrugComp
+40118334,Penicillin G 400000 UNT Oral Tablet [Truxicillin],BrandedDrug
+40118341,Penicillin G 600000 UNT/ML [Bicillin L-A],BrandedDrugComp
+40118342,Penicillin G 600000 UNT/ML [Wycillin],BrandedDrugComp
+40126959,Penicillin G / Penicillin G Injectable Suspension,ClinicalDrugForm
+40126960,Penicillin G 300000 UNT/ML / Penicillin G 300000 UNT/ML Injectable Suspension,ClinicalDrug
+40130422,Penicillin G 150000 UNT/ML / Penicillin G 150000 UNT/ML Injectable Suspension,ClinicalDrug
+40130423,Penicillin G 150000 UNT/ML / Penicillin G 150000 UNT/ML Injectable Suspension [bicillin C-R],BrandedDrug
+40130425,Penicillin G 300000 UNT/ML / Penicillin G 300000 UNT/ML Injectable Suspension,ClinicalDrug
+40132057,Penicillin G 100000 UNT/ML Injectable Solution [Pfizerpen],BrandedDrug
+40132058,Penicillin G 100000 UNT/ML [Pfizerpen],BrandedDrugComp
+40132060,Penicillin G 20000 UNT/ML Injectable Solution [Pfizerpen],BrandedDrug
+40132061,Penicillin G 20000 UNT/ML [Pfizerpen],BrandedDrugComp
+40132065,penicillin G Injectable Suspension [Bicillin],BrandedDrugForm
+40132070,"Penicillin G, Benzathine 150000 UNT/ML / Penicillin G, Procaine 150000 MEQ/ML [Bicillin]",BrandedDrugComp
+40132072,"Penicillin G, Benzathine 150000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML Injectable Suspension [Bicillin]",BrandedDrug
+40132073,"Penicillin G, Benzathine 150000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML [Bicillin]",BrandedDrugComp
+40132075,"Penicillin G, Benzathine 300000 UNT/ML / Penicillin G, Procaine 300000 UNT/ML Injectable Suspension [Bicillin]",BrandedDrug
+40132076,"Penicillin G, Benzathine 300000 UNT/ML / Penicillin G, Procaine 300000 UNT/ML [Bicillin]",BrandedDrugComp
+40141187,2 ML Penicillin G 600000 UNT/ML Prefilled Syringe,ClinicalDrug
+40141188,2 ML Penicillin G 600000 UNT/ML Prefilled Syringe [Permapen],BrandedDrug
+40141393,penicillin G Prefilled Syringe,ClinicalDrugForm
+40141394,penicillin G Prefilled Syringe [Permapen],BrandedDrugForm
+40142409,1 ML Penicillin G 600000 UNT/ML Prefilled Syringe,ClinicalDrug
+40142410,1 ML Penicillin G 600000 UNT/ML Prefilled Syringe [Bicillin L-A],BrandedDrug
+40142468,4 ML Penicillin G 600000 UNT/ML Prefilled Syringe,ClinicalDrug
+40142469,4 ML Penicillin G 600000 UNT/ML Prefilled Syringe [Bicillin L-A],BrandedDrug
+40142472,"4 ML Penicillin G, Benzathine 600000 UNT/ML / Penicillin G, Procaine 600000 UNT/ML Prefilled Syringe",ClinicalDrug
+40142473,"4 ML Penicillin G, Benzathine 600000 UNT/ML / Penicillin G, Procaine 600000 UNT/ML Prefilled Syringe [bicillin C-R]",BrandedDrug
+40142514,"2 ML Penicillin G, Benzathine 450000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML Prefilled Syringe",ClinicalDrug
+40142515,"2 ML Penicillin G, Benzathine 450000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML Prefilled Syringe [Bicillin C-R 900/300]",BrandedDrug
+40142520,"2 ML Penicillin G, Benzathine 900000 UNT/ML / Penicillin G, Procaine 300000 UNT/ML Prefilled Syringe [Bicillin C-R 900/300]",BrandedDrug
+40143380,Penicillin G Injectable Solution [Wycillin],BrandedDrugForm
+40143382,penicillin G Oral Tablet [Truxcillin],BrandedDrugForm
+40143433,Penicillin G Prefilled Syringe [Bicillin C-R 900/300],BrandedDrugForm
+40143434,penicillin G Prefilled Syringe [Bicillin L-A],BrandedDrugForm
+40143435,penicillin G Prefilled Syringe [Bicillin],BrandedDrugForm
+40143458,"Penicillin G, Benzathine 450000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML Injectable Suspension",ClinicalDrug
+40143459,"Penicillin G, Benzathine 450000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML [Bicillin C-R 900/300]",BrandedDrugComp
+40143463,"Penicillin G, Benzathine 600000 UNT/ML / Penicillin G, Procaine 600000 UNT/ML [bicillin C-R]",BrandedDrugComp
+40143474,"Penicillin G, Benzathine 900000 UNT/ML / Penicillin G, Procaine 300000 UNT/ML Injectable Solution [Bicillin C-R 900/300]",BrandedDrug
+40143482,"Penicillin G, Procaine 600000 UNT/ML Injectable Solution",ClinicalDrug
+40143483,"Penicillin G, Procaine 600000 UNT/ML Injectable Solution [Wycillin]",BrandedDrug
+40149948,penicillin G Injectable Suspension [Wycillin],BrandedDrugForm
+40155939,"Penicillin G, Benzathine 450000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML [Bicillin C-R]",BrandedDrugComp
+40156307,"2 ML Penicillin G, Benzathine 450000 UNT/ML / Penicillin G, Procaine 150000 UNT/ML Prefilled Syringe [Bicillin C-R]",BrandedDrug
+40158240,Penicillin G Prefilled Syringe [Bicillin C-R 900/300],BrandedDrugForm
+40166454,penicillin G potassium 1000000 UNT/ML,ClinicalDrugComp
+40166455,penicillin G potassium 1000000 UNT/ML Injectable Solution,ClinicalDrug
+40168093,penicillin G Injectable Suspension [PenJect],BrandedDrugForm
+40168310,penicillin G procaine 300000 UNT/ML Injectable Suspension [PenJect],BrandedDrug
+40168311,penicillin G procaine 300000 UNT/ML [PenJect],BrandedDrugComp
+40168815,penicillin G Injectable Suspension [Pen-G Max],BrandedDrugForm
+40169012,penicillin G procaine 300000 UNT/ML Injectable Suspension [Pen-G Max],BrandedDrug
+40169013,penicillin G procaine 300000 UNT/ML [Pen-G Max],BrandedDrugComp
+40172570,penicillin G procaine 300000 UNT/ML Injectable Suspension [Aquacillin],BrandedDrug
+40172575,penicillin G procaine 300000 UNT/ML [Aquacillin],BrandedDrugComp
+40173285,penicillin G Injectable Suspension [Aquacillin],BrandedDrugForm
+40222954,penicillin G potassium 1000000 UNT/ML Injectable Solution [Pfizerpen],BrandedDrug
+40222955,penicillin G potassium 1000000 UNT/ML [Pfizerpen],BrandedDrugComp
+40232191,penicillin G Injectable Suspension [Bactracillin G],BrandedDrugForm
+40232192,penicillin G Injectable Suspension [Norocillin],BrandedDrugForm
+40232394,penicillin G procaine 300000 UNT/ML Injectable Suspension [Bactracillin G],BrandedDrug
+40232395,penicillin G procaine 300000 UNT/ML Injectable Suspension [Norocillin],BrandedDrug
+40232396,penicillin G procaine 300000 UNT/ML [Bactracillin G],BrandedDrugComp
+40232397,penicillin G procaine 300000 UNT/ML [Norocillin],BrandedDrugComp
+40236077,penicillin G procaine 300000 UNT/ML Injectable Suspension [Agri-Cillin],BrandedDrug
+40236078,penicillin G procaine 300000 UNT/ML [Agri-Cillin],BrandedDrugComp
+40236516,penicillin G Injectable Suspension [Agri-Cillin],BrandedDrugForm
+40238195,penicillin G procaine 300000 UNT/ML Injectable Suspension [Pen-Aqueous],BrandedDrug
+40238196,penicillin G procaine 300000 UNT/ML [Pen-Aqueous],BrandedDrugComp
+40238409,penicillin G Injectable Suspension [Pen-Aqueous],BrandedDrugForm
+40548015,"Penicillin G procaine 600,000unit injection",PharmabiolProduct
+40548021,"Penicillin G benzathine 600,000unit/mL injection",PharmabiolProduct
+40548022,"Penicillin G benzathine 300,000unit/mL injection",PharmabiolProduct
+40550261,Penicillin g benzathine 600000unt/mL suspension,PharmabiolProduct
+40550641,Penicillin G,Substance
+40553339,"Penicillin g procaine 600,000unt/mL injection",PharmabiolProduct
+40553341,"Penicillin g benzathine 600,000unt/mL injection",PharmabiolProduct
+40553826,"Penicillin g benzathine 300,000unt/mL injection",PharmabiolProduct
+40556213,Penicillin g benzathine + penicillin g procaine 150000unt/150000unt injection,PharmabiolProduct
+40556216,Penicillin g benzathine + penicillin g procaine 900000unt/300000unt injectable,PharmabiolProduct
+40556217,Penicillin g benzathine + penicillin g procaine 900000unt/300000unt injection,PharmabiolProduct
+40716414,3.4 ML Penicillin G 441 MG/ML Injectable Suspension [Cilicaine] Box of 5,QuantBrandedBox
+40716415,3.4 ML Penicillin G 441 MG/ML Injectable Suspension [Cilicaine],QuantBrandedDrug
+40716416,3.4 ML Penicillin G 441 MG/ML Injectable Suspension Box of 5,QuantClinicalBox
+40716417,3.4 ML Penicillin G 441 MG/ML Injectable Suspension,QuantClinicalDrug
+40754849,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 25 by Thornton & Ross,MarketedProduct
+40754850,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 25,BrandedDrugBox
+40754851,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 2 by Thornton & Ross,MarketedProduct
+40754852,Penicillin G 625 MG Injectable Solution [Crystapen] Box of 2,BrandedDrugBox
+40754853,Penicillin G 625 MG Injectable Solution [Crystapen] by Thornton & Ross,MarketedProduct
+40754854,Penicillin G 625 MG Injectable Solution [Crystapen],BrandedDrug
+40754855,Penicillin G 625 MG [Crystapen],BrandedDrugComp
+40754856,Penicillin G 1200 MG Injectable Solution [Crystapen] Box of 25 by Thornton & Ross,MarketedProduct
+40754857,Penicillin G 1200 MG Injectable Solution [Crystapen] Box of 25,BrandedDrugBox
+40754858,Penicillin G 1200 MG Injectable Solution [Crystapen] by Thornton & Ross,MarketedProduct
+40754859,Penicillin G 1200 MG Injectable Solution [Crystapen],BrandedDrug
+40754860,Penicillin G 1200 MG [Crystapen],BrandedDrugComp
+40754861,Penicillin G 441 MG/ML Injectable Suspension [Cilicaine] Box of 5,BrandedDrugBox
+40754862,Penicillin G 441 MG/ML Injectable Suspension [Cilicaine],BrandedDrug
+40754863,Penicillin G 441 MG/ML Injectable Suspension Box of 5,ClinicalDrugBox
+40754864,Penicillin G Injectable Suspension [Cilicaine],BrandedDrugForm
+40754865,Penicillin G Injectable Solution [Crystapen],BrandedDrugForm
+40772650,Penicillin G,LoincComponent
+40821793,Penicillin G 144 MG/ML Injectable Solution [Bipensaar] Box of 50,BrandedDrugBox
+40822418,Penicillin G 450 MG/ML Prefilled Syringe [Megacillin],BrandedDrug
+40823040,Penicillin G 0.898 MG Vaginal Tablet [Vagicillin],BrandedDrug
+40824001,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Prefilled Syringe [Hydracillin] Box of 1,BrandedDrugBox
+40825225,Penicillin G 150 MG/ML / Streptomycin 333 MG/ML Injectable Solution [Double Mycin],BrandedDrug
+40826508,Penicillin G 5990 MG,ClinicalDrugComp
+40826509,Penicillin G 2400 MG,ClinicalDrugComp
+40828187,Penicillin G 0.299 MG / Sulfanilamide 25 MG [Sulfocillin],BrandedDrugComp
+40828188,Penicillin G 115 MG/ML [Retacillin Com],BrandedDrugComp
+40828189,Penicillin G 7.18 MG/ML [Tardocillin],BrandedDrugComp
+40828190,Penicillin G 35.9 MG/ML [Tardocillin],BrandedDrugComp
+40828191,Penicillin G 197 MG/ML [Megacillin],BrandedDrugComp
+40828192,Penicillin G 1200 MG [Jenacillin],BrandedDrugComp
+40830399,Penicillin G / Streptomycin Prefilled Syringe,ClinicalDrugForm
+40831619,Penicillin G Injectable Solution [Retacillin Com],BrandedDrugForm
+40832000,Lidocaine / Penicillin G Injectable Solution [Pendysin],BrandedDrugForm
+40834721,Penicillin G 115 MG/ML / Streptomycin 275 MG/ML Injectable Solution Box of 25,ClinicalDrugBox
+40834722,Penicillin G 15 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+40834723,Penicillin G 2400 MG Oral Tablet Box of 1,ClinicalDrugBox
+40834724,Penicillin G 719 MG Oral Tablet Box of 30,ClinicalDrugBox
+40834725,Penicillin G 100000 UNT/ML Injectable Suspension,ClinicalDrug
+40834726,Penicillin G 250 MG Injectable Solution,ClinicalDrug
+40834728,Penicillin G 59.4 MG/ML Injectable Solution Box of 6,ClinicalDrugBox
+40834729,Penicillin G 10000000 UNT Injectable Solution Box of 10,ClinicalDrugBox
+40836663,Dihydrostreptomycin 313 MG/ML / Penicillin G 150 MG/ML Injectable Solution,ClinicalDrug
+40837718,Butoforme 0.01 MG/MG / Camphor 0.03 MG/MG / Eucalyptol 0.04 MG/MG / Penicillin G 0.0599 MG/MG / phthalylsulfathiazole 0.075 MG/MG Rectal Suppository Box of 30,ClinicalDrugBox
+40841780,Penicillin G 115 MG/ML / Streptomycin 275 MG/ML Injectable Solution [Supracillin] Box of 3,BrandedDrugBox
+40841781,Penicillin G 135 MG/ML Injectable Solution [Retacillin] Box of 5,BrandedDrugBox
+40841782,Penicillin G 240000 IU/ML Injectable Solution [Retacillin Com] Box of 5,BrandedDrugBox
+40841783,Penicillin G 197 MG/ML Injectable Solution [Jenacillin],BrandedDrug
+40841784,Penicillin G 441 MG/ML Injectable Suspension [Clemizol] Box of 10,BrandedDrugBox
+40841785,Penicillin G 1200 MG Injectable Solution [Jenacillin] Box of 100,BrandedDrugBox
+40841786,Penicillin G 203 MG/ML Injectable Solution [Megacillin] Box of 50,BrandedDrugBox
+40841787,Penicillin G 625 MG Prefilled Syringe [Megacillin] Box of 1,BrandedDrugBox
+40842323,Omnadin 0.497 MG/ML / Penicillin G 197 MG/ML Prefilled Syringe [Omnacillin] Box of 1,BrandedDrugBox
+40859461,Penicillin G 240000 UNT/ML [Retacillin],BrandedDrugComp
+40859462,Penicillin G 240000 IU/ML [Retacillin Com],BrandedDrugComp
+40859463,Penicillin G 300000 UNT/ML [Megacillin],BrandedDrugComp
+40859554,Omnadin 0.497 MG/ML / Penicillin G 197 MG/ML [Omnacillin],BrandedDrugComp
+40859629,Oil of niaouli 75 MG / Penicillin G 313 MG [Gomenol Syner],BrandedDrugComp
+40861595,Penicillin G / Sulfanilamide Ophthalmic Ointment,ClinicalDrugForm
+40861596,Penicillin G Ophthalmic Ointment,ClinicalDrugForm
+40862867,Penicillin G Injectable Suspension [Clemizol],BrandedDrugForm
+40862961,Omnadin / Penicillin G Cartridge [Omnacillin],BrandedDrugForm
+40863205,Lidocaine / Penicillin G Drug Implant [Hydracillin],BrandedDrugForm
+40863792,Dihydrostreptomycin / Hesperidin / Penicillin G Topical Ointment [Pasimyxin],BrandedDrugForm
+40865884,Penicillin G 197 MG/ML / Tolycaine 20 MG/ML Injectable Solution Box of 5,ClinicalDrugBox
+40865885,Penicillin G 0.000216 MG/MG / Sulfanilamide 0.05 MG/MG Nasal Ointment,ClinicalDrug
+40865886,Penicillin G 115 MG/ML / Streptomycin 275 MG/ML Injectable Solution Box of 30,ClinicalDrugBox
+40865887,Penicillin G 150 MG/ML / Streptomycin 333 MG/ML Injectable Solution,ClinicalDrug
+40865888,Penicillin G 500000 UNT/ML Injectable Solution,ClinicalDrug
+40865889,Penicillin G 3000 MG Injectable Solution Box of 1,ClinicalDrugBox
+40865890,Penicillin G 171 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+40865891,Penicillin G 115 MG/ML Injectable Solution Box of 2,ClinicalDrugBox
+40865892,Penicillin G 1000000 UNT Oral Tablet Box of 12,ClinicalDrugBox
+40865893,Penicillin G 59.4 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+40865894,Penicillin G 441 MG/ML Injectable Suspension Box of 1,ClinicalDrugBox
+40865895,Penicillin G 299 MG/ML Injectable Solution Box of 6,ClinicalDrugBox
+40865896,Penicillin G 203 MG/ML Injectable Suspension,ClinicalDrug
+40865897,Penicillin G 450 MG/ML Injectable Solution Box of 100,ClinicalDrugBox
+40865898,Penicillin G 450 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+40865899,Penicillin G 625 MG Injectable Solution,ClinicalDrug
+40866578,Lidocaine 15 MG/ML / Penicillin G 299 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+40866579,Lidocaine 5 MG/ML / Penicillin G 144 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+40866580,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+40867789,Dihydrostreptomycin 313 MG/ML / Penicillin G 150 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+40867790,Dihydrostreptomycin 313 MG/ML / Penicillin G 150 MG/ML Prefilled Syringe Box of 25,ClinicalDrugBox
+40867917,dexpanthenol 100 MG/ML / Dihydrostreptomycin 625 MG/ML / Penicillin G 115 MG/ML / Procaine 12.5 MG/ML Injectable Solution Box of 3,ClinicalDrugBox
+40868828,Butoforme 0.0167 MG/MG / Camphor 0.0327 MG/MG / Eucalyptol 0.04 MG/MG / Penicillin G 0.0998 MG/MG / phthalylsulfathiazole 0.0833 MG/MG Rectal Suppository Box of 4,ClinicalDrugBox
+40873008,Penicillin G 0.299 MG / Sulfanilamide 25 MG Oral Tablet [Sulfocillin] Box of 20,BrandedDrugBox
+40873009,Penicillin G 115 MG/ML / Streptomycin 275 MG/ML Injectable Solution [Supracillin],BrandedDrug
+40873010,Penicillin G 150 MG/ML / Streptomycin 333 MG/ML Prefilled Syringe [Supracillin] Box of 3,BrandedDrugBox
+40873011,Penicillin G 150 MG/ML / Streptomycin 333 MG/ML Prefilled Syringe [Supracillin] Box of 1,BrandedDrugBox
+40873012,Penicillin G 5990 MG Injectable Solution [Infectocillin] Box of 10,BrandedDrugBox
+40873013,Penicillin G 15 MG/ML Injectable Solution [Double Mycin] Box of 10,BrandedDrugBox
+40873014,Penicillin G 89.8 MG/ML Oral Solution [Tardocillin] Box of 1,BrandedDrugBox
+40873015,Penicillin G 89.8 MG/ML Oral Solution [Tardocillin],BrandedDrug
+40873016,Penicillin G 3000 MG Injectable Solution [Infectocillin] Box of 10,BrandedDrugBox
+40873017,Penicillin G 135 MG/ML Injectable Solution [Retacillin Com] Box of 10,BrandedDrugBox
+40873018,Penicillin G 135 MG/ML Injectable Solution [Retacillin Com] Box of 5,BrandedDrugBox
+40873019,Penicillin G 135 MG/ML Injectable Solution [Retacillin] Box of 10,BrandedDrugBox
+40873020,Penicillin G 250 MG Injectable Solution [Jenacillin],BrandedDrug
+40873021,Penicillin G 35.9 MG/ML Oral Solution [Tardocillin] Box of 1,BrandedDrugBox
+40873022,Penicillin G 300000 UNT/ML Injectable Solution [Jenacillin] Box of 1,BrandedDrugBox
+40873023,Penicillin G 450 MG/ML Prefilled Syringe [Megacillin] Box of 50,BrandedDrugBox
+40873550,Omnadin 0.323 MG/ML / Penicillin G 115 MG/ML Injectable Solution [Omnacillin] Box of 3,BrandedDrugBox
+40875250,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Injectable Solution [Hydracillin] Box of 500,BrandedDrugBox
+40875251,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Injectable Solution [Hydracillin] Box of 100,BrandedDrugBox
+40875252,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Prefilled Syringe [Hydracillin],BrandedDrug
+40878307,Dihydrostreptomycin 313 MG/ML / Penicillin G 150 MG/ML Injectable Solution [Double Mycin] Box of 10,BrandedDrugBox
+40880387,Butoforme 0.01 MG/MG / Camphor 0.03 MG/MG / Eucalyptol 0.04 MG/MG / Penicillin G 0.0599 MG/MG / phthalylsulfathiazole 0.075 MG/MG Rectal Suppository [Rectoseptal] Box of 6,BrandedDrugBox
+40889094,Penicillin G 288 MG/ML,ClinicalDrugComp
+40889095,Penicillin G 0.00012 MG/MG,ClinicalDrugComp
+40890768,Penicillin G 229 MG/ML [Hormocillin],BrandedDrugComp
+40890769,Penicillin G 135 MG/ML [Retacillin Nj],BrandedDrugComp
+40890770,Penicillin G 135 MG/ML [Retacillin Com],BrandedDrugComp
+40890771,Penicillin G 250 MG [Jenacillin],BrandedDrugComp
+40890772,Penicillin G 288 MG/ML [Bipensaar],BrandedDrugComp
+40890773,Penicillin G 300000 UNT/ML [Jenacillin],BrandedDrugComp
+40890774,Penicillin G 800000 UNT/ML [Megacillin],BrandedDrugComp
+40890775,Penicillin G 300000 UNT/ML [Retacillin Com],BrandedDrugComp
+40891802,Dihydrostreptomycin 313 MG/ML / Penicillin G 150 MG/ML [Double Mycin],BrandedDrugComp
+40893009,Dihydrostreptomycin / Hesperidin / Penicillin G Topical Powder,ClinicalDrugForm
+40894043,Penicillin G / Streptomycin Prefilled Syringe [Supracillin],BrandedDrugForm
+40894044,Penicillin G Prefilled Syringe [Hormocillin],BrandedDrugForm
+40894045,Penicillin G Injectable Solution [Megacillin],BrandedDrugForm
+40895003,Dihydrostreptomycin / Penicillin G Prefilled Syringe [Mycipen D],BrandedDrugForm
+40895559,Benzocaine / Penicillin G / Quinine / Turpentine Rectal Suppository [Terpicillin],BrandedDrugForm
+40897059,Penicillin G 0.000216 MG/MG / Sulfanilamide 0.05 MG/MG Topical Ointment,ClinicalDrug
+40897060,Penicillin G 150 MG/ML / Streptomycin 333 MG/ML Prefilled Syringe Box of 3,ClinicalDrugBox
+40897061,Penicillin G 15 MG/ML Injectable Solution Box of 3,ClinicalDrugBox
+40897062,Penicillin G 229 MG/ML Injectable Solution Box of 3,ClinicalDrugBox
+40897063,Penicillin G 89.8 MG/ML Oral Solution Box of 1,ClinicalDrugBox
+40897064,Penicillin G 500000 UNT/ML Injectable Solution Box of 10,ClinicalDrugBox
+40897065,Penicillin G 59.9 MG Injectable Solution Box of 1,ClinicalDrugBox
+40897066,Penicillin G 0.299 MG Injectable Solution Box of 10,ClinicalDrugBox
+40897067,Penicillin G 171 MG/ML Injectable Solution Box of 100,ClinicalDrugBox
+40897068,Penicillin G 719 MG Oral Tablet Box of 10,ClinicalDrugBox
+40897069,Penicillin G 115 MG/ML Injectable Solution Box of 5,ClinicalDrugBox
+40897070,Penicillin G 1000000 UNT Oral Tablet Box of 30,ClinicalDrugBox
+40897071,Penicillin G 1500000 UNT Oral Tablet Box of 10,ClinicalDrugBox
+40897072,Penicillin G 299 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+40897073,Penicillin G 203 MG/ML Injectable Suspension Box of 1,ClinicalDrugBox
+40897074,Penicillin G 898 MG Oral Tablet Box of 12,ClinicalDrugBox
+40897075,Penicillin G 625 MG Injectable Solution Box of 25,ClinicalDrugBox
+40897076,Penicillin G 625 MG Prefilled Syringe Box of 1,ClinicalDrugBox
+40897077,Penicillin G 625 MG Injectable Solution Box of 1,ClinicalDrugBox
+40897078,Penicillin G 300000 UNT/ML Injectable Suspension Box of 10,ClinicalDrugBox
+40897727,Lidocaine 15 MG/ML / Penicillin G 299 MG/ML Prefilled Syringe Box of 15,ClinicalDrugBox
+40899934,Butoforme 0.01 MG/MG / Camphor 0.03 MG/MG / Eucalyptol 0.04 MG/MG / Penicillin G 0.0599 MG/MG / phthalylsulfathiazole 0.075 MG/MG Rectal Suppository,ClinicalDrug
+40903977,Penicillin G 0.299 MG / Sulfanilamide 25 MG Oral Tablet [Sulfocillin] Box of 250,BrandedDrugBox
+40903978,Penicillin G 0.299 MG / Sulfanilamide 25 MG Oral Tablet [Sulfocillin],BrandedDrug
+40903979,Penicillin G 150 MG/ML / Streptomycin 333 MG/ML Prefilled Syringe [Supracillin],BrandedDrug
+40903980,Penicillin G 229 MG/ML Injectable Solution [Hormocillin] Box of 3,BrandedDrugBox
+40903981,Penicillin G 240000 UNT/ML Injectable Solution [Pendysin],BrandedDrug
+40903982,Penicillin G 441 MG/ML Injectable Suspension [Clemizol],BrandedDrug
+40903983,Penicillin G 1200 MG Injectable Solution [Jenacillin] Box of 1,BrandedDrugBox
+40903984,Penicillin G 450 MG/ML Injectable Solution [Megacillin] Box of 100,BrandedDrugBox
+40903985,Penicillin G 450 MG/ML Prefilled Syringe [Megacillin] Box of 1,BrandedDrugBox
+40903986,Penicillin G 300000 UNT/ML Injectable Solution [Retacillin Com],BrandedDrug
+40903987,Penicillin G 625 MG Prefilled Syringe [Megacillin],BrandedDrug
+40903988,Penicillin G 0.00012 MG/MG Ophthalmic Ointment [Pharmacillin],BrandedDrug
+40903989,Penicillin G 958 MG/ML Prefilled Syringe [Hormocillin] Box of 3,BrandedDrugBox
+40903990,Penicillin G 958 MG/ML Prefilled Syringe [Hormocillin] Box of 1,BrandedDrugBox
+40904477,Omnadin 0.323 MG/ML / Penicillin G 115 MG/ML Injectable Solution [Omnacillin],BrandedDrug
+40906146,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Prefilled Syringe [Hydracillin] Box of 3,BrandedDrugBox
+40906147,Lidocaine 8 MG/ML / Penicillin G 450 MG/ML Injectable Solution [Bipensaar],BrandedDrug
+40921763,Penicillin G 115 MG/ML / Streptomycin 275 MG/ML [Supracillin],BrandedDrugComp
+40921764,Penicillin G 101 MG/ML [Hormocillin],BrandedDrugComp
+40921765,Penicillin G 115 MG/ML [Retacillin],BrandedDrugComp
+40921766,Penicillin G 59.4 MG/ML [Double Mycin],BrandedDrugComp
+40921767,Penicillin G 299 MG/ML [Hydracillin],BrandedDrugComp

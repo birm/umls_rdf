@@ -1,0 +1,258 @@
+concept_id,label,concept_class
+35610065,Sexual health examination,Procedure
+35610066,Armed forces health examination,Procedure
+35610552,Institution inhabitant health examination,Procedure
+36674696,Pre-retirement general health medical examination,Procedure
+36674697,Medical examination for retirement on medical grounds,Procedure
+36714958,Evaluation for workplace respirator wear,Procedure
+37154571,Child 1 month examination,Procedure
+37154572,Child 5 year examination,Procedure
+37157542,Initial assessment of newborn,Procedure
+37204555,Child 15 year examination,Procedure
+4013009,Periodic physical examination,Procedure
+4013569,"History and physical examination, immigration",Procedure
+4013570,"History and physical examination, occupation",Procedure
+4014477,"History and physical examination, sports participation",Procedure
+4014613,Child examination - 10 days,Procedure
+4014615,Child examination - 6 weeks,Procedure
+4014738,Child examination - birth,Procedure
+4014849,Child 4.5 year examination,Procedure
+4014853,Child 10 year examination,Procedure
+4014856,Child examination: appearance,Procedure
+4014857,Child examination: skin,Procedure
+4014858,Child examination: vision,Procedure
+4014859,Child examination: eyes,Procedure
+4014860,Child examination: ears,Procedure
+4014862,Child examination: femoral arteries,Procedure
+4014863,Child examination: bowel control,Procedure
+4014864,Child examination: motor tone,Procedure
+4014865,Child examination: fine motor development,Procedure
+4014866,Child examination: social development,Procedure
+4014867,Child examination: language development,Procedure
+4014880,Child 6 month examination,Procedure
+4014990,Child 3 year examination,Procedure
+4015442,Child examination: fontanel,Procedure
+4015444,Child examination: special senses,Procedure
+4015445,Child examination: speech,Procedure
+4015446,Child examination: herniae,Procedure
+4015447,Child examination: genitalia,Procedure
+4015448,Child examination: gross motor development,Procedure
+4015555,Child 3 month examination,Procedure
+4015568,Child 8 week examination,Procedure
+4016193,Child 18 month examination,Procedure
+4016194,Child 2.5 year examination,Procedure
+4016204,Child examination: general behavior,Procedure
+4016206,Child examination: feet,Procedure
+4016212,Child 1 year examination,Procedure
+4016386,"History and physical examination, pre-employment",Procedure
+4016495,Child 8-9 month examination,Procedure
+4016610,Child 3.5 year examination,Procedure
+4016618,Child examination: palate,Procedure
+4016619,Child examination: squint,Procedure
+4016620,Child examination: hearing,Procedure
+4016621,Child examination: heart,Procedure
+4016622,Child examination: hips,Procedure
+4016623,Child examination: spine,Procedure
+4016624,Child examination: testes,Procedure
+4016625,Child examination: bladder control,Procedure
+4016633,Child 21 month examination,Procedure
+4016746,Child 39 month examination,Procedure
+4016751,Child 7 month exam,Procedure
+40217329,Periodic assessment; assessing periodically by qualified personnel to determine the most appropriate combination of services and treatment (provision of the services by a medicare-enrolled opioid treatment program); list separately in (Deprecated),Hcpcs
+40217330,"Intake activities, including initial medical examination that is a complete, fully documented physical evaluation and initial assessment by a program physician or a primary care physician, or an authorized healthcare professional under the (Deprecated)",Hcpcs
+4031205,"History and physical examination, follow-up for emotional or mental disease",Procedure
+4037143,Brief examination of patient,Procedure
+4037675,Brief general examination,Procedure
+4038247,Intermediate general examination,Procedure
+4040446,"History and physical examination, insurance",Procedure
+4046782,Over 75 health check,Procedure
+4047819,Medical examination - aviation,Procedure
+40482206,Examination of learning disabled patient,Procedure
+40482245,Child 6 to 8 week examination,Procedure
+40486185,Child examination for emotional development,Procedure
+4056407,Home office postmortem,Procedure
+4057399,Pre-anesthetic assessment,Procedure
+4058761,Coroner's postmortem examination,Procedure
+4059372,Postmortem examination,Procedure
+4060357,Brief examination of respiratory system,Procedure
+4061685,Check of subcutaneous contraceptive,Procedure
+4062759,Taxi cab driver medical exam,Procedure
+4062760,Heavy goods vehicle examination,Procedure
+4062762,Food-handler medical examination,Procedure
+4062764,Attendance allowance medical,Procedure
+4062765,Mobility allowance medical,Procedure
+4062767,Examination for institution,Procedure
+4062768,Prison medical examination,Procedure
+4062769,Armed forces medical examination,Procedure
+4062771,Examination for suspected neoplasm,Procedure
+4062855,Examination for alleged rape,Procedure
+4062856,Examination for suspected cardiovascular disease,Procedure
+4062858,Individual general health examination,Procedure
+4062860,Examination for population survey,Procedure
+4062862,Private medical examination,Procedure
+4063212,General hemopoietic examination,Procedure
+4063395,Driving-related medical examination,Procedure
+4063396,Road traffic accident injury examination,Procedure
+4063398,Driver license medical examination,Procedure
+4063399,Racing driver examination,Procedure
+4063400,Shooting medical examination,Procedure
+4063401,Diving medical examination,Procedure
+4063511,Fitness to travel examination,Procedure
+4063512,Insurance claim examination,Procedure
+4063514,Child special examination,Procedure
+4063515,Adoption medical examination,Procedure
+4063516,Fostering medical examination,Procedure
+4063518,Fitness to attend school examination,Procedure
+4063520,Pre-school child health examination,Procedure
+4063521,Examination of research control,Procedure
+4064508,Special examination - general,Procedure
+4064510,Disabled driver examination,Procedure
+4064511,Public service vehicle and conductor examination,Procedure
+4064512,Boxing medical examination,Procedure
+4064513,Gliding medical examination,Procedure
+4064514,Parachuting medical examination,Procedure
+4064515,Periodic examination during employment,Procedure
+4064516,Travel cancelation examination,Procedure
+4064518,School admission medical examination,Procedure
+4064520,Police medical examination,Procedure
+4064521,University admission medical,Procedure
+4064522,Medical examination for suspected condition,Procedure
+4064523,Examination for work accident,Procedure
+4064526,Individual sight examination,Procedure
+4064528,Student health examination,Procedure
+4064635,Examination of refugee,Procedure
+4065044,Seat belt exemption examination,Procedure
+4065045,Elderly driver examination,Procedure
+4065047,Camping medical examination,Procedure
+4065050,Travel examination,Procedure
+4065051,Emigration medical examination,Procedure
+4065053,Insurance proposal examination,Procedure
+4065054,Boarding out medical examination,Procedure
+4065057,Geriatric home admission examination,Procedure
+4065058,Examination for suspected tuberculosis,Procedure
+4065060,Medicolegal examination,Procedure
+4065061,Individual health examination,Procedure
+4065062,Health examination of sub-group,Procedure
+4069847,"History and physical examination, known or suspected carrier",Procedure
+4075112,Emergency examination for triage,Procedure
+4075967,Examination for injuries,Procedure
+4077049,Child examination: sphincter,Procedure
+4077490,Adoption - adult applicant examination,Procedure
+4077525,Child examination: limbs,Procedure
+4077661,Femorals - child examination,Procedure
+4077666,Child examination: head,Procedure
+4077667,Child examination: motor,Procedure
+4081163,"History and physical examination, emergency preliminary evaluation",Procedure
+4083259,Elderly driver's insurance medical,Procedure
+4083263,Public service vehicle examination for bus company,Procedure
+4083266,Heavy goods vehicle driver examination for patient,Procedure
+4083267,Heavy goods vehicle driver examination for government department,Procedure
+4083271,Mobility allowance medical <1.5 hours ex-surgery,Procedure
+4083272,Mobility allowance medical >2.5 hours ex-surgery,Procedure
+4083880,Local authority employee medical examination,Procedure
+4083893,Basic emigration examination,Procedure
+4083894,Emigration examination with tests,Procedure
+4084035,First boarded out child examination,Procedure
+4084040,Child into care medical examination,Procedure
+4085923,Examination for accident,Procedure
+4086625,Special activities medical examination,Procedure
+4086635,Racing driver examination and blood group testing,Procedure
+4086766,Mobility allowance medical 1.5 - 2.5 hours ex-surgery,Procedure
+4086917,Child health data,Procedure
+4087121,Government department employee medical examination,Procedure
+4087262,Public service vehicle examination for patient,Procedure
+4087263,Public service vehicle examination for local authority,Procedure
+4087264,Heavy goods vehicle driver examination for local authority,Procedure
+4088016,Child examination,Procedure
+4091833,Geriatric annual health check,Procedure
+4092284,Triennial health examination,Procedure
+4094033,Child development checks,Procedure
+4094039,Well man health examination,Procedure
+4094041,Well woman health examination,Procedure
+4104747,"Physical examination, complete",Procedure
+4108633,Examination of hernial orifices,Procedure
+4132649,Well child visit,Procedure
+4132650,Child 15 month examination,Procedure
+4132651,Child 4 year examination,Procedure
+4132652,"Well child visit, 4 years",Procedure
+4132653,"Well child visit, 5 years",Procedure
+4132654,"Well child visit, 6 years",Procedure
+4132655,"Well child visit, 8 years",Procedure
+4132656,"Well child visit, 9 years",Procedure
+4132657,"Well child visit, 11 years",Procedure
+4132658,"Well child visit, 12 years",Procedure
+4132659,"Well child visit, 13 years",Procedure
+4145321,Child examination: trunk/limbs,Procedure
+4145332,Geriatric health examination,Procedure
+4145333,Adult health examination,Procedure
+4145334,Medical insurance scheme examination,Procedure
+4147944,Child examination: general/head,Procedure
+4147965,Child health medical examination,Procedure
+4149372,Child examination: motor/sphincter,Procedure
+4151779,Initial patient assessment,Procedure
+4152825,Public service vehicle driver examination,Procedure
+4152849,Life assurance - examination,Procedure
+4154619,Child examination: development,Procedure
+4155392,Life insurance examination,Procedure
+4183055,"History and physical examination, license",Procedure
+4183687,"History and physical examination, administrative",Procedure
+4194672,Specialized medical examination,Procedure
+4194763,"History and physical examination, limited",Procedure
+4200398,"Physical examination, limited",Procedure
+4216548,"History and physical examination, follow-up examination for cardiovascular disease",Procedure
+4216634,Driver visual field examination,Procedure
+4216798,Child examination: gait development,Procedure
+4223937,General appraisal of patient weight,Procedure
+4238218,Medical examination under hypnosis,Procedure
+4253751,Child examination - 2 weeks,Procedure
+4253752,"Well child visit, 6 month",Procedure
+4253753,"Well child visit, 3 years",Procedure
+4253754,"Well child visit, 7 years",Procedure
+4253755,"Well child visit, 16 years",Procedure
+4253756,"Well child visit, 18 years",Procedure
+4256496,"Well child visit, 2 week",Procedure
+4256497,"Well child visit, 2 month",Procedure
+4256498,"Well child visit, 4 month",Procedure
+4256499,"Well child visit, 9 month",Procedure
+4256500,"Well child visit, 12 month",Procedure
+4256501,"Well child visit, 18 month",Procedure
+4256502,"Well child visit, 15 years",Procedure
+4259636,"Well child visit, newborn",Procedure
+4259637,Child 4 month examination,Procedure
+4259638,"Well child visit, 15 month",Procedure
+4259639,"Well child visit, 2 years",Procedure
+4259640,"Well child visit, 10 years",Procedure
+4259641,"Well child visit, 14 years",Procedure
+4259642,"Well child visit, 17 years",Procedure
+4265746,Driver eye examination,Procedure
+4270909,"History and physical examination, premarital",Procedure
+4271192,Medical examination under sedation,Procedure
+4294330,"History and physical examination, monitoring",Procedure
+4295019,Child 2 year examination,Procedure
+4296884,"History and physical examination, school",Procedure
+4297996,"History and physical examination, known or suspected contact",Procedure
+4298288,Rape trauma treatment,Procedure
+4301122,"History and physical examination, annual for health maintenance",Procedure
+4327050,"History and physical examination, follow-up for neoplastic disease",Procedure
+44782114,"ASSMT OTR CHF, CP, ASTHMA (Deprecated)",Hcpcs
+44789514,Neonatal examination,Procedure
+44791719,Medical examination for special educational needs assessment,Procedure
+44808781,Offshore medical examination,Procedure
+44808895,Seafarer medical examination,Procedure
+44808913,Annual school medical examination,Procedure
+44809573,Child protection medical examination,Procedure
+44809942,Antipsychotic medication physical health check,Procedure
+45770447,NHS employee medical examination,Procedure
+46270590,Defense force post-deployment medical examination,Procedure
+46270591,Defense force preliminary post-deployment medical examination,Procedure
+46270592,Defense force pre-deployment medical examination,Procedure
+46270593,Defense force preliminary pre-deployment medical examination,Procedure
+46284073,Pre-bout boxing medical examination,Procedure
+46284074,Post-bout boxing medical examination,Procedure
+46284942,BUPA medical examination,Procedure
+46285097,Carer health check,Procedure
+604428,Health examination of member of underserved population,Procedure
+608677,Medical examination under Rule 34 of The Detention Centre Rules 2001,Procedure
+763782,"Well child visit, newborn less than 8 days old",Procedure
+764608,Preprocedural examination,Procedure
+765764,"Well child visit, newborn 8 to 28 days old",Procedure

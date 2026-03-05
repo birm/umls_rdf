@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1008437,Pulmonary hypertension,LoincComponent
+1009213,Cardiac arrest,LoincComponent
+1018678,Heart failure,LoincMethod
+1032138,Congestive heart failure,LoincComponent
+1034842,Chest pain,LoincComponent
+1074906,Heart failure following administration of antineoplastic agent,Disorder
+1076587,Angina due to coronary arteriosclerosis in artery of transplanted heart,Disorder
+1076588,Angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart,Disorder
+1076589,Preinfarction syndrome due to coronary arteriosclerosis in artery of transplanted heart,Disorder
+1126246,Current or prior left ventricular ejection fraction (lvef) less than or equal to 40% or documentation of moderately or severely depressed left ventricular systolic function,Hcpcs
+1244580,Tricuspid valve stenosis with regurgitation due to neuroendocrine tumor,Disorder
+1244581,Tricuspid valve regurgitation due to neuroendocrine tumor,Disorder
+1244582,Tricuspid valve stenosis due to neuroendocrine tumor,Disorder
+1245073,Acute exacerbation of chronic heart failure,Disorder
+1246434,Chronic primary thoracic pain,Disorder
+1326592,"Pulmonary hypertension, unspecified",5CharBillingCode
+1326594,Pulmonary hypertension due to left heart disease,5CharBillingCode
+1326595,Pulmonary hypertension due to lung diseases and hypoxia,5CharBillingCode
+1326596,Chronic thromboembolic pulmonary hypertension,5CharBillingCode
+1326597,Other secondary pulmonary hypertension,5CharBillingCode
+1326598,Eisenmenger's syndrome,5CharBillingCode
+1326600,Right heart failure,5CharNonbillCode
+1326601,"Right heart failure, unspecified",6CharBillingCode
+1326602,Acute right heart failure,6CharBillingCode
+1326604,Acute on chronic right heart failure,6CharBillingCode
+1326606,Biventricular heart failure,5CharBillingCode
+1326607,High output heart failure,5CharBillingCode
+1326608,End stage heart failure,5CharBillingCode
+1326773,Pulmonary hypertension of newborn,5CharBillingCode
+1340247,Exacerbation of angina pectoris,Disorder
+1340275,Exacerbation of chest pain,ClinicalFinding
+1340281,Exacerbation of chronic heart failure,Disorder
+1340289,Exacerbation of congestive heart failure,Disorder
+1340348,Exacerbation of heart failure,Disorder
+1340441,Exacerbation of preinfarction syndrome,Disorder
+1340451,Exacerbation of pulmonary hypertension,Disorder
+134159,Precordial pain,ClinicalFinding
+1348463,Fontan related circulation,5CharNonbillCode
+1348466,Other Fontan-associated condition,6CharBillingCode
+1450472,Chronic primary chest pain syndrome,Disorder
+1472048,Heart Failure,LoincComponent
+1472251,Heart Failure,Answer
+1569114,Rheumatic mitral valve diseases,3CharNonbillCode
+1569115,Rheumatic aortic valve diseases,3CharNonbillCode
+1569116,Rheumatic tricuspid valve diseases,3CharNonbillCode
+1569118,Other rheumatic heart diseases,3CharNonbillCode
+1569119,Other specified rheumatic heart diseases,4CharNonbillCode
+1569125,Angina pectoris,3CharNonbillCode
+1569139,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris,5CharNonbillCode
+1569140,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris,5CharNonbillCode
+1569150,Other pulmonary heart diseases,3CharNonbillCode
+1569152,Other diseases of pulmonary vessels,3CharNonbillCode
+1569153,Acute pericarditis,3CharNonbillCode
+1569155,Acute and subacute endocarditis,3CharNonbillCode
+1569156,Nonrheumatic mitral valve disorders,3CharNonbillCode
+1569168,Cardiac arrest,3CharNonbillCode
+1569176,Ventricular fibrillation and flutter,4CharNonbillCode
+1569178,Heart failure,3CharNonbillCode
+1569179,Systolic (congestive) heart failure,4CharNonbillCode
+1569180,Diastolic (congestive) heart failure,4CharNonbillCode
+1569423,Postprocedural cardiac insufficiency,5CharNonbillCode
+1569424,Postprocedural cardiac arrest,5CharNonbillCode
+1569433,Intraoperative cardiac arrest,5CharNonbillCode
+1569991,Rheumatoid heart disease with rheumatoid arthritis,4CharNonbillCode
+1569992,Rheumatoid heart disease with rheumatoid arthritis of shoulder,5CharNonbillCode
+1569993,Rheumatoid heart disease with rheumatoid arthritis of elbow,5CharNonbillCode
+1569994,Rheumatoid heart disease with rheumatoid arthritis of wrist,5CharNonbillCode
+1569995,Rheumatoid heart disease with rheumatoid arthritis of hand,5CharNonbillCode
+1569996,Rheumatoid heart disease with rheumatoid arthritis of hip,5CharNonbillCode
+1569997,Rheumatoid heart disease with rheumatoid arthritis of knee,5CharNonbillCode
+1569998,Rheumatoid heart disease with rheumatoid arthritis of ankle and foot,5CharNonbillCode
+1572194,Other chest pain,4CharNonbillCode
+1620328,Congestive heart failure,Answer
+195464,Epidemic pleurodynia,Disorder
+197970,Persistent fetal circulation,Disorder
+312334,Constrictive pericarditis,Disorder
+312338,Benign hypertensive heart disease with congestive heart failure,Disorder
+312383,Postpartum cardiomyopathy,Disorder
+312543,Meningococcal pericarditis,Disorder
+312728,Congenital tricuspid atresia and stenosis,Disorder
+312927,Acute cor pulmonale,Disorder
+312928,Adhesive pericarditis,Disorder
+313005,Congenital stenosis of pulmonary valve,Disorder
+313006,Congenital stenosis of mitral valve,Disorder
+313007,Congenital insufficiency of mitral valve,Disorder
+313221,Rheumatic aortic stenosis,Disorder
+313416,Syphilitic endocarditis of mitral valve,Disorder
+313500,Acute rheumatic heart disease,Disorder
+313698,Syphilitic endocarditis of tricuspid valve,Disorder
+313964,Syphilitic endocarditis of pulmonary valve,Disorder
+314368,Mitral stenosis with insufficiency,Disorder
+314378,Hypertensive heart disease with congestive heart failure,Disorder
+314967,Obscure African cardiomyopathy,Disorder
+315273,Mitral valve stenosis,Disorder
+315282,Rheumatic disease of aortic valve,Disorder
+315293,Acute idiopathic pericarditis,Disorder
+315295,Congestive rheumatic heart failure,Disorder
+315296,Preinfarction syndrome,Disorder
+315469,Coxsackie pericarditis,Disorder
+315560,Primary endomyocardial fibrosis cardiomyopathy,Disorder
+315830,Prinzmetal angina,Disorder
+315831,Chronic pulmonary heart disease,Disorder
+315832,Angina decubitus,Disorder
+316139,Heart failure,Disorder
+316994,Malignant hypertensive heart disease with congestive heart failure,Disorder
+317000,Kyphoscoliotic heart disease,Disorder
+317109,Respiratory arrest,Disorder
+317296,Rheumatic disease of pulmonary valve,Disorder
+317890,Mitral and aortic stenosis,Disorder
+318689,Syphilitic endocarditis of aortic valve,Disorder
+318776,Rheumatic mitral regurgitation,Disorder
+318856,Neonatal respiratory arrest,Disorder
+319825,Rheumatic heart disease,Disorder
+319835,Congestive heart failure,Disorder
+319843,Mitral valve disorder,Disorder
+320025,Syphilitic pericarditis,Disorder
+320115,Mitral insufficiency and aortic stenosis,Disorder
+320116,Acute pericarditis,Disorder
+320416,Diseases of mitral and aortic valves,Disorder
+320429,Rheumatic aortic stenosis with regurgitation,Disorder
+320835,Tetralogy of Fallot,Disorder
+321041,Mitral stenosis and aortic insufficiency,Disorder
+321042,Cardiac arrest,Disorder
+321307,Chronic rheumatic pericarditis,Disorder
+321318,Angina pectoris,Disorder
+321505,Gonococcal heart disease,Disorder
+321578,Acute rheumatic myocarditis,Disorder
+321586,Acute rheumatic pericarditis,Disorder
+3520384,Acute pericarditis in diseases EC NOS,Disorder
+35205793,Epidemic myalgia,4CharBillingCode
+35205825,Candidal endocarditis,4CharBillingCode
+35207636,Acute rheumatic pericarditis,4CharBillingCode
+35207637,Acute rheumatic endocarditis,4CharBillingCode
+35207638,Acute rheumatic myocarditis,4CharBillingCode
+35207639,Other acute rheumatic heart disease,4CharBillingCode
+35207640,"Acute rheumatic heart disease, unspecified",4CharBillingCode
+35207643,Rheumatic mitral stenosis,4CharBillingCode
+35207644,Rheumatic mitral insufficiency,4CharBillingCode
+35207645,Rheumatic mitral stenosis with insufficiency,4CharBillingCode
+35207646,Other rheumatic mitral valve diseases,4CharBillingCode
+35207647,"Rheumatic mitral valve disease, unspecified",4CharBillingCode
+35207648,Rheumatic aortic stenosis,4CharBillingCode
+35207649,Rheumatic aortic insufficiency,4CharBillingCode
+35207650,Rheumatic aortic stenosis with insufficiency,4CharBillingCode
+35207652,"Rheumatic aortic valve disease, unspecified",4CharBillingCode
+35207653,Rheumatic tricuspid stenosis,4CharBillingCode
+35207654,Rheumatic tricuspid insufficiency,4CharBillingCode
+35207655,Rheumatic tricuspid stenosis and insufficiency,4CharBillingCode
+35207657,"Rheumatic tricuspid valve disease, unspecified",4CharBillingCode
+35207664,Rheumatic myocarditis,4CharBillingCode
+35207665,"Rheumatic diseases of endocardium, valve unspecified",4CharBillingCode
+35207666,Chronic rheumatic pericarditis,4CharBillingCode
+35207667,"Rheumatic heart disease, unspecified",4CharBillingCode
+35207669,Hypertensive heart disease with heart failure,4CharBillingCode
+35207680,Unstable angina,4CharBillingCode
+35207681,Angina pectoris with documented spasm,4CharBillingCode
+35207682,Other forms of angina pectoris,4CharNonbillCode
+35207683,"Angina pectoris, unspecified",4CharBillingCode
+35207695,Rupture of papillary muscle as current complication following acute myocardial infarction,4CharBillingCode
+35207699,Dressler's syndrome,4CharBillingCode
+35207704,Ischemic cardiomyopathy,4CharBillingCode
+35207707,Primary pulmonary hypertension,4CharBillingCode
+35207708,Kyphoscoliotic heart disease,4CharBillingCode
+35207709,Other secondary pulmonary hypertension,4CharNonbillCode
+35207710,"Pulmonary heart disease, unspecified",4CharBillingCode
+35207711,Arteriovenous fistula of pulmonary vessels,4CharBillingCode
+35207713,Other diseases of pulmonary vessels,4CharBillingCode
+35207715,Acute nonspecific idiopathic pericarditis,4CharBillingCode
+35207716,Infective pericarditis,4CharBillingCode
+35207717,Other forms of acute pericarditis,4CharBillingCode
+35207718,"Acute pericarditis, unspecified",4CharBillingCode
+35207719,Chronic adhesive pericarditis,4CharBillingCode
+35207720,Chronic constrictive pericarditis,4CharBillingCode
+35207726,Acute and subacute infective endocarditis,4CharBillingCode
+35207727,"Acute and subacute endocarditis, unspecified",4CharBillingCode
+35207730,Nonrheumatic mitral (valve) stenosis,4CharBillingCode
+35207731,Other nonrheumatic mitral valve disorders,4CharNonbillCode
+35207732,"Nonrheumatic mitral valve disorder, unspecified",4CharBillingCode
+35207738,Nonrheumatic tricuspid (valve) stenosis,4CharBillingCode
+35207739,Nonrheumatic tricuspid (valve) insufficiency,4CharBillingCode
+35207740,Nonrheumatic tricuspid (valve) stenosis with insufficiency,4CharBillingCode
+35207743,Nonrheumatic pulmonary valve stenosis,4CharBillingCode
+35207745,Nonrheumatic pulmonary valve stenosis with insufficiency,4CharBillingCode
+35207758,Endomyocardial (eosinophilic) disease,4CharBillingCode
+35207792,"Left ventricular failure, unspecified",4CharBillingCode
+35207793,"Heart failure, unspecified",4CharBillingCode
+35207796,"Rupture of papillary muscle, not elsewhere classified",4CharBillingCode
+35209362,Mastodynia,4CharBillingCode
+35210517,Neonatal cardiac failure,4CharBillingCode
+35210519,Persistent fetal circulation,4CharNonbillCode
+35210803,Tetralogy of Fallot,4CharBillingCode
+35210805,Other congenital malformations of cardiac septa,4CharBillingCode
+35210808,Congenital pulmonary valve stenosis,4CharBillingCode
+35210811,Congenital tricuspid stenosis,4CharBillingCode
+35210818,Congenital mitral stenosis,4CharBillingCode
+35210819,Congenital mitral insufficiency,4CharBillingCode
+35210838,Stenosis of pulmonary artery,4CharBillingCode
+35211284,Chest pain on breathing,4CharBillingCode
+35211285,Precordial pain,4CharBillingCode
+35211287,Respiratory arrest,4CharBillingCode
+3521298,Heart failure with normal ejection fraction,Disorder
+3521357,Right ventricular dysfunction,Disorder
+3521424,Right ventricular diastolic dysfunction,Disorder
+3521553,Right ventricular systolic dysfunction,Disorder
+3522693,Congestive heart failure stage B,Disorder
+3522983,Coronary spasm,Undefined
+3524055,Cyclical mastalgia,Undefined
+3524252,Cardiac syndrome X,Undefined
+3524764,Cardiac arrest due to cardiac disorder,Disorder
+3527337,Congestive heart failure due to valvular disease,Disorder
+3527727,Congestive heart failure due to valvular disease,Undefined
+3529289,[D]Chest pain NOS,ContextDependent
+3536528,Angina decubitus NOS,Disorder
+3537732,Other chronic pulmonary heart disease,Disorder
+3538695,Acute pulmonary heart disease NOS,Disorder
+3540801,Chronic pulmonary heart disease NOS,Disorder
+3542759,Tricuspid leaflet fenestration,Disorder
+3543002,Congenital deformity of mitral valve annulus,Disorder
+3543003,Abnormality of mitral valve annulus,Disorder
+3543007,Ebstein's anomaly of left atrioventricular valve in functionally univentricular heart,Disorder
+3543089,Supravalvar mitral ring,Disorder
+3543095,Premature restriction of foramen ovale,Disorder
+3543324,Continuity between mitral valve and pulmonary valve,Disorder
+3543325,Discontinuity between mitral valve and aortic valve,Disorder
+3543326,Discontinuity between mitral valve and pulmonary valve,Disorder
+3544155,Thromboembolic pulmonary hypertension,Undefined
+3545329,Right ventricular diastolic dysfunction,Undefined
+3545989,Atrial standstill,Disorder
+3546174,Atrial standstill,Undefined
+3546345,Left ventricular cardiac dysfunction,Disorder
+3546346,Left ventricular cardiac dysfunction,Undefined
+3546443,Rheumatic heart disease,Undefined
+3546492,Right ventricular systolic dysfunction,Undefined
+3548004,Heart failure with reduced ejection fraction,Disorder
+3557177,Cardiorenal syndrome,Disorder
+35607996,Retinal arterial macroaneurysm with supravalvular pulmonic stenosis,Disorder
+35615052,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,Disorder
+35615053,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,Disorder
+35615055,Saddle embolus of pulmonary artery with acute cor pulmonale,Disorder
+35624311,"Pulmonary valve agenesis, tetralogy of Fallot, absence of ductus arteriosus syndrome",Disorder
+3566323,Cardiac arrest due to respiratory disorder,Disorder
+3568001,Cardiac arrest due to trauma,Disorder
+3568940,Cardiac arrest due to drowning,Disorder
+3571317,Cardiac chest pain,ClinicalFinding
+36308207,Stable angina,Answer
+36309515,Tetralogy of Fallot,Answer
+36310167,Unstable angina,Answer
+36310512,Chest pain,Answer
+36311108,Acute heart failure,Answer
+3654624,Subacute endocarditis of right side of heart due to infection,Disorder
+3654641,Atresia of mitral valve with absent atrioventricular connection,Disorder
+3654663,Acute endocarditis of right side of heart due to infection,Disorder
+3654723,Mild mitral valve stenosis,Disorder
+3654724,Moderate mitral valve stenosis,Disorder
+3654725,Severe mitral valve stenosis,Disorder
+3654726,Mild mitral valve regurgitation,Disorder
+3654727,Moderate mitral valve regurgitation,Disorder
+3654728,Severe mitral valve regurgitation,Disorder
+3654729,Mild tricuspid valve regurgitation,Disorder
+3654730,Moderate tricuspid valve regurgitation,Disorder
+3654731,Severe tricuspid valve regurgitation,Disorder
+3654789,Mild tricuspid valve stenosis,Disorder
+3654790,Moderate tricuspid valve stenosis,Disorder
+3654791,Severe tricuspid valve stenosis,Disorder
+3654792,Mild pulmonary valve stenosis,Disorder
+3654793,Moderate pulmonary valve stenosis,Disorder
+3654794,Severe pulmonary valve stenosis,Disorder
+3654816,Mild pulmonary hypertension,Disorder
+3654817,Moderate pulmonary hypertension,Disorder
+3654818,Severe pulmonary hypertension,Disorder
+3655579,Neuralgia of twelfth thoracic nerve,ClinicalFinding
+3656056,Arteriovenous fistula of pulmonary vessels following superior cavopulmonary anastomosis,Disorder
+3656077,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect and pulmonary stenosis Fallot type,Disorder
+3656079,Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis Fallot type,Disorder
+3656094,Low output heart failure due to and following Fontan operation,Disorder
+3656125,Mitral atresia with imperforate mitral valve,Disorder
+3656128,Tricuspid atresia with absent right atrioventricular connection,Disorder
+36674972,Macrothrombocytopenia with mitral valve insufficiency,Disorder
+36676841,Pain of right shoulder blade,ClinicalFinding
+36676842,Pain of left shoulder blade,ClinicalFinding
+36676843,Pain of right acromioclavicular joint,ClinicalFinding
+36676844,Pain of left acromioclavicular joint,ClinicalFinding
+36679002,"Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome",Disorder
+36684978,Coronary small artery disease,Disorder
+36685038,Pain of right sternoclavicular joint,ClinicalFinding
+36685039,Pain of left sternoclavicular joint,ClinicalFinding
+36686956,Bilateral acromioclavicular joint pain,ClinicalFinding
+36687071,Pain of bilateral sternoclavicular joints,ClinicalFinding
+36687072,Bilateral pain of shoulder blades,ClinicalFinding
+36712927,Congestive heart failure stage C due to ischemic cardiomyopathy,Disorder
+36712928,Congestive heart failure stage B due to ischemic cardiomyopathy,Disorder
+36712929,Systolic heart failure stage C due to ischemic cardiomyopathy,Disorder
+36712982,Unstable angina co-occurrent and due to coronary arteriosclerosis,Disorder
+36712983,Angina co-occurrent and due to coronary arteriosclerosis,Disorder
+36712984,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,Disorder
+36713488,Congestive heart failure stage B,Disorder
+36715093,Braddock syndrome,Disorder
+36715123,Cardiospondylocarpofacial syndrome,Disorder
+36715357,Endocarditis caused by Erysipelothrix rhusiopathiae,Disorder
+36716030,Hypogonadism with mitral valve prolapse and intellectual disability syndrome,Disorder
+36716182,Acute kidney injury due to circulatory failure,Disorder
+36716748,Neonatal cardiac failure due to decreased left ventricular output,Disorder
+36716865,Periendocarditis due to infection,Disorder
+36717359,Systolic heart failure stage B due to ischemic cardiomyopathy,Disorder
+37017187,Intraoperative cardiorespiratory arrest,Disorder
+37017266,Acute endocarditis co-occurrent with human immunodeficiency virus infection,Disorder
+37017537,Postinfective intercostal neuralgia,Disorder
+37017545,Intercostal neuralgia as late effect of trauma,Disorder
+37109597,Fallot complex with intellectual disability and growth delay syndrome,Disorder
+37109915,Infection causing subacute endocarditis,Disorder
+37109917,Idiopathic ventricular fibrillation not Brugada type,Disorder
+37110120,Keutel syndrome,Disorder
+37110330,Neonatal cardiac failure due to pulmonary overperfusion,Disorder
+37114877,Entire bulbus cordis,BodyStructure
+37155941,Chronic visceral pain in thoracic region due to disorder,Disorder
+37160670,Subacute endocarditis of left side of heart due to infection,Disorder
+37160684,Acute left sided infective endocarditis,Disorder
+37162085,FLNA-related X-linked myxomatous valvular dysplasia,Disorder
+37162416,Pulmonary artery rupture,Disorder
+37162995,Effusive constrictive pericarditis,Disorder
+37163065,Left ventricular failure with normal ejection fraction due to valvular heart disease,Disorder
+37163068,Left ventricular failure with normal ejection fraction due to coronary artery disease,Disorder
+37163069,Left ventricular failure with normal ejection fraction due to myocarditis,Disorder
+37163071,Left ventricular failure with normal ejection fraction due to cardiomyopathy,Disorder
+37163128,Myocardial dysfunction with sepsis,Disorder
+37163130,Left ventricular failure with sepsis,Disorder
+37163135,Right ventricular failure with sepsis,Disorder
+37163261,Right ventricular failure due to valvular heart disease,Disorder
+37163264,Right ventricular failure due to pulmonary disease,Disorder
+37163266,Right ventricular failure due to pulmonary vascular disease,Disorder
+37163268,Right ventricular failure due to right ventricular infarction,Disorder
+37163732,Pain associated with left breast implant,Disorder
+37163733,Pain associated with right breast implant,Disorder
+37167218,Postcardiotomy acute right ventricular failure,Disorder
+37167256,Burning chest pain,ClinicalFinding
+37169384,Preinfarction syndrome due to arteriosclerosis of nonautologous biological coronary artery bypass graft,Disorder
+37169385,Cardiac arrest during cardiac surgery,Disorder
+37169854,Fetal cardiac arrest,Disorder
+37200584,Mediastinitis,5CharBillingCode
+37200585,"Other diseases of mediastinum, not elsewhere classified",5CharBillingCode
+37206206,Arrhythmogenic bileaflet mitral prolapse,Disorder
+37206372,Mitral valve posterior leaflet prolapse,Disorder
+37208172,Resistant hypertensive disorder,Disorder
+37209632,Stable angina due to coronary arteriosclerosis,Disorder
+37309625,Acute on chronic right-sided congestive heart failure,Disorder
+37309713,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft,Disorder
+37311078,Delayed postmyocardial infarction pericarditis,Disorder
+37311948,Heart failure with mid range ejection fraction,Disorder
+37312596,Rheumatic cardiomyopathy,Disorder
+37398931,Tropical endomyocardial fibrosis,Disorder
+37398951,Cardiac arrest during surgery,Disorder
+37402489,Refractory angina pectoris,4CharBillingCode
+37402501,Nonrheumatic mitral (valve) annulus calcification,5CharBillingCode
+37402502,Other nonrheumatic mitral valve disorders,5CharBillingCode
+4000084,Premature closure of foramen ovale,Disorder
+4001098,Radiating chest pain,ClinicalFinding
+4004279,High output heart failure,Disorder
+4006165,Chronic inactive rheumatic heart disease,Disorder
+4006483,Acute myopericarditis,Disorder
+4006971,Tricuspid valve regurgitation,Disorder
+4007901,[D]Respiratory arrest,ContextDependent
+4008851,[D]Cardiorespiratory failure,ContextDependent
+4009047,Chronic left-sided heart failure,Disorder
+4009385,Acute chest pain,ClinicalFinding
+4009624,Acute bacterial endocarditis,Disorder
+4010016,Chest wall pain,ClinicalFinding
+4010017,Atypical chest pain,ClinicalFinding
+4012690,Thoracic nerve root pain,ClinicalFinding
+4013643,Pulmonary arterial hypertension,Disorder
+4014159,Chronic right-sided heart failure,Disorder
+4021482,Ischemic chest pain,ClinicalFinding
+4021672,Nipple painful,ClinicalFinding
+4023479,Acute congestive heart failure,Disorder
+40258222,Acute idiopathic pericarditis,Disorder
+4028322,Sinoatrial arrest with nodal/ventricular escape,Disorder
+40298852,Impaired left ventricular function,ClinicalFinding
+4029911,Trigger point mastalgia,ClinicalFinding
+40301077,Intractable breast pain,ClinicalFinding
+40301079,Persistent mastalgia,ClinicalFinding
+4030258,Bernheim's syndrome,Disorder
+40303886,Fluttering heart,ClinicalFinding
+40303888,Chest pain,ClinicalFinding
+40303889,Chest pain not present,ClinicalFinding
+40303890,Central chest pain,ClinicalFinding
+40303892,Precordial pain,ClinicalFinding
+40303893,Anterior chest wall pain,ClinicalFinding
+40303894,Pleuritic pain,ClinicalFinding
+40303895,Parasternal pain,ClinicalFinding
+40303896,Pleurodynia,ClinicalFinding
+40303897,Atypical chest pain,ClinicalFinding
+40303898,Retrosternal pain,ClinicalFinding
+40303899,Chest pain on exertion,ClinicalFinding
+40303900,Rib pain,ClinicalFinding
+4030676,"Prune belly syndrome with pulmonic stenosis, intellectual disability and deafness",Disorder
+4030730,Subacute constrictive pericarditis,Disorder
+40319615,Epidemic pleurisy,Disorder
+40319875,[D]Chest pain,ContextDependent
+40319876,[D]Precordial pain,ContextDependent
+40319877,Breathing painful,ContextDependent
+40319878,[D]Anterior chest wall pain,Disorder
+40319879,[D]Pleuritic pain,ContextDependent
+40319880,[D]Pleurodynia,ContextDependent
+40319886,Retrosternal pain [D],ContextDependent
+40319887,[D]Musculoskeletal chest pain,ContextDependent
+40319888,[D]Chest pain NOS,ContextDependent
+40321015,[D]Cardiorespiratory failure,ContextDependent
+40321016,Respiratory arrest [D],ContextDependent
+40321943,Tetralogy of Fallot,Disorder
+40321949,Congenital pulmonary valve stenosis,Disorder
+40321952,Tricuspid atresia,Disorder
+40323405,Acute rheumatic pericarditis,Disorder
+40323406,Acute rheumatic endocarditis,Disorder
+40323407,Acute rheumatic myocarditis,Disorder
+40323414,Rheumatic heart disease: [chronic] or [valvular],Disorder
+40323415,Rheumatic mitral valve disease (& [chronic]),Disorder
+40323417,Rheumatic mitral regurgitation,Disorder
+40323419,Rheumatic mitral disease NOS,Disorder
+40323421,Rheumatic aortic valve disease (& [chronic]),Disorder
+40323422,Rheumatic aortic stenosis,Disorder
+40323423,Rheumatic aortic regurgitation,Disorder
+40323424,Rheumatic aortic stenosis with insufficiency,Disorder
+40323427,Chronic rheumatic pericarditis,Disorder
+40323428,Diseases of mitral and aortic valves,Disorder
+40323430,Rheumatic pulmonary valve disease (& [incompetence] or [stenosis]),Disorder
+40323866,Angina,Disorder
+40323867,Unstable angina,Disorder
+40323868,Refractory angina,Disorder
+40323869,Post infarct angina,Disorder
+40323871,New onset angina,Disorder
+40323872,Stable angina,Disorder
+40323873,Angina at rest,Disorder
+40323874,Worsening angina,Disorder
+40323884,Pulmonary heart disease,Disorder
+40323885,Acute pulmonary heart disease,Disorder
+40323886,Acute cor pulmonale,Disorder
+40323888,Chronic pulmonary heart disease,Disorder
+40323891,Other pulmonary heart disease,Disorder
+40323895,Acute pericarditis,Disorder
+40323896,Subacute bacterial endocarditis,Disorder
+40323902,Constrictive pericarditis,Disorder
+40323906,Non-rheumatic mitral regurgitation,Disorder
+40323937,Ventricular fibrillation,Disorder
+40323940,Heart failure,Disorder
+40323942,Left ventricular failure,Disorder
+40325678,Pleurodynia,ClinicalFinding
+40325679,Rib pain,ClinicalFinding
+40330621,Impaired left ventricular function,ClinicalFinding
+4033160,Progressive pulmonary hypertension,Disorder
+40331668,Intractable breast pain,ClinicalFinding
+40331670,Persistent mastalgia,ClinicalFinding
+4033905,Ebstein-like malformation of mitral valve,Disorder
+4034226,Cyclical mastalgia,ClinicalFinding
+40344506,Syphilitic endocarditis,Disorder
+40345167,Rheumatic aortic valve disease (& [chronic]),ClinicalFinding
+4034807,Pain associated with breast implant,Disorder
+4035033,Pyogenic pericarditis,Disorder
+40352280,Respiratory arrest [D],ClinicalFinding
+4035327,Stricture of pulmonary vessel,Disorder
+40354381,"Rheumatic involvement of mitral and aortic valves, NEC",Disorder
+40364900,Pleurodynia,ClinicalFinding
+4037495,Dilated peripartum cardiomyopathy,Disorder
+40377566,Syphilitic endocarditis of aortic valve,Disorder
+40377572,Syphilitic myocarditis,Disorder
+40377633,Gonococcal pericarditis,Disorder
+40377634,Gonococcal endocarditis,Disorder
+40378174,Histoplasmosis with endocarditis,Disorder
+40383314,Meningococcal pericarditis,Disorder
+40383315,Meningococcal endocarditis,Disorder
+40392268,Cardiac arrest with successful resuscitation,Disorder
+40392270,Electromechanical dissociation with successful resuscitation,Disorder
+40392271,Electromechanical dissociation,Disorder
+40392294,Acute congestive heart failure,Disorder
+40392295,Chronic congestive heart failure,Disorder
+40392302,Acute heart failure,Disorder
+40392322,Rupture of papillary muscle,Disorder
+40392326,Rheumatoid carditis,Disorder
+40394100,Chronic rheumatic heart disease,Disorder
+40395701,Cardiomyopathy in the puerperium,Disorder
+40396512,Hernia of mediastinum,Disorder
+40397096,Pain of breast,Disorder
+40398342,Acute rheumatic pancarditis,Disorder
+40398350,Chronic rheumatic pericarditis,Disorder
+40398351,Adherent rheumatic pericardium,Disorder
+40398353,Chronic rheumatic mediastinopericarditis,Disorder
+40398354,Chronic rheumatic myopericarditis,Disorder
+40398360,Torn mitral leaflet,Disorder
+40398380,Rheumatic pulmonary stenosis and insufficiency,Disorder
+40398388,Rheumatic left ventricular failure,Disorder
+40398399,Malignant hypertensive heart disease with congestive cardiac failure,Disorder
+40398840,Aborted myocardial infarction,Disorder
+40398841,Unstable angina,Disorder
+40398842,Angina at rest,Disorder
+40398843,Refractory angina,Disorder
+40398844,Worsening angina,Disorder
+40398850,Microinfarction of heart,Disorder
+40398858,Status anginosus,Disorder
+40398859,Stenocardia,Disorder
+40398860,Syncope anginosa,Disorder
+40398861,Exercise-induced angina,Disorder
+40398862,Ischemic chest pain,Disorder
+40398863,Post infarct angina,Disorder
+40398864,New onset angina,Disorder
+40398865,Stable angina,Disorder
+40398866,Angina pectoris NOS,Disorder
+40398899,Cardiac syndrome X,Disorder
+40398911,Acute pulmonary heart disease,Disorder
+40398913,Acute cor pulmonale,Disorder
+40398917,Chronic pulmonary heart disease,Disorder
+40398918,Kyphoscoliotic heart disease,Disorder
+40398920,Secondary pulmonary hypertension,Disorder
+40398927,Pulmonary arteritis,Disorder
+40398928,Pulmonary vessel rupture,Disorder
+40398929,Pulmonary vessel stricture,Disorder
+40398935,Acute effusive pericarditis,Disorder
+40399278,(Acute idiopathic pericarditis) or (viral pericarditis NOS),Disorder
+40399282,(Pyopericardium) or (acute purulent pericarditis unspecified),Disorder
+40399287,Subacute bacterial endocarditis,Disorder
+40399288,Chronic bacterial endocarditis,Disorder
+40399297,Endocarditis - Q fever,Disorder
+40399331,Adhesive pericarditis,Disorder
+40399335,Concato's disease,Disorder
+40399340,Pericardial effusion - acute,Disorder
+40399351,Mitral cusp prolapse,Disorder
+40399390,Restrictive cardiomyopathy with endomyocardial fibrosis,Disorder
+40400216,Rheumatic carditis,Disorder
+40401056,[D]Painful respiration NOS,ContextDependent
+40401066,[D]Retrosternal chest pain,ContextDependent
+40401067,[D]Central chest pain,ContextDependent
+40401068,[D]Chest pain NOS,ContextDependent
+40403695,Eisenmenger's complex,Disorder
+40403999,Tricuspid atresia,Disorder
+40404007,Parachute malformation of mitral valve,Disorder
+40405629,(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain),Disorder
+40406684,Neonatal cardiac failure,Disorder
+4040820,Rheumatic disease of mitral AND aortic valves,Disorder
+4041343,Cardiac arrest following obstetric procedure,Disorder
+40417752,Supernumerary cusps of mitral valve,Disorder
+40426728,American histoplasmosis with endocarditis,Disorder
+40429281,Congenital mitral regurgitation,Disorder
+40429358,Cardiorespiratory arrest,Disorder
+40431284,Ventricular flutter-fibrillation,Disorder
+40436948,Angina at rest,Disorder
+40436950,Unstable angina,Disorder
+4044396,Intercostal post-herpetic neuralgia,Disorder
+4044411,Abdominal cutaneous nerve entrapment syndrome,Disorder
+40444929,Mastalgia,ClinicalFinding
+4045424,Pleuropericardial chest pain,ClinicalFinding
+40454259,Rheumatic mitral valve changes,ClinicalFinding
+40454273,Tricuspid regurgitation,Disorder
+40455418,Asystole,ClinicalFinding
+4047088,Left ventricular systolic dysfunction,Disorder
+4047527,Mitral valve stenosis and regurgitation,Disorder
+4047840,Mastalgia of puberty,ClinicalFinding
+40479192,Chronic systolic heart failure,Disorder
+40479576,Chronic diastolic heart failure,Disorder
+4048042,Congenital atresia of mitral valve,Disorder
+4048055,Serofibrinous pericarditis,Disorder
+40480602,Acute on chronic systolic heart failure,Disorder
+40480603,Acute systolic heart failure,Disorder
+40481042,Acute diastolic heart failure,Disorder
+40481043,Acute on chronic diastolic heart failure,Disorder
+40482857,Cardiorenal syndrome,Disorder
+40482858,Pulmonary arterial hypertension associated with portal hypertension,Disorder
+40485490,Acute postthoracotomy pain syndrome,ClinicalFinding
+40486055,Continuity between mitral valve and pulmonary valve,Disorder
+40486056,Discontinuity between mitral valve and aortic valve,Disorder
+40486057,Discontinuity between mitral valve and pulmonary valve,Disorder
+40486225,Hypoplasia of mitral valve annulus,Disorder
+40486554,Congenital midvalvar ring of mitral leaflet,Disorder
+40486627,Stenosis of right pulmonary artery,Disorder
+40486933,Heart failure with normal ejection fraction,Disorder
+40487022,Congenital stenosis of pulmonary artery,Disorder
+40487038,Congenital mass of mitral leaflet,Disorder
+40487158,Diffuse stenosis of left pulmonary artery,Disorder
+40487195,Diffuse stenosis of right pulmonary artery,Disorder
+40487383,Premature restriction of foramen ovale,Disorder
+40487572,Supravalvar pulmonary trunk stenosis,Disorder
+40487668,Single stenosis of left pulmonary artery,Disorder
+40488027,Multiple stenoses of left pulmonary artery,Disorder
+40488028,Multiple stenoses of right pulmonary artery,Disorder
+40488032,Absence of primary mitral chordae tendinae,Disorder
+40488060,Single stenosis of right pulmonary artery,Disorder
+40488497,Mitral valve prolapse,Disorder
+40489373,Tricuspid leaflet fenestration,Disorder
+40489595,Acute rheumatic myocarditis,Disorder
+40489995,Congenital deformity of mitral valve annulus,Disorder
+40490010,Stenosis of left pulmonary artery,Disorder
+40490938,Abnormality of mitral valve annulus,Disorder
+40491968,Thickened mitral leaflet,Disorder
+40491977,Deficiency of mitral leaflet,Disorder
+40491995,Multiple mitral papillary muscles with hammock valve,Disorder
+40492953,Absence of mitral chordae tendinae,Disorder
+40493243,Eisenmenger's syndrome,Disorder
+40493417,Ebstein's anomaly of left atrioventricular valve in functionally univentricular heart,Disorder
+40493444,Congenital billowing of mitral valve leaflet,Disorder
+40493461,Congenital stenosis of pulmonary artery,Disorder
+40493473,Fenestration of mitral leaflet,Disorder
+4049524,Scapulalgia,ClinicalFinding
+40545293,Left ventricular systolic dysfunction,Disorder
+40545713,Left ventricular systolic dysfunction,Disorder
+40545765,Chest wall pain,ClinicalFinding
+40546241,Mastalgia of puberty,Disorder
+40546674,Chest wall pain,ClinicalFinding
+40547790,"Acute rheumatic heart disease, NOS",Disorder
+40558800,Lutembacher's anomaly,Disorder
+4056719,Fibrosis of mediastinum,Disorder
+40569132,Cardiac arrest,Disorder
+40569920,Acute idiopathic pericarditis,Disorder
+40572203,Left ventricular diastolic dysfunction,Disorder
+4057759,Rheumatic tricuspid valve failure,Disorder
+40584044,Rheumatic tricuspid valve stenosis with regurgitation,Disorder
+4059025,Parasternal pain,ClinicalFinding
+4059915,Fluttering heart,ClinicalFinding
+4059916,Chest pain not present,ContextDependent
+4060060,Costal margin chest pain,ClinicalFinding
+4060316,Central chest pain,ClinicalFinding
+4060317,Anterior chest wall pain,ClinicalFinding
+4061917,Acute bacterial pericarditis,Disorder
+40642062,"Other acute rheumatic heart disease, NEC",Disorder
+4066258,Breastfeeding painful,ClinicalFinding
+4067471,Acute fibrinous pericarditis,Disorder
+4068938,Syncope anginosa,Disorder
+4069096,Lutembacher's syndrome,Disorder
+4069316,Clavicle pain,ClinicalFinding
+4069712,Acute pleuropericarditis,Disorder
+4070297,Pentalogy of Fallot,Disorder
+4070323,Acute effusive pericarditis,Disorder
+4070798,Supernumerary cusps of the mitral valve,Disorder
+4070916,Fallot's trilogy,Disorder
+4070926,Fusion of mitral valve cusps,Disorder
+4071283,Acute benign pericarditis,Disorder
+4071869,Congenital cardiac failure,Disorder
+4072086,Acute bloody pericarditis,Disorder
+4077129,Pulmonary arteritis,Disorder
+4077195,Respiratory arrest preceding cardiac arrest,Disorder
+4078214,Rheumatic heart valve stenosis,Disorder
+4078531,Status anginosus,Disorder
+4079296,Sepsis-associated right ventricular failure,Disorder
+4079695,Sepsis-associated left ventricular failure,Disorder
+4080593,Syphilitic coronary artery disease,Disorder
+4080898,Sepsis-associated myocardial dysfunction,Disorder
+4081038,Pulmonary hypertension with extreme obesity,Disorder
+4081039,Pulmonary hypertension with occult mitral stenosis,Disorder
+4081040,Facultative pulmonary hypertension with shunt at atrial level,Disorder
+4081384,Classical histoplasmosis mediastinal fibrosis,Disorder
+4082452,Painful lactation,ClinicalFinding
+4083763,Sore nipple,ClinicalFinding
+4085758,Retraction of mediastinum,Disorder
+4087075,Purulent endocarditis,Disorder
+4088210,Sinus arrest with junctional escape,Disorder
+4088352,Sinus arrest with atrial escape,Disorder
+4090559,Intercostal neuralgia,ClinicalFinding
+4091311,Listerial endocarditis,Disorder
+4091446,Sinus arrest with ventricular escape,Disorder
+4092930,Musculoskeletal chest pain,ClinicalFinding
+4092936,Ischemic myocardial dysfunction,Disorder
+4093993,Cardiorespiratory failure during AND/OR resulting from a procedure,Disorder
+4094054,Stunned myocardium,Disorder
+4094055,Hibernating myocardium,Disorder
+4096252,Impending infarction,Disorder
+4100146,Overriding mitral valve,Disorder
+4100148,Double orifice of mitral valve,Disorder
+4100149,Accessory tissue on mitral leaflet,Disorder
+4100150,Absent mitral papillary muscle,Disorder
+4100151,Hypoplastic mitral papillary muscle,Disorder
+4100869,Supramitral left atrial ring,Disorder
+4100879,Fused tricuspid papillary muscle,Disorder
+4100880,Mitral leaflet abnormality,Disorder
+4100882,Absent mitral leaflets,Disorder
+4101034,Tricuspid leaflet dysplasia,Disorder
+4101165,Mitral valve dysplasia,Disorder
+4101166,Mitral leaflet dysplasia,Disorder
+4101167,Ebstein-like downward displacement of mitral valve,Disorder
+4101168,Mitral papillary muscle abnormality,Disorder
+4101169,Fused mitral papillary muscles,Disorder
+4101178,Right atrioventricular valve regurgitation,Disorder
+4101186,Left atrioventricular valve regurgitation,Disorder
+4101481,Anterior leaflet of mitral valve attached to septum,Disorder
+4101482,Mitral chordae tendinae too short,Disorder
+4101483,Mitral chordae tendinae too long,Disorder
+4101606,Right atrioventricular valve atresia,Disorder
+4101614,Ebstein's anomaly of left atrioventricular valve,Disorder
+4101618,Tetralogy of Fallot with pulmonary stenosis,Disorder
+4101619,Tetralogy of Fallot with atresia of pulmonary valve,Disorder
+4101620,Ventricular septal defect in Fallot's tetralogy,Disorder
+4102864,Dilation of mitral annulus,Disorder
+4102865,Straddling mitral valve,Disorder
+4102866,Abnormality of mitral chordae tendinae,Disorder
+4102867,Arcade abnormality of mitral chordae tendinae,Disorder
+4102999,Imperforate right atrioventricular valve,Disorder
+4103131,Dextraposition of aorta in Fallot's tetralogy,Disorder
+4103187,Pulmonary valve vegetations,Disorder
+4103188,Tricuspid valve lesion,Disorder
+4103288,Acute purulent pericarditis,Disorder
+4103319,Aortic valve vegetations,Disorder
+4103448,Low output heart failure,Disorder
+4103516,Rheumatoid carditis,Disorder
+4104253,Pneumopyopericardium,Disorder
+4106274,Neonatal cardiac arrest,Disorder
+4108085,Rheumatic tricuspid stenosis and insufficiency,Disorder
+4108086,Other specified chronic rheumatic heart disease,Disorder
+4108165,Aortic valve fibrosis,Disorder
+4108166,Paraprosthetic mitral regurgitation,Disorder
+4108168,Rheumatic mitral valve leaflet changes,Disorder
+4108170,Mitral valve annular calcification,Disorder
+4108215,Coronary thrombosis not resulting in myocardial infarction,Disorder
+4108220,Rupture of papillary muscle as current complication following acute myocardial infarction,Disorder
+4108221,Other chronic pulmonary heart disease NOS,Disorder
+4108223,Acute pericarditis caused by human coxsackievirus,Disorder
+4108227,Acute myocarditis - tuberculous,Disorder
+4108230,Fibrosis of pericardium,Disorder
+4108233,"Pulmonary stenosis, non-rheumatic",Disorder
+4108235,"Combined disorders of mitral, aortic and tricuspid valves",Disorder
+4108244,Compensated cardiac failure,Disorder
+4108245,Acute left ventricular failure,Disorder
+4108597,Mitral cusp prolapse,Disorder
+4108598,Ischemic mitral valve dysfunction,Disorder
+4108600,Mitral sub-valve apparatus fibrosis,Disorder
+4108601,Mitral sub-valve apparatus calcification,Disorder
+4108602,Torn mitral leaflet,Disorder
+4108603,Masses on mitral apparatus,Disorder
+4108659,Mitral and aortic incompetence,Disorder
+4108670,Acute coronary insufficiency,Disorder
+4108671,Angina decubitus NOS,Disorder
+4108682,Acute pulmonary heart disease NOS,Disorder
+4108683,Other chronic pulmonary heart disease,Disorder
+4108685,Acute meningococcal pericarditis,Disorder
+4108739,Peripheral pulmonary artery stenosis,Disorder
+4108741,Intrapulmonary arteriovenous fistula,Disorder
+4108798,Acute syphilitic pericarditis,Disorder
+4108799,Acute tuberculous pericarditis,Disorder
+4108800,Acute gonococcal pericarditis,Disorder
+4108809,Subacute myoendocarditis NOS,Disorder
+4108813,Pick's disease of heart,Disorder
+4108815,Non-rheumatic mitral regurgitation,Disorder
+4108819,Pulmonary valve stenosis with insufficiency,Disorder
+4108949,Rheumatoid myocarditis,Disorder
+4109083,Right sided chest pain,ClinicalFinding
+4110550,Neonatal cardiorespiratory arrest,Disorder
+4110937,Non-rheumatic mitral valve stenosis,Disorder
+4110961,Generalized ischemic myocardial dysfunction,Disorder
+4111080,Acute pneumococcal pericarditis,Disorder
+4111081,Acute streptococcal pericarditis,Disorder
+4111082,Endocarditis - monilial,Disorder
+4111084,Endocarditis - blastomycosis,Disorder
+4111085,Acute myoendocarditis NOS,Disorder
+4111090,Acute syphilitic myocarditis,Disorder
+4111348,Left sided chest pain,ClinicalFinding
+4111392,Angina pectoris NOS,Disorder
+4111399,Acute pericarditis secondary to uremia,Disorder
+4111400,Acute staphylococcal pericarditis,Disorder
+4111401,Endocarditis - typhoid,Disorder
+4111402,Subacute endocarditis NOS,Disorder
+4111412,"Tricuspid incompetence, non-rheumatic",Disorder
+4111413,"Tricuspid stenosis, non-rheumatic",Disorder
+4111414,Non-rheumatic tricuspid valve stenosis with insufficiency,Disorder
+4111554,Decompensated cardiac failure,Disorder
+4111566,Disorders of both mitral and tricuspid valves,Disorder
+4111700,Ventricular fibrillation and flutter,Disorder
+4112094,Pulmonary trunk stenosis,Disorder
+4112301,Upper chest pain,ClinicalFinding
+4113779,Rheumatic mitral stenosis with insufficiency,Disorder
+4113780,Other pulmonary heart disease,Disorder
+4116164,Pain of sternoclavicular joint,ClinicalFinding
+4116486,Exercise-induced angina,Disorder
+4116649,Bacterial endocarditis,Disorder
+4117132,Tricuspid valve vegetations,Disorder
+4117268,Mitral valve vegetations,Disorder
+4117676,Pulmonary heart disease NOS,Disorder
+4117862,Chronic rheumatic mitral valvulitis,Disorder
+4118234,[D]Pleuritic pain,ContextDependent
+4118574,[D]Parasternal chest pain,ContextDependent
+4118763,[D]Anterior chest wall pain,ContextDependent
+4118764,[D]Pleurodynia,ContextDependent
+4118766,[D]Musculoskeletal chest pain,ContextDependent
+4118767,[D]Non-cardiac chest pain,ContextDependent
+4118932,[D]Chest pain,ContextDependent
+4118933,[D]Precordial pain,ContextDependent
+4119429,High altitude pulmonary edema,Disorder
+4119438,Acute mediastinitis,Disorder
+4119439,Familial fibrous mediastinitis,Disorder
+4119440,Granulomatous mediastinitis,Disorder
+4119455,New onset angina,Disorder
+4119459,Syphilitic valve disease,Disorder
+4119461,Mitral restenosis,Disorder
+4119462,Post-infarction mitral papillary muscle rupture,Disorder
+4119594,Q fever pericarditis,Disorder
+4119595,Chronic infective pericarditis,Disorder
+4119604,Paroxysmal familial ventricular fibrillation,Disorder
+4119611,Familial primary pulmonary hypertension,Disorder
+4119794,Mediastinal radiation fibrosis,Disorder
+4119925,Infectious fibrous mediastinitis,Disorder
+4119926,Fibrous mediastinitis caused by radiation,Disorder
+4119927,Infectious granulomatous mediastinitis,Disorder
+4119942,Stable angina,Disorder
+4119952,Cardiac syndrome X,ClinicalFinding
+4119954,Rickettsial endocarditis,Disorder
+4120088,Cardiac arrest with successful resuscitation,Disorder
+4120092,Solitary pulmonary hypertension,Disorder
+4120093,Large vessel pulmonary hypertension,Disorder
+4120094,Chronic thromboembolic pulmonary hypertension,Disorder
+4120095,Post-arteritic pulmonary hypertension,Disorder
+4120279,Prosthetic cardiac valve vegetation,Disorder
+4121462,Persistent pulmonary hypertension of the newborn,Disorder
+4121471,Familial mitral valve prolapse,Disorder
+4121472,Functional tricuspid regurgitation,Disorder
+4121476,Acute infective pericarditis,Disorder
+4121619,Small vessel pulmonary hypertension,Disorder
+4121620,Pulmonary arterial hypertension induced by drug,Disorder
+4121809,Familial pulmonary capillary hemangiomatosis,Disorder
+4122085,Chronic rheumatic aortic valve disease,Disorder
+4122762,Pulseless electrical activity,Disorder
+4124540,Drug-induced granulomatous mediastinitis,Disorder
+4124690,Functional mitral regurgitation,Disorder
+4124694,Bacterial pericarditis,Disorder
+4124705,Heart failure as a complication of care,Disorder
+4124706,Myocardial dysfunction,Disorder
+4124831,Sporadic primary pulmonary hypertension,Disorder
+4124832,Pulmonary hypertension associated with chronic underventilation,Disorder
+4124833,Pulmonary hypertension caused by low air pressure due to chronic exposure to high altitude,Disorder
+4126122,Pulmonic stenosis and congenital nephrosis,Disorder
+4127089,Coronary artery spasm,Disorder
+4128968,Circulatory arrest,Disorder
+4130004,Non-cyclical mastalgia,ClinicalFinding
+4133509,Transient mitral regurgitation of newborn,Disorder
+4133636,Central crushing chest pain,ClinicalFinding
+4133641,Myofascial pain syndrome of thorax,Disorder
+4133645,Internal mammary artery syndrome,ClinicalFinding
+4133648,Pain when milk coming in,ClinicalFinding
+4134890,Right heart failure,Disorder
+4138307,Right heart failure due to pulmonary hypertension,Disorder
+4139864,Congestive heart failure due to left ventricular systolic dysfunction,Disorder
+4141124,Postvalvulotomy syndrome,Disorder
+4141129,Dull chest pain,ClinicalFinding
+4141202,Right-sided Staphylococcus aureus endocarditis,Disorder
+4141491,Mitral papillary muscle rupture,Disorder
+4141588,Primary eosinophilic endomyocardial restrictive cardiomyopathy,Disorder
+4142561,Congestive heart failure due to valvular disease,Disorder
+4143607,Rheumatic pulmonary valve insufficiency,Disorder
+4143971,Mitral papillary muscle dysfunction,Disorder
+4145057,Cardiac chest pain,ClinicalFinding
+4145548,[D]Retrosternal chest pain,ContextDependent
+4145696,Ischemic congestive cardiomyopathy,Disorder
+4147350,Acute myoendocarditis,Disorder
+4148028,Pulseless electrical activity with successful resuscitation,Disorder
+4148114,Chronic pulmonary heart disease NOS,Disorder
+4148905,Mitral chordae rupture,Disorder
+4149568,Pericarditis secondary to Mulibrey nanism,Disorder
+4152603,Fibrosis of cardiac pacemaker electrode,Disorder
+4153875,Cardiac insufficiency as a complication of care,Disorder
+4154293,Rheumatic heart valve stenosis with insufficiency,Disorder
+4155008,Recurrent angina post rotational atherectomy,Disorder
+4155009,Recurrent angina after directional coronary atherectomy,Disorder
+4155963,Atypical angina,Disorder
+4155964,Acute mitral regurgitation from chordal rupture,Disorder
+4156119,Rheumatic mitral AND aortic valve obstruction,Disorder
+4159138,Squeezing chest pain,ClinicalFinding
+4161456,Recurrent angina following placement of coronary artery stent,Disorder
+4161457,Recurrent angina after coronary artery bypass graft,Disorder
+4161458,Acute mitral regurgitation from chordal dysfunction,Disorder
+4161459,Acute mitral regurgitation from papillary muscle dysfunction,Disorder
+4161569,Depression of left ventricular systolic function,ClinicalFinding
+4161973,Progressive angina,Disorder
+4161974,Recurrent angina after percutaneous transluminal coronary angioplasty,Disorder
+4161975,Acute mitral regurgitation from papillary muscle rupture,Disorder
+4162674,Restrictive cardiomyopathy with endomyocardial fibrosis,Disorder
+4163292,Tetralogy of Fallot with absent pulmonary valve,Disorder
+4164298,Retrosternal pain,ClinicalFinding
+4164649,Non-cardiac chest pain,ClinicalFinding
+4165259,Acute viral pericarditis,Disorder
+4166859,Right ventricular systolic dysfunction,Disorder
+4167085,Pulmonary heart disease,Disorder
+4167245,[D]Retrosternal pain,ContextDependent
+4168213,Chest pain on breathing,ClinicalFinding
+4170217,Subacute periendocarditis,Disorder
+4171268,Mitral valve anterior leaflet prolapse,Disorder
+4171708,Myxoid transformation of mitral valve,Disorder
+4172641,Primary endomyocardial fibrosis restrictive cardiomyopathy,Disorder
+4172822,Cardiac arrest due to cardiac disorder,Disorder
+4172864,Neonatal cardiac failure,Disorder
+4172866,Transient tricuspid regurgitation of newborn,Disorder
+4173446,Cardiac arrest due to respiratory disorder,Disorder
+4173632,Microinfarct of heart,Disorder
+4173792,Cardiac arrest due to drowning,Disorder
+4173818,Viral pericarditis - virus unidentified,Disorder
+4173819,Impaired left ventricular function,ClinicalFinding
+4175039,Calcification of pericardium,Disorder
+4175580,Ruptured tricuspid chordae,Disorder
+4175807,Rheumatic disease of tricuspid valve,Disorder
+4176099,Tricuspid valve stenosis,Disorder
+4176161,Syphilis of tricuspid valve,Disorder
+4177404,Bulbus cordis,BodyStructure
+4177493,Cardiac insufficiency due to prosthesis,Disorder
+4177860,Mitral valve disorder in pregnancy,Disorder
+4178425,Acute pneumopericarditis,Disorder
+4178584,Primary familial dilated cardiomyopathy,Disorder
+4178585,Rheumatic pulmonary valve failure,Disorder
+4181087,Pain of sternum,ClinicalFinding
+4181182,Chronic adhesive pericarditis,Disorder
+4181949,Rheumatic aortic valve sclerosis,Disorder
+4182110,Rheumatic heart valve regurgitation,Disorder
+4182327,Rib pain,ClinicalFinding
+4182549,Illegal termination of pregnancy with cardiac arrest AND/OR failure,Disorder
+4184497,Rheumatic left ventricular failure,Disorder
+4184636,Fallot's triad,Disorder
+4184827,"Angina, class II",Disorder
+4185565,Low cardiac output syndrome,Disorder
+4188554,Acute mitral regurgitation,Disorder
+4189294,Inflammatory disorder of mediastinum,Disorder
+4189522,Syphilitic aortic incompetence,Disorder
+4192358,Chronic rheumatic myopericarditis,Disorder
+4193236,Ayerza's syndrome,Disorder
+4193706,[D]Central chest pain,ContextDependent
+4193989,Infectious mediastinitis,Disorder
+4195622,Malignant endocarditis,Disorder
+4195677,Rheumatic tricuspid valve regurgitation,Disorder
+4195785,Right heart failure secondary to left heart failure,Disorder
+4195892,Chronic cor pulmonale,Disorder
+4196524,Mycotic pericarditis,Disorder
+4198141,Post infarct angina,Disorder
+4199318,Congenital supravalvular pulmonary stenosis,Disorder
+4199500,Refractory heart failure,Disorder
+4200662,Tuberculosis of heart,Disorder
+4201629,Refractory angina,Disorder
+4201931,Persistent mastalgia,ClinicalFinding
+4202542,Intractable breast pain,ClinicalFinding
+4203012,Tuberculosis of endocardium,Disorder
+4203625,Chronic constrictive pericarditis,Disorder
+4204985,Acute periendocarditis,Disorder
+4205558,Heart failure following obstetric procedure,Disorder
+4206009,Chronic left-sided congestive heart failure,Disorder
+4207194,Rowley-Rosenberg syndrome,Disorder
+4207534,Pulmonary hypertensive venous disease,Disorder
+4209011,Pulmonic valve stenosis,Disorder
+4209569,Rheumatic adherent pericardium,Disorder
+4210313,Sinus arrest,Disorder
+4212798,Left ventricular diastolic dysfunction,Disorder
+4215446,Acute right-sided congestive heart failure,Disorder
+4215619,Rheumatic mitral valve stenosis AND aortic valve insufficiency,Disorder
+4215741,Mitral valve prolapse syndrome,Disorder
+4215802,Cardiac asthma,Disorder
+4216144,Congenital supravalvular mitral stenosis,Disorder
+4216753,Right ventricular diastolic dysfunction,Disorder
+4216773,Asystole,Disorder
+4217075,Infectious pericarditis,Disorder
+4218253,Chest pain on exertion,ClinicalFinding
+4218343,Systolic anterior movement of mitral valve,Disorder
+4219047,Syphilitic aortic stenosis,Disorder
+4220765,Mitral valve sclerosis,Disorder
+4221695,Rupture of pulmonary vessel,Disorder
+4221806,Rheumatic mitral valve failure,Disorder
+4222174,Rheumatic disease of mitral valve,Disorder
+4222405,Acute endocarditis with AIDS (acquired immunodeficiency syndrome),Disorder
+4225090,Acute rheumatic valvulitis,Disorder
+4226023,Trauma to mitral valve,Disorder
+4227150,Chronic rheumatic heart disease,Disorder
+4227350,Subacute endocarditis with AIDS (acquired immunodeficiency syndrome),Disorder
+4229440,Chronic congestive heart failure,Disorder
+4230055,Xiphodynia,ClinicalFinding
+4230348,Aschoff body,MorphAbnormality
+4231426,"Angina, class IV",Disorder
+4231452,Chronic rheumatic valvulitis,Disorder
+4231570,Cardiac edema,Disorder
+4231738,Acute right heart failure,Disorder
+4231819,Trauma to tricuspid valve,Disorder
+4233224,Cardiac insufficiency during AND/OR resulting from a procedure,Disorder
+4233232,Xiphoidalgia syndrome,Disorder
+4233424,Acute right-sided heart failure,Disorder
+4233689,Postcapillary pulmonary hypertension,Disorder
+4235735,Chronic rheumatic mediastinopericarditis,Disorder
+4235804,Pulmonary hypertension secondary to raised pulmonary vascular resistance,Disorder
+4237738,Subacute effusive constrictive pericarditis,Disorder
+4238032,Acute pericardial effusion,Disorder
+4238914,Rheumatic pulmonary valve stenosis,Disorder
+4239569,Fused commissures of mitral valve,Disorder
+4240289,Rheumatic heart valve failure,Disorder
+4240733,Syphilis of mitral valve,Disorder
+4242177,Congenital abnormal shape of mitral valve,Disorder
+4242188,Congenital absence of mitral valve,Disorder
+4242231,Concato's disease,Disorder
+4242669,Biventricular congestive heart failure,Disorder
+4243270,Chest pain at rest,ClinicalFinding
+4244247,Crushing chest pain,ClinicalFinding
+4244437,Rheumatic mitral AND aortic valve regurgitation,Disorder
+4245104,Combined valvular-subvalvular pulmonic stenosis,Disorder
+4245920,Congenital hypertrophy of mitral valve,Disorder
+4245933,Congenital hypoplasia of mitral valve,Disorder
+4246514,Cleft leaflet of tricuspid valve,Disorder
+4247269,Chronic rheumatic fever,Disorder
+4248877,Staphylococcal endocarditis,Disorder
+4249898,Sclerosing mediastinitis,Disorder
+4249899,Subacute bacterial endocarditis,Disorder
+4252697,Hemorrhagic mediastinitis,Disorder
+4252713,Acute Q fever,Disorder
+4252872,Mitral valve prolapse,Disorder
+42534858,Cardiac arrest due to administration of anesthesia in pregnancy,Disorder
+42536631,Rupture of pulmonary artery co-occurrent and due to aneurysm of pulmonary artery,Disorder
+42536727,Sudden arrhythmic death syndrome,Disorder
+42538531,Congenital dysplasia of tricuspid valve,Disorder
+42538671,Tetralogy of Fallot with pulmonary atresia and systemic-to-pulmonary collateral artery,Disorder

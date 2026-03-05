@@ -1,0 +1,23 @@
+concept_id,label,concept_class
+1595535,Other hyperlipidemia,5CharBillingCode
+35207062,Mixed hyperlipidemia,4CharBillingCode
+35207064,Other hyperlipidemia,4CharNonbillCode
+3556799,Familial defective apolipoprotein B-100,Undefined
+3558764,Familial combined hyperlipidaemia,Undefined
+37165946,Xanthoma due to primary combined hyperlipidemia,Disorder
+4029263,Primary combined hyperlipidemia,Disorder
+4029890,Familial defective apolipoprotein B-100,Disorder
+40321212,Mixed hyperlipidemia,Disorder
+4079876,Familial combined hyperlipidemia,Disorder
+4079887,Secondary combined hyperlipidemia,Disorder
+4104485,Familial multiple lipoprotein-type hyperlipidemia,Disorder
+4270878,Primary polygenic type IIb combined hyperlipidemia,Disorder
+4294297,Primary genetic mixed hyperlipidemia,Disorder
+4345818,Tuberous xanthoma,Disorder
+43530660,Mixed hyperlipidemia due to type 1 diabetes mellitus,Disorder
+43531651,Mixed hyperlipidemia due to type 2 diabetes mellitus,Disorder
+438720,Mixed hyperlipidemia,Disorder
+44827629,Other and unspecified hyperlipidemia,4DigBillingCode
+44836929,Mixed hyperlipidemia,4DigBillingCode
+45561984,Other hyperlipidaemia,Icd10Code
+45581383,Mixed hyperlipidaemia,Icd10Code

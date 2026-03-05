@@ -1,0 +1,5 @@
+concept_id,label,concept_class
+4027135,Subsequent hospital visit by physician,Procedure
+40664842,Antithrombotic therapy prescribed at discharge (Deprecated),Hcpcs
+4289459,Initial hospital visit by physician,Procedure
+4307376,Final inpatient visit with instructions at discharge,Procedure

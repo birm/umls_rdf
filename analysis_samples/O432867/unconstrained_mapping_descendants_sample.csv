@@ -1,0 +1,228 @@
+concept_id,label,concept_class
+1340362,Exacerbation of hypercholesterolemia,Disorder
+1348423,Homozygous familial hypercholesterolemia [HoFH],6CharBillingCode
+1348424,Heterozygous familial hypercholesterolemia [HeFH],6CharBillingCode
+1348425,"Familial hypercholesterolemia, unspecified",6CharBillingCode
+1568062,Disorders of lipoprotein metabolism and other lipidemias,3CharNonbillCode
+1568063,Disorders of bile acid and cholesterol metabolism,4CharNonbillCode
+1568064,Other disorders of lipoprotein metabolism,4CharNonbillCode
+1595535,Other hyperlipidemia,5CharBillingCode
+35207060,Pure hypercholesterolemia,4CharNonbillCode
+35207061,Pure hyperglyceridemia,4CharBillingCode
+35207062,Mixed hyperlipidemia,4CharBillingCode
+35207063,Hyperchylomicronemia,4CharBillingCode
+35207064,Other hyperlipidemia,4CharNonbillCode
+35207065,"Hyperlipidemia, unspecified",4CharBillingCode
+35207067,"Disorder of lipoprotein metabolism, unspecified",4CharBillingCode
+35211121,Chondrodysplasia punctata,4CharBillingCode
+3536636,Other disorders of lipoid metabolism,Disorder
+3536637,Other disorder of lipoid metabolism NOS,Disorder
+3541002,Multiple epiphyseal dysplasia NOS,Disorder
+3553904,Hypertriglyceridaemia,Undefined
+3556799,Familial defective apolipoprotein B-100,Undefined
+3557155,Familial hypercholesterolaemia due to homozygous low density lipoprotein receptor mutation,Disorder
+3557156,Familial hypercholesterolaemia due to heterozygous low density lipoprotein receptor mutation,Disorder
+3557835,Other specified pure hypercholesterolaemia,Disorder
+3557836,Pure hypercholesterolaemia NOS,Disorder
+3557837,Hyperlipidaemia NOS,Disorder
+3558763,Polygenic hypercholesterolaemia,Undefined
+3558764,Familial combined hyperlipidaemia,Undefined
+3560175,Hypercholesterolaemia,Undefined
+35608140,Double heterozygous familial hypercholesterolemia,Disorder
+35621924,Combined pancreatic lipase and colipase deficiency,Disorder
+35622408,Multiple epiphyseal dysplasia with severe proximal femoral dysplasia,Disorder
+35624126,Multiple epiphyseal dysplasia due to collagen 9 anomaly,Disorder
+35624150,Multiple epiphyseal dysplasia with miniepiphyses,Disorder
+35624222,"Epiphyseal dysplasia, hearing loss, dysmorphism syndrome",Disorder
+35625848,Multiple epiphyseal dysplasia Lowry type,Disorder
+3571257,Familial hypercholesterolaemia due to genetic defect of apolipoprotein B-100,Disorder
+3573285,Disorder of lipoid metabolism NOS,Disorder
+36674388,Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency,Disorder
+36676440,CK syndrome,Disorder
+36676683,Transient infantile hypertriglyceridemia and hepatosteatosis,Disorder
+36680611,Brachytelephalangic chondrodysplasia punctata,Disorder
+36713767,Lissencephaly type 3 metacarpal bone dysplasia syndrome,Disorder
+36714145,Lathosterolosis,Disorder
+36714289,Congenital bile acid synthesis defect type 3,Disorder
+36714450,Multiple epiphyseal dysplasia Al-Gazali type,Disorder
+36714451,Multiple epiphyseal dysplasia Beighton type,Disorder
+36715312,Eiken syndrome,Disorder
+36715463,Hip dysplasia Beukes type,Disorder
+36716110,"Epiphyseal dysplasia, microcephalus, nystagmus syndrome",Disorder
+37016144,Hyperlipidemia caused by steroid,Disorder
+37109612,Familial hypercholanemia,Disorder
+37109673,"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome",Disorder
+37160969,"Microcephaly, congenital cataract, psoriasiform dermatitis syndrome",Disorder
+37162105,Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction,Disorder
+37162229,Familial steroid-resistant nephrotic syndrome with adrenal insufficiency,Disorder
+37162785,Familial chylomicronemia syndrome,Disorder
+37163227,TMEM199 congenital disorder of glycosylation,Disorder
+37163332,"Congenital ichthyosis, intellectual disability, spastic quadriplegia syndrome",Disorder
+37164396,Megaconial congenital muscular dystrophy,Disorder
+37165942,Xanthoma due to secondary hyperlipidemia,Disorder
+37165945,Xanthoma due to primary hypertriglyceridemia,Disorder
+37165946,Xanthoma due to primary combined hyperlipidemia,Disorder
+37165947,Xanthoma due to primary hypercholesterolemia,Disorder
+37166026,Xanthoma due to primary chylomicronemia,Disorder
+37166853,EVEN-plus syndrome,Disorder
+37168357,Primary triglyceride deposit cardiomyovasculopathy,Disorder
+37200312,"Pure hypercholesterolemia, unspecified",5CharBillingCode
+37200313,Familial hypercholesterolemia,5CharNonbillCode
+37204219,Male emopamil-binding protein disorder with neurological defect,Disorder
+37396013,Multiple epiphyseal dysplasia type 4,Disorder
+37396014,Multiple epiphyseal dysplasia type 1,Disorder
+37396015,Multiple epiphyseal dysplasia type 5,Disorder
+37396154,Dysplasia of head of femur Meyer type,Disorder
+37396430,Chitty Hall Baraitser syndrome,Disorder
+37397033,Bile acid CoA ligase deficiency and defective amidation,Disorder
+37398932,Chondrodysplasia punctata Toriello type,Disorder
+4003973,Multiple epiphyseal dysplasia NOS,Disorder
+4005116,Chondrodysplasia punctata,Disorder
+4029118,Disorder of cholesterol synthesis,Disorder
+4029258,Polygenic hypercholesterolemia,Disorder
+4029259,Familial hypercholesterolemia - heterozygous,Disorder
+4029260,Primary hypertriglyceridemia,Disorder
+4029261,Fredrickson type IV hyperlipoproteinemia,Disorder
+4029262,Familial lipoprotein lipase deficiency,Disorder
+4029263,Primary combined hyperlipidemia,Disorder
+4029305,Hypercholesterolemia,Disorder
+4029880,Disorder of cholesterol catabolism,Disorder
+4029890,Familial defective apolipoprotein B-100,Disorder
+4029891,Secondary hypercholesterolemia,Disorder
+4029892,Secondary hypertriglyceridemia,Disorder
+4030586,Exogenous hyperlipidemia,Disorder
+4030618,Endogenous hyperlipidemia,Disorder
+4030619,Mixed hypercholesterolemia and hypertriglyceridemia,Disorder
+4031812,3-Beta-hydroxy-delta-5-C27-steroid dehydrogenase deficiency,Disorder
+4031945,Primary hypercholesterolemia,Disorder
+4031947,Very low density lipoprotinemia,Disorder
+40321208,Disorders of lipid metabolism (& [Fredrickson types] or [hyperlipidemia]),Disorder
+40321209,(Hypercholesterolemia: [pure] or [familial]) or (xanthoma - congenital),Disorder
+40321211,Pure hyperglyceridemia,Disorder
+40321212,Mixed hyperlipidemia,Disorder
+40321213,Hyperlipidemia NOS,Disorder
+40321214,Other disorders of lipoid metabolism,Disorder
+40351278,Disorders of lipid metabolism (& [Fredrickson types] or [hyperlipidemia]),Disorder
+40351279,(Hypercholesterolemia: [pure] or [familial]) or (xanthoma - congenital),Disorder
+40388224,Disorders of lipoid metabolism (& [cholesterol]),Disorder
+40388225,(Hypercholesterolemia: [pure] or [familial]) or (Fredrickson type IIa lipidemia) or (low density lipoproteinemia),Disorder
+40388228,Familial hyperbetalipoproteinemia,Disorder
+40388229,Familial hyperbetalipoproteinemia,Disorder
+40388597,(Pure hyperglyceridemia) or (Fredrickson type IV lipidemia) or (very low density lipoprotinemia),Disorder
+40388598,(Mixed hyperlipidemia) or (Fredrickson lipidemia type: [IIb] or [III]) or (xanthoma tuberosum),Disorder
+40388600,(Hyperchylomicronemia) or (Burger-Grute syndrome) or (Fredrickson lipemia type: [I] or [V]),Disorder
+40432093,"Chondrodysplasia punctata, Conradi-Hünermann type",Disorder
+40438043,Wolcott-Rallison dysplasia,Disorder
+40439956,Familial lipoprotein lipase deficiency,Disorder
+40439996,Disorder of cholesterol metabolism,Disorder
+40460674,Conradi-Hunermann syndrome,Disorder
+40466013,Familial type 3 hyperlipoproteinemia,Disorder
+40467751,Chondrodysplasia punctata,Disorder
+4047784,Disorder of cholesterol metabolism,Disorder
+40482885,Posttransplant hyperlipidemia,Disorder
+40520092,Familial hypercholesterolemia,Disorder
+40528469,Familial lipoprotein lipase deficiency,Disorder
+40565486,Familial hyperbetalipoproteinaemia,Disorder
+40605515,Familial combined hyperlipidemia,Disorder
+4069592,CHILD syndrome,Disorder
+4077382,"Hyperlipoproteinemia, type I",Disorder
+4079875,Delta-4-3-oxosteroid-5-beta-reductase deficiency,Disorder
+4079876,Familial combined hyperlipidemia,Disorder
+4079885,Familial hypercholesterolemia - homozygous,Disorder
+4079886,Hyperalphalipoproteinemia,Disorder
+4079887,Secondary combined hyperlipidemia,Disorder
+4096215,"Hyperlipidemia, group A",Disorder
+4096216,Other specified pure hypercholesterolemia,Disorder
+4098482,Pure hypercholesterolemia NOS,Disorder
+4098483,Hyperlipidemia NOS,Disorder
+4100837,Other disorder of lipoid metabolism NOS,Disorder
+4101306,Other disorders of lipoid metabolism,Disorder
+4101308,Disorder of lipoid metabolism NOS,Disorder
+4104485,Familial multiple lipoprotein-type hyperlipidemia,Disorder
+4109173,"Chondrodysplasia punctata, X-linked recessive type",Disorder
+4109174,"Chondrodysplasia punctata, MT type",Disorder
+4111314,Wolcott-Rallison dysplasia,Disorder
+4111316,Epiphyseal dysplasia,Disorder
+4120314,Hypertriglyceridemia,Disorder
+4120601,Alpha/beta lipoproteinemia,Disorder
+4123084,Hyperimmunoglobulin D with periodic fever,ClinicalFinding
+4134862,Familial hypercholesterolemia,Disorder
+4142496,Familial hypertriglyceridemia,Disorder
+4143177,Familial apolipoprotein C-II deficiency,Disorder
+4144326,Chemically induced hyperlipidemia,Disorder
+4144529,Familial type 5 hyperlipoproteinemia,Disorder
+4150458,Chondrodysplasia punctata,Disorder
+4160748,"Chondrodysplasia punctata, Conradi-Hünermann type",Disorder
+4162681,Familial type 3 hyperlipoproteinemia,Disorder
+4162806,"Chondrodysplasia punctata, X-linked dominant type",Disorder
+4185410,Smith-Lemli-Opitz syndrome,Disorder
+4196717,Multiple epiphyseal dysplasia tarda type IIIa,Disorder
+4208394,Thiemann disease familial form,Disorder
+4209722,Rhizomelic chondrodysplasia punctata syndrome,Disorder
+4220010,Fredrickson type IIa hyperlipoproteinemia,Disorder
+4223494,Tubero-eruptive xanthoma,Disorder
+4223495,Primary acquired chylomicronemia,Disorder
+4233557,Chondrodysplasia punctata congenita,Disorder
+4249329,Megaconial myopathy,Disorder
+4268608,Cholestanol storage disease,Disorder
+4270878,Primary polygenic type IIb combined hyperlipidemia,Disorder
+4291436,Primary chylomicronemia,Disorder
+4292672,Secondary hyperlipidemia,Disorder
+4294296,Chylomicronemia syndrome,Disorder
+4294297,Primary genetic mixed hyperlipidemia,Disorder
+4295599,X-linked dominant chondrodysplasia punctata of Happle,Disorder
+4295608,Familial hypercholesterolemia due to heterozygous LDL receptor mutation,Disorder
+4295609,Familial hypercholesterolemia due to genetic defect of apolipoprotein B,Disorder
+4295867,Hyperphosphatasia-osteoectasia syndrome,Disorder
+4298010,Familial hypercholesterolemia due to homozygous LDL receptor mutation,Disorder
+4298723,Hyperlipidemia with lipid deposition in skin,Disorder
+4298733,Primary genetic hyperlipidemia,Disorder
+4299409,Sporadic primary hypertriglyceridemia,Disorder
+4300461,Familial lipoprotein lipase deficiency with type V phenotype,Disorder
+4301409,Familial lipoprotein lipase deficiency with type I phenotype,Disorder
+4301411,Hyperimmunoglobulinemia D with periodic fever,Disorder
+432867,Hyperlipidemia,Disorder
+4340395,Synthetic defect of bile acids,Disorder
+434161,Multiple epiphyseal dysplasia,Disorder
+4345818,Tuberous xanthoma,Disorder
+43530660,Mixed hyperlipidemia due to type 1 diabetes mellitus,Disorder
+43531651,Mixed hyperlipidemia due to type 2 diabetes mellitus,Disorder
+437521,Familial hyperchylomicronemia,Disorder
+437530,Disorder of lipid metabolism,Disorder
+437827,Pure hypercholesterolemia,Disorder
+438720,Mixed hyperlipidemia,Disorder
+440360,Pure hyperglyceridemia,Disorder
+44822948,Hyperchylomicronemia,4DigBillingCode
+44824083,Unspecified disorder of lipoid metabolism,4DigBillingCode
+44827629,Other and unspecified hyperlipidemia,4DigBillingCode
+44827630,Other disorders of lipoid metabolism,4DigBillingCode
+44834563,Disorders of lipoid metabolism,3DigNonbillCode
+44834564,Pure hypercholesterolemia,4DigBillingCode
+44834565,Pure hyperglyceridemia,4DigBillingCode
+44836259,Multiple epiphyseal dysplasia,5DigBillingCode
+44836929,Mixed hyperlipidemia,4DigBillingCode
+45537985,Hyperchylomicronaemia,Icd10Code
+45537986,"Hyperlipidaemia, unspecified",Icd10Code
+45542771,Pure hypercholesterolaemia,Icd10Code
+45542772,Pure hyperglyceridaemia,Icd10Code
+45547657,Other disorders of bile acid and cholesterol metabolism,5CharBillingCode
+45552417,"Disorder of bile acid and cholesterol metabolism, unspecified",5CharBillingCode
+45557140,Disorders of lipoprotein metabolism and other lipidaemias,Icd10Hierarchy
+45561984,Other hyperlipidaemia,Icd10Code
+45561986,Smith-Lemli-Opitz syndrome,5CharBillingCode
+45576474,Other disorders of lipoprotein metabolism,Icd10Code
+45581383,Mixed hyperlipidaemia,Icd10Code
+45581384,"Disorder of lipoprotein metabolism, unspecified",Icd10Code
+45586174,Other lipoprotein metabolism disorders,5CharBillingCode
+45595824,Rhizomelic chondrodysplasia punctata,6CharBillingCode
+45597153,Chondrodysplasia punctata,Icd10Code
+45757432,Hyperlipidemia due to type 1 diabetes mellitus,Disorder
+45757500,Familial hyperalphalipoproteinemia,Disorder
+45763922,Alpha-methylacyl-CoA racemase deficiency disorder,Disorder
+45770880,Hyperlipidemia due to type 2 diabetes mellitus,Disorder
+46273762,Desmosterolosis,Disorder
+604888,Rhizomelic chondrodysplasia punctata type 3,Disorder
+604889,Rhizomelic chondrodysplasia punctata type 2,Disorder
+604891,Rhizomelic chondrodysplasia punctata type 1,Disorder
+619276,Chondrodysplasia punctata due to maternal autoimmune disease,Disorder
+766254,Exacerbation of hyperlipidaemia,Disorder

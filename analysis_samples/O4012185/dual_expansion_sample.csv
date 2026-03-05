@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1000632,clotrimazole,Ingredient
+1000635,clotrimazole 10 MG/ML Topical Lotion,ClinicalDrug
+1000636,clotrimazole 500 MG Vaginal Insert,ClinicalDrug
+1000640,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Cream [Lotrisone],BrandedDrug
+1000641,clotrimazole 10 MG/ML / dexamethasone 0.4 MG/ML Topical Cream,ClinicalDrug
+1000652,clotrimazole 10 MG/ML Powder Spray,ClinicalDrug
+1000654,clotrimazole 10 MG/ML / dexamethasone 0.443 MG/ML Topical Cream,ClinicalDrug
+1000656,clotrimazole 0.01 MG/MG Medicated Bar Soap,ClinicalDrug
+1000657,clotrimazole 0.02 MG/MG Topical Gel,ClinicalDrug
+1000660,Clotrimazole 10 MG/ML Topical Cream [Desenex AF Prescription Strength],BrandedDrug
+1000661,clotrimazole 10 MG/ML Topical Cream [Fungoid (Clotrimazole)],BrandedDrug
+1000672,clotrimazole 10 MG/ML Topical Cream [Lotrimin],BrandedDrug
+1000674,clotrimazole 10 MG/ML Topical Solution [Fungoid Solution],BrandedDrug
+1000675,clotrimazole 10 MG/ML Topical Solution [Lotrimin],BrandedDrug
+1000676,clotrimazole 10 MG/ML Topical Solution [Mycelex],BrandedDrug
+1000677,clotrimazole 100 MG Vaginal Insert [Femcare],BrandedDrug
+1000678,Clotrimazole 100 MG Vaginal Insert [Gyne-Lotrimin],BrandedDrug
+1000679,clotrimazole 100 MG Vaginal Insert [Mycelex-7],BrandedDrug
+1000680,clotrimazole 10 MG/ML Topical Lotion [Lotrimin],BrandedDrug
+1000681,Clotrimazole 200 MG Vaginal Insert [Gyne-Lotrimin Inserts],BrandedDrug
+1000692,clotrimazole 0.01 MG/MG Topical Powder [Lotrimin],BrandedDrug
+1000693,clotrimazole 10 MG/ML Vaginal Cream [Clotrimazole-7],BrandedDrug
+1000694,clotrimazole 10 MG/ML Vaginal Cream [Femcare],BrandedDrug
+1000695,Clotrimazole 10 MG/ML Vaginal Cream [Gyne-Lotrimin],BrandedDrug
+1000696,clotrimazole 10 MG/ML Vaginal Cream [Mycelex-7],BrandedDrug
+1000697,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Lotion [Lotrisone],BrandedDrug
+1000718,clotrimazole 0.01 MG/MG,ClinicalDrugComp
+1000719,clotrimazole 0.02 MG/MG,ClinicalDrugComp
+1000720,clotrimazole 3.3 MG/ML,ClinicalDrugComp
+1000732,clotrimazole 100 MG/ML,ClinicalDrugComp
+1000733,clotrimazole 10 MG Oral Tablet,ClinicalDrug
+1000734,clotrimazole 10 MG/ML Topical Spray,ClinicalDrug
+1000736,betamethasone 1 MG/ML / clotrimazole 10 MG/ML Topical Lotion,ClinicalDrug
+1000737,Clotrimazole 20 MG/ML Vaginal Cream [Clotrimazole-3],BrandedDrug
+1000738,Clotrimazole 20 MG/ML Vaginal Cream [Gyne-Lotrimin],BrandedDrug
+1000740,Clotrimazole 10 MG/ML Topical Spray [FungiCURE],BrandedDrug
+1000979,guar gum,Ingredient
+1000995,coal tar,Ingredient
+1000999,coal tar 0.08 MG/MG / salicylic acid 0.02 MG/MG Topical Gel,ClinicalDrug
+1001000,coal tar 10 MG/ML Topical Lotion,ClinicalDrug
+1001055,"coal tar 0.02 MG/MG / salicylic acid 0.015 MG/MG / sulfur, colloidal 0.011 MG/MG Topical Ointment [MG 217]",BrandedDrug
+1001056,coal tar 10 MG/ML Medicated Shampoo [Betatar Gel],BrandedDrug
+1001057,coal tar 10 MG/ML Medicated Shampoo [Doctar],BrandedDrug
+1001058,Coal Tar 10 MG/ML Medicated Shampoo [Neutrogena T/Gel Extra Strength],BrandedDrug
+1001059,coal tar 10 MG/ML Medicated Shampoo [Zetar],BrandedDrug
+1001072,Coal Tar 0.05 MG/MG Topical Gel [Estar],BrandedDrug
+1001074,coal tar 50 MG/ML Topical Lotion [Oxipor VHC],BrandedDrug
+1001076,coal tar 20 MG/ML Topical Oil [Doak Tar Oil],BrandedDrug
+1001077,Coal Tar 50 MG/ML Topical Oil [Neutrogena T/Derm],BrandedDrug
+1001078,coal tar 43 MG/ML Medicated Shampoo [Pentrax Gold],BrandedDrug
+1001079,Coal Tar 50 MG/ML Topical Cream [Tegrin Medicated],BrandedDrug
+1001080,coal tar 30 MG/ML Medicated Shampoo [Doak Tar],BrandedDrug
+1001093,Coal Tar 75 MG/ML Topical Solution [Cutar],BrandedDrug
+1001097,Coal Tar 100 MG/ML / Salicylic Acid 50 MG/ML Medicated Shampoo [Tarsum],BrandedDrug
+1001098,coal tar 20 MG/ML / lactic acid 50 MG/ML / salicylic acid 30 MG/ML Topical Lotion [SLT],BrandedDrug
+1001122,Coal Tar 100 MG/ML Topical Lotion,ClinicalDrug
+1001123,coal tar 75 MG/ML Topical Oil,ClinicalDrug
+1001124,coal tar 330 MG/ML Topical Oil,ClinicalDrug
+1001125,coal tar 16 MG/ML Topical Cream,ClinicalDrug
+1001126,Coal Tar 50 MG/ML Topical Cream,ClinicalDrug
+1001127,coal tar 0.025 MG/MG Topical Gel,ClinicalDrug
+1001129,allantoin 17 MG/ML / coal tar 50 MG/ML Topical Cream,ClinicalDrug
+1001130,allantoin 17 MG/ML / coal tar 50 MG/ML Topical Lotion,ClinicalDrug
+1001131,Coal Tar 100 MG/ML / Salicylic Acid 40 MG/ML Medicated Shampoo,ClinicalDrug
+1001152,coal tar 50 MG/ML / salicylic acid 30 MG/ML Topical Cream,ClinicalDrug
+1001153,coal tar 0.016 MG/MG / salicylic acid 0.02 MG/MG Topical Gel,ClinicalDrug
+1001157,coal tar 25 MG/ML Topical Solution,ClinicalDrug
+1001158,coal tar 75 MG/ML Topical Solution,ClinicalDrug
+1001159,coal tar 255 MG/ML Topical Oil,ClinicalDrug
+1001160,coal tar 0.015 MG/MG Topical Gel,ClinicalDrug
+1001161,coal tar 0.02 MG/MG Topical Gel,ClinicalDrug
+1001172,coal tar 0.1 MG/MG Topical Gel,ClinicalDrug
+1001173,coal tar 0.05 MG/MG Topical Ointment,ClinicalDrug
+1001174,allantoin 20 MG/ML / coal tar 50 MG/ML Topical Cream,ClinicalDrug
+1001175,allantoin 20 MG/ML / coal tar 50 MG/ML Topical Lotion,ClinicalDrug
+1001177,coal tar 50 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001178,Coal Tar 50 MG/ML / Salicylic Acid 20 MG/ML / Sulfur 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001179,coal tar 0.05 MG/MG Medicated Bar Soap,ClinicalDrug
+1001180,coal tar 20 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001193,Coal Tar 100 MG/ML / Salicylic Acid 50 MG/ML Medicated Shampoo,ClinicalDrug
+1001194,coal tar 20 MG/ML Topical Lotion,ClinicalDrug
+1001195,chloroxylenol 5 MG/ML / coal tar 10 MG/ML Medicated Shampoo,ClinicalDrug
+1001197,coal tar 0.005 MG/MG Medicated Bar Soap,ClinicalDrug
+1001199,Coal Tar 0.1 MG/MG Topical Ointment,ClinicalDrug
+1001212,boric acid 30 MG/ML / coal tar 11.2 MG/ML Topical Solution,ClinicalDrug
+1001213,coal tar 60 MG/ML Topical Cream,ClinicalDrug
+1001217,coal tar 53 MG/ML Topical Solution,ClinicalDrug
+1001218,coal tar 10 MG/ML / triamcinolone 1 MG/ML Topical Cream,ClinicalDrug
+1001219,coal tar 50 MG/ML Topical Solution,ClinicalDrug
+1001220,coal tar 10 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001221,allantoin 20 MG/ML / coal tar 50 MG/ML Topical Solution,ClinicalDrug
+1001232,coal tar 70 MG/ML Medicated Shampoo,ClinicalDrug
+1001234,coal tar 15 MG/ML Topical Lotion,ClinicalDrug
+1001235,Coal Tar 125 MG/ML Medicated Shampoo,ClinicalDrug
+1001237,coal tar 20 MG/ML Medicated Shampoo [Theraplex T],BrandedDrug
+1001274,coal tar 300 MG/ML,ClinicalDrugComp
+1001276,Coal Tar 87.5 MG/ML,ClinicalDrugComp
+1001277,coal tar 90 MG/ML,ClinicalDrugComp
+1001278,Coal Tar 125 MG/ML,ClinicalDrugComp
+1001281,coal tar 25 MG/ML,ClinicalDrugComp
+1001292,coal tar 0.016 MG/MG,ClinicalDrugComp
+1001293,coal tar 0.0175 MG/MG,ClinicalDrugComp
+1001294,coal tar 75 MG/ML,ClinicalDrugComp
+1001298,coal tar 43 MG/ML,ClinicalDrugComp
+1001299,coal tar 30 MG/ML,ClinicalDrugComp
+1001300,coal tar 0.002 MG/MG,ClinicalDrugComp
+1001312,coal tar 70 MG/ML,ClinicalDrugComp
+1001313,coal tar 255 MG/ML,ClinicalDrugComp
+1001314,coal tar 53 MG/ML,ClinicalDrugComp
+1001315,coal tar 0.08 MG/MG,ClinicalDrugComp
+1001316,coal tar 330 MG/ML,ClinicalDrugComp
+1001317,coal tar 11.2 MG/ML,ClinicalDrugComp
+1001337,coal tar 60 MG/ML,ClinicalDrugComp
+1001338,coal tar 150 MG/ML,ClinicalDrugComp
+1001339,coal tar 5 MG/ML,ClinicalDrugComp
+1001341,coal tar 15 MG/ML,ClinicalDrugComp
+1001352,coal tar 16 MG/ML,ClinicalDrugComp
+1001353,Coal tar extract 20 MG/ML,ClinicalDrugComp
+1001355,coal tar 0.0125 MG/MG Topical Gel,ClinicalDrug
+1001356,coal tar 0.015 MG/MG / flumethasone 0.0002 MG/MG / salicylic acid 0.01 MG/MG Topical Ointment,ClinicalDrug
+1001357,coal tar 28 MG/ML Medicated Shampoo,ClinicalDrug
+1001358,coal tar 75 MG/ML Topical Lotion,ClinicalDrug
+1001359,coal tar 0.0125 MG/MG,ClinicalDrugComp
+1001360,coal tar 28 MG/ML,ClinicalDrugComp
+1001372,coal tar 0.002 MG/MG Medicated Bar Soap,ClinicalDrug
+1001373,coal tar 1.1 MG/ML,ClinicalDrugComp
+1001375,coal tar 480 MG/ML,ClinicalDrugComp
+1001376,benzocaine 20 MG/ML / coal tar 480 MG/ML / salicylic acid 10 MG/ML Topical Lotion,ClinicalDrug
+1001377,coal tar 5.5 MG/ML,ClinicalDrugComp
+1001378,coal tar 5.5 MG/ML / resorcinol 10 MG/ML / salicylic acid 18 MG/ML Topical Cream,ClinicalDrug
+1001381,coal tar 20 MG/ML Topical Foam,ClinicalDrug
+1001392,coal tar 20 MG/ML Topical Foam [Scytera],BrandedDrug
+1001419,cocaine,Ingredient
+1001420,cocaine 135 MG Oral Tablet,ClinicalDrug
+1001434,cocaine 100 MG/ML,ClinicalDrugComp
+1001435,cocaine 135 MG,ClinicalDrugComp
+1001436,cocaine 40 MG/ML,ClinicalDrugComp
+1001476,Hemorrhoid,LoincSystem
+1001918,Insulin [Moles/volume] in Serum or Plasma --post meal,LabTest
+1002030,IgE [Units/volume] in Tear,LabTest
+1002093,Haemophilus influenzae DNA [Presence] by NAA with probe detection in Positive blood culture,LabTest
+1002121,Insulin [Units/volume] mean in Serum or Plasma,LabTest
+1002168,Neisseria meningitidis DNA [Presence] by NAA with probe detection in Positive blood culture,LabTest
+1002274,Right ventricular outflow tract proximal Diameter by US.2D.PSAX,ClinicalObservation
+1002461,Diameter | Fetus | Eye | OB ultrasound,LoincHierarchy
+1002477,Pus,LoincSystem
+1002491,Arterial pulse intensity | Radial artery Left | Specific heart rate,LoincHierarchy
+1002511,Heart rate measure duration | Heart study | General heart rate,LoincHierarchy
+1002513,Heart rate measurement site | Patient | General heart rate,LoincHierarchy
+1002520,Diameter | Fetus | Tricuspid valve | OB ultrasound,LoincHierarchy
+1002558,Exudate,LoincSystem
+1002575,Arterial pulse intensity | Brachial artery Left | Specific heart rate,LoincHierarchy
+1002603,Arterial pulse intensity | Posterior tibial artery Left | Specific heart rate,LoincHierarchy
+1002621,Heart rate | XXX | General heart rate,LoincHierarchy
+1002632,A-wave amplitude | Heart.atrium Right | Specific venous blood pressure,LoincHierarchy
+1002638,Arterial pulse intensity | Ulnar artery Right | Specific heart rate,LoincHierarchy
+1002662,Pulse wave form | Dorsal pedal artery Left | Specific heart rate,LoincHierarchy
+10027,"Continuing pregnancy after intrauterine death of one fetus or more, unspecified trimester",5CharNonbillCode
+1002758,Diameter | Fetus | Lung Right | OB ultrasound,LoincHierarchy
+1002782,Heart rate | XXX | Specific heart rate,LoincHierarchy
+1002804,Arterial pulse intensity | Popliteal artery Left | Specific heart rate,LoincHierarchy
+1002805,Edema,LoincComponent
+1002806,Diameter | Fetus | Lung Left | OB ultrasound,LoincHierarchy
+1002808,Diameter | Colon lumen | OB ultrasound,LoincHierarchy
+1002818,Pulse wave form | Radial artery Left | Specific heart rate,LoincHierarchy
+1002852,Pulse wave form | Dorsal pedal artery | Specific heart rate,LoincHierarchy
+1002858,Infection of foot,LoincComponent
+1002871,Diameter | Fetus | Aorta | OB ultrasound,LoincHierarchy
+1002900,Diameter | Fetus | Right eye | OB ultrasound,LoincHierarchy
+1002931,V wave amplitude | Heart.atrium Left | Specific venous blood pressure,LoincHierarchy
+1002933,V wave amplitude | Heart.atrium Right | Specific venous blood pressure,LoincHierarchy
+1002939,Diameter | Fetus | Urinary bladder | OB ultrasound,LoincHierarchy
+1002944,Arterial pulse intensity | Carotid artery Right | Specific heart rate,LoincHierarchy
+1002947,V wave amplitude | Jugular vein | Specific venous blood pressure,LoincHierarchy
+1002959,Diameter | Pulmonary artery | OB ultrasound,LoincHierarchy
+1002962,Pulse wave form | Carotid artery Right | Specific heart rate,LoincHierarchy
+1002979,Heart rate taken in specific position,LoincHierarchy
+1002982,Heart rate | XXX | Timed specific heart rate,LoincHierarchy
+1003002,Diameter | Fetus | OB ultrasound,LoincHierarchy
+1003042,Diameter | Fetus | Pulmonary artery | OB ultrasound,LoincHierarchy
+1003050,Pulse wave form | Brachial artery Left | Specific heart rate,LoincHierarchy
+1003061,Arterial pulse quality | XXX | General heart rate,LoincHierarchy
+1003063,Diameter | Renal pelvis Right | OB ultrasound,LoincHierarchy
+1003065,A-wave amplitude | Pulmonary artery wedge | Specific venous blood pressure,LoincHierarchy
+1003084,Pulse wave form | Carotid artery Left | Specific heart rate,LoincHierarchy
+1003089,Diameter | Pulmonic valve | Cardiac ultrasound,LoincHierarchy
+1003097,Heart rate | Cardiac apex | Specific heart rate,LoincHierarchy
+1003106,General heart rate,LoincHierarchy
+1003115,Diameter | Right ventricular outflow tract proximal | Cardiac ultrasound,LoincHierarchy
+1003131,Diameter | Fetus | Bowel | OB ultrasound,LoincHierarchy
+1003158,A-wave amplitude | Heart.atrium Left | Specific venous blood pressure,LoincHierarchy
+1003181,Heart rate | Peripheral artery | Specific heart rate,LoincHierarchy
+1003184,Fetal chromosome 21 trisomy | Plasma cell-free DNA | Trisomies,LoincHierarchy
+1003210,Arterial pulse intensity | Dorsal pedal artery Right | Specific heart rate,LoincHierarchy
+1003212,Diameter | Cervical canal | OB ultrasound,LoincHierarchy
+1003217,Diameter | Fetus | Aortic valve | OB ultrasound,LoincHierarchy
+1003226,Diameter | Follicle | OB ultrasound,LoincHierarchy
+1003265,Heart rate special circumstances | Patient | General heart rate,LoincHierarchy
+1003270,Diameter | Cervical canal internal os | OB ultrasound,LoincHierarchy
+1003288,Arterial pulse intensity | Brachial artery Right | Specific heart rate,LoincHierarchy
+1003300,Pulse wave form | Femoral artery Left | Specific heart rate,LoincHierarchy
+1003302,Specific heart rate,LoincHierarchy
+1003311,Pulse wave form | Popliteal artery Right | Specific heart rate,LoincHierarchy
+1003315,Arterial pulse intensity | Popliteal artery Right | Specific heart rate,LoincHierarchy
+1003329,Heart rate | Heart | Specific heart rate,LoincHierarchy
+1003333,Heart rate method | Heart rate measure | General heart rate,LoincHierarchy
+1003342,Diameter | Fetus | Small bowel | OB ultrasound,LoincHierarchy
+1003368,Diameter | Fetus | Renal pelvis Left | OB ultrasound,LoincHierarchy
+1003404,Diameter | Fetus | Yolk sac | OB ultrasound,LoincHierarchy
+1003446,Arterial pulse intensity | Femoral artery Left | Specific heart rate,LoincHierarchy
+1003449,Arterial pulse intensity | Dorsal pedal artery Left | Specific heart rate,LoincHierarchy
+1003457,Diameter | Renal pelvis Left | OB ultrasound,LoincHierarchy
+1003476,Diameter | Fetus | Umbilical vein | OB ultrasound,LoincHierarchy
+1003485,Heart rate | Capillary bed | Specific heart rate,LoincHierarchy
+1003543,Orthostatic heart rate | Arterial system | Heart rate taken in specific position,LoincHierarchy
+1003552,Pulse wave form | Ulnar artery Right | Specific heart rate,LoincHierarchy
+1003574,Heart rate | Intra arterial line | Specific heart rate,LoincHierarchy
+1003586,Diameter | Fetus | Pulmonic valve | OB ultrasound,LoincHierarchy
+1003629,Arterial pulse intensity | Posterior tibial artery Right | Specific heart rate,LoincHierarchy
+1003673,Pulse wave form | Ulnar artery Left | Specific heart rate,LoincHierarchy
+1003677,Diameter | Fetus | Colon lumen | OB ultrasound,LoincHierarchy
+1003684,Sibling,LoincComponent
+1003690,Arterial pulse intensity | Femoral artery Right | Specific heart rate,LoincHierarchy
+1003699,Arterial pulse intensity | Carotid artery Left | Specific heart rate,LoincHierarchy
+1003701,Dysarthria,LoincComponent
+1003703,Diameter | Fetus | Renal pelvis Right | OB ultrasound,LoincHierarchy
+1003733,Diameter | Heart ventricle Left outflow tract | OB ultrasound,LoincHierarchy
+1003745,Arterial pulse intensity | Dorsal pedal artery | Specific heart rate,LoincHierarchy
+1003754,Diameter | Fetus | Heart ventricle Right outflow tract | OB ultrasound,LoincHierarchy
+1003773,Arterial pulse intensity | Radial artery Right | Specific heart rate,LoincHierarchy
+1003810,Diameter | Small bowel | OB ultrasound,LoincHierarchy
+1003858,Diameter | Gestational sac | OB ultrasound,LoincHierarchy
+1003863,Pulse wave form | Posterior tibial artery Left | Specific heart rate,LoincHierarchy
+1003869,Heart rate | Arterial system | General heart rate,LoincHierarchy
+1003871,Diameter | Cervical canal external os | OB ultrasound,LoincHierarchy
+1003882,Diameter | Fetus | Heart ventricle Left outflow tract | OB ultrasound,LoincHierarchy
+1003903,HIV,LoincMethod
+1003906,Pulse wave form | Femoral artery Right | Specific heart rate,LoincHierarchy
+1003916,Restricted affect,LoincComponent
+1003918,Arterial pulse intensity | XXX | General heart rate,LoincHierarchy
+1003952,Diameter | Fetus | Mitral valve | OB ultrasound,LoincHierarchy
+1003955,Heart rate | Fetus | Specific heart rate,LoincHierarchy
+1003968,Heart rate | Arterial system | Specific heart rate,LoincHierarchy
+1003999,Impaired concentration,LoincComponent
+1004003,Heart rate | Arterial system | Heart rate taken in specific position,LoincHierarchy
+1004007,Diameter | Bowel | OB ultrasound,LoincHierarchy
+1004009,Decreased appetite,LoincComponent
+1004019,Heart rate method | XXX | General heart rate,LoincHierarchy
+1004025,Heart rate,LoincHierarchy
+1004050,V wave amplitude | Vena cava | Specific venous blood pressure,LoincHierarchy
+1004051,Pulse wave form | Posterior tibial artery Right | Specific heart rate,LoincHierarchy
+1004068,Pulse wave form | Brachial artery Right | Specific heart rate,LoincHierarchy
+1004074,Pulse wave form | Popliteal artery Left | Specific heart rate,LoincHierarchy
+1004075,V wave amplitude | Pulmonary artery wedge | Specific venous blood pressure,LoincHierarchy
+1004092,Arterial pulse intensity | Ulnar artery Left | Specific heart rate,LoincHierarchy
+1004109,Pulse wave form | Radial artery Right | Specific heart rate,LoincHierarchy
+1004113,Diameter | Heart ventricle Right outflow tract | OB ultrasound,LoincHierarchy
+1004124,Heart rate | XXX | Heart rate taken in specific position,LoincHierarchy
+1004140,Timed specific heart rate,LoincHierarchy
+1004152,Heart rate rhythm | XXX | General heart rate,LoincHierarchy
+1004304,Levomepromazine,LoincComponent
+1004305,Date of previous biopsy,LoincComponent
+10049,Maternal care for (suspected) central nervous system malformation in fetus,4CharNonbillCode
+10052,Maternal care for (suspected) damage to fetus from viral disease in mother,4CharNonbillCode
+1005261,Lysosomal storage disorders,LoincComponent
+1005902,Pompe disease,LoincComponent
+1005904,Fabry disease,LoincComponent
+1005909,Gaucher disease,LoincComponent
+1005910,Krabbe disease,LoincComponent
+1006277,Premarin pill,LoincComponent
+1006471,Current smoker,LoincComponent
+1006517,Natural parent,LoincComponent
+1007895,Agoraphobias,LoincComponent
+1007897,Social phobias,LoincComponent
+1007932,Anhedonia,LoincComponent
+1007941,Increased appetite,LoincComponent
+1007942,Initial insomnia,LoincComponent
+1007943,Middle insomnia,LoincComponent
+1007944,Terminal insomnia,LoincComponent
+1007947,Excessive sleep,LoincComponent
+1007950,Elevated mood,LoincComponent
+1007951,Irritable mood,LoincComponent
+1007953,Pressured speech,LoincComponent
+1007955,Distractibility,LoincComponent
+1007967,Thought insertion,LoincComponent
+1007968,Thought broadcast,LoincComponent
+1007969,Thought withdrawal,LoincComponent
+1007970,Thought echo,LoincComponent
+1007972,Delusions,LoincComponent
+1007973,Delusions of guilt,LoincComponent
+1007974,Delusions of poverty,LoincComponent
+1007975,Nihilistic delusions,LoincComponent
+1007978,Persecutory delusions,LoincComponent
+1007979,Grandiose delusions,LoincComponent
+1007982,Bizarre delusions,LoincComponent
+1008000,Blunted affect,LoincComponent
+1008001,Inappropriate affect,LoincComponent
+1008003,Speech incoherent,LoincComponent
+1008006,Tremor at rest,LoincComponent
+1008007,Postural tremor,LoincComponent
+1008008,Rigidity,LoincComponent
+1008106,Hemophilia,LoincComponent
+1008156,Blood draw,LoincComponent
+1008422,Broken bone,LoincComponent
+1008428,Cataract,LoincComponent
+1008430,Cognitive impairment,LoincComponent
+1008433,Transverse myelitis,LoincComponent
+1008436,End-stage renal disease,LoincComponent
+1008437,Pulmonary hypertension,LoincComponent
+1008438,Pulmonary fibrosis,LoincComponent
+1008440,Pleural fibrosis,LoincComponent
+1008441,Pulmonary infarction,LoincComponent
+1008443,Cardiomyopathy,LoincComponent
+1008504,Chronic peritonitis,LoincComponent
+1008509,Avascular necrosis,LoincComponent
+1008510,Osteomyelitis,LoincComponent
+1008528,Diabetes,LoincComponent
+1008529,Malignancy,LoincComponent
+1008915,Hyperplastic polyps,LoincComponent
+1008955,Dukes,LoincComponent
+1009213,Cardiac arrest,LoincComponent
+1009229,Cardiac rhythm,LoincComponent
+1009247,Procedure complication,LoincComponent
+1009355,Alcohol - drug use,LoincComponent
+1010120,Jugular vein distension,LoincComponent
+1010178,Balancing - difficulty,LoincComponent
+1010451,Facial palsy,LoincComponent
+1010454,Limb ataxia,LoincComponent
+1010484,End Stage Renal Disease,LoincMethod
+1010761,Glial fibrillary acidic protein,LoincComponent
+1011092,Vision testing,LoincComponent
+1011554,hemodialysis,LoincComponent
+1011555,peritoneal dialysis,LoincComponent
+1011576,Skin tear(s),LoincComponent
+10116,"Oligohydramnios, unspecified trimester",5CharNonbillCode
+1011679,ECG,LoincComponent
+1011764,Cyanocobalamin,LoincComponent
+1011765,Diacetate,LoincComponent
+1011898,Left ventricular hypertrophy,LoincComponent
+1012148,Insulin Lente,LoincComponent
+1012149,Insulin NPH,LoincComponent
+1012150,Insulin semilente,LoincComponent
+1012151,Insulin ultralente,LoincComponent
+1012153,Carbonyl hemoglobin,LoincComponent
+1012160,Diphenoxylate+Atropine,LoincComponent
+1012170,amLODIPine+Benazepril,LoincComponent
+1012172,hydroCHLOROthiazide+Losartan,LoincComponent
+1012173,HYDROcodone+Acetaminophen,LoincComponent
+1012174,HYDROcodone+Chlorpheniramine,LoincComponent
+1012175,Irbesartan+hydroCHLOROthiazide,LoincComponent
+1012176,Niacin+Lovastatin,LoincComponent
+1012178,Yeast bakers,LoincComponent
+1012185,Avibactam,LoincComponent
+1012249,Birth order,LoincComponent
+1012310,NTDS,LoincMethod
+1012336,Alcohol use,LoincComponent
+1012448,Bartholin cyst,LoincSystem
+1012467,Dimethylarginine,LoincComponent
+1012478,Phosphatidylserine,LoincComponent
+1012479,Squamous cell carcinoma,LoincComponent
+1012559,Phosphatidate,LoincComponent
+1012560,Phosphatidylethanolamine,LoincComponent
+1012565,Methicillin resistant Staphylococcus aureus,LoincComponent
+1012567,Trauma,LoincMethod
+1012651,Ribosomal,LoincComponent
+1012657,Incontinence,LoincComponent
+1012774,Sitosterol,LoincComponent
+1012813,P53 protein,LoincComponent
+10131,"Placentitis, unspecified trimester",6CharNonbillCode
+1013436,Highest pressure injury stage,LoincComponent
+1013445,Premature infant,LoincComponent
+1013474,Evoked potential,LoincMethod
+1013550,Temazepam glucuronide,LoincComponent
+1013551,LORazepam glucuronide,LoincComponent
+1013557,Guidance for deep biopsy,LoincComponent
+10140,"Preterm labor with preterm delivery, unspecified trimester",5CharNonbillCode
+1014043,Cardiovascular disease,LoincComponent
+10141,Preterm labor second trimester with preterm delivery second trimester,5CharNonbillCode
+10142,Preterm labor second trimester with preterm delivery third trimester,5CharNonbillCode
+1014210,Heart beat,LoincComponent
+1014258,Oxazepam glucuronide,LoincComponent
+10143,Preterm labor third trimester with preterm delivery third trimester,5CharNonbillCode
+1014314,Stenosis,LoincComponent
+1014385,by Objective refraction,LoincMethod
+1014386,by Subjective refraction,LoincMethod
+10144,"Term delivery with preterm labor, unspecified trimester",5CharNonbillCode
+1014409,Right pupil,LoincSystem
+1014410,Left pupil,LoincSystem
+1014420,by Confrontation,LoincMethod
+1014459,Paralysis,LoincComponent
+1014460,Paresthesia,LoincComponent
+1014519,Bowel sounds,LoincComponent
+1014521,Passing flatus,LoincComponent
+1014614,Surgical procedures of cardiovascular system,LoincComponent
+1014618,Mucopolysaccharidosis type I,LoincComponent
+1014620,Heart sounds,LoincComponent
+1014699,International classification of retinoblastoma,LoincMethod
+10147,Obstructed labor due to incomplete rotation of fetal head,4CharNonbillCode
+1014716,Involuntary movements,LoincComponent
+1014783,Cardiac surgery,LoincMethod
+10148,Obstructed labor due to breech presentation,4CharNonbillCode
+1014826,Premature coronary artery disease,LoincComponent
+1014889,Stomach cancer,LoincSystem
+1014894,Chronic lymphocytic leukemia,LoincComponent
+10149,Obstructed labor due to face presentation,4CharNonbillCode
+1014933,Blood loss,LoincComponent
+1014991,Electrolyte imbalance,LoincComponent
+10150,Obstructed labor due to brow presentation,4CharNonbillCode
+10151,Obstructed labor due to shoulder presentation,4CharNonbillCode
+1015189,Headaches,LoincComponent
+10152,Obstructed labor due to compound presentation,4CharNonbillCode
+1015309,Obstruction,LoincComponent
+1015396,Respiratory insufficiency,LoincComponent
+1015421,Emotional abuse,LoincComponent
+1015422,Physical abuse,LoincComponent
+1015423,Sexual abuse,LoincComponent
+1015427,Domestic violence,LoincComponent
+1015775,Oblique and lateral,LoincComponent
+1016367,Maculopapular rash,LoincComponent
+1016368,Lymphadenopathy,LoincComponent
+1016458,Bariatric surgery,LoincMethod
+1016505,Epilepsy,LoincMethod
+1016747,Phosphorus,LoincComponent
+1017182,Guidance for ligation,LoincComponent
+1017281,Estimated BMI greater than 40,LoincComponent
+1017330,Brain injury,LoincMethod
+1017374,Healed pressure injuries,LoincComponent
+1017425,Guidance for fine needle aspiration,LoincComponent
+1017512,Polytrauma,LoincMethod
+1017668,Coronary artery bypass graft surgery,LoincComponent
+1017669,Percutaneous coronary intervention,LoincComponent
+1017670,Hyperlipidemia,LoincComponent
+1017758,Exudate,LoincComponent
+1017770,Swollen joint,LoincComponent
+10180,Unspecified superficial injury of scalp,5CharNonbillCode
+1018016,Depression symptoms,LoincComponent
+1018017,Anxiety symptoms,LoincComponent
+1018027,Eating disorder symptoms,LoincComponent
+1018116,Pressure ulcer stage,LoincComponent
+10183,Superficial foreign body of scalp,5CharNonbillCode
+10184,Insect bite (nonvenomous) of scalp,5CharNonbillCode
+1018424,Lead,LoincComponent
+1018427,"2-Methyl,3-Hydroxybutyrate",LoincComponent
+1018428,3-Hydroxybutyrate,LoincComponent
+1018431,Acyl carnitine,LoincComponent
+1018433,Angioplasty,LoincComponent
+1018441,Cancer Ag 19-5,LoincComponent
+1018451,Cobalamin,LoincComponent
+1018477,Diphenylhydramine,LoincComponent
+1018489,Flubiprofen,LoincComponent
+1018497,Hemoglobin.fetal,LoincComponent
+1018498,Hemoglobin.glycated,LoincComponent
+1018514,Lymphocytotoxicity,LoincComponent
+1018525,Nitrofural,LoincComponent
+1018533,Palmitoylcarnitine,LoincComponent
+1018555,Salicylazosulfapyridine,LoincComponent
+1018607,Overweight,LoincComponent
+1018678,Heart failure,LoincMethod
+1019031,Thromboembolism,LoincMethod
+1019129,Pregnancy complication,LoincComponent
+10192,Abrasion of right eyelid and periocular area,6CharNonbillCode
+10193,Abrasion of left eyelid and periocular area,6CharNonbillCode
+1019574,^Brother,LoincSystem
+1019575,^Cancer,LoincSystem
+1019582,^Daughter,LoincSystem
+1019590,^Family member,LoincSystem
+1019593,^Father,LoincSystem
+1019600,^Mother,LoincSystem
+1019603,^Newborn,LoincSystem
+1019605,^Parent,LoincSystem
+1019611,^Sister,LoincSystem
+1019612,^Son,LoincSystem
+1019681,BCL2,LoincComponent
+1019898,Spinal muscular atrophy,LoincComponent
+1019913,Plasma arterial,LoincSystem
+1019914,Plasma venous,LoincSystem
+1019917,Neck mass FNA,LoincSystem
+1019961,Biliary duct common,LoincSystem
+1019981,Left ciliary body,LoincSystem
+1019982,Right ciliary body,LoincSystem
+1019985,Left conjunctiva,LoincSystem
+1019986,Right conjunctiva,LoincSystem
+1020043,Left iris,LoincSystem
+1020044,Right iris,LoincSystem
+1020111,Sinus,LoincSystem
+1020227,Conjunctiva,LoincSystem
+1020254,Choroidea,LoincSystem
+1020313,Neck mass,LoincSystem
+1020834,Brachioradialis,LoincSystem
+1020963,Iris,LoincSystem
+10210,Unspecified superficial injury of nose,5CharNonbillCode
+1021007,Macula,LoincSystem
+1021051,Nasal septum,LoincSystem
+1021077,Nostril,LoincSystem
+1021148,Pigmentation,LoincSystem
+10212,External constriction of nose,5CharNonbillCode
+1021200,Pupil,LoincSystem
+1021209,Rash,LoincSystem
+1021263,Skin scar,LoincSystem
+1021290,Toenail,LoincSystem
+10213,Superficial foreign body of nose,5CharNonbillCode
+10214,Insect bite (nonvenomous) of nose,5CharNonbillCode
+10219,Abrasion of right ear,6CharNonbillCode
+10220,Abrasion of left ear,6CharNonbillCode
+1022041,Radius,LoincSystem
+1022050,Ulna,LoincSystem
+1022067,Ulnar artery,LoincSystem
+10225,Contusion of right ear,6CharNonbillCode
+10226,Contusion of left ear,6CharNonbillCode
+10231,Superficial foreign body of right ear,6CharNonbillCode
+10232,Superficial foreign body of left ear,6CharNonbillCode
+10234,Insect bite (nonvenomous) of right ear,6CharNonbillCode
+10235,Insect bite (nonvenomous) of left ear,6CharNonbillCode
+10242,Abrasion of lip,6CharNonbillCode
+1024395,Nasopharynx,LoincSystem
+10245,External constriction of lip,6CharNonbillCode
+10246,External constriction of oral cavity,6CharNonbillCode
+10247,Superficial foreign body of lip,6CharNonbillCode
+10248,Superficial foreign body of oral cavity,6CharNonbillCode
+10250,Insect bite (nonvenomous) of oral cavity,6CharNonbillCode
+10253,Unspecified superficial injury of other part of head,5CharNonbillCode
+10254,Abrasion of other part of head,5CharNonbillCode
+10255,Blister (nonthermal) of other part of head,5CharNonbillCode
+1025579,^Sibling,LoincSystem
+10256,Contusion of other part of head,5CharNonbillCode
+10258,Superficial foreign body of other part of head,5CharNonbillCode
+1025895,Amniocentesis,LoincMethod
+10259,Insect bite (nonvenomous) of other part of head,5CharNonbillCode
+1025971,Bagolini test,LoincMethod
+1025988,Enteroscopy,LoincMethod
+1026016,Perimetry,LoincMethod
+1026028,Peritoneoscopy,LoincMethod
+1026032,Proctosigmoidoscopy.rigid,LoincMethod
+10261,Unspecified superficial injury of unspecified part of head,5CharNonbillCode
+1026167,TRH,LoincComponent
+1026169,L-dopa,LoincComponent
+1026181,Mumps,LoincComponent
+1026192,HCG,LoincComponent
+1026205,IX,LoincComponent
+1026237,Vascular surgery,LoincMethod
+1026271,Sibling,LoincSystem
+1026281,Atherectomy,LoincComponent
+10264,Contusion of unspecified part of head,5CharNonbillCode
+1026403,Circle of Willis,LoincSystem
+1026503,Carotid artery.external Left,LoincSystem
+1026583,Carotid artery.external Right,LoincSystem
+1026584,Carotid artery.internal Right,LoincSystem
+10266,Superficial foreign body of unspecified part of head,5CharNonbillCode
+10270,Laceration without foreign body of scalp,5CharNonbillCode
+1027087,Speech disturbance,LoincComponent
+10271,Laceration with foreign body of scalp,5CharNonbillCode
+1027189,Genotype,LoincProperty
+1027197,Eating disorders,LoincMethod
+10272,Puncture wound without foreign body of scalp,5CharNonbillCode
+1027227,Ileal conduit,LoincSystem
+1027253,Carotid artery.internal Left,LoincSystem
+10273,Puncture wound with foreign body of scalp,5CharNonbillCode
+10274,Open bite of scalp,5CharNonbillCode
+1027456,Restriction Fragment Length Polymorphysm (RFLP),LoincMethod
+1027494,Insulin type,LoincComponent
+1027583,BRCA1,LoincComponent
+1027584,BRCA2,LoincComponent
+1027600,Failure to thrive,LoincComponent
+1027602,Caregiver role strain,LoincComponent
+1027603,Relocation stress syndrome,LoincComponent
+1027607,Perioperative positioning injury,LoincComponent
+1027609,Substance abuse,LoincComponent
+1027610,Tobacco abuse,LoincComponent
+1027611,Alcohol abuse,LoincComponent
+1027612,Drug abuse,LoincComponent
+1027623,Newborn behavior alteration,LoincComponent
+1027624,Infant behavior alteration,LoincComponent
+1027625,Child behavior alteration,LoincComponent
+1027626,Adolescent behavior alteration,LoincComponent
+1027627,Adult behavior alteration,LoincComponent
+1027629,Nausea,LoincComponent
+1027630,Confusion,LoincComponent
+1027631,Memory impairment,LoincComponent
+1027633,Older adult behavior alteration.sixty five years and older,LoincComponent
+1027711,Breast tumor,LoincSystem
+1027712,Skin melanoma,LoincSystem
+1027713,Prostate tumor,LoincSystem
+1027726,Bladder tumor,LoincComponent
+1027982,Krebs von den Lungen-6,LoincComponent
+1027984,Tauroursodeoxycholate,LoincComponent
+1027988,Glycocholate,LoincComponent
+1027992,Taurocholate,LoincComponent
+1028000,11-Ketotestosterone,LoincComponent
+1028136,U-47700,LoincComponent
+1028137,AH-7921,LoincComponent
+1028152,Suicidal behavior,LoincComponent
+1028181,Butyrylfentanyl,LoincComponent
+1028182,Acrylfentanyl,LoincComponent
+1028185,Furanylfentanyl,LoincComponent
+1028189,3-Methylfentanyl,LoincComponent
+1028251,Primary mediastinal large B-cell lymphoma,LoincComponent
+1028252,Diffuse large B-cell lymphoma,LoincComponent
+1028257,Diffuse large B-cell lymphoma.activated B-cell subtype,LoincComponent
+1028261,Collapse,LoincComponent
+1028262,Pericardial effusion,LoincComponent
+1028335,Collagen type VII,LoincComponent
+1028349,HOGA1 gene,LoincComponent
+1028681,Glutaric acidemia type 2,LoincComponent
+1028812,Neurofilament,LoincComponent
+1028880,Arthroscopy,LoincMethod
+1028912,Cardiac catheterization,LoincMethod
+1028913,Cardiac echo,LoincMethod
+1028933,Colonoscopy,LoincMethod
+1028959,Nucleotide sequence,LoincProperty
+1028972,Suxamethonium,LoincComponent
+1028982,Electroencephalogram (EEG),LoincMethod
+1028983,Esophagogastro duodenoscopy (EGD),LoincMethod
+1028987,Electrocardiogram (EKG),LoincMethod
+1029003,Endoscopic retrograde cholangiopancreatography (ERCP),LoincMethod
+1029025,Fick method,LoincMethod
+1029028,Flexible sigmoidoscopy,LoincMethod
+1029039,Neural tube defect,LoincComponent
+1029070,Holter monitor,LoincMethod
+1029109,Laparoscopy,LoincMethod
+1029221,Births.preterm,LoincComponent
+1029273,Radioallergosorbent test (RAST),LoincMethod
+10293,Unspecified open wound of nose,5CharNonbillCode
+10294,Laceration without foreign body of nose,5CharNonbillCode
+1029431,Ultrasound.doppler,LoincMethod
+1029433,Ultrasound.doppler.CW,LoincMethod
+1029483,Rh immune globulin,LoincSystem
+10295,Laceration with foreign body of nose,5CharNonbillCode
+1029564,Ultrasound.M-mode,LoincMethod
+10296,Puncture wound without foreign body of nose,5CharNonbillCode
+10297,Puncture wound with foreign body of nose,5CharNonbillCode
+10298,Open bite of nose,5CharNonbillCode
+1029833,Abscess,LoincSystem
+1029916,Biliary duct,LoincSystem
+1029944,Burn,LoincSystem
+1029998,Calculus (stone),LoincSystem
+1030019,Cancer,LoincSystem
+1030034,Cerebral artery anterior,LoincSystem
+1030035,Cerebral artery middle,LoincSystem
+1030058,PCCA gene,LoincComponent
+1030060,Colostrum,LoincSystem
+1030067,Cerebral spinal fluid,LoincSystem
+1030142,Abortions,LoincComponent
+1030143,Abortions.induced,LoincComponent
+1030144,Abortions.spontaneous,LoincComponent
+1030195,Babinski reflex,LoincComponent
+1030214,Birth injury,LoincComponent
+1030354,Fibroblast,LoincSystem
+1030478,Ectopic pregnancy,LoincComponent
+1030542,Fluid balance,LoincComponent
+1030686,Groin,LoincSystem
+1030704,Injury intent,LoincComponent
+1030707,Insertion site,LoincComponent
+1030797,Microcalcifications,LoincComponent
+10308,Puncture wound without foreign body of right ear,6CharNonbillCode
+10309,Puncture wound without foreign body of left ear,6CharNonbillCode
+1030926,Physical findings skin pressure injury,LoincComponent
+10311,Puncture wound with foreign body of right ear,6CharNonbillCode
+10312,Puncture wound with foreign body of left ear,6CharNonbillCode
+1031325,Jugular vein distention,LoincComponent
+1031443,Weight loss,LoincComponent
+1031595,Meconium,LoincSystem
+1031870,Abdominal pain,LoincComponent
+1031906,Nipple discharge,LoincSystem
+1031910,Adjustment impairment,LoincComponent
+1031915,Nose,LoincSystem
+1031954,Alzheimer's disease,LoincComponent
+1031962,Anticipatory grieving,LoincComponent
+1031963,Anxiety,LoincComponent
+1031964,Anxiety disorder,LoincComponent
+1031973,Aphasia,LoincComponent
+1031984,Arteriosclerotic heart disease,LoincComponent
+1031992,Asthma,LoincComponent
+1031997,Auditory alteration,LoincComponent
+1031998,Autism,LoincComponent
+1031999,Autonomic dysreflexia,LoincComponent
+1032006,Back pain,LoincComponent
+1032027,Behavioral symptoms,LoincComponent
+1032040,Body nutrition deficit,LoincComponent
+1032044,Bone pain,LoincComponent
+1032050,Bowel elimination alteration,LoincComponent
+1032057,Bowel incontinence,LoincComponent
+1032070,Cancer,LoincComponent
+1032073,Cardiac dysrhythmias,LoincComponent
+1032088,Cataracts,LoincComponent
+1032092,Cerebral alteration,LoincComponent
+1032093,Cerebral palsy,LoincComponent
+1032094,Cerebrovascular accident,LoincComponent
+1032102,Change in mood,LoincComponent
+1032120,Colonic constipation,LoincComponent
+1032121,Comatose,LoincComponent
+1032128,Communication impairment,LoincComponent
+1032133,Compromised family coping,LoincComponent
+1032138,Congestive heart failure,LoincComponent
+1032139,Conjunctivitis,LoincComponent
+1032140,Constipation,LoincComponent
+1032158,Pericardial fluid,LoincSystem
+1032194,Deep vein thrombosis,LoincComponent
+1032195,Defensive coping,LoincComponent
+1032196,Dehydrated,LoincComponent
+1032198,Delayed healing of surgical wound,LoincComponent
+1032202,Denial,LoincComponent
+1032207,Depression,LoincComponent
+1032211,Diabetes mellitus,LoincComponent
+1032212,Diabetic foot ulcer(s),LoincComponent
+1032213,Diabetic retinopathy,LoincComponent
+1032218,Diarrhea,LoincComponent
+1032222,Difficulty concentrating,LoincComponent
+1032225,Disabled family coping,LoincComponent
+1032246,Disorientation,LoincComponent
+1032280,Down's syndrome,LoincComponent
+1032284,Dry mouth,LoincComponent
+1032286,Plasma,LoincSystem
+1032287,Dysfunctional grieving,LoincComponent
+1032288,Easily distracted,LoincComponent
+1032304,Epilepsy,LoincComponent
+1032323,Family coping impairment,LoincComponent
+1032329,Fatigue,LoincComponent
+1032330,Fear,LoincComponent
+1032331,Fecal impaction,LoincComponent
+1032352,Fluid volume alteration,LoincComponent
+1032353,Fluid volume deficit,LoincComponent
+1032355,Fluid volume excess,LoincComponent
+1032362,Pleural fluid,LoincSystem
+1032375,Functional urinary incontinence,LoincComponent
+1032380,Gastrointestinal alteration,LoincComponent
+1032392,Grieving,LoincComponent
+1032399,Gustatory alteration,LoincComponent
+1032400,Hallucinations,LoincComponent
+1032407,Headache,LoincComponent
+1032411,Health-seeking behavior alteration,LoincComponent
+1032421,Hip fracture,LoincComponent
+1032424,Hip pain,LoincComponent
+1032433,HIV infection,LoincComponent
+1032441,Platelet poor plasma,LoincSystem
+1032443,Hypertension,LoincComponent
+1032446,Hypotension,LoincComponent
+1032447,Hypothermia,LoincComponent
+1032448,Hypothyroidism,LoincComponent
+1032466,Individual coping impairment,LoincComponent
+1032468,Infection of the foot,LoincComponent
+1032470,Infection with Clostridioides difficile,LoincComponent
+1032490,Internal bleeding,LoincComponent
+1032501,Joint pain,LoincComponent
+1032502,Kinesthetic alteration,LoincComponent
+1032514,Lack of appetite,LoincComponent
+1032540,Prostate Adenoma,LoincSystem
+1032550,Loose stools,LoincComponent
+1032557,Macular degeneration,LoincComponent
+1032565,Platelet rich plasma,LoincSystem
+1032579,Making self understood,LoincComponent
+1032584,Peritoneal fluid,LoincSystem
+1032585,Manic depression,LoincComponent
+1032624,Memory loss,LoincComponent
+1032659,Multiple sclerosis,LoincComponent
+1032660,Muscle aches,LoincComponent
+1032678,Night sweats,LoincComponent
+1032699,Noncompliance with fluid volume,LoincComponent
+1032771,Nutritional problems,LoincComponent
+1032776,Olfactory alteration,LoincComponent
+1032797,Osteoporosis,LoincComponent
+1032804,Other cardiovascular disease,LoincComponent
+1032808,Radial artery,LoincSystem
+1032817,Radial artery Left,LoincSystem
+1032836,Radial artery Right,LoincSystem
+1032854,Radius diaphysis,LoincSystem
+1032864,Painful joints,LoincComponent
+1032866,Paraplegia,LoincComponent
+1032870,Parenting alteration,LoincComponent
+1032873,Parkinson's disease,LoincComponent
+1032889,Perceived constipation,LoincComponent
+1032897,Peripheral vascular disease,LoincComponent
+1032919,Pneumonia,LoincComponent
+1032938,Pressure injury,LoincComponent
+1032939,Pressure injury stage,LoincComponent
+1033010,Quadriplegia,LoincComponent
+1033015,Rape trauma syndrome,LoincComponent
+1033016,Rashes,LoincComponent
+1033041,Reflex urinary incontinence,LoincComponent
+1033045,Renal pelvis Left,LoincSystem
+1033049,Renal alteration,LoincComponent
+1033050,Renal failure,LoincComponent
+1033062,Renal pelvis Right,LoincSystem
+1033131,Seizure disorder,LoincComponent
+1033140,Sensory perceptual alteration,LoincComponent
+1033148,Sexuality patterns alteration,LoincComponent
+1033169,Skin incision,LoincComponent
+1033182,Social interaction alteration,LoincComponent
+1033186,Socialization alteration,LoincComponent
+1033190,Speaking,LoincComponent
+1033206,Stasis pressure injury,LoincComponent
+1033211,Serum,LoincSystem
+1033221,Stomach pain,LoincComponent
+1033224,Stress urinary incontinence,LoincComponent
+1033235,Surgical wound,LoincComponent
+1033237,Surgical wounds,LoincComponent
+1033243,Swallowing disorder,LoincComponent
+1033245,Swallowing impairment,LoincComponent
+1033246,Swallowing problem,LoincComponent
+1033249,Syncope,LoincComponent
+1033251,Tactile alteration,LoincComponent
+1033317,Total urinary incontinence,LoincComponent
+1033326,Transient ischemic attack,LoincComponent
+1033330,Traumatic brain injury,LoincComponent
+1033351,Ulcers,LoincComponent
+1033363,Unilateral neglect,LoincComponent
+1033370,Unsteady gait,LoincComponent
+1033372,Urge urinary incontinence,LoincComponent
+1033373,Urinary elimination alteration,LoincComponent
+1033376,Urinary retention,LoincComponent
+1033395,Verbal impairment,LoincComponent
+1033398,Viral hepatitis,LoincComponent
+1033400,Visual alteration,LoincComponent
+1033407,Vomiting,LoincComponent
+1033423,Weakness,LoincComponent
+1033452,Wound infection,LoincComponent
+1033459,Synovial fluid,LoincSystem
+1033525,Radius.diaphysis Right,LoincSystem
+1033532,Ulna diaphysis Right,LoincSystem
+1033577,Surgical site,LoincSystem
+1033672,Twin,LoincComponent
+10337,Laceration without foreign body of lip,6CharNonbillCode
+1033700,Tumor,LoincSystem
+1033702,Ulcer,LoincSystem
+1033703,Ulna diaphysis,LoincSystem
+1033704,Ulnar artery Left,LoincSystem
+1033705,Ulnar artery Right,LoincSystem
+1033736,Water,LoincSystem
+1033739,Wound,LoincSystem
+1033740,Wound deep,LoincSystem
+10338,Laceration without foreign body of oral cavity,6CharNonbillCode
+1033821,Skin conditions,LoincComponent
+1033825,Pressure injuries - stage 2,LoincComponent
+1033826,Pressure injuries - stage 3,LoincComponent
+1033827,Pressure injuries - stage 4,LoincComponent
+1033828,Pressure injuries - unstageable due to non-removable dressing,LoincComponent
+1033858,Delirium,LoincComponent
+10339,Laceration with foreign body of lip,6CharNonbillCode
+10340,Laceration with foreign body of oral cavity,6CharNonbillCode
+10341,Puncture wound without foreign body of lip,6CharNonbillCode
+1034109,Preferred language,LoincComponent
+10342,Puncture wound without foreign body of oral cavity,6CharNonbillCode
+1034240,Pressure injuries - unstageable with suspected deep tissue injury in evolution,LoincComponent
+1034241,Pressure injuries - unstageable due to coverage of wound bed by slough/eschar,LoincComponent
+10343,Puncture wound with foreign body of lip,6CharNonbillCode
+1034320,HIV status,LoincComponent
+10344,Puncture wound with foreign body of oral cavity,6CharNonbillCode
+10345,Open bite of lip,6CharNonbillCode
+1034518,Neoplastic disease,LoincComponent
+1034563,Pressure ulcers,LoincComponent
+10346,Open bite of oral cavity,6CharNonbillCode
+1034605,Cardiovascular disease,LoincMethod
+1034610,Pulmonary disease,LoincMethod
+1034650,Stage 3 or 4 pressure injury with largest surface dimensions,LoincComponent
+1034716,Diabetic foot ulcers,LoincComponent
+10348,Laceration without foreign body of other part of head,5CharNonbillCode
+1034841,Myocardial infarction,LoincComponent
+10349,Laceration with foreign body of other part of head,5CharNonbillCode
+1034938,Paliperidone,LoincComponent
+1034953,Tocopherol,LoincComponent
+1034960,Restlessness,Answer
+1034980,Tetraploid,Answer
+1034984,Backaches,Answer
+1034986,Sunitinib,Answer
+1034998,Spinal muscular atrophy,Answer
+10350,Puncture wound without foreign body of other part of head,5CharNonbillCode
+1035017,Trametinib,Answer
+1035025,Sorafenib,Answer
+1035029,Diploid,Answer
+1035049,Loss of appetite,Answer
+1035052,"Bipolar disorder, Type 1",Answer
+1035057,Feeling irritable,Answer
+1035067,Repetitive rocking movements,Answer
+1035075,Ponatinib,Answer
+10351,Puncture wound with foreign body of other part of head,5CharNonbillCode
+1035112,Dialysis - Hemodialysis,Answer
+1035138,"Bipolar disorder, unspecified",Answer
+1035153,Hyperdiploid,Answer
+1035163,Swollen feet,Answer
+1035176,Unable to control thoughts,Answer
+1035188,Grimaces,Answer
+1035195,Pacing up and down,Answer
+1035199,Imatinib,Answer
+10352,Open bite of other part of head,5CharNonbillCode
+1035201,"Bipolar disorder, Type 2",Answer
+1035206,Dialysis - Peritoneal dialysis,Answer
+1035212,Protective muscle spasm,Answer
+1035216,Feeling agitated,Answer
+1035236,Excessive sweating,Answer
+1035237,Binimetinib,Answer
+1035240,Midostaurin,Answer
+1035264,Hypodiploid,Answer
+10359,Fracture of vault of skull,4CharNonbillCode
+1036059,antipyrine,Ingredient
+1036074,antipyrine 1 MG/ML,ClinicalDrugComp
+1036076,antipyrine 50 MG/ML,ClinicalDrugComp
+1036078,antipyrine 54 MG/ML / benzocaine 14.4 MG/ML Otic Solution,ClinicalDrug
+1036079,antipyrine 50 MG/ML / benzocaine 50 MG/ML / phenylephrine 2.5 MG/ML Otic Solution [Ear-gesic],BrandedDrug
+1036081,antipyrine 50 MG/ML / benzocaine 50 MG/ML / phenylephrine 2.5 MG/ML Otic Solution [Otigesic],BrandedDrug
+1036083,antipyrine 54 MG/ML / benzocaine 14 MG/ML Otic Solution [Balagan],BrandedDrug
+1036094,stannous fluoride,Ingredient
+1036095,stannous fluoride 0.004 MG/MG Oral Gel,ClinicalDrug
+1036096,stannous fluoride 32.8 MG/ML Oral Solution,ClinicalDrug
+1036097,stannous fluoride 25 MG/ML Oral Solution,ClinicalDrug
+1036106,stannous fluoride 6.3 MG/ML,ClinicalDrugComp
+1036107,stannous fluoride 32.8 MG/ML,ClinicalDrugComp
+1036108,stannous fluoride 25 MG/ML,ClinicalDrugComp
+1036109,stannous fluoride 0.004 MG/MG,ClinicalDrugComp
+1036110,stannous fluoride 0.011 MG/MG,ClinicalDrugComp
+1036114,stannous fluoride 16.4 MG/ML,ClinicalDrugComp
+1036115,stannous fluoride 16.4 MG/ML Mouthwash,ClinicalDrug
+1036116,stannous fluoride 0.011 MG/MG Paste,ClinicalDrug
+1036117,stannous fluoride 6.3 MG/ML Mouthwash,ClinicalDrug
+1036118,hydrofluoric acid 1 MG/ML / sodium fluoride 11 MG/ML / stannous fluoride 4 MG/ML Oral Solution [Dental Resources DS-8],BrandedDrug
+1036140,stannous fluoride 0.004 MG/MG Oral Gel [Stop brand of stannous fluoride],BrandedDrug
+1036141,stannous fluoride 0.01 MG/MG Oral Gel,ClinicalDrug
+1036142,stannous fluoride 0.01 MG/MG Oral Gel [Stop brand of stannous fluoride],BrandedDrug
+1036143,stannous fluoride 120000 MG Oral Powder,ClinicalDrug
+1036144,stannous fluoride 0.004 MG/MG Oral Gel [Gelato stannous fluoride],BrandedDrug
+1036157,starch,Ingredient
+1036159,starch 0.51 MG/MG Rectal Suppository [Anusol Hemorrhoidal Suppositories],BrandedDrug
+1036160,silicones 0.3 MG/MG / starch 0.1 MG/MG Topical Ointment,ClinicalDrug
+1036161,starch 0.51 MG/MG,ClinicalDrugComp
+1036228,sucralfate,Ingredient
+1036231,sucralfate 200 MG/ML Oral Suspension,ClinicalDrug
+1036232,sucralfate 100 MG/ML Oral Suspension,ClinicalDrug
+1036233,sucralfate 1000 MG Oral Tablet,ClinicalDrug
+1036234,sucralfate 100 MG/ML,ClinicalDrugComp
+1036236,sucralfate 200 MG/ML,ClinicalDrugComp
+1036237,sucralfate 100 MG/ML Oral Suspension [Xactdose],BrandedDrug
+1036252,sulfacetamide,Ingredient
+1036281,betamethasone 1 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036284,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Solution,ClinicalDrug
+1036286,phenylephrine 1.2 MG/ML / prednisolone 5 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Suspension,ClinicalDrug
+1036287,Phenylephrine 1.25 MG/ML / Sulfacetamide 150 MG/ML Ophthalmic Solution,ClinicalDrug
+1036296,Prednisolone 5 MG/ML / Sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036297,Sulfacetamide 100 MG/ML Topical Lotion,ClinicalDrug
+1036298,Sulfacetamide 0.1 MG/MG Ophthalmic Ointment,ClinicalDrug
+1036299,Sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036300,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion,ClinicalDrug
+1036302,Sulfacetamide 300 MG/ML Ophthalmic Solution,ClinicalDrug
+1036303,Prednisolone 2.5 MG/ML / Sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036304,sulfabenzamide 184 MG / Sulfacetamide 144 MG / sulfathiazole 172 MG Vaginal Tablet,ClinicalDrug
+1036305,Sulfacetamide 300 MG/ML,ClinicalDrugComp
+1036306,sulfacetamide 100 MG/ML,ClinicalDrugComp
+1036309,Sulfacetamide 0.0286 MG/MG,ClinicalDrugComp
+1036312,sulfacetamide sodium 28.6 MG/ML,ClinicalDrugComp
+1036313,sulfacetamide sodium 0.1 MG/MG,ClinicalDrugComp
+1036316,Sulfacetamide 0.1 MG/MG Ophthalmic Ointment [Ocu-Sul 10],BrandedDrug
+1036317,Sulfacetamide 100 MG/ML Ophthalmic Solution [Ocu-Sul 10],BrandedDrug
+1036318,Sulfacetamide 100 MG/ML Ophthalmic Solution [S.O.S.S.],BrandedDrug
+1036320,Sulfacetamide 300 MG/ML Ophthalmic Solution [Ocu-Sul 30],BrandedDrug
+1036321,Sulfacetamide 100 MG/ML Topical Lotion [Carmol Scalp],BrandedDrug
+1036322,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Nicosyn],BrandedDrug
+1036323,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Rosanil],BrandedDrug
+1036324,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Rosula],BrandedDrug
+1036325,Sulfacetamide Monosodium Salt 100 MG/ML / Sulfur 50 MG/ML Medicated Liquid Soap [Plexion Cleanser],BrandedDrug
+1036326,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Solution [Rosula Cleanser],BrandedDrug
+1036327,Prednisolone 2.5 MG/ML / Sulfacetamide Monosodium Salt 100 MG/ML Ophthalmic Solution [Vasocidin],BrandedDrug
+1036328,Sulfacetamide Monosodium Salt 100 MG/ML Medicated Liquid Soap [Ovace],BrandedDrug
+1036335,Sulfacetamide 0.1 MG/MG Topical Gel,ClinicalDrug
+1036338,Sulfacetamide 150 MG/ML Ophthalmic Solution [Sulf-15],BrandedDrug
+1036339,Phenylephrine 1.25 MG/ML / Sulfacetamide 150 MG/ML Ophthalmic Solution [Vasosulf],BrandedDrug
+1036340,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Cream [Suphera],BrandedDrug
+1036341,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Zetacet],BrandedDrug
+1036342,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Gel [Avar],BrandedDrug
+1036343,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Novacet],BrandedDrug
+1036346,sulfacetamide 100 MG/ML Topical Solution,ClinicalDrug
+1036347,Sulfacetamide 100 MG/ML Medicated Liquid Soap,ClinicalDrug
+1036350,prednisolone 0.005 MG/MG / Sulfacetamide 0.1 MG/MG Ophthalmic Ointment [Predsulfair],BrandedDrug
+1036352,sulfabenzamide 37 MG/ML / sulfacetamide sodium 28.6 MG/ML / sulfathiazole 34.2 MG/ML Vaginal Cream,ClinicalDrug
+1036353,sulfacetamide sodium 0.1 MG/MG / sulfur 0.05 MG/MG Topical Gel,ClinicalDrug
+1036356,Sulfacetamide 0.1 MG/MG Topical Gel [Ovace],BrandedDrug
+1036357,Sulfacetamide 100 MG/ML Topical Foam [Ovace],BrandedDrug
+1036358,Sulfacetamide 100 MG/ML Topical Lotion [Cetaderm],BrandedDrug
+1036364,Sulfacetamide 0.1 MG/MG / Sulfur 0.05 MG/MG Topical Gel [Rosula],BrandedDrug
+1036365,Sulfacetamide 100 MG/ML Topical Cream [Seb-Prev],BrandedDrug
+1036366,Sulfacetamide 0.1 MG/MG Topical Gel [Seb-Prev],BrandedDrug
+1036367,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Cream [Prascion RA],BrandedDrug
+1036368,Sulfacetamide 100 MG/ML / Sulfur 10 MG/ML Medicated Liquid Soap,ClinicalDrug
+1036369,Sulfacetamide 100 MG/ML / Sulfur 10 MG/ML Medicated Liquid Soap [Rosac],BrandedDrug
+1036370,prednisolone 0.005 MG/MG / Sulfacetamide 0.1 MG/MG Ophthalmic Ointment [Metimyd],BrandedDrug
+1036375,Sulfacetamide 100 MG/ML / Sulfur 40 MG/ML Medicated Liquid Soap,ClinicalDrug
+1036376,Sulfacetamide 100 MG/ML / Sulfur 40 MG/ML Medicated Liquid Soap [Rosula],BrandedDrug
+1036378,Sulfacetamide 100 MG/ML / Sulfur 40 MG/ML / Urea 100 MG/ML Topical Solution,ClinicalDrug
+1036379,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Medicated Liquid Soap [Avar],BrandedDrug
+1036380,85 ML Sulfacetamide 100 MG/ML Topical Lotion,ClinicalDrug
+1036382,Sulfacetamide 100 MG/ML Medicated Pad,ClinicalDrug
+1036383,Sulfacetamide 100 MG/ML Medicated Pad [Rosula NS],BrandedDrug
+1036384,Sulfacetamide 108 MG/ML,ClinicalDrugComp
+1036385,Sulfacetamide 108 MG/ML Medicated Pad,ClinicalDrug
+1036390,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Rosaderm Cleanser],BrandedDrug
+1036425,sulfamethizole,Ingredient
+1036428,sulfamethizole 250 MG,ClinicalDrugComp
+1036429,sulfamethizole 500 MG,ClinicalDrugComp
+1036475,sulfanilamide,Ingredient
+1036478,sulfanilamide 1050 MG Vaginal Insert,ClinicalDrug
+1036479,sulfanilamide 100 MG/ML Vaginal Cream,ClinicalDrug
+1036483,sulfanilamide 100 MG/ML,ClinicalDrugComp
+1036487,sulfathiazole,Ingredient
+1036525,sulfur,Ingredient

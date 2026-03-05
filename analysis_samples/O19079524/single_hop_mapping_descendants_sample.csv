@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1146510,povidone-iodine 12.5 MG/ML Topical Solution,ClinicalDrug
+1146512,povidone-iodine 17.5 MG/ML Topical Solution,ClinicalDrug
+1146650,isopropyl alcohol 0.7 ML/ML Topical Lotion,ClinicalDrug
+1234876,lidocaine 10.7 MG/ML Injectable Solution,ClinicalDrug
+1235630,povidone-iodine 10 MG/ML Ophthalmic Solution,ClinicalDrug
+1236175,5 ML povidone-iodine 10 MG/ML Ophthalmic Solution,QuantClinicalDrug
+1236195,10 ML lidocaine 10.7 MG/ML Injectable Solution,QuantClinicalDrug
+1301707,chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Topical Solution [Soluprep],BrandedDrug
+1361670,5 ML bupivacaine hydrochloride 5 MG/ML Injection,QuantClinicalDrug
+1361709,100 ML sodium chloride 72 MG/ML Injection,QuantClinicalDrug
+1464782,Shortage Import Unapproved 1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection,ClinicalDrug
+1465655,sodium chloride 9 MG/ML Ophthalmic Solution,ClinicalDrug
+1465779,sodium chloride 9 MG/ML Inhalation Solution [Hydra-Neb],BrandedDrug
+1466092,povidone-iodine 50 MG/ML Topical Solution [Betadine],BrandedDrug
+1466367,3000 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+1466479,5000 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+1510326,hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 10 MG/ML Topical Cream,ClinicalDrug
+1515446,urofollitropin 75 UNT Injection,ClinicalDrug
+1515447,urofollitropin 75 UNT Injection [Bravelle],BrandedDrug
+1592447,American house dust mite allergenic extract Injectable Solution,ClinicalDrugForm
+1592482,3 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+1593063,1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+1593064,glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection,ClinicalDrug
+1593065,500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+1593066,glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection,ClinicalDrug
+1593067,glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection,ClinicalDrug
+1593198,glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection,ClinicalDrug
+1593199,glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection,ClinicalDrug
+1593203,glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection,ClinicalDrug
+1593800,10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection,QuantClinicalDrug
+1593802,10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine],QuantBrandedDrug
+1593803,epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection,ClinicalDrug
+1593804,epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine],BrandedDrug
+1593805,30 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection,QuantClinicalDrug
+1593845,chlorhexidine gluconate 20 MG/ML / isopropyl alcohol 0.7 ML/ML Medicated Pad,ClinicalDrug
+1593913,30 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine],QuantBrandedDrug
+1593920,5 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection,QuantClinicalDrug
+1593921,5 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection [Xylocaine with Epinephrine],QuantBrandedDrug
+1718804,potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection,ClinicalDrug
+1718809,potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection,ClinicalDrug
+1718810,potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection,ClinicalDrug
+1750157,povidone-iodine 100 MG/ML Topical Solution [Mallisol],BrandedDrug
+1750158,povidone-iodine 100 MG/ML Topical Solution [Minidyne],BrandedDrug
+1750159,povidone-iodine 100 MG/ML Topical Solution [Pharmadine],BrandedDrug
+1750160,povidone-iodine 100 MG/ML Topical Solution [Polydine],BrandedDrug
+1750161,povidone-iodine 100 MG/ML Topical Solution [Povidex Peri],BrandedDrug
+1750192,povidone-iodine 100 MG/ML Topical Solution [Povidex],BrandedDrug
+1750194,povidone-iodine 10 MG/ML Topical Solution [Polydine],BrandedDrug
+1750195,povidone-iodine 10 MG/ML Topical Solution [Povidine],BrandedDrug
+1750197,povidone-iodine 100 MG/ML Douche,ClinicalDrug
+1750262,povidone-iodine 10 MG/ML Mouthwash,ClinicalDrug
+1750265,povidone-iodine 100 MG/ML Medicated Liquid Soap,ClinicalDrug
+1750270,povidone-iodine 50 MG/ML Topical Solution,ClinicalDrug
+1750296,povidone-iodine 0.1 MG/MG Topical Ointment,ClinicalDrug
+1750297,povidone-iodine 100 MG/ML Topical Solution,ClinicalDrug
+1750299,povidone-iodine 75 MG/ML Topical Solution,ClinicalDrug
+1750322,povidone-iodine 10 MG/ML Topical Solution,ClinicalDrug
+1750415,povidone-iodine 100 MG/ML Topical Spray,ClinicalDrug
+1750417,povidone-iodine 100 MG/ML Medicated Pad [Betadine],BrandedDrug
+1750418,povidone-iodine 100 MG/ML Medicated Pad [Pharmadine],BrandedDrug
+1750420,povidone-iodine 0.1 MG/MG Topical Ointment [Betagen brand of povidone-iodine],BrandedDrug
+19002615,povidone-iodine 100 MG/ML Topical Solution [Videne],BrandedDrug
+19008820,povidone-iodine 40 MG/ML Topical Solution,ClinicalDrug
+19009097,bupivacaine hydrochloride 5 MG/ML Injectable Solution [Marcain Heavy],BrandedDrug
+19009855,lidocaine hydrochloride 10 MG/ML Injectable Solution [Sure-Amp Lignocaine hydrochloride],BrandedDrug
+19010021,povidone-iodine 45 MG/ML Topical Solution [Steribath],BrandedDrug
+19010409,bupivacaine hydrochloride 2.5 MG/ML Injectable Solution [Sure-Amp Bupivacaine],BrandedDrug
+19010410,bupivacaine hydrochloride 5 MG/ML Injectable Solution [Sure-Amp Bupivacaine],BrandedDrug
+19015088,Alternaria alternata allergenic extract 50 MG/ML Injectable Solution,ClinicalDrug
+19017228,lidocaine hydrochloride 20 MG/ML Injectable Solution [Sure-Amp Lignocaine hydrochloride],BrandedDrug
+19026063,triamcinolone hexacetonide 5 MG/ML Injectable Suspension [Lederspan],BrandedDrug
+19026064,triamcinolone hexacetonide 20 MG/ML Injectable Suspension [Lederspan],BrandedDrug
+19028133,isopropyl alcohol 0.7 ML/ML Topical Gel,ClinicalDrug
+19028192,isopropyl alcohol 0.7 ML/ML,ClinicalDrugComp
+19028193,isopropyl alcohol 0.7 ML/ML Medicated Pad,ClinicalDrug
+19045901,povidone-iodine 0.1 MG/MG Topical Ointment [Betadine],BrandedDrug
+19045902,povidone-iodine 0.1 MG/MG Topical Ointment [Efodine],BrandedDrug
+19045903,povidone-iodine 0.1 MG/MG Topical Ointment [Pharmadine],BrandedDrug
+19045904,povidone-iodine 0.1 MG/MG Topical Ointment [Polydine],BrandedDrug
+19045905,povidone-iodine 0.1 MG/MG Topical Ointment [Povidine],BrandedDrug
+19045906,povidone-iodine 100 MG/ML Topical Solution [Betadine],BrandedDrug
+19045907,povidone-iodine 100 MG/ML Topical Solution [Clinidine],BrandedDrug
+19045908,povidone-iodine 100 MG/ML Topical Solution [HSP Anti],BrandedDrug
+19059325,1000 ML glucose 100 MG/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+19065505,lidocaine 25 MG/ML / povidone-iodine 100 MG/ML Topical Solution,ClinicalDrug
+19065985,triamcinolone 4 MG/ML Injectable Suspension,ClinicalDrug
+19068096,povidone-iodine 100 MG/ML Douche [Betadine],BrandedDrug
+19072506,Alternaria alternata allergenic extract 40000 UNT/ML Injectable Solution,ClinicalDrug
+19072507,Alternaria alternata allergenic extract 5000 UNT/ML Injectable Solution,ClinicalDrug
+19079523,sodium chloride 9 MG/ML Nasal Solution,ClinicalDrug
+19079524,sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+19079551,sodium chloride 234 MG/ML Injectable Solution,ClinicalDrug
+19083433,povidone-iodine 100 MG/ML,ClinicalDrugComp
+19083436,povidone-iodine 10 MG/ML,ClinicalDrugComp
+19102509,1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+19103229,povidone-iodine 10 MG/ML Topical Foam,ClinicalDrug
+19103261,povidone-iodine 10 MG/ML Topical Spray,ClinicalDrug
+19104386,lidocaine 3 MG/ML Injectable Solution,ClinicalDrug
+19106345,povidone-iodine 100 MG/ML Irrigation Solution,ClinicalDrug
+19108515,povidone-iodine 100 MG/ML Topical Foam,ClinicalDrug
+19114325,lidocaine hydrochloride 20 MG/ML Injectable Solution [Licodaine],BrandedDrug
+19114344,lidocaine hydrochloride 10 MG/ML Injectable Solution [Pro Vent Plus],BrandedDrug
+19114611,povidone-iodine 100 MG/ML Topical Solution [ABG Pulsator],BrandedDrug
+19114642,povidone-iodine 100 MG/ML Topical Solution [Pulsator Plus],BrandedDrug
+19115117,povidone-iodine 45 MG/ML Topical Solution,ClinicalDrug
+19123352,1000 ML glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+19123353,1000 ML glucose 50 MG/ML / potassium chloride 0.04 MEQ/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+19123359,1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+19124109,1000 ML glucose 50 MG/ML / potassium chloride 0.01 MEQ/ML / sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+19124963,povidone-iodine 10 MG/ML Douche,ClinicalDrug
+19127213,10 ML sodium chloride 9 MG/ML Prefilled Syringe,QuantClinicalDrug
+19127417,500 ML sodium chloride 30 MG/ML Injection,QuantClinicalDrug
+19127418,500 ML sodium chloride 50 MG/ML Injection,QuantClinicalDrug
+19127784,50 ML sodium chloride 9 MG/ML Prefilled Syringe,QuantClinicalDrug
+19130340,povidone-iodine 100 MG/ML Medicated Pad,ClinicalDrug
+19132492,isopropyl alcohol 0.7 ML/ML Topical Solution,ClinicalDrug
+19132647,benzocaine 60 MG/ML / isopropyl alcohol 0.7 ML/ML Medicated Pad,ClinicalDrug
+19133724,povidone-iodine 5 MG/ML Medicated Pad,ClinicalDrug
+19135349,povidone-iodine 10 MG/ML Topical Solution [Betagen brand of povidone-iodine],BrandedDrug
+1970291,lidocaine 10 MG/ML Injectable Solution [Licain Puren],BrandedDrug
+1970292,lidocaine 10 MG/ML Injectable Solution [Licain Puren] Box of 10,BrandedDrugBox
+1972355,triamcinolone 40 MG/ML Injectable Solution [Volon A],BrandedDrug
+1972356,triamcinolone 40 MG/ML Injectable Solution [Volon A] Box of 5,BrandedDrugBox
+1972874,1 ML triamcinolone 40 MG/ML Injectable Solution [Volon A],QuantBrandedDrug
+1972875,1 ML triamcinolone 40 MG/ML Injectable Solution [Volon A] Box of 5,QuantBrandedBox
+1972876,1 ML triamcinolone 40 MG/ML Injectable Solution [Volon A] Box of 5 by Emra-Med,MarketedProduct
+1972877,1 ML triamcinolone 40 MG/ML Injectable Suspension [Volon A] Box of 5 by Emra-Med,MarketedProduct
+1972915,2 ML lidocaine 10 MG/ML Injectable Solution Box of 10 by Medphano,MarketedProduct
+1973002,5 ML lidocaine 5 MG/ML Injectable Solution Box of 10 by Medphano,MarketedProduct
+1973003,5 ML lidocaine 10 MG/ML Injectable Solution [Licain Puren],QuantBrandedDrug
+1973004,5 ML lidocaine 10 MG/ML Injectable Solution [Licain Puren] Box of 10,QuantBrandedBox
+1973005,5 ML lidocaine 10 MG/ML Injectable Solution [Licain Puren] Box of 10 by Puren,MarketedProduct
+1973006,5 ML lidocaine 10 MG/ML Injectable Solution Box of 10 by Medphano,MarketedProduct
+1973048,10 ML lidocaine 20 MG/ML Injectable Solution Box of 10 by Accord,MarketedProduct
+1973056,10 ML bupivacaine 5 MG/ML Injectable Solution [Bucain] Box of 50 by Puren,MarketedProduct
+1973092,20 ML bupivacaine 5 MG/ML Injectable Solution [Bucain] Box of 50 by Puren,MarketedProduct
+1973130,50 ML bupivacaine 2.5 MG/ML Injectable Solution [Bucain] Box of 50 by Puren,MarketedProduct
+1973131,50 ML bupivacaine 5 MG/ML Injectable Solution [Bucain] by Puren,MarketedProduct
+1973143,100 ML lidocaine 10 MG/ML Injectable Solution [Licain] Box of 50 by Puren,MarketedProduct
+2008566,1000 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [I-VIHES] by SK Chemical,MarketedProduct
+2009168,4000 ML povidone-iodine 100 MG/ML Douche,QuantClinicalDrug
+2009169,4000 ML povidone-iodine 100 MG/ML Douche [POVIGYN],QuantBrandedDrug
+2009170,4000 ML povidone-iodine 100 MG/ML Douche [POVIGYN] by Firson,MarketedProduct
+2009212,1000 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [I-VIHES],QuantBrandedDrug
+2009215,1000 ML povidone-iodine 100 MG/ML Douche [POTAROSE],QuantBrandedDrug
+2009216,1000 ML povidone-iodine 100 MG/ML Douche [POTAROSE] by Samil,MarketedProduct
+2009217,1000 ML povidone-iodine 100 MG/ML Douche,QuantClinicalDrug
+2009218,1000 ML povidone-iodine 100 MG/ML Douche [POVIGYN],QuantBrandedDrug
+2009219,1000 ML povidone-iodine 100 MG/ML Douche [POVIGYN] by Firson,MarketedProduct
+2009283,1000 MG povidone-iodine 0.1 MG/MG Topical Ointment [POTADINE],QuantBrandedDrug
+2009284,1000 MG povidone-iodine 0.1 MG/MG Topical Ointment [POTADINE] by Samil,MarketedProduct
+2009353,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HAES-STERIL] by Fresenius Kabi,MarketedProduct
+2009354,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HAES-STERIL],QuantBrandedDrug
+2009355,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [KUNWHA 6-HES],QuantBrandedDrug
+2009356,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [KUNWHA 6-HES] by Alvogen,MarketedProduct
+2009403,250 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [I-VIHES],QuantBrandedDrug
+2009404,250 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [I-VIHES] by SK Chemical,MarketedProduct
+2009405,250 ML povidone-iodine 100 MG/ML Douche,QuantClinicalDrug
+2009406,250 ML povidone-iodine 100 MG/ML Douche [POVIGYN],QuantBrandedDrug
+2009407,250 ML povidone-iodine 100 MG/ML Douche [POVIGYN] by Firson,MarketedProduct
+2009975,1 ML povidone-iodine 100 MG/ML Douche [POTAROSE],QuantBrandedDrug
+2009977,1 ML povidone-iodine 100 MG/ML Douche [POTAROSE] by Samil,MarketedProduct
+2009978,1 ML povidone-iodine 100 MG/ML Douche,QuantClinicalDrug
+2009979,1 ML povidone-iodine 100 MG/ML Douche [POVIGYN],QuantBrandedDrug
+2009980,1 ML povidone-iodine 100 MG/ML Douche [POVIGYN] by Firson,MarketedProduct
+2009981,1 ML povidone-iodine 100 MG/ML Topical Solution [PI],QuantBrandedDrug
+2009982,1 ML povidone-iodine 100 MG/ML Topical Solution [PI] by Samnam,MarketedProduct
+2010884,hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HAES-STERIL],BrandedDrug
+2010886,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [I-VIHES],BrandedDrug
+2010887,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [KUNWHA 6-HES],BrandedDrug
+2011631,povidone-iodine 75 MG Medicated Pad,ClinicalDrug
+2011632,povidone-iodine 75 MG Medicated Pad [BERATINE SCRUB],BrandedDrug
+2011633,povidone-iodine 75 MG Medicated Pad [BERATINE SCRUB] by Dongindang,MarketedProduct
+2011643,povidone-iodine 2250 MG Medicated Pad [POVI-CLEAN],BrandedDrug
+2011644,povidone-iodine 2250 MG Medicated Pad [POVI-CLEAN] by Firson,MarketedProduct
+2011645,povidone-iodine 2250 MG Medicated Pad,ClinicalDrug
+2011648,povidone-iodine 1130 MG Medicated Pad [POVI-CLEAN],BrandedDrug
+2011649,povidone-iodine 1130 MG Medicated Pad [POVI-CLEAN] by Firson,MarketedProduct
+2011650,povidone-iodine 1130 MG Medicated Pad,ClinicalDrug
+2011668,povidone-iodine 100 MG/ML Douche [POTAROSE],BrandedDrug
+2011669,povidone-iodine 100 MG/ML Douche [POVIGYN],BrandedDrug
+2011670,povidone-iodine 100 MG/ML Topical Solution [PI],BrandedDrug
+2022584,3000 ML sodium chloride 9 MG/ML Injectable Solution [JW NS] by JW,MarketedProduct
+2022585,3000 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022586,3000 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],QuantBrandedDrug
+2022588,3000 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE] by CJ,MarketedProduct
+2022589,3000 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2022590,3000 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2022606,1000 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022643,1000 ML sodium chloride 4.5 MG/ML Injectable Solution [JW HALF SALINE] by JW,MarketedProduct
+2022644,1000 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2022725,1000 ML sodium chloride 9 MG/ML Irrigation Solution [KLENZO] by JW,MarketedProduct
+2022803,1000 ML sodium chloride 9 MG/ML Injectable Solution [JW NS] by JW,MarketedProduct
+2022831,1000 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],QuantBrandedDrug
+2022832,1000 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE] by CJ,MarketedProduct
+2022833,1000 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2022835,1000 ML sodium chloride 9 MG/ML Irrigation Solution [DAIHAN STERILE SALINE SOLUTION FOR IRRIGATION],QuantBrandedDrug
+2022836,1000 ML sodium chloride 9 MG/ML Irrigation Solution [DAIHAN STERILE SALINE SOLUTION FOR IRRIGATION] by Daihan,MarketedProduct
+2022837,1000 ML sodium chloride 4.5 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022838,1000 ML sodium chloride 4.5 MG/ML Injectable Solution [CJ HALF SALINE],QuantBrandedDrug
+2022839,1000 ML sodium chloride 4.5 MG/ML Injectable Solution [CJ HALF SALINE] by CJ,MarketedProduct
+2022840,1000 ML sodium chloride 4.5 MG/ML Injectable Solution [JW HALF SALINE],QuantBrandedDrug
+2022853,1000 ML potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+2022854,1000 ML potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution [NACL.K 20],QuantBrandedDrug
+2022855,1000 ML potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution [NACL.K 20] by JW,MarketedProduct
+2022878,1000 ML glucose 50 MG/ML / potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022890,1000 ML glucose 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022891,1000 ML glucose 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution by JW,MarketedProduct
+2022892,1000 ML glucose 100 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2022893,1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022894,1000 ML glucose 50 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2022898,1000 ML glucose 25 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution [HAFUSOL] by Daihan,MarketedProduct
+2022906,1000 ML glucose 50 MG/ML / potassium chloride 2.24 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2022909,1000 ML glucose 50 MG/ML / potassium chloride 1.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution by JW,MarketedProduct
+2022910,1000 ML glucose 50 MG/ML / potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2022912,1000 ML glucose 50 MG/ML / potassium chloride 0.75 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+2022913,1000 ML glucose 50 MG/ML / potassium chloride 0.75 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2024387,500 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2024435,500 ML sodium chloride 30 MG/ML Injectable Solution by Daihan,MarketedProduct
+2024436,500 ML sodium chloride 30 MG/ML Injectable Solution by JW,MarketedProduct
+2024437,500 ML sodium chloride 9 MG/ML Injectable Solution [JW NS] by JW,MarketedProduct
+2024438,500 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2024439,500 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],QuantBrandedDrug
+2024440,500 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE] by CJ,MarketedProduct
+2024441,500 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2024443,500 ML sodium chloride 9 MG/ML Irrigation Solution,QuantClinicalDrug
+2024444,500 ML sodium chloride 9 MG/ML Irrigation Solution [DAIHAN STERILE SALINE SOLUTION FOR IRRIGATION],QuantBrandedDrug
+2024445,500 ML sodium chloride 9 MG/ML Irrigation Solution [DAIHAN STERILE SALINE SOLUTION FOR IRRIGATION] by Daihan,MarketedProduct
+2024447,500 ML sodium chloride 4.5 MG/ML Injectable Solution by Daihan,MarketedProduct
+2024448,500 ML sodium chloride 4.5 MG/ML Injectable Solution [JW HALF SALINE],QuantBrandedDrug
+2024449,500 ML sodium chloride 4.5 MG/ML Injectable Solution [JW HALF SALINE] by JW,MarketedProduct
+2024566,500 ML fructose 50 MG/ML / glycerin 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [CEROL] by JW,MarketedProduct
+2024609,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Hemohes] by B.Braun,MarketedProduct
+2024610,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Hemohes],QuantBrandedDrug
+2024611,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2024612,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [PENTARCH 200],QuantBrandedDrug
+2024613,500 ML hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [PENTARCH 200] by Myungmoon,MarketedProduct
+2024615,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Salinhes],QuantBrandedDrug
+2024616,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Salinhes] by Ilsung,MarketedProduct
+2024617,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Hemohes] by B.Braun,MarketedProduct
+2024618,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Hemohes],QuantBrandedDrug
+2024620,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HESPLASMA],QuantBrandedDrug
+2024621,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HESPLASMA] by JW,MarketedProduct
+2024622,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HEXROTHYL],QuantBrandedDrug
+2024623,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HEXROTHYL] by Daihan,MarketedProduct
+2024624,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [PENTARCH 200],QuantBrandedDrug
+2024625,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [PENTARCH 200] by Myungmoon,MarketedProduct
+2024626,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TETRAHES],QuantBrandedDrug
+2024627,500 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TETRAHES] by Myungmoon,MarketedProduct
+2024638,500 ML potassium chloride 3 MG/ML / sodium chloride 9 MG/ML Injectable Solution [NACL.K40],QuantBrandedDrug
+2024640,500 ML potassium chloride 3 MG/ML / sodium chloride 9 MG/ML Injectable Solution [NACL.K40] by JW,MarketedProduct
+2024641,500 ML potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+2024642,500 ML potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution [NACL.K 20],QuantBrandedDrug
+2024643,500 ML potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution [NACL.K 20] by JW,MarketedProduct
+2024666,500 ML dextran 40 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution by CJ,MarketedProduct
+2024678,500 ML glucose 100 MG/ML / potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2024704,500 ML glucose 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2024705,500 ML glucose 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2024706,500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2024707,500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injectable Solution by JW,MarketedProduct
+2024718,500 ML glucose 100 MG/ML / potassium chloride 2.2 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+2024719,500 ML glucose 100 MG/ML / potassium chloride 2.2 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2024720,500 ML glucose 100 MG/ML / potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+2024727,500 ML glucose 50 MG/ML / potassium chloride 1.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution by JW,MarketedProduct
+2024731,500 ML glucose 50 MG/ML / potassium chloride 0.75 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+2024733,500 ML glucose 50 MG/ML / potassium chloride 0.75 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution by JW,MarketedProduct
+2025002,250 ML sodium chloride 9 MG/ML Injectable Solution [JW NS] by JW,MarketedProduct
+2025003,250 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2025004,250 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],QuantBrandedDrug
+2025005,250 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE] by CJ,MarketedProduct
+2025223,250 ML hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025334,200 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2025361,200 ML fructose 50 MG/ML / glycerin 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [CEROL],QuantBrandedDrug
+2025362,200 ML fructose 50 MG/ML / glycerin 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [CEROL] by JW,MarketedProduct
+2025418,150 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2025419,150 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2025420,150 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2025672,100 ML sodium chloride 120 MG/ML Injectable Solution by JW,MarketedProduct
+2025673,100 ML sodium chloride 9 MG/ML Injectable Solution [JW NS] by JW,MarketedProduct
+2025674,100 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2025675,100 ML sodium chloride 9 MG/ML Injectable Solution by UK Chemipharm,MarketedProduct
+2025676,100 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],QuantBrandedDrug
+2025677,100 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE] by CJ,MarketedProduct
+2025678,100 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2025679,100 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2025711,100 ML sodium chloride 9 MG/ML / tobramycin 0.8 MG/ML Injectable Solution,QuantClinicalDrug
+2025712,100 ML sodium chloride 9 MG/ML / tobramycin 0.8 MG/ML Injectable Solution by JW,MarketedProduct
+2025725,100 ML cefmetazole 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025728,100 ML cefmetazole 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [META KIT],QuantBrandedDrug
+2025729,100 ML cefmetazole 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [META KIT] by UK Chemipharm,MarketedProduct
+2025734,100 ML cefotiam 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025735,100 ML cefotiam 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [THIAMKIT],QuantBrandedDrug
+2025736,100 ML cefotiam 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [THIAMKIT] by UK Chemipharm,MarketedProduct
+2025795,100 ML cilastatin 5 MG/ML / imipenem 5 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025796,100 ML cilastatin 5 MG/ML / imipenem 5 MG/ML / sodium chloride 9 MG/ML Injectable Solution [IMICILKIT],QuantBrandedDrug
+2025797,100 ML cilastatin 5 MG/ML / imipenem 5 MG/ML / sodium chloride 9 MG/ML Injectable Solution [IMICILKIT] by UK Chemipharm,MarketedProduct
+2025798,100 ML ceftriaxone 20 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025799,100 ML ceftriaxone 20 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TRISONKIT],QuantBrandedDrug
+2025800,100 ML ceftriaxone 20 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TRISONKIT] by UK Chemipharm,MarketedProduct
+2025801,100 ML ceftriaxone 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025802,100 ML ceftriaxone 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TRISONE],QuantBrandedDrug
+2025803,100 ML ceftriaxone 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TRISONE] by UK Chemipharm,MarketedProduct
+2025806,100 ML ceftizoxime 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025807,100 ML ceftizoxime 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [CEZOXIM KIT],QuantBrandedDrug
+2025808,100 ML ceftizoxime 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [CEZOXIM KIT] by UK Chemipharm,MarketedProduct
+2025809,100 ML cefotetan 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025810,100 ML cefotetan 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TETAN KIT],QuantBrandedDrug
+2025811,100 ML cefotetan 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TETAN KIT] by UK Chemipharm,MarketedProduct
+2025812,100 ML cefoperazone 5 MG/ML / sodium chloride 9 MG/ML / sulbactam 5 MG/ML Injectable Solution,QuantClinicalDrug
+2025813,100 ML cefoperazone 5 MG/ML / sodium chloride 9 MG/ML / sulbactam 5 MG/ML Injectable Solution [PERASUL],QuantBrandedDrug
+2025814,100 ML cefoperazone 5 MG/ML / sodium chloride 9 MG/ML / sulbactam 5 MG/ML Injectable Solution [PERASUL] by UK Chemipharm,MarketedProduct
+2025856,100 ML sodium chloride 9 MG/ML / vancomycin 10 MG/ML Injectable Solution,QuantClinicalDrug
+2025857,100 ML sodium chloride 9 MG/ML / vancomycin 10 MG/ML Injectable Solution [VANCO KIT],QuantBrandedDrug
+2025858,100 ML sodium chloride 9 MG/ML / vancomycin 10 MG/ML Injectable Solution [VANCO KIT] by UK Chemipharm,MarketedProduct
+2025866,100 ML acyclovir 2.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+2025867,100 ML acyclovir 2.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution [ACYLKIT],QuantBrandedDrug
+2025868,100 ML acyclovir 2.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution [ACYLKIT] by UK Chemipharm,MarketedProduct
+2026194,50 ML sodium chloride 9 MG/ML Injectable Solution [JW NS] by JW,MarketedProduct
+2026195,50 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026196,50 ML sodium chloride 9 MG/ML Injectable Solution by UK Chemipharm,MarketedProduct
+2026197,50 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],QuantBrandedDrug
+2026198,50 ML sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE] by CJ,MarketedProduct
+2026199,50 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2026200,50 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2026418,40 ML sodium chloride 9 MG/ML Injectable Solution [HUONS NORMAL SALINE],QuantBrandedDrug
+2026419,40 ML sodium chloride 9 MG/ML Injectable Solution [HUONS NORMAL SALINE] by Huons,MarketedProduct
+2026442,30 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026653,20 ML sodium chloride 120 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026654,20 ML sodium chloride 120 MG/ML Injectable Solution by Huons,MarketedProduct
+2026655,20 ML sodium chloride 120 MG/ML Injectable Solution by Jeil,MarketedProduct
+2026656,20 ML sodium chloride 120 MG/ML Injectable Solution by JW,MarketedProduct
+2026657,20 ML sodium chloride 9 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026658,20 ML sodium chloride 9 MG/ML Injectable Solution by Jeil,MarketedProduct
+2026659,20 ML sodium chloride 9 MG/ML Injectable Solution [HUONS NORMAL SALINE],QuantBrandedDrug
+2026660,20 ML sodium chloride 9 MG/ML Injectable Solution [HUONS NORMAL SALINE] by Huons,MarketedProduct
+2026661,20 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],QuantBrandedDrug
+2026662,20 ML sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE] by JW,MarketedProduct
+2026787,20 ML bupivacaine 5 MG/ML Injectable Solution [PUCAINE] by Reyon,MarketedProduct
+2026788,20 ML bupivacaine 5 MG/ML Injectable Solution by Hana,MarketedProduct
+2026789,20 ML bupivacaine 5 MG/ML Injectable Solution by Hanall,MarketedProduct
+2026790,20 ML bupivacaine 5 MG/ML Injectable Solution by Huons,MarketedProduct
+2026791,20 ML bupivacaine 5 MG/ML Injectable Solution by Myungmoon,MarketedProduct
+2026792,20 ML bupivacaine 5 MG/ML Injectable Solution [UMACAINE],QuantBrandedDrug
+2026793,20 ML bupivacaine 5 MG/ML Injectable Solution [UMACAINE] by Korea United Pharm,MarketedProduct
+2026794,20 ML bupivacaine 2.5 MG/ML Injectable Solution [PUCAINE],QuantBrandedDrug
+2026795,20 ML bupivacaine 2.5 MG/ML Injectable Solution [PUCAINE] by Reyon,MarketedProduct
+2026796,20 ML bupivacaine 2.5 MG/ML Injectable Solution by Hana,MarketedProduct
+2026797,20 ML bupivacaine 2.5 MG/ML Injectable Solution by Myungmoon,MarketedProduct
+2026799,20 ML bupivacaine 2.5 MG/ML Injectable Solution [UMACAINE],QuantBrandedDrug
+2026800,20 ML bupivacaine 2.5 MG/ML Injectable Solution [UMACAINE] by Korea United Pharm,MarketedProduct
+2026903,20 ML lidocaine 40 MG/ML Injectable Solution [LITAINE] by Daihan,MarketedProduct
+2026904,20 ML lidocaine 20 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026905,20 ML lidocaine 20 MG/ML Injectable Solution by Huons,MarketedProduct
+2026906,20 ML lidocaine 20 MG/ML Injectable Solution by Jeil,MarketedProduct
+2026907,20 ML lidocaine 10 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026908,20 ML lidocaine 10 MG/ML Injectable Solution by Huons,MarketedProduct
+2027979,5 ML triamcinolone 40 MG/ML Injectable Suspension by Dongkwang,MarketedProduct
+2027980,5 ML triamcinolone 10 MG/ML Injectable Suspension by Dongkwang,MarketedProduct
+2028519,5 ML lidocaine 5 MG/ML Injectable Solution by Samjin,MarketedProduct
+2028582,4 ML bupivacaine 5 MG/ML Injectable Solution by Hana,MarketedProduct
+2028583,4 ML bupivacaine 5 MG/ML Injectable Solution by Jaytech,MarketedProduct
+2028584,4 ML bupivacaine 5 MG/ML Injectable Solution by Myungmoon,MarketedProduct
+2028585,4 ML bupivacaine 5 MG/ML Injectable Solution by Reyon,MarketedProduct
+2028586,4 ML bupivacaine 5 MG/ML Injectable Solution [BUCAINE],QuantBrandedDrug
+2028587,4 ML bupivacaine 5 MG/ML Injectable Solution [BUCAINE] by BC World,MarketedProduct
+2028588,4 ML bupivacaine 5 MG/ML Injectable Solution [MARCAINE HEAVY] by Astrazeneca,MarketedProduct
+2028589,4 ML bupivacaine 5 MG/ML Injectable Solution [MARCAINE HEAVY],QuantBrandedDrug
+2028689,4 ML lidocaine 10 MG/ML Injectable Solution,QuantClinicalDrug
+2028690,4 ML lidocaine 10 MG/ML Injectable Solution by Hankook Korus,MarketedProduct
+2028691,4 ML lidocaine 10 MG/ML Injectable Solution by Yooyoung,MarketedProduct
+2029871,1.8 ML bupivacaine 5 MG/ML / epinephrine 0.009 MG/ML Injectable Solution,QuantClinicalDrug
+2029872,1.8 ML bupivacaine 5 MG/ML / epinephrine 0.009 MG/ML Injectable Solution [BARCAINE],QuantBrandedDrug
+2029873,1.8 ML bupivacaine 5 MG/ML / epinephrine 0.009 MG/ML Injectable Solution [BARCAINE] by Huons,MarketedProduct
+2029890,1.8 ML lidocaine 20 MG/ML Injectable Solution by Huons,MarketedProduct
+2030882,1 ML triamcinolone 40 MG/ML Injectable Suspension [RHEUDENOLONE],QuantBrandedDrug
+2030883,1 ML triamcinolone 40 MG/ML Injectable Suspension [RHEUDENOLONE] by Kukje,MarketedProduct
+2030884,1 ML triamcinolone 40 MG/ML Injectable Suspension [TAMCETON],QuantBrandedDrug
+2030885,1 ML triamcinolone 40 MG/ML Injectable Suspension [TAMCETON] by Hanall,MarketedProduct
+2030886,1 ML triamcinolone 40 MG/ML Injectable Suspension [Triam] by Shinpoong,MarketedProduct
+2030887,1 ML triamcinolone 40 MG/ML Injectable Suspension by Dongkwang,MarketedProduct
+2030889,1 ML triamcinolone 40 MG/ML Injectable Suspension by Reyon,MarketedProduct
+2030890,1 ML triamcinolone 40 MG/ML Injectable Suspension [TREON],QuantBrandedDrug
+2030892,1 ML triamcinolone 40 MG/ML Injectable Suspension [TREON] by LG,MarketedProduct
+2031970,1 ML methylprednisolone 40 MG/ML Injectable Suspension [METHISOL],QuantBrandedDrug
+2031972,1 ML methylprednisolone 40 MG/ML Injectable Suspension [METHISOL] by Shinpoong,MarketedProduct
+2034807,sodium chloride 9 MG/ML Injectable Solution [CJ NORMAL SALINE],BrandedDrug
+2034808,sodium chloride 9 MG/ML Injectable Solution [HUONS NORMAL SALINE],BrandedDrug
+2034809,sodium chloride 9 MG/ML Injectable Solution [JW NORMAL SALINE],BrandedDrug
+2034810,sodium chloride 9 MG/ML Irrigation Solution [DAIHAN STERILE SALINE SOLUTION FOR IRRIGATION],BrandedDrug
+2034815,sodium chloride 4.5 MG/ML Injectable Solution [CJ HALF SALINE],BrandedDrug
+2034816,sodium chloride 4.5 MG/ML Injectable Solution [JW HALF SALINE],BrandedDrug
+2039826,triamcinolone 40 MG/ML Injectable Suspension [RHEUDENOLONE],BrandedDrug
+2039827,triamcinolone 40 MG/ML Injectable Suspension [TAMCETON],BrandedDrug
+2039828,triamcinolone 40 MG/ML Injectable Suspension [TREON],BrandedDrug
+2039980,sodium chloride 9 MG/ML / tobramycin 0.8 MG/ML Injectable Solution,ClinicalDrug
+2042316,hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Hemohes],BrandedDrug
+2042317,hetastarch 100 MG/ML / sodium chloride 9 MG/ML Injectable Solution [PENTARCH 200],BrandedDrug
+2042320,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Salinhes],BrandedDrug
+2042322,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [Hemohes],BrandedDrug
+2042323,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HESPLASMA],BrandedDrug
+2042324,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [HEXROTHYL],BrandedDrug
+2042325,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [PENTARCH 200],BrandedDrug
+2042326,hetastarch 60 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TETRAHES],BrandedDrug
+2042403,cefmetazole 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2042404,cefmetazole 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [META KIT],BrandedDrug
+2043665,cefotiam 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2043667,cefotiam 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [THIAMKIT],BrandedDrug
+2043813,potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,ClinicalDrug
+2043814,potassium chloride 1.5 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution [NACL.K 20],BrandedDrug
+2047908,cilastatin 5 MG/ML / imipenem 5 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2047909,cilastatin 5 MG/ML / imipenem 5 MG/ML / sodium chloride 9 MG/ML Injectable Solution [IMICILKIT],BrandedDrug
+2048063,ceftriaxone 20 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2048064,ceftriaxone 20 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TRISONKIT],BrandedDrug
+2048066,ceftriaxone 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2048067,ceftriaxone 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TRISONE],BrandedDrug
+2048238,ceftizoxime 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2048239,ceftizoxime 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [CEZOXIM KIT],BrandedDrug
+2048359,cefotetan 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2048360,cefotetan 10 MG/ML / sodium chloride 9 MG/ML Injectable Solution [TETAN KIT],BrandedDrug
+2048465,cefoperazone 5 MG/ML / sodium chloride 9 MG/ML / sulbactam 5 MG/ML Injectable Solution,ClinicalDrug
+2048466,cefoperazone 5 MG/ML / sodium chloride 9 MG/ML / sulbactam 5 MG/ML Injectable Solution [PERASUL],BrandedDrug
+2052957,sodium chloride 9 MG/ML / vancomycin 10 MG/ML Injectable Solution,ClinicalDrug
+2052958,sodium chloride 9 MG/ML / vancomycin 10 MG/ML Injectable Solution [VANCO KIT],BrandedDrug
+2053076,acyclovir 2.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+2053077,acyclovir 2.5 MG/ML / sodium chloride 9 MG/ML Injectable Solution [ACYLKIT],BrandedDrug
+2054319,glucose 50 MG/ML / potassium chloride 0.75 MG/ML / sodium chloride 4.5 MG/ML Injectable Solution,ClinicalDrug
+2057223,bupivacaine 5 MG/ML Injectable Solution [BUCAINE],BrandedDrug
+2057224,bupivacaine 5 MG/ML Injectable Solution [MARCAINE HEAVY],BrandedDrug
+2057225,bupivacaine 5 MG/ML Injectable Solution [UMACAINE],BrandedDrug
+2057229,bupivacaine 2.5 MG/ML Injectable Solution [PUCAINE],BrandedDrug
+2057230,bupivacaine 2.5 MG/ML Injectable Solution [UMACAINE],BrandedDrug
+2057343,methylprednisolone 40 MG/ML Injectable Suspension [METHISOL],BrandedDrug
+2062160,bupivacaine 5 MG/ML / epinephrine 0.009 MG/ML Injectable Solution,ClinicalDrug
+2062161,bupivacaine 5 MG/ML / epinephrine 0.009 MG/ML Injectable Solution [BARCAINE],BrandedDrug
+21021101,Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe Box of 10,ClinicalDrugBox
+21023906,Povidone-Iodine 40 MG/ML Topical Solution [Betadine] by Molnlycke,MarketedProduct
+21023985,Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+21023986,Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Hemohes] Box of 1,BrandedDrugBox
+21025069,Sodium Chloride 50 MG/ML Injectable Solution [Polyfusor SE] Box of 12,BrandedDrugBox
+21025082,Sodium Chloride 27 MG/ML Injectable Solution [Polyfusor SD] Box of 1,BrandedDrugBox
+21025086,Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 15,BrandedDrugBox
+21025095,Dextran 40 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21025109,Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex] Box of 1,BrandedDrugBox
+21026065,Urofollitropin 75 UNT Injection Box of 3,ClinicalDrugBox
+21026066,Urofollitropin 150 UNT Injection Box of 1,ClinicalDrugBox
+21027992,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by DE,MarketedProduct
+21028709,2 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 10,QuantBrandedBox
+21028710,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21028711,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone],QuantBrandedDrug
+21028761,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Hameln,MarketedProduct
+21028762,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by B.Braun,MarketedProduct
+21028764,2 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by AMCo,MarketedProduct
+21028765,2 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 20 by Mercury,MarketedProduct
+21028870,4 ML Bupivacaine 5 MG/ML / Glucose 80 MG/ML Prefilled Syringe,QuantClinicalDrug
+21028871,4 ML Bupivacaine 5 MG/ML / Glucose 80 MG/ML Prefilled Syringe [Marcain Heavy],QuantBrandedDrug
+21028918,5 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21028986,5 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21028987,5 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by Hameln,MarketedProduct
+21029042,8 ML Povidone-Iodine 100 MG/ML Paint [Betadine],QuantBrandedDrug
+21029117,10 ML Sodium Chloride 8.8 MG/ML Nasal Solution by RX Farma,MarketedProduct
+21029118,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] Box of 20,QuantBrandedBox
+21029123,10 ML Lidocaine 10 MG/ML Prefilled Syringe by AMCo,MarketedProduct
+21029124,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 20 by B.Braun,MarketedProduct
+21029125,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 20 by AMCo,MarketedProduct
+21029237,20000 MG Povidone-Iodine 0.1 MG/MG Topical Ointment,QuantClinicalDrug
+21029263,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by Antigen,MarketedProduct
+21029374,26 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution Box of 25,QuantClinicalBox
+21029510,50 ML Sodium Chloride 300 MG/ML Prefilled Syringe,QuantClinicalDrug
+21029511,50 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven],QuantBrandedDrug
+21029512,50 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21029513,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Hameln,MarketedProduct
+21029928,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21029929,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 1 by Alliance,MarketedProduct
+21029930,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Uro-Tainer],QuantBrandedDrug
+21030166,250 ML Bupivacaine 1.05 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21030186,250 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21030249,500 ML Isopropyl Alcohol 0.7 ML/ML Nasal Spray,QuantClinicalDrug
+21030251,500 ML Bupivacaine 0.8 MG/ML Injectable Solution,QuantClinicalDrug
+21030280,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21030281,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor SB] Box of 1 by Fresenius,MarketedProduct
+21030282,500 ML Sodium Chloride 18 MG/ML Injectable Solution,QuantClinicalDrug
+21030283,500 ML Sodium Chloride 50 MG/ML Injectable Solution [Polyfusor SE] by Fresenius,MarketedProduct
+21030284,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O] by Fresenius,MarketedProduct
+21030285,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O] Box of 1 by Fresenius,MarketedProduct
+21030286,500 ML Sodium Chloride 27 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21030287,500 ML Sodium Chloride 27 MG/ML Injectable Solution [Polyfusor SD] Box of 1 by Fresenius,MarketedProduct
+21030288,500 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 12,QuantClinicalBox
+21030289,500 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 18,QuantClinicalBox
+21030301,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1 by Baxter,MarketedProduct
+21030302,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 15,QuantClinicalBox
+21030303,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection [Intraven] by Terumo BCT,MarketedProduct
+21030332,600 ML Isopropyl Alcohol 0.7 ML/ML Topical Solution by Ecolab,MarketedProduct
+21030352,0.67 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution Box of 200,QuantClinicalBox
+21030365,10.5 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] Box of 25 by CareFusion,MarketedProduct
+21030811,Methylprednisolone 40 MG/ML Prefilled Syringe Box of 10,ClinicalDrugBox
+21030818,Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+21030819,Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone],BrandedDrug
+21031594,Isopropyl Alcohol 0.7 ML/ML Topical Solution by Ennogen,MarketedProduct
+21031659,Bupivacaine 1.05 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+21033684,Povidone-Iodine 10 MG/ML Mouthwash [Betadine],BrandedDrug
+21033772,Pentastarch 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,ClinicalDrug
+21034793,Sodium Chloride 30 MG/ML Injection Box of 1,ClinicalDrugBox
+21034805,Sodium Chloride 8.8 MG/ML Ophthalmic Solution by Martindale,MarketedProduct
+21034806,Sodium Chloride 9 MG/ML Prefilled Syringe Box of 100,ClinicalDrugBox
+21034807,Sodium Chloride 9 MG/ML Prefilled Syringe [Uriflex S],BrandedDrug
+21034819,Potassium Chloride 12 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21037786,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 3,QuantBrandedBox
+21037787,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by Mawdsley-Brooks,MarketedProduct
+21038237,1 ML Hydrocortisone 1 MG/ML / Lidocaine 10 MG/ML Mouthwash,QuantClinicalDrug
+21038514,2 ML Methylprednisolone 40 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21038573,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe by B.Braun,MarketedProduct
+21038574,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by AMCo,MarketedProduct
+21038577,2 ML Lidocaine 10 MG/ML Prefilled Syringe by Phoenix Labs,MarketedProduct
+21038578,2 ML Lidocaine 10 MG/ML Prefilled Syringe by Hameln,MarketedProduct
+21038790,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Kent,MarketedProduct
+21038791,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21038792,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] Box of 100 by GE,MarketedProduct
+21038891,10 ML Bupivacaine 5 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21038892,10 ML Bupivacaine 5 MG/ML Prefilled Syringe [Marcain] by Astrazeneca,MarketedProduct
+21038893,10 ML Bupivacaine 5 MG/ML Prefilled Syringe [Marcain] Box of 10,QuantBrandedBox
+21038941,10 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe,QuantClinicalDrug
+21038942,10 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21038948,10 ML Sodium Chloride 300 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21038949,10 ML Sodium Chloride 300 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21038950,10 ML Sodium Chloride 300 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21038951,10 ML Sodium Chloride 8.8 MG/ML Ophthalmic Solution by A A H,MarketedProduct
+21038952,10 ML Sodium Chloride 8.8 MG/ML Nasal Solution by Actavis,MarketedProduct
+21038953,10 ML Sodium Chloride 9 MG/ML Nasal Solution by Almus,MarketedProduct
+21038954,10 ML Sodium Chloride 8.8 MG/ML Nasal Solution [Nasosal],QuantBrandedDrug
+21038958,10 ML Lidocaine 10 MG/ML Prefilled Syringe by Alliance,MarketedProduct
+21038959,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21038960,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by Alliance,MarketedProduct
+21038961,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by AMCo,MarketedProduct
+21039126,20 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe [Xylocaine],QuantBrandedDrug
+21039131,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec],QuantBrandedDrug
+21039132,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] Box of 20 by GE,MarketedProduct
+21039133,20 ML Lidocaine 10 MG/ML Prefilled Syringe by AMCo,MarketedProduct
+21039134,20 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by AMCo,MarketedProduct
+21039135,20 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21039292,30 ML Hydrocortisone 2 MG/ML / Lidocaine 10 MG/ML Nasal Spray [Perinal],QuantBrandedDrug
+21039293,30 ML Hydrocortisone 2 MG/ML / Lidocaine 10 MG/ML Nasal Spray [Germoloids],QuantBrandedDrug
+21039377,50 ML Sodium Chloride 300 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21039378,50 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21039483,80000 MG Povidone-Iodine 0.1 MG/MG Topical Ointment [Betadine] by Molnlycke,MarketedProduct
+21039727,100 ML Povidone-Iodine 50 MG/ML Topical Solution,QuantClinicalDrug
+21039755,100 ML Sodium Chloride 8.8 MG/ML Injectable Suspension,QuantClinicalDrug
+21039757,100 ML Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21039853,125 ML Sodium Chloride 9 MG/ML Injection Box of 1,QuantClinicalBox
+21039892,150 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 30 by Baxter,MarketedProduct
+21039945,2.5 ML Sodium Chloride 8.8 MG/ML Inhalant Solution Box of 20,QuantClinicalBox
+21039946,2.5 ML Sodium Chloride 9 MG/ML Inhalant Solution Box of 20 by Actavis,MarketedProduct
+21039973,200 ML Hydrocortisone 1 MG/ML / Lidocaine 10 MG/ML Mouthwash,QuantClinicalDrug
+21040005,250 ML Bupivacaine 1.05 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+21040113,500 ML Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21040123,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+21040124,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven],QuantBrandedDrug
+21040125,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor SB] Box of 12,QuantBrandedBox
+21040126,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution Box of 12,QuantClinicalBox
+21040127,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O],QuantBrandedDrug
+21040128,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O] Box of 1,QuantBrandedBox
+21040129,500 ML Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21040130,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21040131,500 ML Glucose 25 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor TA] Box of 1,QuantBrandedBox
+21040132,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21040136,500 ML Glucose 50 MG/ML / Potassium Chloride 1.5 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven],QuantBrandedDrug
+21040140,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection by Maco,MarketedProduct
+21040141,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 15,QuantClinicalBox
+21040142,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 20,QuantClinicalBox
+21040143,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21040144,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+21040694,Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1,BrandedDrugBox
+21041557,Bupivacaine 5 MG/ML Prefilled Syringe Box of 5,ClinicalDrugBox
+21043572,Povidone-Iodine 75 MG/ML Topical Solution [Betadine],BrandedDrug
+21044646,Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 1,BrandedDrugBox
+21044658,Sodium Chloride 30 MG/ML Injectable Solution Box of 30,ClinicalDrugBox
+21044664,Sodium Chloride 27 MG/ML Injectable Solution [Polyfusor SD] Box of 12,BrandedDrugBox
+21044670,Sodium Chloride 9 MG/ML Inhalant Solution Box of 25,ClinicalDrugBox
+21044671,Sodium Chloride 9 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+21044681,Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 1,BrandedDrugBox
+21044684,Glucose 50 MG/ML / Potassium Chloride 1.5 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] Box of 1,BrandedDrugBox
+21044689,Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 20,ClinicalDrugBox
+21044690,Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Intraven] Box of 1,BrandedDrugBox
+21044691,Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex],BrandedDrug
+21044692,Potassium Chloride 22.5 MG/ML / Sodium Chloride 9 MG/ML Injection,ClinicalDrug
+21044693,Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injection,ClinicalDrug
+21044912,Lidocaine 10 MG/ML Vaginal Gel by A A H,MarketedProduct
+21047903,1 ML Povidone-Iodine 50 MG/ML Topical Solution,QuantClinicalDrug
+21048318,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 10,QuantBrandedBox
+21048396,2 ML Triamcinolone 40 MG/ML Prefilled Syringe [Kenalog] Box of 1 by Bristol Myers Squibb,MarketedProduct
+21048436,3 ML Methylprednisolone 40 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21048437,3 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 10 by Pfizer,MarketedProduct
+21048598,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Mercury,MarketedProduct
+21048602,5 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 20 by AMCo,MarketedProduct
+21048670,8 ML Povidone-Iodine 100 MG/ML Paint,QuantClinicalDrug
+21048700,10 ML Bupivacaine 5 MG/ML Prefilled Syringe [Marcain],QuantBrandedDrug
+21048749,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Mercury,MarketedProduct
+21048750,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Martindale,MarketedProduct
+21048751,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21048752,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Mercury,MarketedProduct
+21048753,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by Steripak,MarketedProduct
+21048754,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by AMCo,MarketedProduct
+21048755,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] Box of 100,QuantBrandedBox
+21048760,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 1 by A A H,MarketedProduct
+21048921,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20,QuantClinicalBox
+21049100,30 ML Hydrocortisone 2 MG/ML / Lidocaine 10 MG/ML Nasal Spray [Perinal] by Dermal,MarketedProduct
+21049199,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Uriflex SP] by Coloplast,MarketedProduct
+21049200,50 ML Potassium Chloride 75 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 10,QuantClinicalBox
+21049500,100 ML Bupivacaine 1.05 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21049573,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by A A H,MarketedProduct
+21049574,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21049685,150 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21049738,2.5 ML Sodium Chloride 9 MG/ML Inhalant Solution Box of 20 by Generics,MarketedProduct
+21049803,250 ML Bupivacaine 0.8 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21049875,500 ML Isopropyl Alcohol 0.7 ML/ML Topical Solution by Ennogen,MarketedProduct
+21049877,500 ML Bupivacaine 1.2 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21049900,500 ML Sodium Chloride 18 MG/ML Injectable Solution Box of 12,QuantClinicalBox
+21049901,500 ML Sodium Chloride 18 MG/ML Injectable Solution [Polyfusor SC] Box of 1,QuantBrandedBox
+21049902,500 ML Sodium Chloride 50 MG/ML Injectable Solution [Polyfusor SE] Box of 12 by Fresenius,MarketedProduct
+21049903,500 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 15,QuantClinicalBox
+21049904,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+21049905,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 15 by Fresenius,MarketedProduct
+21049906,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21049908,500 ML Glucose 25 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21049909,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21049911,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 15,QuantClinicalBox
+21049912,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Intraven],QuantBrandedDrug
+21049914,500 ML Glucose 100 MG/ML / Potassium Chloride 3 MG/ML / Sodium Chloride 4.5 MG/ML Injection,QuantClinicalDrug
+21049917,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1 by A A H,MarketedProduct
+21049951,600 ML Isopropyl Alcohol 0.7 ML/ML Topical Solution by A A H,MarketedProduct
+21050532,Dextran 70 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,ClinicalDrug
+21051296,Isopropyl Alcohol 0.7 ML/ML / Triclosan 5 MG/ML Topical Solution [Manusept],BrandedDrug
+21051355,Bupivacaine 5 MG/ML Injection Box of 1,ClinicalDrugBox
+21053387,Povidone-Iodine 100 MG/ML Topical Solution [Videne] by Ecolab,MarketedProduct
+21054457,Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 15,BrandedDrugBox
+21054465,Sodium Chloride 300 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+21054470,Sodium Chloride 9 MG/ML Injectable Solution Box of 20,ClinicalDrugBox
+21054473,Sodium Chloride 8.8 MG/ML Injectable Suspension Box of 25,ClinicalDrugBox
+21054474,Sodium Chloride 9 MG/ML Injectable Solution by J M Loveridge,MarketedProduct
+21054475,Sodium Chloride 8.8 MG/ML Nasal Solution [Nasosal],BrandedDrug
+21054476,Sodium Chloride 25 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+21054482,Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 15,BrandedDrugBox
+21054492,Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 5,ClinicalDrugBox
+21054729,Lidocaine 10 MG/ML Prefilled Syringe Box of 10,ClinicalDrugBox
+21055494,Urofollitropin 75 UNT Injection [Fostimon] Box of 10 by Ibsa,MarketedProduct
+21057417,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe Box of 3,QuantClinicalBox
+21057418,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by Lexon,MarketedProduct
+21057419,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by DE,MarketedProduct
+21057687,1 ML Povidone-Iodine 10 MG/ML Topical Solution,QuantClinicalDrug
+21057909,1 ML Triamcinolone 40 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21057910,1 ML Triamcinolone 40 MG/ML Prefilled Syringe [Kenalog],QuantBrandedDrug
+21058087,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1,QuantBrandedBox
+21058143,2 ML Lidocaine 10 MG/ML Prefilled Syringe by Alliance,MarketedProduct
+21058282,5 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe,QuantClinicalDrug
+21058345,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Martindale,MarketedProduct
+21058346,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Mercury,MarketedProduct
+21058446,10 ML Bupivacaine 5 MG/ML Prefilled Syringe Box of 20 by AMCo,MarketedProduct
+21058448,10 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe [Marcain],QuantBrandedDrug
+21058499,10 ML Sodium Chloride 300 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21058500,10 ML Sodium Chloride 8.8 MG/ML Nasal Solution [Nasosal] by Dendron,MarketedProduct
+21058501,10 ML Sodium Chloride 9 MG/ML Nasal Solution [Mandanol],QuantBrandedDrug
+21058502,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20,QuantClinicalBox
+21058504,10 ML Lidocaine 10 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21058505,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21058647,20 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe,QuantClinicalDrug
+21058664,20 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe,QuantClinicalDrug
+21058670,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Alliance,MarketedProduct
+21058671,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21058962,50 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21058965,50 ML Potassium Chloride 75 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1,QuantClinicalBox
+21059150,0.5 ML Sodium Chloride 9 MG/ML Ophthalmic Solution [Minims saline],QuantBrandedDrug
+21059209,1.5 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] Box of 20,QuantBrandedBox
+21059279,100 ML Bupivacaine 1.05 MG/ML Injectable Solution by AMCo,MarketedProduct
+21059361,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by B.Braun,MarketedProduct
+21059362,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 20 by B.Braun,MarketedProduct
+21059365,100 ML Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21059366,100 ML Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1,QuantClinicalBox
+21059595,250 ML Bupivacaine 2.5 MG/ML Injectable Solution,QuantClinicalDrug
+21059598,250 ML Bupivacaine 0.8 MG/ML Injectable Solution,QuantClinicalDrug
+21059603,250 ML Povidone-Iodine 10 MG/ML Mouthwash [Betadine] by Molnlycke,MarketedProduct
+21059608,250 ML Sodium Chloride 30 MG/ML Injection,QuantClinicalDrug
+21059609,250 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21059610,250 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 30 by Maco,MarketedProduct
+21059625,3.5 ML Sodium Chloride 25 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21059679,500 ML Dextran 70 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21059680,500 ML Dextran 70 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution by Baxter,MarketedProduct
+21059684,500 ML Isopropyl Alcohol 0.7 ML/ML / Triclosan 5 MG/ML Topical Solution [Manusept],QuantBrandedDrug
+21059685,500 ML Hydrogen Peroxide 1.25 MG/ML / Isopropyl Alcohol 0.7 ML/ML Nasal Spray,QuantClinicalDrug
+21059687,500 ML Bupivacaine 5 MG/ML Injection Box of 1,QuantClinicalBox
+21059704,500 ML Povidone-Iodine 75 MG/ML Topical Solution [Betadine] by Molnlycke,MarketedProduct
+21059705,500 ML Pentastarch 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21059706,500 ML Pentastarch 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Hemohes] Box of 1,QuantBrandedBox
+21059707,500 ML Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Hemohes] Box of 1 by B.Braun,MarketedProduct
+21059708,500 ML Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Infukoll] by Beacon,MarketedProduct
+21059725,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution,QuantClinicalDrug
+21059726,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution Box of 20 by Baxter,MarketedProduct
+21059727,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 15 by Fresenius,MarketedProduct
+21059728,500 ML Sodium Chloride 18 MG/ML Injectable Solution [Polyfusor SC] Box of 1 by Fresenius,MarketedProduct
+21059729,500 ML Sodium Chloride 9 MG/ML Injectable Solution by Maco,MarketedProduct
+21059730,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Polyfusor S] Box of 1 by Fresenius,MarketedProduct
+21059731,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21059732,500 ML Glucose 25 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor TA] by Fresenius,MarketedProduct
+21059733,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution by Baxter,MarketedProduct
+21059734,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution Box of 20 by Baxter,MarketedProduct
+21059735,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21059736,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21059743,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1 by Maco,MarketedProduct
+21059744,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 20 by Maco,MarketedProduct
+21059745,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+21059786,600 ML Isopropyl Alcohol 0.7 ML/ML Topical Solution,QuantClinicalDrug
+21059802,0.67 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] Box of 200 by CareFusion,MarketedProduct
+21061084,Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution Box of 200,ClinicalDrugBox
+21061085,Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] Box of 200,BrandedDrugBox
+21061142,Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+21061143,Bupivacaine 5 MG/ML / Glucose 80 MG/ML Prefilled Syringe Box of 5,ClinicalDrugBox
+21063227,Povidone-Iodine 0.1 MG/MG Topical Ointment [Betadine] by Molnlycke,MarketedProduct
+21063313,Pentastarch 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21064240,Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe Box of 1,ClinicalDrugBox
+21064241,Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe Box of 10,ClinicalDrugBox
+21064315,Sodium Chloride 4.5 MG/ML Injectable Solution Box of 20,ClinicalDrugBox
+21064316,Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex],BrandedDrug
+21064317,Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven],BrandedDrug
+21064318,Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor SB],BrandedDrug
+21064319,Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor SB] Box of 12,BrandedDrugBox
+21064324,Sodium Chloride 50 MG/ML Injectable Solution Box of 12,ClinicalDrugBox
+21064329,Sodium Chloride 1.8 MG/ML Injectable Solution Box of 12,ClinicalDrugBox
+21064330,Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O] Box of 1,BrandedDrugBox
+21064337,Sodium Chloride 9 MG/ML Injectable Solution Box of 18,ClinicalDrugBox
+21064339,Sodium Chloride 9 MG/ML Ophthalmic Solution by Alliance,MarketedProduct
+21064340,Sodium Chloride 9 MG/ML Nasal Solution [Mandanol],BrandedDrug
+21064341,Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] Box of 100,BrandedDrugBox
+21064353,Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection,ClinicalDrug
+21064354,Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex],BrandedDrug
+21064355,Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Steriflex],BrandedDrug
+21065309,Triamcinolone 40 MG/ML Prefilled Syringe [Kenalog] Box of 1,BrandedDrugBox
+21067263,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone],QuantBrandedDrug
+21067264,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by Pfizer,MarketedProduct
+21067265,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21067266,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21067267,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by Lexon,MarketedProduct
+21067781,1 ML Triamcinolone 40 MG/ML Prefilled Syringe [Kenalog] by Bristol Myers Squibb,MarketedProduct
+21068064,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Hameln,MarketedProduct
+21068071,2 ML Lidocaine 10 MG/ML Prefilled Syringe by Mercury,MarketedProduct
+21068072,2 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21068073,2 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 20 by Alliance,MarketedProduct
+21068127,3 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone],QuantBrandedDrug
+21068130,3 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] Box of 1,QuantBrandedBox
+21068283,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20,QuantClinicalBox
+21068284,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] by GE,MarketedProduct
+21068285,5 ML Sodium Chloride 200 MG/ML Prefilled Syringe,QuantClinicalDrug
+21068355,8 ML Povidone-Iodine 100 MG/ML Paint [Betadine] by Molnlycke,MarketedProduct
+21068395,10 ML Bupivacaine 5 MG/ML Prefilled Syringe Box of 10 by Accord,MarketedProduct
+21068396,10 ML Bupivacaine 5 MG/ML Prefilled Syringe [Marcain] Box of 5 by Astrazeneca,MarketedProduct
+21068397,10 ML Bupivacaine 5 MG/ML Prefilled Syringe [Marcain] Box of 10 by Astrazeneca,MarketedProduct
+21068457,10 ML Sodium Chloride 9 MG/ML Nasal Solution [Mandanol] by M & A chem,MarketedProduct
+21068458,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by B.Braun,MarketedProduct
+21068459,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 50,QuantClinicalBox
+21068460,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] Box of 100 by GE,MarketedProduct
+21068467,10 ML Lidocaine 10 MG/ML Prefilled Syringe by Martindale,MarketedProduct
+21068607,20 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe Box of 5,QuantClinicalBox
+21068610,20 ML Sodium Chloride 9 MG/ML Inhalant Solution Box of 25 by Galen,MarketedProduct
+21068611,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Antigen,MarketedProduct
+21068615,20 ML Lidocaine 10 MG/ML Prefilled Syringe by Hameln,MarketedProduct
+21068880,50 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21068881,50 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21068882,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21068883,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 25 by A A H,MarketedProduct
+21068884,50 ML Potassium Chloride 75 MG/ML / Sodium Chloride 9 MG/ML Injection,QuantClinicalDrug
+21069079,0.5 ML Sodium Chloride 9 MG/ML Ophthalmic Solution Box of 20,QuantClinicalBox
+21069080,0.5 ML Sodium Chloride 9 MG/ML Ophthalmic Solution [Minims saline] Box of 20,QuantBrandedBox
+21069146,1.5 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] by CareFusion,MarketedProduct
+21069214,100 ML Isopropyl Alcohol 0.7 ML/ML / Triclosan 5 MG/ML Topical Solution [Manusept],QuantBrandedDrug
+21069218,100 ML Bupivacaine 1.05 MG/ML Injectable Solution,QuantClinicalDrug
+21069219,100 ML Bupivacaine 1.05 MG/ML Injectable Solution Box of 20 by AMCo,MarketedProduct
+21069302,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21069304,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Uriflex S] by Coloplast,MarketedProduct
+21069306,100 ML Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21069436,150 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21069483,2.5 ML Sodium Chloride 8.8 MG/ML Inhalant Solution Box of 20 by Niche,MarketedProduct
+21069502,200 ML Potassium Chloride 22.5 MG/ML / Sodium Chloride 9 MG/ML Injection,QuantClinicalDrug
+21069557,250 ML Povidone-Iodine 100 MG/ML Topical Solution [Betadine VC Kit] by Molnlycke,MarketedProduct
+21069569,3.5 ML Sodium Chloride 25 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21069624,500 ML Isopropyl Alcohol 0.7 ML/ML / Triclosan 5 MG/ML Topical Solution [Manusept] by Molnlycke,MarketedProduct
+21069625,500 ML Hydrogen Peroxide 1.25 MG/ML / Isopropyl Alcohol 0.7 ML/ML Nasal Spray by Ecolab,MarketedProduct
+21069650,500 ML Pentastarch 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Hemohes],QuantBrandedDrug
+21069651,500 ML Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Hemohes],QuantBrandedDrug
+21069662,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex] Box of 15,QuantBrandedBox
+21069663,500 ML Sodium Chloride 18 MG/ML Injectable Solution [Polyfusor SC] Box of 12,QuantBrandedBox
+21069664,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21069665,500 ML Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O] Box of 12 by Fresenius,MarketedProduct
+21069666,500 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 20 by Maco,MarketedProduct
+21069668,500 ML Dextran 40 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21069669,500 ML Dextran 40 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution by Baxter,MarketedProduct
+21069670,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+21069671,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex],QuantBrandedDrug
+21069673,500 ML Glucose 100 MG/ML / Potassium Chloride 3 MG/ML / Sodium Chloride 4.5 MG/ML Injection Box of 1,QuantClinicalBox
+21069674,500 ML Glucose 50 MG/ML / Potassium Chloride 1.5 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21069679,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection,QuantClinicalDrug
+21069680,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection by A A H,MarketedProduct
+21069681,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex] Box of 15,QuantBrandedBox
+21069682,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 20 by Maco,MarketedProduct
+21069683,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21069726,1000 ML Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21071029,Isopropyl Alcohol 0.7 ML/ML / Triclosan 5 MG/ML Topical Solution [Manusept] by Molnlycke,MarketedProduct
+21071080,Bupivacaine 1.2 MG/ML Injectable Solution,ClinicalDrug
+21071088,Bupivacaine 5 MG/ML / Glucose 80 MG/ML Prefilled Syringe [Marcain Heavy],BrandedDrug
+21073104,Povidone-Iodine 100 MG/ML Paint [Betadine],BrandedDrug
+21073202,Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Infukoll],BrandedDrug
+21074244,Sodium Chloride 4.5 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21074245,Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] Box of 1,BrandedDrugBox
+21074248,Sodium Chloride 18 MG/ML Injectable Solution [Polyfusor SC] Box of 12,BrandedDrugBox
+21074253,Sodium Chloride 30 MG/ML Injection Box of 20,ClinicalDrugBox
+21074260,Sodium Chloride 9 MG/ML Injectable Solution by Extemp Order,MarketedProduct
+21074262,Sodium Chloride 9 MG/ML Inhalant Solution Box of 20,ClinicalDrugBox
+21074263,Sodium Chloride 8.8 MG/ML Inhalant Solution [Saline Steripoules],BrandedDrug
+21074264,Sodium Chloride 9 MG/ML Prefilled Syringe [Uriflex SP],BrandedDrug
+21074265,Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec],BrandedDrug
+21074273,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 15,BrandedDrugBox
+21074283,Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1,ClinicalDrugBox
+21074284,Potassium Chloride 15 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21074285,Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+21074286,Potassium Chloride 75 MG/ML / Sodium Chloride 9 MG/ML Injection,ClinicalDrug
+21074287,Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21077152,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by Waymade,MarketedProduct
+21077832,2 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by Pfizer,MarketedProduct
+21077938,3 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1,QuantBrandedBox
+21077939,3 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by Pfizer,MarketedProduct
+21078087,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21078091,5 ML Lidocaine 10 MG/ML Prefilled Syringe by Hameln,MarketedProduct
+21078092,5 ML Lidocaine 10 MG/ML Prefilled Syringe by AMCo,MarketedProduct
+21078093,5 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 20 by Alliance,MarketedProduct
+21078176,10 ML Bupivacaine 5 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21078218,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21078367,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by Kent,MarketedProduct
+21078480,26 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep],QuantBrandedDrug
+21078547,30 ML Hydrocortisone 2 MG/ML / Lidocaine 10 MG/ML Nasal Spray,QuantClinicalDrug
+21078644,50 ML Sodium Chloride 9 MG/ML Injectable Solution by Maco,MarketedProduct
+21078645,50 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex],QuantBrandedDrug
+21078646,50 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+21078972,100 ML Bupivacaine 1.05 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+21079066,100 ML Sodium Chloride 9 MG/ML Injectable Solution by B.Braun,MarketedProduct
+21079067,100 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven],QuantBrandedDrug
+21079070,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Uriflex S],QuantBrandedDrug
+21079238,2.5 ML Sodium Chloride 8.8 MG/ML Inhalant Solution [Saline Steripoules] Box of 20,QuantBrandedBox
+21079334,250 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven],QuantBrandedDrug
+21079423,500 ML Povidone-Iodine 100 MG/ML Topical Solution [Betadine] by Molnlycke,MarketedProduct
+21079424,500 ML Pentastarch 100 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21079425,500 ML Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Infukoll],QuantBrandedDrug
+21079426,500 ML Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Infukoll] Box of 10 by Beacon,MarketedProduct
+21079436,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21079437,500 ML Sodium Chloride 9 MG/ML Injectable Solution by Baxter,MarketedProduct
+21079438,500 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21079439,500 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+21079442,500 ML Glucose 25 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor TA] Box of 1 by Fresenius,MarketedProduct
+21079443,500 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution Box of 15,QuantClinicalBox
+21079444,500 ML Glucose 100 MG/ML / Sodium Chloride 4.5 MG/ML Injection,QuantClinicalDrug
+21079445,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21079446,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21079448,500 ML Glucose 50 MG/ML / Potassium Chloride 1.5 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21079449,500 ML Glucose 50 MG/ML / Potassium Chloride 1.5 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21079452,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1 by Baxter,MarketedProduct
+21079453,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex] by Fresenius,MarketedProduct
+21079454,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex] Box of 1 by Fresenius,MarketedProduct
+21079455,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 20 by Baxter,MarketedProduct
+21079456,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+21079457,500 ML Potassium Chloride 6 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21079954,Methylprednisolone 40 MG/ML Prefilled Syringe Box of 3,ClinicalDrugBox
+21080710,Isopropyl Alcohol 0.7 ML/ML Nasal Spray by Ecolab,MarketedProduct
+21080711,Hydrogen Peroxide 1.25 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution by Ecolab,MarketedProduct
+21080712,Hydrogen Peroxide 1.25 MG/ML / Isopropyl Alcohol 0.7 ML/ML Nasal Spray,ClinicalDrug
+21080770,Bupivacaine 1.05 MG/ML Injectable Solution Box of 50,ClinicalDrugBox
+21080771,Bupivacaine 1.2 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21080775,Bupivacaine 0.8 MG/ML Injectable Solution Box of 20,ClinicalDrugBox
+21080779,Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe [Marcain],BrandedDrug
+21083858,Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe Box of 5,ClinicalDrugBox
+21083928,Sodium Chloride 18 MG/ML Injectable Solution [Polyfusor SC],BrandedDrug
+21083939,Sodium Chloride 27 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21083943,Sodium Chloride 9 MG/ML Injectable Solution [Polyfusor S] Box of 1,BrandedDrugBox
+21083944,Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1,BrandedDrugBox
+21083948,Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20,ClinicalDrugBox
+21083959,Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Steriflex],BrandedDrug
+21083963,Glucose 100 MG/ML / Potassium Chloride 3 MG/ML / Sodium Chloride 4.5 MG/ML Injection Box of 1,ClinicalDrugBox
+21083968,Potassium Chloride 15 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,ClinicalDrug
+21084967,Urofollitropin 75 UNT Injection [Fostimon] Box of 10,BrandedDrugBox
+21084969,Urofollitropin 150 UNT Injection [Fostimon] Box of 10 by Ibsa,MarketedProduct
+21086902,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe,QuantClinicalDrug
+21087348,1 ML Triamcinolone 40 MG/ML Prefilled Syringe [Kenalog] Box of 5,QuantBrandedBox
+21087584,2 ML Methylprednisolone 40 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21087585,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by Pfizer,MarketedProduct
+21087632,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Alliance,MarketedProduct
+21087636,2 ML Lidocaine 10 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21087637,2 ML Lidocaine 10 MG/ML Prefilled Syringe by Martindale,MarketedProduct
+21087702,3 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] by CareFusion,MarketedProduct
+21087828,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by AMCo,MarketedProduct
+21087832,5 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21087926,10 ML Bupivacaine 5 MG/ML Prefilled Syringe Box of 10 by AMCo,MarketedProduct
+21087927,10 ML Bupivacaine 5 MG/ML Prefilled Syringe Box of 20 by A A H,MarketedProduct
+21087929,10 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe by AMCo,MarketedProduct
+21087989,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe by B.Braun,MarketedProduct
+21087992,10 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 1 by Martindale,MarketedProduct
+21088092,15 ML Lidocaine 10 MG/ML Vaginal Gel by Alliance,MarketedProduct
+21088093,15 ML Lidocaine 10 MG/ML Vaginal Gel by A A H,MarketedProduct
+21088094,15 ML Lidocaine 10 MG/ML Vaginal Gel by Astrazeneca,MarketedProduct
+21088139,20 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe [Xylocaine] Box of 5 by Astrazeneca,MarketedProduct
+21088143,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe [Drytec] by GE,MarketedProduct
+21088148,20 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by Alliance,MarketedProduct
+21088149,20 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21088309,30 ML Hydrocortisone 2 MG/ML / Lidocaine 10 MG/ML Nasal Spray [Germoloids] by Bayer,MarketedProduct
+21088401,50 ML Sodium Chloride 300 MG/ML Prefilled Syringe Box of 1 by Martindale,MarketedProduct
+21088402,50 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21088403,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21088404,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 25,QuantClinicalBox
+21088559,0.5 ML Sodium Chloride 9 MG/ML Ophthalmic Solution [Minims saline] Box of 20 by Bausch & Lomb,MarketedProduct
+21088745,100 ML Sodium Chloride 30 MG/ML Injectable Solution,QuantClinicalDrug
+21088746,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 30 by Baxter,MarketedProduct
+21088747,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 60 by Maco,MarketedProduct
+21088748,100 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex],QuantBrandedDrug
+21088749,100 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+21088750,100 ML Sodium Chloride 9 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21088751,100 ML Sodium Chloride 9 MG/ML Injectable Suspension by Hameln,MarketedProduct
+21088752,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe,QuantClinicalDrug
+21088753,100 ML Sodium Chloride 9 MG/ML Prefilled Syringe [OptiFlo S saline],QuantBrandedDrug
+21089093,500 ML Isopropyl Alcohol 0.7 ML/ML Topical Solution by J M Loveridge,MarketedProduct
+21089113,500 ML Povidone-Iodine 75 MG/ML Topical Solution,QuantClinicalDrug
+21089114,500 ML Povidone-Iodine 75 MG/ML Topical Solution [Videne],QuantBrandedDrug
+21089115,500 ML Povidone-Iodine 75 MG/ML Topical Solution [Betadine],QuantBrandedDrug
+21089127,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution Box of 15,QuantClinicalBox
+21089128,500 ML Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor SB] Box of 12 by Fresenius,MarketedProduct
+21089129,500 ML Sodium Chloride 50 MG/ML Injectable Solution [Polyfusor SE],QuantBrandedDrug
+21089130,500 ML Glucose 25 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution by Baxter,MarketedProduct
+21089131,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 15 by Fresenius,MarketedProduct
+21089136,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21089137,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex] Box of 1,QuantBrandedBox
+21089138,500 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex] Box of 15 by Fresenius,MarketedProduct
+21089139,500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection [Steriflex],QuantBrandedDrug
+21089140,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,QuantClinicalDrug
+21089141,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21089142,500 ML Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+21089178,600 ML Hydrogen Peroxide 1.25 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution,QuantClinicalDrug
+21089204,10.5 ML Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution [ChloraPrep] Box of 25,QuantBrandedBox
+21090463,Chlorhexidine 20 MG/ML / Isopropyl Alcohol 0.7 ML/ML Topical Solution Box of 20,ClinicalDrugBox
+21090518,Bupivacaine 0.8 MG/ML Injectable Solution,ClinicalDrug
+21092575,Povidone-Iodine 100 MG/ML Topical Solution [Betadine] by Molnlycke,MarketedProduct
+21092576,Povidone-Iodine 100 MG/ML Topical Solution [Betadine VC Kit],BrandedDrug
+21092670,Pentastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,ClinicalDrug
+21093681,Sodium Chloride 1.8 MG/ML Injectable Solution [Polyfusor O] Box of 12,BrandedDrugBox
+21093696,Sodium Chloride 9 MG/ML Injectable Solution [Steriflex],BrandedDrug
+21093700,Sodium Chloride 9 MG/ML Ophthalmic Solution [Minims saline] Box of 20,BrandedDrugBox
+21093701,Sodium Chloride 9 MG/ML Prefilled Syringe Box of 25,ClinicalDrugBox
+21093702,Sodium Chloride 9 MG/ML Prefilled Syringe [OptiFlo S saline],BrandedDrug
+21093705,Sodium Chloride 25 MG/ML Prefilled Syringe Box of 10,ClinicalDrugBox
+21093711,Glucose 25 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [Polyfusor TA] Box of 1,BrandedDrugBox
+21093713,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 20,ClinicalDrugBox
+21093723,Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 15,ClinicalDrugBox
+21093724,Potassium Chloride 30 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 1,ClinicalDrugBox
+21093725,Potassium Chloride 75 MG/ML / Sodium Chloride 9 MG/ML Injection Box of 10,ClinicalDrugBox
+21093726,Potassium Chloride 2 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution,ClinicalDrug
+21094732,Urofollitropin 75 UNT Injection [Bravelle] by Ferring,MarketedProduct
+21094733,Urofollitropin 75 UNT Injection [Bravelle] Box of 10,BrandedDrugBox
+21094734,Urofollitropin 75 UNT Injection [Fostimon] by Ibsa,MarketedProduct
+21094735,Urofollitropin 150 UNT Injection [Fostimon] by Ibsa,MarketedProduct
+21094736,Urofollitropin 150 UNT Injection [Fostimon] Box of 10,BrandedDrugBox
+21096663,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by DE,MarketedProduct
+21096664,1 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by Pfizer,MarketedProduct
+21096665,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by Mawdsley-Brooks,MarketedProduct
+21096666,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 1 by DE,MarketedProduct
+21096667,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 10,QuantBrandedBox
+21096668,1 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 10 by Pfizer,MarketedProduct
+21097156,1 ML Triamcinolone 40 MG/ML Prefilled Syringe [Kenalog] Box of 1,QuantBrandedBox
+21097387,2 ML Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] Box of 10 by Pfizer,MarketedProduct
+21097388,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe,QuantClinicalDrug
+21097389,2 ML Lidocaine 10 MG/ML / Methylprednisolone 40 MG/ML Prefilled Syringe [Depo-Medrone] by Waymade,MarketedProduct
+21097438,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Mercury,MarketedProduct
+21097439,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10,QuantClinicalBox
+21097440,2 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by Martindale,MarketedProduct
+21097648,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21097649,5 ML Sodium Chloride 9 MG/ML Prefilled Syringe Box of 20 by B.Braun,MarketedProduct
+21097656,5 ML Lidocaine 10 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21097657,5 ML Lidocaine 10 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21097747,10 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe Box of 10 by A A H,MarketedProduct
+21097748,10 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe [Marcain] by Astrazeneca,MarketedProduct
+21097814,10 ML Sodium Chloride 300 MG/ML Prefilled Syringe by Alliance,MarketedProduct
+21097816,10 ML Sodium Chloride 8.8 MG/ML Nasal Solution by Tubilux,MarketedProduct
+21097817,10 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Hameln,MarketedProduct
+21097957,20 ML Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Prefilled Syringe Box of 1,QuantClinicalBox
+21097969,20 ML Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Prefilled Syringe [Xylocaine] by Astrazeneca,MarketedProduct
+21097972,20 ML Sodium Chloride 9 MG/ML Inhalant Solution Box of 25,QuantClinicalBox
+21097973,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Steripak,MarketedProduct
+21097974,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe by Alliance,MarketedProduct
+21097975,20 ML Sodium Chloride 9 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21097978,20 ML Lidocaine 10 MG/ML Prefilled Syringe by A A H,MarketedProduct
+21098247,50 ML Sodium Chloride 9 MG/ML Prefilled Syringe [OptiFlo S saline] by Bard,MarketedProduct
+21098248,50 ML Potassium Chloride 75 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21098599,100 ML Bupivacaine 1.05 MG/ML Injectable Solution Box of 50 by AMCo,MarketedProduct
+21098659,100 ML Sodium Chloride 9 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21098660,100 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+21098661,100 ML Sodium Chloride 9 MG/ML Injectable Suspension Box of 25 by Hameln,MarketedProduct
+21098921,250 ML Bupivacaine 1.05 MG/ML Injectable Solution by A A H,MarketedProduct
+21098933,250 ML Povidone-Iodine 100 MG/ML Topical Solution,QuantClinicalDrug
+21098934,250 ML Povidone-Iodine 10 MG/ML Mouthwash,QuantClinicalDrug
+21098937,250 ML Sodium Chloride 9 MG/ML Injectable Solution [Steriflex],QuantBrandedDrug

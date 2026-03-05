@@ -1,0 +1,9 @@
+concept_id,label,concept_class
+1567940,Type 1 diabetes mellitus,3CharNonbillCode
+201254,Type 1 diabetes mellitus,Disorder
+36209547,Insulin dependent diabetes mellitus,LoincComponent
+3968674,Diabetes Type I,Answer
+45576436,Type 1 diabetes mellitus,Icd10Hierarchy
+45883360,Diabetes Type 1,Answer
+46237470,T1d,Answer
+604357,Ketosis-prone diabetes mellitus,Disorder

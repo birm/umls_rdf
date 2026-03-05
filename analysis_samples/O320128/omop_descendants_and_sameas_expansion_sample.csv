@@ -1,0 +1,253 @@
+concept_id,label,concept_class
+1032443,Hypertension,LoincComponent
+1075886,Hypertension in chronic kidney disease stage 3B due to type 1 diabetes mellitus,Disorder
+1075887,Hypertension in chronic kidney disease stage 3A due to type 1 diabetes mellitus,Disorder
+1075888,Hypertension in chronic kidney disease stage 3 due to type 1 diabetes mellitus,Disorder
+1075903,Hypertension in chronic kidney disease stage 2 due to type 1 diabetes mellitus,Disorder
+1075904,Hypertension in chronic kidney disease stage 3B due to type 2 diabetes mellitus,Disorder
+1075905,Hypertension in chronic kidney disease stage 3A due to type 2 diabetes mellitus,Disorder
+1075906,Hypertension in chronic kidney disease stage 5 due to type 1 diabetes mellitus,Disorder
+1075907,Hypertension in chronic kidney disease stage 4 due to type 1 diabetes mellitus,Disorder
+1340364,Exacerbation of hypertensive disorder,Disorder
+1340440,Exacerbation of pre-eclampsia,Disorder
+141084,Pre-eclampsia or eclampsia with pre-existing hypertension,Disorder
+1569124,Secondary hypertension,3CharNonbillCode
+1571634,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",3CharNonbillCode
+1571637,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",4CharNonbillCode
+1571638,Pre-existing hypertensive heart disease complicating pregnancy,5CharNonbillCode
+1571643,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",4CharNonbillCode
+1571647,Pre-existing hypertension with pre-eclampsia,3CharNonbillCode
+1571652,Gestational [pregnancy-induced] hypertension without significant proteinuria,3CharNonbillCode
+1571653,Pre-eclampsia,3CharNonbillCode
+1571655,Severe pre-eclampsia,4CharNonbillCode
+1571656,Unspecified pre-eclampsia,4CharNonbillCode
+197930,"Renal hypertension complicating pregnancy, childbirth and the puerperium",Disorder
+1989868,Hypertension (high blood pressure),Answer
+312648,Benign essential hypertension,Disorder
+314090,Mild pre-eclampsia,Disorder
+314958,Benign secondary hypertension,Disorder
+316866,Hypertensive disorder,Disorder
+317895,Renovascular hypertension,Disorder
+317898,Malignant essential hypertension,Disorder
+318437,Malignant secondary hypertension,Disorder
+319826,Secondary hypertension,Disorder
+320128,Essential hypertension,Disorder
+321074,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",Disorder
+321080,"Hypertension complicating pregnancy, childbirth and the puerperium",Disorder
+321638,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",Disorder
+35207668,Essential (primary) hypertension,3CharBillingCode
+35207675,Renovascular hypertension,4CharBillingCode
+35207677,Hypertension secondary to endocrine disorders,4CharBillingCode
+35207679,"Secondary hypertension, unspecified",4CharBillingCode
+35210518,Neonatal hypertension,4CharBillingCode
+3524798,Diastolic hypertension,Disorder
+3526658,Diastolic hypertension,Undefined
+3545642,Stage 1 hypertension,Undefined
+3545643,Severe hypertension,Undefined
+3545660,Hypertension resistant to drug therapy,Undefined
+3545667,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),Undefined
+3546634,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011) without evidence of end organ damage,Undefined
+3546635,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011) with evidence of end organ damage,Undefined
+35622939,Postpartum pre-eclampsia,Disorder
+35624277,Hypertension due to gain-of-function mutation in mineralocorticoid receptor,Disorder
+3656115,Hypertension due to aortic arch obstruction,Disorder
+36713024,Labile systemic arterial hypertension,Disorder
+36715087,Brachydactyly and arterial hypertension syndrome,Disorder
+37016726,Supine hypertension,Disorder
+37163010,Hypertension due to congenital adrenal hyperplasia,Disorder
+37163257,Secondary hypertension due to renal tubular disorder,Disorder
+37163263,Secondary hypertension due to congenital heart disorder,Disorder
+37169699,Postpartum hemolysis-elevated liver enzymes-low platelet count syndrome,Disorder
+37200492,Hypertensive crisis,3CharNonbillCode
+37200493,Hypertensive urgency,4CharBillingCode
+37200494,Hypertensive emergency,4CharBillingCode
+37208172,Resistant hypertensive disorder,Disorder
+37208293,Multiple drug intolerant hypertension,Disorder
+4006325,Hypertension secondary to renal disease in obstetric context,Disorder
+4023318,Malignant hypertension complicating AND/OR reason for care during childbirth,Disorder
+40282397,Accelerated essential hypertension,Disorder
+4028741,Benign hypertension,Disorder
+4028951,Malignant hypertension complicating AND/OR reason for care during puerperium,Disorder
+40318654,Pregnancy with hypertension (& [pre-existing]),Disorder
+40318656,Transient hypertension of pregnancy,Disorder
+40318657,Mild pre-eclampsia,Disorder
+40318658,Pre-eclampsia NOS,Disorder
+40318659,Severe proteinuric hypertension of pregnancy,Disorder
+40322494,Maternal hypertension,Disorder
+40323437,Essential hypertension,Disorder
+40323857,Secondary hypertension,Disorder
+40323860,Malignant hypertension,Disorder
+40323861,Hypertensive disease NOS,Disorder
+4032952,Renal sclerosis with hypertension,Disorder
+4034031,Benign essential hypertension complicating AND/OR reason for care during pregnancy,Disorder
+4034094,Moderate proteinuric hypertension of pregnancy,Disorder
+4034095,Impending eclampsia,Disorder
+4035655,Toxemia of pregnancy,Disorder
+40373519,Malignant hypertension,Disorder
+40394309,Hypertension induced by pregnancy,Disorder
+40394310,Transient hypertension of pregnancy,Disorder
+40394319,Mild pre-eclampsia,Disorder
+40394323,Severe proteinuric hypertension of pregnancy,Disorder
+40394355,Moderate proteinuric hypertension of pregnancy,Disorder
+40394357,"Syndrome of hemolysis, elevated liver enzymes and low platelet",Disorder
+40394358,Proteinuric hypertension of pregnancy,Disorder
+40398391,Hypertensive disease,Disorder
+40398393,Benign essential hypertension,Disorder
+40398394,Systolic hypertension,Disorder
+40398424,Secondary benign renovascular hypertension,Disorder
+40429408,Malignant secondary renovascular hypertension,Disorder
+40481896,Hypertensive urgency,Disorder
+4048212,Goldblatt hypertension,Disorder
+40484842,Benign secondary hypertension,Disorder
+4049389,Paroxysmal hypertension,Disorder
+40505836,Transient hypertension of pregnancy,Disorder
+40557800,White coat hypertension,Disorder
+40562800,White coat hypertension,Disorder
+40563470,White coat hypertension,Disorder
+4057976,Severe pre-eclampsia with postnatal complication,Disorder
+4057978,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",Disorder
+4057979,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",Disorder
+4058533,Transient hypertension of pregnancy NOS,Disorder
+4058987,High-renin essential hypertension,Disorder
+40603936,Accelerated secondary hypertension,Disorder
+4061667,Hypertension induced by oral contraceptive pill,Disorder
+40619422,Pre-eclampsia,Disorder
+4062550,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication,Disorder
+4062552,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",Disorder
+4062811,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",Disorder
+4062906,Transient hypertension of pregnancy with postnatal complication,Disorder
+4071202,Neonatal hypertension,Disorder
+4080325,Chronic hypertension complicating AND/OR reason for care during puerperium,Disorder
+4083723,Essential hypertension complicating AND/OR reason for care during childbirth,Disorder
+4094374,Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth,Disorder
+4108213,Hypertension secondary to drug,Disorder
+4110947,Malignant secondary renovascular hypertension,Disorder
+4110948,Hypertension secondary to endocrine disorder,Disorder
+4111388,Hypertensive disease NOS,Disorder
+4118910,Maternal hypertension,Disorder
+4146627,Non-proteinuric hypertension of pregnancy,Disorder
+4146816,Pre-existing hypertension complicating AND/OR reason for care during childbirth,Disorder
+4148205,Benign essential hypertension complicating AND/OR reason for care during puerperium,Disorder
+4151903,Pre-existing hypertension complicating AND/OR reason for care during puerperium,Disorder
+4159755,Labile essential hypertension,Disorder
+4162306,Malignant hypertension complicating AND/OR reason for care during pregnancy,Disorder
+4167358,Diastolic hypertension,Disorder
+4167493,Pregnancy-induced hypertension,Disorder
+4174979,Hypertension secondary to renal disease complicating AND/OR reason for care during pregnancy,Disorder
+4178312,Hypertension secondary to kidney transplant,Disorder
+4179379,Exertional hypertension,Disorder
+4180283,Systolic essential hypertension,Disorder
+4199306,Transient hypertension,Disorder
+4205410,Gestational hypertension,Disorder
+4209293,Systolic hypertension,Disorder
+4212496,Parenchymal renal hypertension,Disorder
+4215640,Benign essential hypertension complicating AND/OR reason for care during childbirth,Disorder
+4216685,Malignant arteriolar nephrosclerosis,Disorder
+4217486,Essential hypertension in obstetric context,Disorder
+4218088,Malignant hypertension in obstetric context,Disorder
+4219323,Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium,Disorder
+4221991,Rebound hypertension,Disorder
+4227607,Chronic hypertension in obstetric context,Disorder
+4242878,Sustained diastolic hypertension,Disorder
+4243055,Endocrine hypertension,Disorder
+4249016,Benign secondary renovascular hypertension,Disorder
+42538697,Diastolic hypertension and systolic hypertension,Disorder
+42538946,Hypertension complicating pregnancy,Disorder
+4253928,Secondary diastolic hypertension,Disorder
+4262182,Hypertension with albuminuria,Disorder
+4263067,Low-renin essential hypertension,Disorder
+4268756,Benign arteriolar nephrosclerosis,Disorder
+4269358,Benign essential hypertension in obstetric context,Disorder
+4276511,Labile diastolic hypertension,Disorder
+4277110,Pre-existing hypertension complicating AND/OR reason for care during pregnancy,Disorder
+4279525,Hypertension in the obstetric context,Disorder
+4283352,Pre-eclampsia added to pre-existing hypertension,Disorder
+42873163,"Hypertension complicating pregnancy, childbirth and the puerperium, antepartum",Disorder
+4289142,Eclampsia added to pre-existing hypertension,Disorder
+4289933,Malignant hypertension,Disorder
+4291933,Chronic hypertension complicating AND/OR reason for care during pregnancy,Disorder
+43020424,Hypertensive emergency,Disorder
+43020833,Coronary sinus hypertension as complication of procedure,Disorder
+43021748,Hypertensive nephrosclerosis,Disorder
+43021830,Postoperative hypertension,Disorder
+4302591,Essential hypertension complicating AND/OR reason for care during pregnancy,Disorder
+4304837,Chronic hypertension complicating AND/OR reason for care during childbirth,Disorder
+4305599,Renal arterial hypertension,Disorder
+4311246,Pre-existing hypertension in obstetric context,Disorder
+4316372,HELLP syndrome,Disorder
+4321603,Essential hypertension complicating AND/OR reason for care during puerperium,Disorder
+4322735,Hypertension associated with transplantation,Disorder
+433536,Severe pre-eclampsia,Disorder
+439393,Pre-eclampsia,Disorder
+441922,Transient hypertension of pregnancy,Disorder
+443771,Renal hypertension,Disorder
+44783643,Intermittent hypertension,Disorder
+44783644,Labile hypertension due to being in a clinical environment,Disorder
+44784483,Pregnancy induced hypertension with pulmonary edema,Disorder
+44784484,Hypertension in the puerperium with pulmonary edema,Disorder
+44809026,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),Disorder
+44809027,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011),Disorder
+44809548,Hypertension resistant to drug therapy,Disorder
+44809569,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),Disorder
+44811110,Nocturnal hypertension,Disorder
+44811932,Stage 1 hypertension (NICE 2011) without evidence of end organ damage,Disorder
+44811933,Stage 1 hypertension (NICE 2011) with evidence of end organ damage,Disorder
+44821020,Mild or unspecified pre-eclampsia,4DigNonbillCode
+44821021,Severe pre-eclampsia,4DigNonbillCode
+44821949,Unspecified essential hypertension,4DigBillingCode
+44823109,Malignant essential hypertension,4DigBillingCode
+44826774,Transient hypertension of pregnancy,4DigNonbillCode
+44830637,"Complications affecting other specified body systems, not elsewhere classified, hypertension",5DigBillingCode
+44831233,Malignant secondary hypertension,4DigNonbillCode
+44831234,Malignant renovascular hypertension,5DigBillingCode
+44831235,Benign secondary hypertension,4DigNonbillCode
+44831376,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium",4DigNonbillCode
+44832370,Secondary hypertension,3DigNonbillCode
+44833556,Essential hypertension,3DigNonbillCode
+44833713,"Hypertension complicating pregnancy, childbirth, and the puerperium",3DigNonbillCode
+44834715,Benign essential hypertension,4DigBillingCode
+44837098,Unspecified secondary hypertension,4DigNonbillCode
+45534169,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",Icd10Code
+45534170,Pre-existing hypertensive heart disease complicating childbirth,5CharBillingCode
+45539088,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",Icd10Code
+45539091,Gestational [pregnancy-induced] hypertension,Icd10Hierarchy
+45548698,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",Icd10Code
+45548704,"Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester",4CharBillingCode
+45548706,"Unspecified pre-eclampsia, unspecified trimester",5CharBillingCode
+45553477,Mild to moderate pre-eclampsia,Icd10Code
+45562338,Secondary hypertension,Icd10Hierarchy
+45567163,"Secondary hypertension, unspecified",Icd10Code
+45572077,Renovascular hypertension,Icd10Code
+45572764,"Pre-eclampsia, unspecified",Icd10Code
+45577702,Neonatal hypertension,Icd10Code
+45582448,HELLP syndrome,4CharNonbillCode
+45587283,Severe pre-eclampsia,Icd10Code
+45591453,Essential (primary) hypertension,Icd10Hierarchy
+45596189,Hypertension secondary to endocrine disorders,Icd10Code
+45601721,Page kidney,4CharBillingCode
+45755599,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",Icd10Hierarchy
+45757119,Eclampsia with pre-existing hypertension in childbirth,Disorder
+45757137,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth,Disorder
+45757138,Pre-existing hypertensive heart disease in mother complicating childbirth,Disorder
+45757139,Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy,Disorder
+45757140,Pre-existing hypertensive heart disease in mother complicating pregnancy,Disorder
+45757356,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy,Disorder
+45757392,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus,Disorder
+45757393,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,Disorder
+45757444,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,Disorder
+45757445,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus,Disorder
+45757446,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,Disorder
+45757447,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,Disorder
+45757756,Page kidney,Disorder
+45757787,Postpartum pre-existing essential hypertension,Disorder
+45757788,Postpartum pregnancy-induced hypertension,Disorder
+45768449,Hypertensive crisis,Disorder
+45771064,Hypertension in chronic kidney disease due to type 2 diabetes mellitus,Disorder
+45771067,Hypertension in chronic kidney disease due to type 1 diabetes mellitus,Disorder
+45772751,Hypertension concurrent and due to end stage renal disease on dialysis,Disorder
+45876622,Hypertension,Answer
+45877941,Hypertension gestational,Answer
+45880616,HELLP syndrome,Answer
+45883495,High blood pressure,Answer
+762994,Perioperative hypertension,Disorder
+785993,Resistant hypertension,4CharBillingCode

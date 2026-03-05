@@ -1,0 +1,284 @@
+concept_id,label,concept_class
+1034842,Chest pain,LoincComponent
+1076587,Angina due to coronary arteriosclerosis in artery of transplanted heart,Disorder
+1076588,Angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart,Disorder
+1076589,Preinfarction syndrome due to coronary arteriosclerosis in artery of transplanted heart,Disorder
+1246434,Chronic primary thoracic pain,Disorder
+1340247,Exacerbation of angina pectoris,Disorder
+1340275,Exacerbation of chest pain,ClinicalFinding
+1340441,Exacerbation of preinfarction syndrome,Disorder
+134159,Precordial pain,ClinicalFinding
+1450472,Chronic primary chest pain syndrome,Disorder
+1569125,Angina pectoris,3CharNonbillCode
+1572194,Other chest pain,4CharNonbillCode
+195464,Epidemic pleurodynia,Disorder
+315296,Preinfarction syndrome,Disorder
+315830,Prinzmetal angina,Disorder
+315832,Angina decubitus,Disorder
+321318,Angina pectoris,Disorder
+35205793,Epidemic myalgia,4CharBillingCode
+35207680,Unstable angina,4CharBillingCode
+35207681,Angina pectoris with documented spasm,4CharBillingCode
+35207682,Other forms of angina pectoris,4CharNonbillCode
+35207683,"Angina pectoris, unspecified",4CharBillingCode
+35209362,Mastodynia,4CharBillingCode
+35211284,Chest pain on breathing,4CharBillingCode
+35211285,Precordial pain,4CharBillingCode
+3522983,Coronary spasm,Undefined
+3524055,Cyclical mastalgia,Undefined
+3524252,Cardiac syndrome X,Undefined
+3529289,[D]Chest pain NOS,ContextDependent
+3536528,Angina decubitus NOS,Disorder
+35615052,Arteriosclerosis of autologous vein coronary artery bypass graft with angina,Disorder
+35615053,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,Disorder
+3571317,Cardiac chest pain,ClinicalFinding
+36308207,Stable angina,Answer
+36310167,Unstable angina,Answer
+36310512,Chest pain,Answer
+3655579,Neuralgia of twelfth thoracic nerve,ClinicalFinding
+36676841,Pain of right shoulder blade,ClinicalFinding
+36676842,Pain of left shoulder blade,ClinicalFinding
+36676843,Pain of right acromioclavicular joint,ClinicalFinding
+36676844,Pain of left acromioclavicular joint,ClinicalFinding
+36684978,Coronary small artery disease,Disorder
+36685038,Pain of right sternoclavicular joint,ClinicalFinding
+36685039,Pain of left sternoclavicular joint,ClinicalFinding
+36686956,Bilateral acromioclavicular joint pain,ClinicalFinding
+36687071,Pain of bilateral sternoclavicular joints,ClinicalFinding
+36687072,Bilateral pain of shoulder blades,ClinicalFinding
+36712982,Unstable angina co-occurrent and due to coronary arteriosclerosis,Disorder
+36712983,Angina co-occurrent and due to coronary arteriosclerosis,Disorder
+36712984,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,Disorder
+37017537,Postinfective intercostal neuralgia,Disorder
+37017545,Intercostal neuralgia as late effect of trauma,Disorder
+37155941,Chronic visceral pain in thoracic region due to disorder,Disorder
+37163732,Pain associated with left breast implant,Disorder
+37163733,Pain associated with right breast implant,Disorder
+37167256,Burning chest pain,ClinicalFinding
+37169384,Preinfarction syndrome due to arteriosclerosis of nonautologous biological coronary artery bypass graft,Disorder
+37209632,Stable angina due to coronary arteriosclerosis,Disorder
+37309713,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft,Disorder
+37402489,Refractory angina pectoris,4CharBillingCode
+4001098,Radiating chest pain,ClinicalFinding
+4009385,Acute chest pain,ClinicalFinding
+4010016,Chest wall pain,ClinicalFinding
+4010017,Atypical chest pain,ClinicalFinding
+4012690,Thoracic nerve root pain,ClinicalFinding
+4021482,Ischemic chest pain,ClinicalFinding
+4021672,Nipple painful,ClinicalFinding
+4029911,Trigger point mastalgia,ClinicalFinding
+40301077,Intractable breast pain,ClinicalFinding
+40301079,Persistent mastalgia,ClinicalFinding
+40303888,Chest pain,ClinicalFinding
+40303890,Central chest pain,ClinicalFinding
+40303892,Precordial pain,ClinicalFinding
+40303893,Anterior chest wall pain,ClinicalFinding
+40303894,Pleuritic pain,ClinicalFinding
+40303895,Parasternal pain,ClinicalFinding
+40303896,Pleurodynia,ClinicalFinding
+40303897,Atypical chest pain,ClinicalFinding
+40303898,Retrosternal pain,ClinicalFinding
+40303899,Chest pain on exertion,ClinicalFinding
+40303900,Rib pain,ClinicalFinding
+40319615,Epidemic pleurisy,Disorder
+40319875,[D]Chest pain,ContextDependent
+40319876,[D]Precordial pain,ContextDependent
+40319877,Breathing painful,ContextDependent
+40319878,[D]Anterior chest wall pain,Disorder
+40319879,[D]Pleuritic pain,ContextDependent
+40319880,[D]Pleurodynia,ContextDependent
+40319886,Retrosternal pain [D],ContextDependent
+40319887,[D]Musculoskeletal chest pain,ContextDependent
+40319888,[D]Chest pain NOS,ContextDependent
+40323866,Angina,Disorder
+40323867,Unstable angina,Disorder
+40323868,Refractory angina,Disorder
+40323869,Post infarct angina,Disorder
+40323871,New onset angina,Disorder
+40323872,Stable angina,Disorder
+40323873,Angina at rest,Disorder
+40323874,Worsening angina,Disorder
+40325678,Pleurodynia,ClinicalFinding
+40325679,Rib pain,ClinicalFinding
+40331668,Intractable breast pain,ClinicalFinding
+40331670,Persistent mastalgia,ClinicalFinding
+4034226,Cyclical mastalgia,ClinicalFinding
+4034807,Pain associated with breast implant,Disorder
+40364900,Pleurodynia,ClinicalFinding
+40397096,Pain of breast,Disorder
+40398841,Unstable angina,Disorder
+40398842,Angina at rest,Disorder
+40398843,Refractory angina,Disorder
+40398844,Worsening angina,Disorder
+40398858,Status anginosus,Disorder
+40398859,Stenocardia,Disorder
+40398860,Syncope anginosa,Disorder
+40398861,Exercise-induced angina,Disorder
+40398862,Ischemic chest pain,Disorder
+40398863,Post infarct angina,Disorder
+40398864,New onset angina,Disorder
+40398865,Stable angina,Disorder
+40398866,Angina pectoris NOS,Disorder
+40398899,Cardiac syndrome X,Disorder
+40401056,[D]Painful respiration NOS,ContextDependent
+40401066,[D]Retrosternal chest pain,ContextDependent
+40401067,[D]Central chest pain,ContextDependent
+40401068,[D]Chest pain NOS,ContextDependent
+40405629,(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain),Disorder
+40436948,Angina at rest,Disorder
+40436950,Unstable angina,Disorder
+4044396,Intercostal post-herpetic neuralgia,Disorder
+4044411,Abdominal cutaneous nerve entrapment syndrome,Disorder
+40444929,Mastalgia,ClinicalFinding
+4045424,Pleuropericardial chest pain,ClinicalFinding
+4047840,Mastalgia of puberty,ClinicalFinding
+40485490,Acute postthoracotomy pain syndrome,ClinicalFinding
+4049524,Scapulalgia,ClinicalFinding
+40545765,Chest wall pain,ClinicalFinding
+40546241,Mastalgia of puberty,Disorder
+40546674,Chest wall pain,ClinicalFinding
+4059025,Parasternal pain,ClinicalFinding
+4060060,Costal margin chest pain,ClinicalFinding
+4060316,Central chest pain,ClinicalFinding
+4060317,Anterior chest wall pain,ClinicalFinding
+4066258,Breastfeeding painful,ClinicalFinding
+4068938,Syncope anginosa,Disorder
+4069316,Clavicle pain,ClinicalFinding
+4078531,Status anginosus,Disorder
+4082452,Painful lactation,ClinicalFinding
+4083763,Sore nipple,ClinicalFinding
+4090559,Intercostal neuralgia,ClinicalFinding
+4092930,Musculoskeletal chest pain,ClinicalFinding
+4096252,Impending infarction,Disorder
+4108670,Acute coronary insufficiency,Disorder
+4108671,Angina decubitus NOS,Disorder
+4109083,Right sided chest pain,ClinicalFinding
+4111348,Left sided chest pain,ClinicalFinding
+4111392,Angina pectoris NOS,Disorder
+4112301,Upper chest pain,ClinicalFinding
+4116164,Pain of sternoclavicular joint,ClinicalFinding
+4116486,Exercise-induced angina,Disorder
+4118234,[D]Pleuritic pain,ContextDependent
+4118574,[D]Parasternal chest pain,ContextDependent
+4118763,[D]Anterior chest wall pain,ContextDependent
+4118764,[D]Pleurodynia,ContextDependent
+4118766,[D]Musculoskeletal chest pain,ContextDependent
+4118767,[D]Non-cardiac chest pain,ContextDependent
+4118932,[D]Chest pain,ContextDependent
+4118933,[D]Precordial pain,ContextDependent
+4119455,New onset angina,Disorder
+4119942,Stable angina,Disorder
+4119952,Cardiac syndrome X,ClinicalFinding
+4127089,Coronary artery spasm,Disorder
+4130004,Non-cyclical mastalgia,ClinicalFinding
+4133636,Central crushing chest pain,ClinicalFinding
+4133641,Myofascial pain syndrome of thorax,Disorder
+4133645,Internal mammary artery syndrome,ClinicalFinding
+4133648,Pain when milk coming in,ClinicalFinding
+4141129,Dull chest pain,ClinicalFinding
+4145057,Cardiac chest pain,ClinicalFinding
+4145548,[D]Retrosternal chest pain,ContextDependent
+4155008,Recurrent angina post rotational atherectomy,Disorder
+4155009,Recurrent angina after directional coronary atherectomy,Disorder
+4155963,Atypical angina,Disorder
+4159138,Squeezing chest pain,ClinicalFinding
+4161456,Recurrent angina following placement of coronary artery stent,Disorder
+4161457,Recurrent angina after coronary artery bypass graft,Disorder
+4161973,Progressive angina,Disorder
+4161974,Recurrent angina after percutaneous transluminal coronary angioplasty,Disorder
+4164298,Retrosternal pain,ClinicalFinding
+4164649,Non-cardiac chest pain,ClinicalFinding
+4167245,[D]Retrosternal pain,ContextDependent
+4168213,Chest pain on breathing,ClinicalFinding
+4181087,Pain of sternum,ClinicalFinding
+4182327,Rib pain,ClinicalFinding
+4184827,"Angina, class II",Disorder
+4193706,[D]Central chest pain,ContextDependent
+4198141,Post infarct angina,Disorder
+4201629,Refractory angina,Disorder
+4201931,Persistent mastalgia,ClinicalFinding
+4202542,Intractable breast pain,ClinicalFinding
+4218253,Chest pain on exertion,ClinicalFinding
+4230055,Xiphodynia,ClinicalFinding
+4231426,"Angina, class IV",Disorder
+4233232,Xiphoidalgia syndrome,Disorder
+4243270,Chest pain at rest,ClinicalFinding
+4244247,Crushing chest pain,ClinicalFinding
+42539051,Pain of intercostal space,ClinicalFinding
+4262446,Nocturnal angina,Disorder
+4264145,"Angina, class I",Disorder
+4275907,Preinfarction angina,Disorder
+4279855,Esophageal chest pain,ClinicalFinding
+43021815,Anterior pleuritic pain,ClinicalFinding
+43021837,Localized chest pain,ClinicalFinding
+4310270,"Angina, class III",Disorder
+4318397,Intercostal myalgia,ClinicalFinding
+4324893,Typical angina,Disorder
+4330445,Pleuritic pain,ClinicalFinding
+43531588,Angina associated with type 2 diabetes mellitus,Disorder
+441123,[D]Painful respiration,ContextDependent
+442555,Breathing painful,ClinicalFinding
+44782774,Chest pain due to pericarditis,ClinicalFinding
+44784644,Chronic post-thoracotomy pain syndrome,ClinicalFinding
+44794385,[D]Chest pain NOS,ContextDependent
+44802415,"[D]Chest pain, unspecified",ContextDependent
+44802521,[D]Retrosternal chest pain,ContextDependent
+44802527,[D]Painful respiration,ContextDependent
+44802540,[D]Central chest pain,ContextDependent
+44803009,[D]Chest pain,ContextDependent
+44803010,[D]Anterior chest wall pain,ContextDependent
+44803011,[D]Pleuritic pain,ContextDependent
+44803012,[D]Chest pressure,ContextDependent
+44803013,[D]Musculoskeletal chest pain,ContextDependent
+44803014,[D]Non-cardiac chest pain,ContextDependent
+44813082,[D]Retrosternal pain,ContextDependent
+44813280,[D]Precordial pain,ContextDependent
+44813281,[D]Pleurodynia,ContextDependent
+44813283,[D]Chest tightness,ContextDependent
+44813284,[D]Parasternal chest pain,ContextDependent
+44813591,[D]Painful respiration NOS,ContextDependent
+44819827,Mastodynia,5DigBillingCode
+44820063,Painful respiration,5DigBillingCode
+44820563,Epidemic pleurodynia,4DigBillingCode
+44823450,Other chest pain,5DigBillingCode
+44824627,Precordial pain,5DigBillingCode
+44825808,Chest pain,4DigNonbillCode
+44825809,"Chest pain, unspecified",5DigBillingCode
+44827783,Intermediate coronary syndrome,4DigBillingCode
+44828974,Angina decubitus,4DigBillingCode
+44833562,Prinzmetal angina,4DigBillingCode
+44835930,Angina pectoris,3DigNonbillCode
+44837100,Other and unspecified angina pectoris,4DigBillingCode
+45533435,Angina pectoris with documented spasm,Icd10Code
+45534424,"Chest pain, unspecified",4CharBillingCode
+45539060,Mastodynia,Icd10Code
+45543166,Other forms of angina pectoris,Icd10Code
+45558450,"Chest pain, unspecified",Icd10Code
+45562339,"Angina pectoris, unspecified",Icd10Code
+45568108,Precordial pain,Icd10Code
+45572078,Angina pectoris,Icd10Hierarchy
+45577779,Chest pain on breathing,Icd10Code
+45581155,Epidemic myalgia,Icd10Code
+45586570,Unstable angina,Icd10Code
+45587497,Pleurodynia,5CharBillingCode
+45597166,Other chest pain,Icd10Code
+45597167,Intercostal pain,5CharBillingCode
+45602002,Other chest pain,5CharBillingCode
+45883492,Angina pectoris,Answer
+605026,Pain of left breast,ClinicalFinding
+605028,Pain of right breast,ClinicalFinding
+608952,Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart,Disorder
+608953,Unstable angina due to arteriosclerosis of autologous arterial coronary artery bypass graft,Disorder
+73819,Pain of breast,ClinicalFinding
+759901,Pain of left acromioclavicular joint,ClinicalFinding
+760912,Mastodynia of left breast,ClinicalFinding
+760913,Mastodynia of right breast,ClinicalFinding
+761735,Arteriosclerosis of autologous arterial coronary artery bypass graft with angina,Disorder
+762941,Chronic chest pain,ClinicalFinding
+76388,Post-thoracotomy pain syndrome,ClinicalFinding
+764117,Pain of right shoulder blade,ClinicalFinding
+765100,Pain of right acromioclavicular joint,ClinicalFinding
+765101,Pain of left shoulder blade,ClinicalFinding
+765270,Mastodynia of bilateral breasts,ClinicalFinding
+77670,Chest pain,ClinicalFinding
+785995,Other forms of angina pectoris,5CharBillingCode

@@ -1,0 +1,8 @@
+concept_id,label,concept_class
+1034842,Chest pain,LoincComponent
+36310512,Chest pain,Answer
+44825808,Chest pain,4DigNonbillCode
+44825809,"Chest pain, unspecified",5DigBillingCode
+45534424,"Chest pain, unspecified",4CharBillingCode
+45558450,"Chest pain, unspecified",Icd10Code
+77670,Chest pain,ClinicalFinding

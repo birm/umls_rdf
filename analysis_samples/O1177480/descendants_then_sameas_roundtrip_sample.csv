@@ -1,0 +1,719 @@
+concept_id,label,concept_class
+1177481,ibuprofen 3 MG/ML Oral Suspension,ClinicalDrug
+1177512,ibuprofen 0.05 MG/MG Topical Gel,ClinicalDrug
+1177513,ibuprofen 50 MG/ML Topical Cream,ClinicalDrug
+1177641,ibuprofen 300 MG Oral Capsule,ClinicalDrug
+1177662,ibuprofen 400 MG Oral Capsule,ClinicalDrug
+1177663,ibuprofen 120 MG Oral Tablet,ClinicalDrug
+1177664,acetaminophen 250 MG / ibuprofen 200 MG Oral Capsule,ClinicalDrug
+1177665,ibuprofen 300 MG Extended Release Oral Tablet,ClinicalDrug
+1177671,ibuprofen 133 MG/ML Injectable Solution,ClinicalDrug
+1177705,ibuprofen 500 MG Oral Tablet,ClinicalDrug
+1177706,cyclonium 10 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+1177740,ibuprofen 400 MG,ClinicalDrugComp
+1177741,ibuprofen 80 MG/ML,ClinicalDrugComp
+1177762,ibuprofen 40 MG/ML,ClinicalDrugComp
+1177763,ibuprofen 133 MG/ML,ClinicalDrugComp
+1177764,ibuprofen 500 MG,ClinicalDrugComp
+1177769,ibuprofen 600 MG Oral Tablet [Ibifon 600],BrandedDrug
+1177770,ibuprofen 600 MG Oral Tablet [Ibren],BrandedDrug
+1177793,ibuprofen 3 MG/ML,ClinicalDrugComp
+1177796,hydroxocobalamin 2 MG/ML / ibuprofen 80 MG/ML Injectable Solution,ClinicalDrug
+1177801,ibuprofen 800 MG Oral Tablet [Samson 8],BrandedDrug
+1177822,ibuprofen 20 MG/ML Oral Suspension [Motrin],BrandedDrug
+1177823,ibuprofen 10 MG/ML,ClinicalDrugComp
+1177825,2 ML ibuprofen 10 MG/ML Injection [Neoprofen],QuantBrandedDrug
+1177827,ibuprofen 200 MG Oral Capsule [Wal-Profen],BrandedDrug
+1177831,ibuprofen 50 MG Chewable Tablet [Advil],BrandedDrug
+1177842,ibuprofen 40 MG/ML Oral Suspension [Advil],BrandedDrug
+1177843,ibuprofen 200 MG Oral Capsule [Advil],BrandedDrug
+1177844,ibuprofen 100 MG Oral Tablet [Advil],BrandedDrug
+1177845,ibuprofen 100 MG Chewable Tablet [Advil],BrandedDrug
+1177847,ibuprofen 20 MG/ML Oral Solution,ClinicalDrug
+1177851,ibuprofen 100 MG Chewable Tablet [Motrin],BrandedDrug
+1361176,ibuprofen 4 MG/ML,ClinicalDrugComp
+1361177,ibuprofen 4 MG/ML [Caldolor],BrandedDrugComp
+1361178,ibuprofen 4 MG/ML Injection,ClinicalDrug
+1361179,ibuprofen 4 MG/ML Injection [Caldolor],BrandedDrug
+1361547,ibuprofen 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet,ClinicalDrug
+1361665,200 ML ibuprofen 4 MG/ML Injection,QuantClinicalDrug
+1361666,200 ML ibuprofen 4 MG/ML Injection [Caldolor],QuantBrandedDrug
+1510443,ibuprofen 200 MG [Dragon Tabs],BrandedDrugComp
+1510444,ibuprofen Oral Tablet [Dragon Tabs],BrandedDrugForm
+1510445,Dragon Tabs Oral Product,BrandedDoseGroup
+1510446,Dragon Tabs Pill,BrandedDoseGroup
+1510447,ibuprofen 200 MG Oral Tablet [Dragon Tabs],BrandedDrug
+19002674,ibuprofen 50 MG/ML Topical Cream [Proflex],BrandedDrug
+19003152,ibuprofen 50 MG/ML Topical Cream [Proflex Pain Relief],BrandedDrug
+19007870,ibuprofen 200 MG Oral Tablet [Ibrufhalal],BrandedDrug
+19007901,ibuprofen 400 MG Oral Tablet [Cuprofen Maximum Strength],BrandedDrug
+19007902,ibuprofen 600 MG Oral Tablet [Arthrofen 600],BrandedDrug
+19007903,ibuprofen 300 MG Extended Release Oral Capsule [fenbid],BrandedDrug
+19007904,ibuprofen 20 MG/ML Oral Suspension [Junifen],BrandedDrug
+19007905,ibuprofen 3 MG/ML Oral Suspension [Brufen],BrandedDrug
+19007906,ibuprofen 300 MG Extended Release Oral Capsule [Proflex],BrandedDrug
+19010263,ibuprofen 50 MG/ML Topical Spray [Ibuleve],BrandedDrug
+19011849,ibuprofen 50 MG/ML Topical Spray,ClinicalDrug
+19011850,ibuprofen 0.05 MG/MG / menthol 0.03 MG/MG Topical Gel,ClinicalDrug
+19012742,ibuprofen 200 MG Oral Tablet [Relcofen],BrandedDrug
+19012743,ibuprofen 400 MG Oral Tablet [Relcofen],BrandedDrug
+19015997,ibuprofen 200 MG Oral Tablet [Inoven],BrandedDrug
+19016485,ibuprofen 0.05 MG/MG Topical Gel [fenbid],BrandedDrug
+19016761,ibuprofen 200 MG Oral Tablet [Advil],BrandedDrug
+19019050,ibuprofen 20 MG/ML Oral Suspension,ClinicalDrug
+19019071,ibuprofen 300 MG Oral Tablet,ClinicalDrug
+19019072,ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19019073,ibuprofen 600 MG Oral Tablet,ClinicalDrug
+19019074,ibuprofen 800 MG Oral Tablet,ClinicalDrug
+19019979,ibuprofen 100 MG Oral Tablet,ClinicalDrug
+19023311,ibuprofen 200 MG [Advil],BrandedDrugComp
+19023313,ibuprofen 50 MG [Advil],BrandedDrugComp
+19023315,ibuprofen 100 MG [Advil],BrandedDrugComp
+19024537,ibuprofen 200 MG Oral Tablet [Ibular],BrandedDrug
+19024538,ibuprofen 200 MG Oral Tablet [Ibumetin],BrandedDrug
+19024539,ibuprofen 200 MG Oral Tablet [Paxofen],BrandedDrug
+19024540,ibuprofen 200 MG Oral Tablet [Apsifen],BrandedDrug
+19024591,ibuprofen 200 MG Oral Tablet [Brufen],BrandedDrug
+19024592,ibuprofen 200 MG Oral Tablet [Ebufac],BrandedDrug
+19024593,ibuprofen 200 MG Oral Tablet [Cuprofen],BrandedDrug
+19024594,ibuprofen 200 MG Oral Tablet [Lidifen],BrandedDrug
+19024595,ibuprofen 200 MG Oral Tablet [Motrin],BrandedDrug
+19024596,ibuprofen 200 MG Oral Tablet [Rimafen],BrandedDrug
+19024597,ibuprofen 200 MG Oral Tablet [Arthrofen 200],BrandedDrug
+19024598,ibuprofen 200 MG Oral Tablet [Phor Pain],BrandedDrug
+19024599,ibuprofen 200 MG Oral Tablet [Proflex],BrandedDrug
+19024600,ibuprofen 200 MG Oral Tablet [Pacifene],BrandedDrug
+19024621,ibuprofen 200 MG Oral Tablet [Migrafen],BrandedDrug
+19024622,ibuprofen 400 MG Oral Tablet [Ibular],BrandedDrug
+19024623,ibuprofen 400 MG Oral Tablet [Ibumetin],BrandedDrug
+19024624,ibuprofen 400 MG Oral Tablet [Paxofen],BrandedDrug
+19024625,ibuprofen 400 MG Oral Tablet [Apsifen],BrandedDrug
+19024626,ibuprofen 400 MG Oral Tablet [Brufen],BrandedDrug
+19024627,ibuprofen 400 MG Oral Tablet [Ebufac],BrandedDrug
+19024628,ibuprofen 400 MG Oral Tablet [Isisfen],BrandedDrug
+19024629,ibuprofen 400 MG Oral Tablet [Lidifen],BrandedDrug
+19024630,ibuprofen 400 MG Oral Tablet [Ibumed],BrandedDrug
+19024651,ibuprofen 400 MG Oral Tablet [Motrin],BrandedDrug
+19024652,ibuprofen 400 MG Oral Tablet [Rimafen],BrandedDrug
+19024653,ibuprofen 400 MG Oral Tablet [Arthrofen 400],BrandedDrug
+19024654,ibuprofen 400 MG Oral Tablet [Pacifene],BrandedDrug
+19024655,ibuprofen 400 MG Oral Tablet [Phor Pain],BrandedDrug
+19024656,ibuprofen 600 MG Oral Tablet [Ibumetin],BrandedDrug
+19024657,ibuprofen 600 MG Oral Tablet [Paxofen],BrandedDrug
+19024658,ibuprofen 600 MG Oral Tablet [Brufen],BrandedDrug
+19024659,ibuprofen 600 MG Oral Tablet [Lidifen],BrandedDrug
+19024660,ibuprofen 600 MG Oral Tablet [Apsifen F],BrandedDrug
+19024751,ibuprofen 600 MG Oral Tablet [Motrin],BrandedDrug
+19026060,ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard],BrandedDrug
+19026061,ibuprofen 800 MG Oral Tablet [Motrin],BrandedDrug
+19027494,ibuprofen 40 MG/ML Oral Suspension,ClinicalDrug
+19033267,ibuprofen 600 MG [Ibifon 600],BrandedDrugComp
+19033269,ibuprofen 600 MG [Ibren],BrandedDrugComp
+19033719,ibuprofen 20 MG/ML Oral Suspension [Advil],BrandedDrug
+19033823,ibuprofen 200 MG Oral Tablet [Cap-Profen],BrandedDrug
+19033824,ibuprofen 200 MG Oral Tablet [Genpril],BrandedDrug
+19033825,ibuprofen 200 MG Oral Tablet [Haltran],BrandedDrug
+19033827,ibuprofen 200 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033828,ibuprofen 200 MG Oral Tablet [Menadol],BrandedDrug
+19033851,ibuprofen 200 MG Oral Tablet [Nuprin],BrandedDrug
+19033852,ibuprofen 200 MG Oral Tablet [Q-Profen],BrandedDrug
+19033853,ibuprofen 200 MG Oral Tablet [Saleto-200],BrandedDrug
+19033854,ibuprofen 200 MG Oral Tablet [Sup Pain Med],BrandedDrug
+19033855,ibuprofen 200 MG Oral Tablet [Tab-Profen],BrandedDrug
+19033856,ibuprofen 200 MG Oral Tablet [Uni-Pro],BrandedDrug
+19033891,ibuprofen 300 MG Oral Tablet [Motrin],BrandedDrug
+19033892,ibuprofen 400 MG Oral Tablet [Dolgesic],BrandedDrug
+19033893,ibuprofen 400 MG Oral Tablet [Ibu],BrandedDrug
+19033894,ibuprofen 400 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033895,ibuprofen 400 MG Oral Tablet [Rufen],BrandedDrug
+19033896,ibuprofen 400 MG Oral Tablet [Saleto-400],BrandedDrug
+19033921,ibuprofen 600 MG Oral Tablet [Ibu],BrandedDrug
+19033922,ibuprofen 600 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033923,ibuprofen 600 MG Oral Tablet [Rufen],BrandedDrug
+19033924,ibuprofen 600 MG Oral Tablet [Saleto-600],BrandedDrug
+19033925,ibuprofen 800 MG Oral Tablet [Ibu],BrandedDrug
+19033926,ibuprofen 800 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033927,ibuprofen 800 MG Oral Tablet [Rufen],BrandedDrug
+19033928,ibuprofen 800 MG Oral Tablet [Saleto-800],BrandedDrug
+19042618,ibuprofen 20 MG/ML [Motrin],BrandedDrugComp
+19042619,ibuprofen 200 MG [Motrin],BrandedDrugComp
+19042671,ibuprofen 600 MG [Motrin],BrandedDrugComp
+19042676,ibuprofen 200 MG [Nuprin],BrandedDrugComp
+19042679,ibuprofen 600 MG [Rufen],BrandedDrugComp
+19042680,ibuprofen 800 MG [Rufen],BrandedDrugComp
+19052755,ibuprofen 200 MG Oral Tablet [Anadin Ibuprofen],BrandedDrug
+19052960,ibuprofen 50 MG/ML Topical Foam [Ibuleve],BrandedDrug
+19053970,ibuprofen 0.05 MG/MG Topical Gel [Cuprofen],BrandedDrug
+19054057,ibuprofen 200 MG Oral Tablet [Nurofen Advance],BrandedDrug
+19054229,ibuprofen 20 MG/ML Oral Suspension [Nurofen For Children],BrandedDrug
+19054261,ibuprofen 50 MG/ML Topical Foam,ClinicalDrug
+19054555,ibuprofen 50 MG/ML Topical Foam [Ibumousse],BrandedDrug
+19054654,ibuprofen 200 MG Extended Release Oral Capsule,ClinicalDrug
+19057827,ibuprofen 200 MG [Cap-Profen],BrandedDrugComp
+19062040,acetaminophen 25 MG/ML / ibuprofen 20 MG/ML Oral Suspension,ClinicalDrug
+19062730,ibuprofen 800 MG Extended Release Oral Tablet,ClinicalDrug
+19063477,homatropine 4 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19063807,ibuprofen 200 MG / tolperisone 50 MG Oral Tablet,ClinicalDrug
+19064141,acetaminophen 250 MG / ibuprofen 250 MG Oral Tablet,ClinicalDrug
+19064433,ibuprofen 400 MG Oral Suspension,ClinicalDrug
+19064799,carisoprodol 200 MG / dexamethasone 0.5 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19064834,ibuprofen 400 MG / vitamin B12 3 MG Oral Tablet,ClinicalDrug
+19064901,ibuprofen 400 MG Extended Release Oral Tablet,ClinicalDrug
+19065087,ibuprofen 80 MG/ML Injectable Solution,ClinicalDrug
+19066957,ibuprofen 200 MG [Genpril],BrandedDrugComp
+19068102,ibuprofen 200 MG [Haltran],BrandedDrugComp
+19069505,ibuprofen 600 MG [Ibu],BrandedDrugComp
+19069506,ibuprofen 800 MG [Ibu],BrandedDrugComp
+19069508,ibuprofen 200 MG [Ibu-Tab],BrandedDrugComp
+19069510,ibuprofen 600 MG [Ibu-Tab],BrandedDrugComp
+19071002,ibuprofen 800 MG [Samson 8],BrandedDrugComp
+19072941,ibuprofen 200 MG [Menadol],BrandedDrugComp
+19078439,ibuprofen 100 MG Chewable Tablet,ClinicalDrug
+19078440,ibuprofen 200 MG Oral Capsule,ClinicalDrug
+19078461,ibuprofen 200 MG Oral Tablet,ClinicalDrug
+19079192,ibuprofen 200 MG [Q-Profen],BrandedDrugComp
+19080093,ibuprofen 50 MG Chewable Tablet,ClinicalDrug
+19080502,ibuprofen 200 MG [Saleto-200],BrandedDrugComp
+19080506,ibuprofen 600 MG [Saleto-600],BrandedDrugComp
+19080508,ibuprofen 800 MG [Saleto-800],BrandedDrugComp
+19081494,ibuprofen 100 MG,ClinicalDrugComp
+19081495,ibuprofen 20 MG/ML,ClinicalDrugComp
+19081496,ibuprofen 200 MG,ClinicalDrugComp
+19081497,ibuprofen 300 MG,ClinicalDrugComp
+19081498,ibuprofen 50 MG,ClinicalDrugComp
+19081499,ibuprofen 600 MG,ClinicalDrugComp
+19081500,ibuprofen 800 MG,ClinicalDrugComp
+19082016,ibuprofen 200 MG [Sup Pain Med],BrandedDrugComp
+19082206,ibuprofen 200 MG [Tab-Profen],BrandedDrugComp
+19089480,ibuprofen 10 MG/ML [Neoprofen],BrandedDrugComp
+19091196,ibuprofen 50 MG/ML,ClinicalDrugComp
+19091197,ibuprofen 120 MG,ClinicalDrugComp
+19091199,ibuprofen 250 MG,ClinicalDrugComp
+19100579,ibuprofen 300 MG Extended Release Oral Capsule,ClinicalDrug
+19100591,ibuprofen 0.05 MG/MG,ClinicalDrugComp
+19101780,ibuprofen 0.1 MG/MG Topical Gel,ClinicalDrug
+19101877,ibuprofen 0.05 MG/MG / levomenthol 0.03 MG/MG Topical Gel,ClinicalDrug
+19102048,ibuprofen 0.1 MG/MG,ClinicalDrugComp
+19102175,ibuprofen 300 MG / pseudoephedrine 45 MG Oral Capsule,ClinicalDrug
+19103806,ibuprofen 400 MG Extended Release Oral Capsule,ClinicalDrug
+19104238,ibuprofen 133 MG/ML / lidocaine 10 MG/ML Injectable Solution,ClinicalDrug
+19104951,ibuprofen 50 MG/ML / nicotinic acid benzyl ester 0.74 MG/ML Topical Cream,ClinicalDrug
+19105454,ibuprofen 500 MG Rectal Suppository,ClinicalDrug
+19106802,carisoprodol 50 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+19106803,carisoprodol 200 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19107088,ibuprofen 300 MG / methocarbamol 300 MG Oral Tablet,ClinicalDrug
+19107089,ibuprofen 200 MG / methocarbamol 500 MG Oral Tablet,ClinicalDrug
+19107240,ibuprofen 400 MG / scopolamine 20 MG Oral Tablet,ClinicalDrug
+19107275,ibuprofen 1000 MG Oral Tablet,ClinicalDrug
+19107340,ibuprofen 600 MG Extended Release Oral Tablet,ClinicalDrug
+19107838,ibuprofen 200 MG Chewable Tablet,ClinicalDrug
+19107839,ibuprofen 120 MG Chewable Tablet,ClinicalDrug
+19110250,ibuprofen 1000 MG,ClinicalDrugComp
+19112592,ibuprofen 20 MG/ML Oral Gel,ClinicalDrug
+19115678,ibuprofen 50 MG/ML [Proflex],BrandedDrugComp
+19115740,ibuprofen 50 MG/ML [Proflex Pain Relief],BrandedDrugComp
+19116285,ibuprofen 200 MG [Ibrufhalal],BrandedDrugComp
+19116286,ibuprofen 400 MG [Cuprofen Maximum Strength],BrandedDrugComp
+19116287,ibuprofen 600 MG [Arthrofen 600],BrandedDrugComp
+19116288,ibuprofen 300 MG [fenbid],BrandedDrugComp
+19116289,ibuprofen 20 MG/ML [Junifen],BrandedDrugComp
+19116290,ibuprofen 3 MG/ML [Brufen],BrandedDrugComp
+19116291,ibuprofen 300 MG [Proflex],BrandedDrugComp
+19116571,ibuprofen 50 MG/ML [Ibuleve],BrandedDrugComp
+19116802,ibuprofen 200 MG [Relcofen],BrandedDrugComp
+19116803,ibuprofen 400 MG [Relcofen],BrandedDrugComp
+19116879,ibuprofen 200 MG [Inoven],BrandedDrugComp
+19116957,ibuprofen 0.05 MG/MG [fenbid],BrandedDrugComp
+19117430,ibuprofen 200 MG [Ibular],BrandedDrugComp
+19117431,ibuprofen 200 MG [Ibumetin],BrandedDrugComp
+19117432,ibuprofen 200 MG [Paxofen],BrandedDrugComp
+19117433,ibuprofen 200 MG [Apsifen],BrandedDrugComp
+19117434,ibuprofen 200 MG [Brufen],BrandedDrugComp
+19117435,ibuprofen 200 MG [Ebufac],BrandedDrugComp
+19117436,ibuprofen 200 MG [Cuprofen],BrandedDrugComp
+19117437,ibuprofen 200 MG [Lidifen],BrandedDrugComp
+19117438,ibuprofen 200 MG [Rimafen],BrandedDrugComp
+19117439,ibuprofen 200 MG [Arthrofen 200],BrandedDrugComp
+19117440,ibuprofen 200 MG [Phor Pain],BrandedDrugComp
+19117441,ibuprofen 200 MG [Proflex],BrandedDrugComp
+19117442,ibuprofen 200 MG [Pacifene],BrandedDrugComp
+19117443,ibuprofen 200 MG [Migrafen],BrandedDrugComp
+19117444,ibuprofen 400 MG [Ibular],BrandedDrugComp
+19117445,ibuprofen 400 MG [Ibumetin],BrandedDrugComp
+19117446,ibuprofen 400 MG [Paxofen],BrandedDrugComp
+19117447,ibuprofen 400 MG [Apsifen],BrandedDrugComp
+19117448,ibuprofen 400 MG [Brufen],BrandedDrugComp
+19117449,ibuprofen 400 MG [Ebufac],BrandedDrugComp
+19117450,ibuprofen 400 MG [Isisfen],BrandedDrugComp
+19117451,ibuprofen 400 MG [Lidifen],BrandedDrugComp
+19117452,ibuprofen 400 MG [Ibumed],BrandedDrugComp
+19117453,ibuprofen 400 MG [Motrin],BrandedDrugComp
+19117454,ibuprofen 400 MG [Rimafen],BrandedDrugComp
+19117455,ibuprofen 400 MG [Arthrofen 400],BrandedDrugComp
+19117456,ibuprofen 400 MG [Pacifene],BrandedDrugComp
+19117457,ibuprofen 400 MG [Phor Pain],BrandedDrugComp
+19117458,ibuprofen 600 MG [Ibumetin],BrandedDrugComp
+19117459,ibuprofen 600 MG [Paxofen],BrandedDrugComp
+19117460,ibuprofen 600 MG [Brufen],BrandedDrugComp
+19117461,ibuprofen 600 MG [Lidifen],BrandedDrugComp
+19117462,ibuprofen 600 MG [Apsifen F],BrandedDrugComp
+19117724,ibuprofen 800 MG [Brufen Retard],BrandedDrugComp
+19117725,ibuprofen 20 MG/ML [Brufen],BrandedDrugComp
+19117726,ibuprofen 800 MG [Motrin],BrandedDrugComp
+19118219,ibuprofen 20 MG/ML [Advil],BrandedDrugComp
+19118221,ibuprofen 200 MG [Uni-Pro],BrandedDrugComp
+19118226,ibuprofen 300 MG [Motrin],BrandedDrugComp
+19118227,ibuprofen 400 MG [Dolgesic],BrandedDrugComp
+19118228,ibuprofen 400 MG [Ibu],BrandedDrugComp
+19118229,ibuprofen 400 MG [Ibu-Tab],BrandedDrugComp
+19118230,ibuprofen 400 MG [Rufen],BrandedDrugComp
+19118231,ibuprofen 400 MG [Saleto-400],BrandedDrugComp
+19118233,ibuprofen 800 MG [Ibu-Tab],BrandedDrugComp
+19120465,ibuprofen 200 MG [Anadin Ibuprofen],BrandedDrugComp
+19120467,ibuprofen 0.05 MG/MG [Cuprofen],BrandedDrugComp
+19120468,ibuprofen 200 MG [Nurofen Advance],BrandedDrugComp
+19120495,ibuprofen 20 MG/ML [Nurofen For Children],BrandedDrugComp
+19120543,ibuprofen 50 MG/ML [Ibumousse],BrandedDrugComp
+19122000,ibuprofen 450 MG,ClinicalDrugComp
+19122001,ibuprofen 450 MG / oxycodone 5 MG Oral Tablet,ClinicalDrug
+19123153,ibuprofen 200 MG Oral Capsule [Motrin],BrandedDrug
+19124387,ibuprofen 200 MG [Wal-Profen],BrandedDrugComp
+19124388,ibuprofen 200 MG Oral Tablet [Wal-Profen],BrandedDrug
+19124856,ibuprofen 200 MG / pseudoisocytidine 30 MG Oral Tablet,ClinicalDrug
+19126141,ibuprofen 20 MG/ML [Elixsure IB],BrandedDrugComp
+19126142,ibuprofen 20 MG/ML Oral Suspension [Elixsure IB],BrandedDrug
+19127536,ibuprofen 40 MG/ML [Advil],BrandedDrugComp
+19128678,ibuprofen 20 MG/ML Oral Solution [Brufen],BrandedDrug
+19129017,ibuprofen 40 MG/ML Oral Solution,ClinicalDrug
+19129851,ibuprofen 100 MG [Motrin],BrandedDrugComp
+19131976,ibuprofen 100 MG Oral Tablet [Motrin],BrandedDrug
+35604183,ibuprofen Injection,ClinicalDrugForm
+35604184,2 ML ibuprofen 10 MG/ML Injection,QuantClinicalDrug
+35604185,ibuprofen 10 MG/ML Injection,ClinicalDrug
+36211970,chlorpheniramine / ibuprofen / pseudoephedrine Oral Liquid Product,ClinicalDoseGroup
+36211971,chlorpheniramine / ibuprofen / pseudoephedrine Oral Product,ClinicalDoseGroup
+36211972,chlorpheniramine / ibuprofen / pseudoephedrine Pill,ClinicalDoseGroup
+36212218,codeine / ibuprofen Oral Product,ClinicalDoseGroup
+36212219,codeine / ibuprofen Pill,ClinicalDoseGroup
+36212313,chlorzoxazone / ibuprofen Oral Product,ClinicalDoseGroup
+36212314,chlorzoxazone / ibuprofen Pill,ClinicalDoseGroup
+36214099,ibuprofen / tolperisone Pill,ClinicalDoseGroup
+36214101,ibuprofen / vitamin B12 Oral Product,ClinicalDoseGroup
+36214102,ibuprofen / vitamin B12 Pill,ClinicalDoseGroup
+36214103,ibuprofen / pseudoisocytidine Oral Product,ClinicalDoseGroup
+36214104,ibuprofen / pseudoisocytidine Pill,ClinicalDoseGroup
+36214105,ibuprofen Injectable Product,ClinicalDoseGroup
+36214106,ibuprofen Oral Liquid Product,ClinicalDoseGroup
+36214107,ibuprofen Oral Product,ClinicalDoseGroup
+36214108,ibuprofen Pill,ClinicalDoseGroup
+36214109,ibuprofen Rectal Product,ClinicalDoseGroup
+36214110,ibuprofen Topical Product,ClinicalDoseGroup
+36215414,cyclonium / ibuprofen Oral Product,ClinicalDoseGroup
+36215415,cyclonium / ibuprofen Pill,ClinicalDoseGroup
+36216123,acetaminophen / ibuprofen Oral Liquid Product,ClinicalDoseGroup
+36216124,acetaminophen / ibuprofen Oral Product,ClinicalDoseGroup
+36216125,acetaminophen / ibuprofen Pill,ClinicalDoseGroup
+36217525,diphenhydramine / ibuprofen Oral Product,ClinicalDoseGroup
+36217526,diphenhydramine / ibuprofen Pill,ClinicalDoseGroup
+36218027,carisoprodol / dexamethasone / ibuprofen Oral Product,ClinicalDoseGroup
+36218028,carisoprodol / dexamethasone / ibuprofen Pill,ClinicalDoseGroup
+36218033,carisoprodol / ibuprofen Oral Product,ClinicalDoseGroup
+36218034,carisoprodol / ibuprofen Pill,ClinicalDoseGroup
+36218098,caffeine / ergotamine / ibuprofen Oral Product,ClinicalDoseGroup
+36218099,caffeine / ergotamine / ibuprofen Pill,ClinicalDoseGroup
+36218325,hydrocodone / ibuprofen Oral Product,ClinicalDoseGroup
+36218326,hydrocodone / ibuprofen Pill,ClinicalDoseGroup
+36218530,Ibifon 600 Oral Product,BrandedDoseGroup
+36218531,Ibifon 600 Pill,BrandedDoseGroup
+36218532,Ibren Oral Product,BrandedDoseGroup
+36218533,Ibren Pill,BrandedDoseGroup
+36218534,Ibrufhalal Oral Product,BrandedDoseGroup
+36218535,Ibrufhalal Pill,BrandedDoseGroup
+36218536,Ibu Oral Product,BrandedDoseGroup
+36218537,Ibu Pill,BrandedDoseGroup
+36218538,Ibu-Tab Oral Product,BrandedDoseGroup
+36218539,Ibu-Tab Pill,BrandedDoseGroup
+36218540,Ibudone Oral Product,BrandedDoseGroup
+36218541,Ibudone Pill,BrandedDoseGroup
+36218542,Ibular Oral Product,BrandedDoseGroup
+36218543,Ibular Pill,BrandedDoseGroup
+36218544,Ibuleve Topical Product,BrandedDoseGroup
+36218545,Ibumed Oral Product,BrandedDoseGroup
+36218546,Ibumed Pill,BrandedDoseGroup
+36218547,Ibumetin Oral Product,BrandedDoseGroup
+36218548,Ibumetin Pill,BrandedDoseGroup
+36218549,Ibumousse Topical Product,BrandedDoseGroup
+36218550,Ibuprohm Oral Product,BrandedDoseGroup
+36218551,Ibuprohm Pill,BrandedDoseGroup
+36219091,ibuprofen / levomenthol Topical Product,ClinicalDoseGroup
+36219092,ibuprofen / lidocaine Injectable Product,ClinicalDoseGroup
+36219093,ibuprofen / menthol Topical Product,ClinicalDoseGroup
+36219094,ibuprofen / methocarbamol Oral Product,ClinicalDoseGroup
+36219095,ibuprofen / methocarbamol Pill,ClinicalDoseGroup
+36219096,ibuprofen / niacin Topical Product,ClinicalDoseGroup
+36219097,ibuprofen / oxycodone Oral Product,ClinicalDoseGroup
+36219098,ibuprofen / oxycodone Pill,ClinicalDoseGroup
+36219099,ibuprofen / phenylephrine Oral Product,ClinicalDoseGroup
+36219100,ibuprofen / phenylephrine Pill,ClinicalDoseGroup
+36219101,ibuprofen / pseudoephedrine Oral Liquid Product,ClinicalDoseGroup
+36219102,ibuprofen / pseudoephedrine Oral Product,ClinicalDoseGroup
+36219103,ibuprofen / pseudoephedrine Pill,ClinicalDoseGroup
+36219104,ibuprofen / scopolamine Oral Product,ClinicalDoseGroup
+36219105,ibuprofen / scopolamine Pill,ClinicalDoseGroup
+36219106,ibuprofen / tolperisone Oral Product,ClinicalDoseGroup
+36219439,Combunox Oral Product,BrandedDoseGroup
+36219440,Combunox Pill,BrandedDoseGroup
+36219766,Brufen Oral Liquid Product,BrandedDoseGroup
+36219767,Brufen Oral Product,BrandedDoseGroup
+36219768,Brufen Pill,BrandedDoseGroup
+36219769,Brufen Retard Oral Product,BrandedDoseGroup
+36219770,Brufen Retard Pill,BrandedDoseGroup
+36220822,hydroxocobalamin / ibuprofen Injectable Product,ClinicalDoseGroup
+36221285,Junifen Oral Liquid Product,BrandedDoseGroup
+36221286,Junifen Oral Product,BrandedDoseGroup
+36222786,Duexis Oral Product,BrandedDoseGroup
+36222787,Duexis Pill,BrandedDoseGroup
+36223840,homatropine / ibuprofen Oral Product,ClinicalDoseGroup
+36223841,homatropine / ibuprofen Pill,ClinicalDoseGroup
+36224083,famotidine / ibuprofen Oral Product,ClinicalDoseGroup
+36226131,famotidine / ibuprofen Pill,ClinicalDoseGroup
+36228238,Migrafen Oral Product,BrandedDoseGroup
+36228239,Migrafen Pill,BrandedDoseGroup
+36228580,Pacifene Oral Product,BrandedDoseGroup
+36228581,Pacifene Pill,BrandedDoseGroup
+36228658,Phor Pain Oral Product,BrandedDoseGroup
+36228659,Phor Pain Pill,BrandedDoseGroup
+36228683,Proflex Oral Product,BrandedDoseGroup
+36228684,Proflex Pain Relief Topical Product,BrandedDoseGroup
+36228685,Proflex Pill,BrandedDoseGroup
+36228687,Proflex Topical Product,BrandedDoseGroup
+36230224,Nuprin Oral Product,BrandedDoseGroup
+36230225,Nuprin Pill,BrandedDoseGroup
+36230229,Nurofen Advance Oral Product,BrandedDoseGroup
+36230230,Nurofen Advance Pill,BrandedDoseGroup
+36230231,Nurofen For Children Oral Liquid Product,BrandedDoseGroup
+36230232,Nurofen For Children Oral Product,BrandedDoseGroup
+36230480,Tab-Profen Oral Product,BrandedDoseGroup
+36230481,Tab-Profen Pill,BrandedDoseGroup
+36231962,Neoprofen Injectable Product,BrandedDoseGroup
+36232238,Relcofen Oral Product,BrandedDoseGroup
+36232239,Relcofen Pill,BrandedDoseGroup
+36232256,Reprexain Oral Product,BrandedDoseGroup
+36232257,Reprexain Pill,BrandedDoseGroup
+36232377,Haltran Oral Product,BrandedDoseGroup
+36232378,Haltran Pill,BrandedDoseGroup
+36232695,Isisfen Oral Product,BrandedDoseGroup
+36232696,Isisfen Pill,BrandedDoseGroup
+36232849,Apsifen F Oral Product,BrandedDoseGroup
+36232850,Apsifen F Pill,BrandedDoseGroup
+36232851,Apsifen Oral Product,BrandedDoseGroup
+36232852,Apsifen Pill,BrandedDoseGroup
+36232981,Inoven Oral Product,BrandedDoseGroup
+36232982,Inoven Pill,BrandedDoseGroup
+36233802,Addaprin Oral Product,BrandedDoseGroup
+36233803,Addaprin Pill,BrandedDoseGroup
+36233825,Advil Pill,BrandedDoseGroup
+36234498,Caldolor Injectable Product,BrandedDoseGroup
+36234589,Anadin Ibuprofen Oral Product,BrandedDoseGroup
+36234590,Anadin Ibuprofen Pill,BrandedDoseGroup
+36234914,Dolgesic Oral Product,BrandedDoseGroup
+36234915,Dolgesic Pill,BrandedDoseGroup
+36236013,Genpril Oral Product,BrandedDoseGroup
+36236014,Genpril Pill,BrandedDoseGroup
+36236063,Advil Oral Liquid Product,BrandedDoseGroup
+36236064,Advil Oral Product,BrandedDoseGroup
+36236193,Elixsure IB Oral Liquid Product,BrandedDoseGroup
+36236194,Elixsure IB Oral Product,BrandedDoseGroup
+36236365,Arthrofen 200 Oral Product,BrandedDoseGroup
+36236366,Arthrofen 200 Pill,BrandedDoseGroup
+36236367,Arthrofen 400 Oral Product,BrandedDoseGroup
+36236368,Arthrofen 400 Pill,BrandedDoseGroup
+36236369,Arthrofen 600 Oral Product,BrandedDoseGroup
+36236370,Arthrofen 600 Pill,BrandedDoseGroup
+36236806,Cap-Profen Oral Product,BrandedDoseGroup
+36236807,Cap-Profen Pill,BrandedDoseGroup
+36237056,Counteract IB Oral Product,BrandedDoseGroup
+36237057,Counteract IB Pill,BrandedDoseGroup
+36237113,Cuprofen Oral Product,BrandedDoseGroup
+36237114,Cuprofen Pill,BrandedDoseGroup
+36237115,Cuprofen Topical Product,BrandedDoseGroup
+36237161,Cuprofen Maximum Strength Oral Product,BrandedDoseGroup
+36237162,Cuprofen Maximum Strength Pill,BrandedDoseGroup
+36237385,Ebufac Oral Product,BrandedDoseGroup
+36237386,Ebufac Pill,BrandedDoseGroup
+36239483,Sup Pain Med Oral Product,BrandedDoseGroup
+36239484,Sup Pain Med Pill,BrandedDoseGroup
+36239693,Motrin Oral Liquid Product,BrandedDoseGroup
+36239694,Motrin Oral Product,BrandedDoseGroup
+36239695,Motrin PM Oral Product,BrandedDoseGroup
+36239696,Motrin PM Pill,BrandedDoseGroup
+36239697,Motrin Pill,BrandedDoseGroup
+36240026,Paxofen Oral Product,BrandedDoseGroup
+36240027,Paxofen Pill,BrandedDoseGroup
+36240327,Rufen Oral Product,BrandedDoseGroup
+36240328,Rufen Pill,BrandedDoseGroup
+36240635,Q-Profen Oral Product,BrandedDoseGroup
+36240636,Q-Profen Pill,BrandedDoseGroup
+36240686,Rimafen Oral Product,BrandedDoseGroup
+36240687,Rimafen Pill,BrandedDoseGroup
+36240775,Lidifen Oral Product,BrandedDoseGroup
+36240776,Lidifen Pill,BrandedDoseGroup
+36240979,Saleto-200 Oral Product,BrandedDoseGroup
+36240980,Saleto-200 Pill,BrandedDoseGroup
+36240981,Saleto-400 Oral Product,BrandedDoseGroup
+36240982,Saleto-400 Pill,BrandedDoseGroup
+36240983,Saleto-600 Oral Product,BrandedDoseGroup
+36240984,Saleto-600 Pill,BrandedDoseGroup
+36240985,Saleto-800 Oral Product,BrandedDoseGroup
+36240986,Saleto-800 Pill,BrandedDoseGroup
+36241034,Uni-Pro Oral Product,BrandedDoseGroup
+36241035,Uni-Pro Pill,BrandedDoseGroup
+36241451,Ultraprin Oral Product,BrandedDoseGroup
+36241452,Ultraprin Pill,BrandedDoseGroup
+36241899,Vicoprofen Oral Product,BrandedDoseGroup
+36241900,Vicoprofen Pill,BrandedDoseGroup
+36242116,Menadol Oral Product,BrandedDoseGroup
+36242117,Menadol Pill,BrandedDoseGroup
+36242353,Wal-Profen Oral Product,BrandedDoseGroup
+36242354,Wal-Profen Pill,BrandedDoseGroup
+36242746,Samson 8 Oral Product,BrandedDoseGroup
+36242747,Samson 8 Pill,BrandedDoseGroup
+36242817,fenbid Oral Product,BrandedDoseGroup
+36242818,fenbid Pill,BrandedDoseGroup
+36242819,fenbid Topical Product,BrandedDoseGroup
+36243393,Proprinal Oral Product,BrandedDoseGroup
+36243394,Proprinal Pill,BrandedDoseGroup
+36243700,chlorpheniramine / ibuprofen / phenylephrine Oral Product,ClinicalDoseGroup
+36243701,chlorpheniramine / ibuprofen / phenylephrine Pill,ClinicalDoseGroup
+36244746,Advil Chewable Product,BrandedDoseGroup
+36245087,Motrin Chewable Product,BrandedDoseGroup
+36245446,ibuprofen Oral Gel Product,ClinicalDoseGroup
+36245763,ibuprofen Chewable Product,ClinicalDoseGroup
+36246689,Ibutab Oral Product,BrandedDoseGroup
+36246690,Ibutab Pill,BrandedDoseGroup
+36247213,Xylon Oral Product,BrandedDoseGroup
+36247214,Xylon Pill,BrandedDoseGroup
+36248892,chondroitin sulfates / glucosamine / ibuprofen Oral Product,ClinicalDoseGroup
+36248893,chondroitin sulfates / glucosamine / ibuprofen Pill,ClinicalDoseGroup
+37002399,ibuprofen 125 MG,ClinicalDrugComp
+37002400,acetaminophen 250 MG / ibuprofen 125 MG Oral Tablet,ClinicalDrug
+40002727,acetaminophen / ibuprofen Oral Capsule,ClinicalDrugForm
+40002728,acetaminophen / ibuprofen Oral Suspension,ClinicalDrugForm
+40002729,acetaminophen / ibuprofen Oral Tablet,ClinicalDrugForm
+40017303,caffeine / ergotamine / ibuprofen Oral Tablet,ClinicalDrugForm
+40022021,chlorpheniramine / ibuprofen / pseudoephedrine Oral Tablet,ClinicalDrugForm
+40022479,carisoprodol / dexamethasone / ibuprofen Oral Tablet,ClinicalDrugForm
+40022482,carisoprodol / ibuprofen Oral Tablet,ClinicalDrugForm
+40029836,codeine / ibuprofen Extended Release Oral Tablet,ClinicalDrugForm
+40029837,codeine / ibuprofen Oral Tablet,ClinicalDrugForm
+40031160,chlorzoxazone / ibuprofen Oral Tablet,ClinicalDrugForm
+40045770,hydrocodone / ibuprofen Oral Tablet,ClinicalDrugForm
+40045771,hydrocodone / ibuprofen Oral Tablet [Vicoprofen],BrandedDrugForm
+40048557,ibuprofen Oral Tablet [Nuprin],BrandedDrugForm
+40048558,ibuprofen Oral Tablet [Nurofen Advance],BrandedDrugForm
+40048559,ibuprofen Oral Tablet [Pacifene],BrandedDrugForm
+40048560,ibuprofen Oral Tablet [Paxofen],BrandedDrugForm
+40048561,ibuprofen Oral Tablet [Phor Pain],BrandedDrugForm
+40048562,ibuprofen Oral Tablet [Proflex],BrandedDrugForm
+40048563,ibuprofen Oral Tablet [Q-Profen],BrandedDrugForm
+40048564,ibuprofen Oral Tablet [Relcofen],BrandedDrugForm
+40048565,ibuprofen Oral Tablet [Rimafen],BrandedDrugForm
+40048566,ibuprofen Oral Tablet [Rufen],BrandedDrugForm
+40048567,ibuprofen Oral Tablet [Saleto-200],BrandedDrugForm
+40048568,ibuprofen Oral Tablet [Saleto-400],BrandedDrugForm
+40048569,ibuprofen Oral Tablet [Saleto-600],BrandedDrugForm
+40048570,ibuprofen Oral Tablet [Saleto-800],BrandedDrugForm
+40048571,ibuprofen Oral Tablet [Sup Pain Med],BrandedDrugForm
+40048572,ibuprofen Oral Tablet [Tab-Profen],BrandedDrugForm
+40048573,ibuprofen Oral Tablet [Uni-Pro],BrandedDrugForm
+40048574,ibuprofen Rectal Suppository,ClinicalDrugForm
+40048577,ibuprofen Topical Cream,ClinicalDrugForm
+40048578,ibuprofen Topical Cream [Proflex Pain Relief],BrandedDrugForm
+40048579,ibuprofen Topical Cream [Proflex],BrandedDrugForm
+40048580,ibuprofen Topical Foam,ClinicalDrugForm
+40048581,ibuprofen Topical Foam [Ibuleve],BrandedDrugForm
+40048582,ibuprofen Topical Foam [Ibumousse],BrandedDrugForm
+40048583,ibuprofen Topical Gel,ClinicalDrugForm
+40048584,ibuprofen Topical Gel [Cuprofen],BrandedDrugForm
+40048585,ibuprofen Topical Gel [fenbid],BrandedDrugForm
+40048586,ibuprofen Topical Spray,ClinicalDrugForm
+40048587,ibuprofen Topical Spray [Ibuleve],BrandedDrugForm
+40051275,hydroxocobalamin / ibuprofen Injectable Solution,ClinicalDrugForm
+40053087,ibuprofen / levomenthol Topical Gel,ClinicalDrugForm
+40053088,ibuprofen / lidocaine Injectable Solution,ClinicalDrugForm
+40053089,ibuprofen / menthol Topical Gel,ClinicalDrugForm
+40053090,ibuprofen / methocarbamol Oral Tablet,ClinicalDrugForm
+40053091,ibuprofen / oxycodone Oral Tablet,ClinicalDrugForm
+40053094,ibuprofen / pseudoephedrine Oral Capsule,ClinicalDrugForm
+40053096,ibuprofen / pseudoephedrine Oral Suspension,ClinicalDrugForm
+40053099,ibuprofen / pseudoephedrine Oral Tablet,ClinicalDrugForm
+40053398,ibuprofen / scopolamine Oral Tablet,ClinicalDrugForm
+40053399,ibuprofen / tolperisone Oral Tablet,ClinicalDrugForm
+40053401,ibuprofen / vitamin B12 Oral Tablet,ClinicalDrugForm
+40054133,ibuprofen Chewable Tablet,ClinicalDrugForm
+40054138,ibuprofen Extended Release Oral Capsule,ClinicalDrugForm
+40054139,ibuprofen Extended Release Oral Capsule [fenbid],BrandedDrugForm
+40054140,ibuprofen Extended Release Oral Capsule [Proflex],BrandedDrugForm
+40054141,ibuprofen Extended Release Oral Tablet,ClinicalDrugForm
+40054142,ibuprofen Extended Release Oral Tablet [Brufen Retard],BrandedDrugForm
+40054143,ibuprofen Injectable Solution,ClinicalDrugForm
+40054144,ibuprofen Oral Capsule,ClinicalDrugForm
+40054147,ibuprofen Oral Gel,ClinicalDrugForm
+40054148,ibuprofen Oral Suspension,ClinicalDrugForm
+40054151,ibuprofen Oral Suspension [Advil],BrandedDrugForm
+40054152,ibuprofen Oral Suspension [Brufen],BrandedDrugForm
+40054154,ibuprofen Oral Suspension [Junifen],BrandedDrugForm
+40054156,ibuprofen Oral Suspension [Nurofen For Children],BrandedDrugForm
+40054158,ibuprofen Oral Tablet,ClinicalDrugForm
+40054162,ibuprofen Oral Tablet [Advil],BrandedDrugForm
+40054163,ibuprofen Oral Tablet [Anadin Ibuprofen],BrandedDrugForm
+40054164,ibuprofen Oral Tablet [Apsifen F],BrandedDrugForm
+40054165,ibuprofen Oral Tablet [Apsifen],BrandedDrugForm
+40054167,ibuprofen Oral Tablet [Arthrofen 200],BrandedDrugForm
+40054168,ibuprofen Oral Tablet [Arthrofen 400],BrandedDrugForm
+40054169,ibuprofen Oral Tablet [Arthrofen 600],BrandedDrugForm
+40054170,ibuprofen Oral Tablet [Brufen],BrandedDrugForm
+40054171,ibuprofen Oral Tablet [Cap-Profen],BrandedDrugForm
+40054172,ibuprofen Oral Tablet [Cuprofen Maximum Strength],BrandedDrugForm
+40054173,ibuprofen Oral Tablet [Cuprofen],BrandedDrugForm
+40054174,ibuprofen Oral Tablet [Dolgesic],BrandedDrugForm
+40054175,ibuprofen Oral Tablet [Ebufac],BrandedDrugForm
+40054176,ibuprofen Oral Tablet [Genpril],BrandedDrugForm
+40054177,ibuprofen Oral Tablet [Haltran],BrandedDrugForm
+40054179,ibuprofen Oral Tablet [Ibifon 600],BrandedDrugForm
+40054180,ibuprofen Oral Tablet [Ibren],BrandedDrugForm
+40054181,ibuprofen Oral Tablet [Ibrufhalal],BrandedDrugForm
+40054185,ibuprofen Oral Tablet [Ibu-Tab],BrandedDrugForm
+40054186,ibuprofen Oral Tablet [Ibu],BrandedDrugForm
+40054187,ibuprofen Oral Tablet [Ibular],BrandedDrugForm
+40054188,ibuprofen Oral Tablet [Ibumed],BrandedDrugForm
+40054189,ibuprofen Oral Tablet [Ibumetin],BrandedDrugForm
+40054190,ibuprofen Oral Tablet [Inoven],BrandedDrugForm
+40054191,ibuprofen Oral Tablet [Isisfen],BrandedDrugForm
+40054192,ibuprofen Oral Tablet [Lidifen],BrandedDrugForm
+40054193,ibuprofen Oral Tablet [Menadol],BrandedDrugForm
+40054196,ibuprofen Oral Tablet [Migrafen],BrandedDrugForm
+40054200,ibuprofen Oral Tablet [Motrin],BrandedDrugForm
+40055145,homatropine / ibuprofen Oral Tablet,ClinicalDrugForm
+40060217,cyclonium / ibuprofen Oral Tablet,ClinicalDrugForm
+40115343,ibuprofen Oral Suspension [Motrin],BrandedDrugForm
+40115424,ibuprofen Oral Tablet [Samson 8],BrandedDrugForm
+40125462,chlorpheniramine / ibuprofen / pseudoephedrine Oral Suspension,ClinicalDrugForm
+40126417,ibuprofen / oxycodone Oral Tablet [Combunox],BrandedDrugForm
+40129838,ibuprofen Oral Capsule [Motrin],BrandedDrugForm
+40133936,ibuprofen / niacin Topical Cream,ClinicalDrugForm
+40134497,diphenhydramine / ibuprofen Oral Capsule,ClinicalDrugForm
+40134498,diphenhydramine / ibuprofen Oral Tablet,ClinicalDrugForm
+40134921,ibuprofen Oral Capsule [Wal-Profen],BrandedDrugForm
+40134922,ibuprofen Oral Tablet [Wal-Profen],BrandedDrugForm
+40136034,ibuprofen / pseudoisocytidine Oral Tablet,ClinicalDrugForm
+40139075,ibuprofen Oral Suspension [Elixsure IB],BrandedDrugForm
+40140788,hydrocodone / ibuprofen Oral Tablet [Reprexain],BrandedDrugForm
+40143246,ibuprofen Chewable Tablet [Advil],BrandedDrugForm
+40143247,ibuprofen Oral Capsule [Advil],BrandedDrugForm
+40143248,ibuprofen Oral Solution,ClinicalDrugForm
+40146709,hydrocodone / ibuprofen Oral Tablet [Ibudone],BrandedDrugForm
+40146878,ibuprofen Oral Solution [Brufen],BrandedDrugForm
+40149378,ibuprofen Chewable Tablet [Motrin],BrandedDrugForm
+40161246,ibuprofen 100 MG/ML,ClinicalDrugComp
+40161247,8 ML ibuprofen 100 MG/ML Injection,QuantClinicalDrug
+40161248,8 ML ibuprofen 100 MG/ML Injection [Caldolor],QuantBrandedDrug
+40161249,ibuprofen 100 MG/ML [Caldolor],BrandedDrugComp
+40161250,ibuprofen 200 MG Oral Tablet [Ibuprohm],BrandedDrug
+40161251,ibuprofen 200 MG [Ibuprohm],BrandedDrugComp
+40161255,ibuprofen Oral Tablet [Ibuprohm],BrandedDrugForm
+40162156,{60 (caffeine 65 MG / riboflavin 6.25 MG / thiamine 25 MG / vitamin B12 0.125 MG / vitamin B6 25 MG Oral Capsule) / 60 (ibuprofen 400 MG Oral Tablet) } Pack,ClinicalPack
+40162157,{60 (caffeine 65 MG / riboflavin 6.25 MG / thiamine 25 MG / vitamin B12 0.125 MG / vitamin B6 25 MG Oral Capsule) / 60 (ibuprofen 400 MG Oral Tablet) } Pack [IC 400 Kit],BrandedPack
+40163130,ibuprofen 40 MG/ML Oral Suspension [Motrin],BrandedDrug
+40163131,ibuprofen 40 MG/ML [Motrin],BrandedDrugComp
+40163132,ibuprofen 50 MG Chewable Tablet [Motrin],BrandedDrug
+40163133,ibuprofen 50 MG [Motrin],BrandedDrugComp
+40164692,hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40164693,hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet [Ibudone],BrandedDrug
+40164694,hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet [Reprexain],BrandedDrug
+40164695,hydrocodone bitartrate 10 MG / ibuprofen 200 MG [Ibudone],BrandedDrugComp
+40164696,hydrocodone bitartrate 10 MG / ibuprofen 200 MG [Reprexain],BrandedDrugComp
+40164704,hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40164705,hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet [Reprexain],BrandedDrug
+40164706,hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG [Reprexain],BrandedDrugComp
+40164707,hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40164708,hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet [Ibudone],BrandedDrug
+40164709,hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet [Reprexain],BrandedDrug
+40164710,hydrocodone bitartrate 5 MG / ibuprofen 200 MG [Ibudone],BrandedDrugComp
+40164711,hydrocodone bitartrate 5 MG / ibuprofen 200 MG [Reprexain],BrandedDrugComp
+40164715,hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40164716,hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet [Reprexain],BrandedDrug
+40164717,hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet [Vicoprofen],BrandedDrug
+40164718,hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG [Reprexain],BrandedDrugComp
+40164719,hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG [Vicoprofen],BrandedDrugComp
+40169179,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40169180,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Tablet [Motrin PM],BrandedDrug
+40169181,diphenhydramine citrate 38 MG / ibuprofen 200 MG [Motrin PM],BrandedDrugComp
+40169182,diphenhydramine / ibuprofen Oral Tablet [Motrin PM],BrandedDrugForm
+40173034,ibuprofen 200 MG Oral Tablet [Addaprin],BrandedDrug
+40173035,ibuprofen 200 MG Oral Tablet [Ultraprin],BrandedDrug
+40173036,ibuprofen 200 MG [Addaprin],BrandedDrugComp
+40173037,ibuprofen 200 MG [Ultraprin],BrandedDrugComp
+40173044,ibuprofen Oral Tablet [Addaprin],BrandedDrugForm
+40173054,ibuprofen Oral Tablet [Ultraprin],BrandedDrugForm
+40173380,diphenhydramine hydrochloride 25 MG / ibuprofen 200 MG Oral Capsule,ClinicalDrug
+40222715,ibuprofen / phenylephrine Oral Tablet,ClinicalDrugForm
+40223073,codeine phosphate 12.5 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40223075,codeine phosphate 12.8 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+40223093,codeine phosphate 20 MG / ibuprofen 300 MG Extended Release Oral Tablet,ClinicalDrug
+40232568,ibuprofen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet,ClinicalDrug
+40232569,ibuprofen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet [Combunox],BrandedDrug
+40232570,ibuprofen 400 MG / oxycodone hydrochloride 5 MG [Combunox],BrandedDrugComp
+40239178,famotidine / ibuprofen Oral Tablet,ClinicalDrugForm
+40239179,famotidine / ibuprofen Oral Tablet [Duexis],BrandedDrugForm
+40239181,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet,ClinicalDrug
+40239182,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet [Duexis],BrandedDrug
+40239183,famotidine 26.6 MG / ibuprofen 800 MG [Duexis],BrandedDrugComp
+40239208,ibuprofen 200 MG Oral Tablet [Counteract IB],BrandedDrug
+40239211,ibuprofen 200 MG [Counteract IB],BrandedDrugComp
+40239212,ibuprofen Oral Tablet [Counteract IB],BrandedDrugForm
+42609056,ibuprofen Oral Capsule [Proprinal],BrandedDrugForm
+42609057,ibuprofen 200 MG Oral Capsule [Proprinal],BrandedDrug
+42609088,acetaminophen / ibuprofen Injectable Product,ClinicalDoseGroup
+42609089,acetaminophen / ibuprofen Injection,ClinicalDrugForm
+42609090,acetaminophen 10 MG/ML / ibuprofen 3 MG/ML Injection,ClinicalDrug
+42609092,acetaminophen 10 MG/ML / ibuprofen 3 MG/ML [Combogesic],BrandedDrugComp
+42609093,Combogesic Injectable Product,BrandedDoseGroup
+42609094,acetaminophen / ibuprofen Injection [Combogesic],BrandedDrugForm
+42609095,acetaminophen 10 MG/ML / ibuprofen 3 MG/ML Injection [Combogesic],BrandedDrug
+42609245,ibuprofen 97.5 MG,ClinicalDrugComp
+42609246,acetaminophen 325 MG / ibuprofen 97.5 MG Oral Tablet,ClinicalDrug
+42609247,acetaminophen 325 MG / ibuprofen 97.5 MG [Combogesic],BrandedDrugComp
+42609248,Combogesic Oral Product,BrandedDoseGroup
+42609249,Combogesic Pill,BrandedDoseGroup
+42609250,acetaminophen / ibuprofen Oral Tablet [Combogesic],BrandedDrugForm
+42609251,acetaminophen 325 MG / ibuprofen 97.5 MG Oral Tablet [Combogesic],BrandedDrug
+42609730,100 ML acetaminophen 10 MG/ML / ibuprofen 3 MG/ML Injection,QuantClinicalDrug
+42609731,100 ML acetaminophen 10 MG/ML / ibuprofen 3 MG/ML Injection [Combogesic],QuantBrandedDrug
+42628867,ibuprofen Injection [Caldolor],BrandedDrugForm
+42628868,ibuprofen 100 MG/ML Injection,ClinicalDrug
+42628869,ibuprofen 100 MG/ML Injection [Caldolor],BrandedDrug
+42628870,ibuprofen Injection [Neoprofen],BrandedDrugForm
+42628871,ibuprofen 10 MG/ML Injection [Neoprofen],BrandedDrug
+42799325,caffeine 100 MG / ergotamine tartrate 1 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+42799576,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Capsule,ClinicalDrug
+42800580,chlorpheniramine maleate 0.2 MG/ML / ibuprofen 20 MG/ML / pseudoephedrine hydrochloride 3 MG/ML Oral Suspension,ClinicalDrug
+42800591,chlorpheniramine maleate 2 MG / ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,ClinicalDrug
+42800824,ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,ClinicalDrug
+42800827,ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,ClinicalDrug
+42800848,ibuprofen 200 MG Oral Tablet [Proprinal],BrandedDrug
+42800849,ibuprofen 200 MG [Proprinal],BrandedDrugComp
+42800854,ibuprofen Oral Tablet [Proprinal],BrandedDrugForm
+42898682,chlorpheniramine maleate 4 MG / ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,ClinicalDrug
+42898699,chlorpheniramine / ibuprofen / phenylephrine Oral Tablet,ClinicalDrugForm
+42899146,ibuprofen 20 MG/ML / pseudoephedrine hydrochloride 3 MG/ML Oral Suspension,ClinicalDrug
+42901534,ibuprofen 200 MG [Ibutab],BrandedDrugComp
+42901535,ibuprofen Oral Tablet [Ibutab],BrandedDrugForm
+42902222,ibuprofen 200 MG Oral Tablet [Ibutab],BrandedDrug
+43013686,ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,ClinicalDrug
+45776388,hydrocodone bitartrate 10 MG / ibuprofen 200 MG [Xylon],BrandedDrugComp
+45776389,hydrocodone / ibuprofen Oral Tablet [Xylon],BrandedDrugForm
+45776390,hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet [Xylon],BrandedDrug
+45892517,chondroitin sulfates / glucosamine / ibuprofen Oral Tablet,ClinicalDrugForm
+45892518,chondroitin sulfates 200 MG / glucosamine sulfate 250 MG / ibuprofen 100 MG Oral Tablet,ClinicalDrug
+795135,chlorzoxazone 250 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug

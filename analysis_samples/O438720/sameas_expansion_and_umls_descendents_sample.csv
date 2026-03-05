@@ -1,0 +1,55 @@
+concept_id,label,concept_class
+1348425,"Familial hypercholesterolemia, unspecified",6CharBillingCode
+1595535,Other hyperlipidemia,5CharBillingCode
+35207060,Pure hypercholesterolemia,4CharNonbillCode
+35207061,Pure hyperglyceridemia,4CharBillingCode
+35207062,Mixed hyperlipidemia,4CharBillingCode
+35207063,Hyperchylomicronemia,4CharBillingCode
+35207064,Other hyperlipidemia,4CharNonbillCode
+37200312,"Pure hypercholesterolemia, unspecified",5CharBillingCode
+37200313,Familial hypercholesterolemia,5CharNonbillCode
+4029119,Familial hyperlipoproteinemia,Disorder
+4029259,Familial hypercholesterolemia - heterozygous,Disorder
+4029261,Fredrickson type IV hyperlipoproteinemia,Disorder
+4029305,Hypercholesterolemia,Disorder
+4029890,Familial defective apolipoprotein B-100,Disorder
+4030618,Endogenous hyperlipidemia,Disorder
+4031951,Sitosterolemia,Disorder
+4033043,Eruptive xanthoma,Disorder
+4077382,"Hyperlipoproteinemia, type I",Disorder
+4079876,Familial combined hyperlipidemia,Disorder
+4079885,Familial hypercholesterolemia - homozygous,Disorder
+4096215,"Hyperlipidemia, group A",Disorder
+4098481,Hyperbetalipoproteinemia,Disorder
+4104485,Familial multiple lipoprotein-type hyperlipidemia,Disorder
+4120314,Hypertriglyceridemia,Disorder
+4134862,Familial hypercholesterolemia,Disorder
+4137766,Hooft's syndrome,Disorder
+4142496,Familial hypertriglyceridemia,Disorder
+4144529,Familial type 5 hyperlipoproteinemia,Disorder
+4159131,Dyslipidemia,Disorder
+4162681,Familial type 3 hyperlipoproteinemia,Disorder
+4220010,Fredrickson type IIa hyperlipoproteinemia,Disorder
+4223494,Tubero-eruptive xanthoma,Disorder
+4290841,Xanthoma disseminatum,Disorder
+4290848,Juvenile xanthogranuloma,Disorder
+4295609,Familial hypercholesterolemia due to genetic defect of apolipoprotein B,Disorder
+4301409,Familial lipoprotein lipase deficiency with type I phenotype,Disorder
+4315903,Xanthoma diabeticorum,Disorder
+4345818,Tuberous xanthoma,Disorder
+437521,Familial hyperchylomicronemia,Disorder
+437827,Pure hypercholesterolemia,Disorder
+438720,Mixed hyperlipidemia,Disorder
+440360,Pure hyperglyceridemia,Disorder
+44822948,Hyperchylomicronemia,4DigBillingCode
+44827629,Other and unspecified hyperlipidemia,4DigBillingCode
+44834564,Pure hypercholesterolemia,4DigBillingCode
+44834565,Pure hyperglyceridemia,4DigBillingCode
+44836929,Mixed hyperlipidemia,4DigBillingCode
+45537985,Hyperchylomicronaemia,Icd10Code
+45542771,Pure hypercholesterolaemia,Icd10Code
+45542772,Pure hyperglyceridaemia,Icd10Code
+45561984,Other hyperlipidaemia,Icd10Code
+45581383,Mixed hyperlipidaemia,Icd10Code
+45765429,Chylomicron retention disease,Disorder
+45883494,Elevated cholesterol,Answer

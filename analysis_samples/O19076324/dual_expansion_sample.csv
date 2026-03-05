@@ -1,0 +1,951 @@
+concept_id,label,concept_class
+19076324,glucose 50 MG/ML Injectable Solution,ClinicalDrug
+1973179,500 ML glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 20 by Deltamedica,MarketedProduct
+2022960,1000 ML glucose 50 MG/ML Injectable Solution by CJ,MarketedProduct
+2022961,1000 ML glucose 50 MG/ML Injectable Solution by Daihan,MarketedProduct
+2022962,1000 ML glucose 50 MG/ML Injectable Solution by JW,MarketedProduct
+2024763,500 ML glucose 50 MG/ML Injectable Solution by CJ,MarketedProduct
+2024764,500 ML glucose 50 MG/ML Injectable Solution by Daihan,MarketedProduct
+2024765,500 ML glucose 50 MG/ML Injectable Solution by JW,MarketedProduct
+2025402,200 ML glucose 50 MG/ML Injectable Solution by CJ,MarketedProduct
+2025404,200 ML glucose 50 MG/ML Injectable Solution by Daihan,MarketedProduct
+2025405,200 ML glucose 50 MG/ML Injectable Solution by JW,MarketedProduct
+2025879,100 ML glucose 50 MG/ML Injectable Solution by CJ,MarketedProduct
+2025880,100 ML glucose 50 MG/ML Injectable Solution by Daihan,MarketedProduct
+2025881,100 ML glucose 50 MG/ML Injectable Solution by JW,MarketedProduct
+2025882,100 ML glucose 50 MG/ML Injectable Solution by UK Chemipharm,MarketedProduct
+2026302,50 ML glucose 50 MG/ML Injectable Solution by CJ,MarketedProduct
+2026303,50 ML glucose 50 MG/ML Injectable Solution by Daihan,MarketedProduct
+2026304,50 ML glucose 50 MG/ML Injectable Solution by JW,MarketedProduct
+2026305,50 ML glucose 50 MG/ML Injectable Solution by UK Chemipharm,MarketedProduct
+2026786,20 ML glucose 50 MG/ML Injectable Solution by Daihan,MarketedProduct
+21027107,Glucose 50 MG/ML Injectable Solution Box of 20,ClinicalDrugBox
+21029537,50 ML Glucose 50 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21029979,100 ML Glucose 50 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+21029980,100 ML Glucose 50 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21030078,150 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21030273,500 ML Glucose 50 MG/ML Injectable Solution Box of 15,QuantClinicalBox
+21030318,500 ML Glucose 50 MG/ML Injectable Solution by Baxter,MarketedProduct
+21030319,500 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 1,QuantBrandedBox
+21039811,100 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21040157,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21040158,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by A A H,MarketedProduct
+21040159,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] by Fresenius,MarketedProduct
+21040160,500 ML Glucose 50 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21049238,50 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21049239,50 ML Glucose 50 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+21049932,500 ML Glucose 50 MG/ML Injectable Solution by Maco,MarketedProduct
+21056546,Glucose 50 MG/ML Injectable Solution Box of 30,ClinicalDrugBox
+21059618,250 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21059619,250 ML Glucose 50 MG/ML Injectable Solution Box of 30 by Maco,MarketedProduct
+21059721,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+21059770,500 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] by Fresenius,MarketedProduct
+21064099,Glucose 50 MG/ML Injectable Solution Box of 15,ClinicalDrugBox
+21066372,Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1,BrandedDrugBox
+21068916,50 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21068917,50 ML Glucose 50 MG/ML Injectable Solution Box of 100,QuantClinicalBox
+21068919,50 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21069368,100 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+21069369,100 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] by Fresenius,MarketedProduct
+21069703,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1,QuantBrandedBox
+21074013,Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1,BrandedDrugBox
+21078679,50 ML Glucose 50 MG/ML Injectable Solution by Baxter,MarketedProduct
+21078680,50 ML Glucose 50 MG/ML Injectable Solution Box of 70 by Maco,MarketedProduct
+21079116,100 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21079117,100 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21079342,250 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+21079475,500 ML Glucose 50 MG/ML Injectable Solution Box of 18 by Maco,MarketedProduct
+21079476,500 ML Glucose 50 MG/ML Injectable Solution Box of 20 by Maco,MarketedProduct
+21079477,500 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 1 by Fresenius,MarketedProduct
+21088436,50 ML Glucose 50 MG/ML Injectable Solution Box of 50 by Baxter,MarketedProduct
+21088437,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1 by Fresenius,MarketedProduct
+21088805,100 ML Glucose 50 MG/ML Injectable Solution Box of 60,QuantClinicalBox
+21088919,150 ML Glucose 50 MG/ML Injectable Solution by Baxter,MarketedProduct
+21088920,150 ML Glucose 50 MG/ML Injectable Solution Box of 30 by Baxter,MarketedProduct
+21089121,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 15,QuantBrandedBox
+21089161,500 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21098287,50 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21098288,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] by Fresenius,MarketedProduct
+21098942,250 ML Glucose 50 MG/ML Injectable Solution by Maco,MarketedProduct
+21098943,250 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21099081,500 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+21105688,Glucose 50 MG/ML Injectable Solution Box of 1,ClinicalDrugBox
+21108125,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 30,QuantBrandedBox
+21108539,100 ML Glucose 50 MG/ML Injectable Solution by Maco,MarketedProduct
+21108540,100 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1 by Fresenius,MarketedProduct
+21108753,250 ML Glucose 50 MG/ML Injectable Solution by Baxter,MarketedProduct
+21108754,250 ML Glucose 50 MG/ML Injectable Solution Box of 30 by Baxter,MarketedProduct
+21108755,250 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21108887,500 ML Glucose 50 MG/ML Injectable Solution Box of 12,QuantClinicalBox
+21115463,Glucose 50 MG/ML Injectable Solution Box of 50,ClinicalDrugBox
+21115465,Glucose 50 MG/ML Injectable Solution [Steriflex .6 minipack] Box of 1,BrandedDrugBox
+21118494,250 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21118495,250 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1 by Fresenius,MarketedProduct
+21118581,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+21118620,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter Healthcare,MarketedProduct
+21125072,Glucose 50 MG/ML Injectable Solution Box of 18,ClinicalDrugBox
+21127621,50 ML Glucose 50 MG/ML Injectable Solution Box of 30 by Baxter,MarketedProduct
+21128069,100 ML Glucose 50 MG/ML Injectable Solution by A A H,MarketedProduct
+21128070,100 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21128071,100 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21128152,150 ML Glucose 50 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21128395,500 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 12 by Fresenius,MarketedProduct
+21128396,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1 by Fresenius,MarketedProduct
+21134990,Glucose 50 MG/ML Injectable Solution Box of 12,ClinicalDrugBox
+21134991,Glucose 50 MG/ML Injectable Solution Box of 60,ClinicalDrugBox
+21137507,50 ML Glucose 50 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21137508,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1,QuantBrandedBox
+21137902,100 ML Glucose 50 MG/ML Injectable Solution Box of 20 by Baxter,MarketedProduct
+21138128,250 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] by Fresenius,MarketedProduct
+21138227,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 15 by Fresenius,MarketedProduct
+21138270,500 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+21138272,500 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+21144886,Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1,BrandedDrugBox
+21147332,50 ML Glucose 50 MG/ML Injectable Solution Box of 100 by Baxter,MarketedProduct
+21147333,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 30 by Fresenius,MarketedProduct
+21148139,500 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 12,QuantBrandedBox
+21152444,Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 15,BrandedDrugBox
+21157324,50 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+21157726,100 ML Glucose 50 MG/ML Injectable Solution by Baxter,MarketedProduct
+21157727,100 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1,QuantBrandedBox
+21157842,150 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+21158064,500 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+21158107,500 ML Glucose 50 MG/ML Injectable Solution by A A H,MarketedProduct
+21164647,Glucose 50 MG/ML Injectable Solution Box of 100,ClinicalDrugBox
+21164648,Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 12,BrandedDrugBox
+21164649,Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 30,BrandedDrugBox
+21167081,50 ML Glucose 50 MG/ML Injectable Solution by Maco,MarketedProduct
+21167510,100 ML Glucose 50 MG/ML Injectable Solution Box of 1 by A A H,MarketedProduct
+21167511,100 ML Glucose 50 MG/ML Injectable Solution Box of 50 by Baxter,MarketedProduct
+21167512,100 ML Glucose 50 MG/ML Injectable Solution Box of 60 by Maco,MarketedProduct
+21167870,500 ML Glucose 50 MG/ML Injectable Solution Box of 18,QuantClinicalBox
+21167871,500 ML Glucose 50 MG/ML Injectable Solution Box of 20 by Baxter,MarketedProduct
+21174378,Glucose 50 MG/ML Injectable Solution Box of 70,ClinicalDrugBox
+21174379,Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 1,BrandedDrugBox
+21176865,50 ML Glucose 50 MG/ML Injectable Solution Box of 70,QuantClinicalBox
+21177486,250 ML Glucose 50 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+21177488,250 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1,QuantBrandedBox
+21177489,250 ML Glucose 50 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+35129535,20 ML Glucose 50 MG/ML Injectable Solution by Otsuka,MarketedProduct
+35132314,250 ML Glucose 50 MG/ML Injectable Solution by Nipro,MarketedProduct
+35132590,100 ML Glucose 50 MG/ML Injectable Solution by Nipropharma,MarketedProduct
+35133921,50 ML Glucose 50 MG/ML Injectable Solution by Otsuka,MarketedProduct
+35134306,20 ML Glucose 50 MG/ML Injectable Solution by Hikari,MarketedProduct
+35134597,250 ML Glucose 50 MG/ML Injectable Solution by Otsuka,MarketedProduct
+35137474,500 ML Glucose 50 MG/ML Injectable Solution by Hikari,MarketedProduct
+35139627,500 ML Glucose 50 MG/ML Injectable Solution by Yoshindo,MarketedProduct
+35141304,500 ML Glucose 50 MG/ML Injectable Solution by Fuso,MarketedProduct
+35142096,250 ML Glucose 50 MG/ML Injectable Solution by Mylan,MarketedProduct
+35143644,20 ML Glucose 50 MG/ML Injectable Solution by Daiichi Sankyo,MarketedProduct
+35144528,250 ML Glucose 50 MG/ML Injectable Solution by Fuso,MarketedProduct
+35144880,100 ML Glucose 50 MG/ML Injectable Solution by Terumo,MarketedProduct
+35145428,100 ML Glucose 50 MG/ML Injectable Solution by Otsuka,MarketedProduct
+35145873,500 ML Glucose 50 MG/ML Injectable Solution by Mylan,MarketedProduct
+35146142,100 ML Glucose 50 MG/ML Injectable Solution by Fuso,MarketedProduct
+35146152,200 ML Glucose 50 MG/ML Injectable Solution by Hikari,MarketedProduct
+35146344,250 ML Glucose 50 MG/ML Injectable Solution by Hikari,MarketedProduct
+35147825,500 ML Glucose 50 MG/ML Injectable Solution by Chemix Inc,MarketedProduct
+35147896,100 ML Glucose 50 MG/ML Injectable Solution by Hikari,MarketedProduct
+35148369,20 ML Glucose 50 MG/ML Injectable Solution by Nissin,MarketedProduct
+35148623,500 ML Glucose 50 MG/ML Injectable Solution by Nipro,MarketedProduct
+35148700,20 ML Glucose 50 MG/ML Injectable Solution by Mylan,MarketedProduct
+35149182,500 ML Glucose 50 MG/ML Injectable Solution by Janssen,MarketedProduct
+35150109,50 ML Glucose 50 MG/ML Injectable Solution by Hikari,MarketedProduct
+35150444,1000 ML Glucose 50 MG/ML Injectable Solution by Fuso,MarketedProduct
+35155466,200 ML Glucose 50 MG/ML Injectable Solution by Fuso,MarketedProduct
+35155474,500 ML Glucose 50 MG/ML Injectable Solution by Otsuka,MarketedProduct
+35156418,250 ML Glucose 50 MG/ML Injectable Solution by Terumo,MarketedProduct
+35158519,20 ML Glucose 50 MG/ML Injectable Solution by Fuso,MarketedProduct
+35159991,20 ML Glucose 50 MG/ML Injectable Solution by Janssen,MarketedProduct
+35160321,20 ML Glucose 50 MG/ML Injectable Solution by Chemix Inc,MarketedProduct
+35160624,300 ML Glucose 50 MG/ML Injectable Solution by Janssen,MarketedProduct
+35161677,500 ML Glucose 50 MG/ML Injectable Solution by Terumo,MarketedProduct
+35414262,50 ML Glucose 50 MG/ML Injectable Solution by MACO PHARMA,MarketedProduct
+35414311,50 ML Glucose 50 MG/ML Injectable Solution Box of 1 by MACO PHARMA,MarketedProduct
+35414915,100 ML Glucose 50 MG/ML Injectable Solution Box of 1 by MACO PHARMA,MarketedProduct
+35414999,100 ML Glucose 50 MG/ML Injectable Solution by MACO PHARMA,MarketedProduct
+35415500,250 ML Glucose 50 MG/ML Injectable Solution by MACO PHARMA,MarketedProduct
+35415520,250 ML Glucose 50 MG/ML Injectable Solution Box of 1 by MACO PHARMA,MarketedProduct
+35415735,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by MACO PHARMA,MarketedProduct
+35415738,500 ML Glucose 50 MG/ML Injectable Solution by MACO PHARMA,MarketedProduct
+35416297,1000 ML Glucose 50 MG/ML Injectable Solution Box of 1 by MACO PHARMA,MarketedProduct
+35416299,1000 ML Glucose 50 MG/ML Injectable Solution by MACO PHARMA,MarketedProduct
+35828609,20 ML glucose 50 MG/ML Injectable Solution by Alfresa,MarketedProduct
+36249701,500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+36249702,glucose 50 MG/ML / sodium chloride 9 MG/ML Injection,ClinicalDrug
+36249703,1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+36249704,250 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+36418616,10 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+36885814,Glucose 50 MG/ML Injectable Solution Box of 8,ClinicalDrugBox
+36892698,Glucose 50 MG/ML Injectable Solution Box of 40,ClinicalDrugBox
+36895962,50 ML Glucose 50 MG/ML Injectable Solution Box of 40,QuantClinicalBox
+36896306,100 ML Glucose 50 MG/ML Injectable Solution Box of 40,QuantClinicalBox
+36896700,250 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+36896767,250 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+36896979,500 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+36897207,1000 ML Glucose 50 MG/ML Injectable Solution Box of 8,QuantClinicalBox
+36920537,100 ML glucose 50 MG/ML Injectable Solution Box of 50 by Fresenius Kabi,MarketedProduct
+36921203,1000 ML glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius Kabi,MarketedProduct
+36928313,250 ML glucose 50 MG/ML Injectable Solution Box of 30 by Fresenius Kabi,MarketedProduct
+36931022,1000 ML glucose 50 MG/ML Injectable Solution Box of 1 by Fresenius Kabi,MarketedProduct
+36931158,500 ML glucose 50 MG/ML Injectable Solution by Fresenius Kabi,MarketedProduct
+36932646,1000 ML glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius Kabi,MarketedProduct
+36933679,500 ML glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius Kabi,MarketedProduct
+36937537,500 ML glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius Kabi,MarketedProduct
+36942313,50 ML glucose 50 MG/ML Injectable Solution [Steriflex] Box of 30 by Fresenius Kabi,MarketedProduct
+36943611,500 ML glucose 50 MG/ML Injectable Solution Box of 20 by Fresenius Kabi,MarketedProduct
+36945769,100 ML glucose 50 MG/ML Injectable Solution by Fresenius Kabi,MarketedProduct
+36948172,250 ML glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius Kabi,MarketedProduct
+36948914,100 ML glucose 50 MG/ML Injectable Solution Box of 1 by Fresenius Kabi,MarketedProduct
+36951396,500 ML glucose 50 MG/ML Injectable Solution Box of 12 by Fresenius Kabi,MarketedProduct
+36953838,100 ML glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius Kabi,MarketedProduct
+36953926,1000 ML glucose 50 MG/ML Injectable Solution Box of 10 by Fresenius Kabi,MarketedProduct
+36959291,50 ML glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius Kabi,MarketedProduct
+36960486,50 ML glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius Kabi,MarketedProduct
+36961010,250 ML glucose 50 MG/ML Injectable Solution Box of 1 by Fresenius Kabi,MarketedProduct
+36961617,500 ML glucose 50 MG/ML Injectable Solution Box of 1 by Fresenius Kabi,MarketedProduct
+36961995,250 ML glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius Kabi,MarketedProduct
+36963456,100 ML glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius Kabi,MarketedProduct
+36966038,1000 ML glucose 50 MG/ML Injectable Solution by Fresenius Kabi,MarketedProduct
+36966357,250 ML glucose 50 MG/ML Injectable Solution by Fresenius Kabi,MarketedProduct
+36966790,1000 ML glucose 50 MG/ML Injectable Solution Box of 6 by Fresenius Kabi,MarketedProduct
+37311881,Glucose 50 mg/mL and sodium chloride 9 mg/mL solution for injection,ClinicalDrug
+40707526,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by A A H,MarketedProduct
+40707527,1000 ML Glucose 50 MG/ML Injectable Solution by A A H,MarketedProduct
+40709908,250 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+40709909,250 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+40709910,250 ML Glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+40712031,100 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+40712032,100 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+40712033,100 ML Glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+40713220,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 30 by Fresenius,MarketedProduct
+40713221,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 30,QuantBrandedBox
+40713222,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+40713223,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+40713224,50 ML Glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+40727647,Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 30,BrandedDrugBox
+40845650,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 24,BrandedDrugBox
+40845651,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 5,BrandedDrugBox
+40867154,Glucose 50 MG/ML Injectable Solution Box of 25,ClinicalDrugBox
+40867155,Glucose 50 MG/ML Injectable Solution Box of 24,ClinicalDrugBox
+40876762,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 70,BrandedDrugBox
+40907766,Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 12,BrandedDrugBox
+40907767,Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 12,BrandedDrugBox
+40907768,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 1,BrandedDrugBox
+40907769,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 6,BrandedDrugBox
+40939079,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 30,BrandedDrugBox
+40939080,Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 20,BrandedDrugBox
+40970133,Glucose 50 MG/ML Injectable Solution [Clinimix] Box of 5,BrandedDrugBox
+40970134,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 25,BrandedDrugBox
+40970135,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 100,BrandedDrugBox
+41001439,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 20,BrandedDrugBox
+41032547,Glucose 50 MG/ML Injectable Solution [Viaflex] Box of 20,BrandedDrugBox
+41032548,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 18,BrandedDrugBox
+41032549,Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 10,BrandedDrugBox
+41032550,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 12,BrandedDrugBox
+41063689,Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 16,BrandedDrugBox
+41063690,Glucose 50 MG/ML Injectable Solution [Easyperf] Box of 16,BrandedDrugBox
+41095262,Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 30,BrandedDrugBox
+41095263,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10,BrandedDrugBox
+41126486,Glucose 50 MG/ML Injectable Solution [Viaflex] Box of 30,BrandedDrugBox
+41126487,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 12,BrandedDrugBox
+41157964,Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 30,BrandedDrugBox
+41157965,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 60,BrandedDrugBox
+41189089,Glucose 50 MG/ML Injectable Solution [Glucose Demo] Box of 10,BrandedDrugBox
+41220289,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 1,BrandedDrugBox
+41251296,Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 18,BrandedDrugBox
+41251297,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 100,BrandedDrugBox
+41303854,Glucose 50 MG/ML Injectable Solution Box of 16,ClinicalDrugBox
+41313469,Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 10,BrandedDrugBox
+41313470,Glucose 50 MG/ML Injectable Solution [Easyperf] Box of 12,BrandedDrugBox
+41313471,Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 20,BrandedDrugBox
+41364703,10 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 100,QuantBrandedBox
+41366459,10 ML Glucose 50 MG/ML Injectable Solution Box of 5 by Eifelfango,MarketedProduct
+41366976,10 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 100,QuantBrandedBox
+41370447,10 ML Glucose 50 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+41370997,10 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Eifelfango,MarketedProduct
+41371178,10 ML Glucose 50 MG/ML Injectable Solution Box of 100,QuantClinicalBox
+41371508,10 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 20,QuantBrandedBox
+41372695,10 ML Glucose 50 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+41380066,20 ML Glucose 50 MG/ML Injectable Solution Box of 100,QuantClinicalBox
+41381078,20 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 100,QuantBrandedBox
+41394555,50 ML Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 30,QuantBrandedBox
+41395861,50 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 70,QuantBrandedBox
+41396213,50 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+41397143,50 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 60,QuantBrandedBox
+41416054,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 24,QuantBrandedBox
+41419510,100 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 20,QuantBrandedBox
+41420017,100 ML Glucose 50 MG/ML Injectable Solution Box of 24,QuantClinicalBox
+41420688,100 ML Glucose 50 MG/ML Injectable Solution Box of 20 by Diprom,MarketedProduct
+41420891,100 ML Glucose 50 MG/ML Injectable Solution Box of 25,QuantClinicalBox
+41422600,100 ML Glucose 50 MG/ML Injectable Solution Box of 30,QuantClinicalBox
+41422978,100 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 25,QuantBrandedBox
+41424636,100 ML Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 30,QuantBrandedBox
+41424637,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 1,QuantBrandedBox
+41424638,100 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10,QuantBrandedBox
+41425497,100 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 60,QuantBrandedBox
+41425498,100 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 5,QuantBrandedBox
+41426322,100 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 1,QuantBrandedBox
+41426323,100 ML Glucose 50 MG/ML Injectable Solution [Glucose Demo] Box of 10,QuantBrandedBox
+41436115,250 ML Glucose 50 MG/ML Injectable Solution Box of 16,QuantClinicalBox
+41436116,250 ML Glucose 50 MG/ML Injectable Solution Box of 12,QuantClinicalBox
+41436263,250 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Diprom,MarketedProduct
+41436371,250 ML Glucose 50 MG/ML Injectable Solution [Glucose Demo] Box of 10,QuantBrandedBox
+41436544,250 ML Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 16,QuantBrandedBox
+41436928,250 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 30,QuantBrandedBox
+41436929,250 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 12,QuantBrandedBox
+41436930,250 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 1,QuantBrandedBox
+41437455,250 ML Glucose 50 MG/ML Injectable Solution [Viaflex] Box of 30,QuantBrandedBox
+41437652,250 ML Glucose 50 MG/ML Injectable Solution [Easyperf] Box of 16,QuantBrandedBox
+41437653,250 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 5,QuantBrandedBox
+41437841,250 ML Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 30,QuantBrandedBox
+41438188,250 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 20,QuantBrandedBox
+41438541,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 1,QuantBrandedBox
+41438542,250 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10,QuantBrandedBox
+41438609,250 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10 by Deltamedica,MarketedProduct
+41440681,500 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 1,QuantBrandedBox
+41441149,500 ML Glucose 50 MG/ML Injectable Solution [Macoperf] Box of 12,QuantBrandedBox
+41441150,500 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 5,QuantBrandedBox
+41441406,500 ML Glucose 50 MG/ML Injectable Solution [Viaflex] Box of 20,QuantBrandedBox
+41441675,500 ML Glucose 50 MG/ML Injectable Solution [Easyperf] Box of 12,QuantBrandedBox
+41441676,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 1,QuantBrandedBox
+41441677,500 ML Glucose 50 MG/ML Injectable Solution [Glucose Demo] Box of 10,QuantBrandedBox
+41441748,500 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10 by Deltamedica,MarketedProduct
+41441970,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Pfizer,MarketedProduct
+41442144,500 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 20,QuantBrandedBox
+41442145,500 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10,QuantBrandedBox
+41442385,500 ML Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 20,QuantBrandedBox
+41442697,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+41442923,500 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Bernburg,MarketedProduct
+41443312,500 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 20,QuantBrandedBox
+41443536,500 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 12,QuantBrandedBox
+41443602,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Diprom,MarketedProduct
+41443777,500 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 18,QuantBrandedBox
+41443778,500 ML Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 18,QuantBrandedBox
+41443854,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Baxter,MarketedProduct
+41444317,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Pfizer,MarketedProduct
+41447686,1000 ML Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 10,QuantBrandedBox
+41447839,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 1,QuantBrandedBox
+41447890,1000 ML Glucose 50 MG/ML Injectable Solution [Clinimix] Box of 5 by Baxter,MarketedProduct
+41448162,1000 ML Glucose 50 MG/ML Injectable Solution [Easyflex N] Box of 12,QuantBrandedBox
+41448300,1000 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 1,QuantBrandedBox
+41448583,1000 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 10,QuantBrandedBox
+41448729,1000 ML Glucose 50 MG/ML Injectable Solution [Glucose Demo] Box of 10,QuantBrandedBox
+41448867,1000 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 12,QuantBrandedBox
+41449070,1000 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 1 by Deltamedica,MarketedProduct
+41449182,1000 ML Glucose 50 MG/ML Injectable Solution [Clinimix] Box of 5,QuantBrandedBox
+41449243,1000 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 6 by Deltamedica,MarketedProduct
+41449261,1000 ML Glucose 50 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+41449338,1000 ML Glucose 50 MG/ML Injectable Solution [Glucoselsg] Box of 6,QuantBrandedBox
+41449680,1000 ML Glucose 50 MG/ML Injectable Solution [Macoflex] Box of 10,QuantBrandedBox
+41451614,1500 ML Glucose 50 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+41451644,1500 ML Glucose 50 MG/ML Injectable Solution [Clinimix] Box of 5,QuantBrandedBox
+41451657,1500 ML Glucose 50 MG/ML Injectable Solution [Clinimix] Box of 5 by Baxter,MarketedProduct
+4227546,Sodium chloride 0.9%/glucose 5% infusion solution 500 mL bag,PharmabiolProduct
+4228095,Sodium chloride 0.9%/glucose 5% infusion solution bag,PharmabiolProduct
+4235848,Sodium chloride 0.9%/glucose 5% infusion solution 1 L bag,PharmabiolProduct
+4235849,Sodium chloride 0.9%/glucose 5% infusion solution 500 mL polyethylene bottle,PharmabiolProduct
+42478682,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1,QuantBrandedBox
+42478683,1000 ML Glucose 50 MG/ML Injectable Solution [Plasma-lyte] Box of 1,QuantBrandedBox
+42478694,1000 ML Glucose 50 MG/ML Injectable Solution [Intraven] by Terumo BCT,MarketedProduct
+42478702,1000 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 6,QuantBrandedBox
+42478814,Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 6,BrandedDrugBox
+42478838,1000 ML Glucose 50 MG/ML Injectable Solution [Plasma-lyte] Box of 1 by Baxter,MarketedProduct
+42478871,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+42478897,1000 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 1,QuantBrandedBox
+42479267,1000 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Maco,MarketedProduct
+42479411,Glucose 50 MG/ML Injectable Solution [Plasma-lyte] Box of 10,BrandedDrugBox
+42479414,1000 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] by Fresenius,MarketedProduct
+42479470,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Baxter,MarketedProduct
+42479996,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex] by Fresenius,MarketedProduct
+42480047,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 15 by Fresenius,MarketedProduct
+42480048,1000 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 1 by Fresenius,MarketedProduct
+42480447,1000 ML Glucose 50 MG/ML Injectable Solution by Baxter,MarketedProduct
+42480512,1000 ML Glucose 50 MG/ML Injectable Solution Box of 15,QuantClinicalBox
+42480604,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] by Fresenius,MarketedProduct
+42480608,Glucose 50 MG/ML Injectable Solution Box of 10,ClinicalDrugBox
+42480615,1000 ML Glucose 50 MG/ML Injectable Solution Box of 1,QuantClinicalBox
+42481016,1000 ML Glucose 50 MG/ML Injectable Solution [Polyfusor D] Box of 6 by Fresenius,MarketedProduct
+42481091,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1,QuantBrandedBox
+42481171,1000 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1,QuantBrandedBox
+42481181,Glucose 50 MG/ML Injectable Solution [Plasma-lyte] Box of 1,BrandedDrugBox
+42481182,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 15,QuantBrandedBox
+42481635,1000 ML Glucose 50 MG/ML Injectable Solution Box of 1 by Baxter,MarketedProduct
+42481674,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex] Box of 1 by Fresenius,MarketedProduct
+42481717,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Maco,MarketedProduct
+42481723,Glucose 50 MG/ML Injectable Solution Box of 6,ClinicalDrugBox
+42482316,1000 ML Glucose 50 MG/ML Injectable Solution [Plasma-lyte] Box of 10,QuantBrandedBox
+42482334,1000 ML Glucose 50 MG/ML Injectable Solution [Plasma-lyte] Box of 10 by Baxter,MarketedProduct
+42482344,1000 ML Glucose 50 MG/ML Injectable Solution [Steriflex .6] Box of 1 by Fresenius,MarketedProduct
+42482445,1000 ML Glucose 50 MG/ML Injectable Solution Box of 12,QuantClinicalBox
+42482450,1000 ML Glucose 50 MG/ML Injectable Solution Box of 12 by Maco,MarketedProduct
+42482824,1000 ML Glucose 50 MG/ML Injectable Solution by Maco,MarketedProduct
+42482879,1000 ML Glucose 50 MG/ML Injectable Solution [Plasma-lyte] by Baxter,MarketedProduct
+42482896,1000 ML Glucose 50 MG/ML Injectable Solution [Intraven] Box of 1 by Terumo BCT,MarketedProduct
+42482909,1000 ML Glucose 50 MG/ML Injectable Solution Box of 6,QuantClinicalBox
+43041490,10 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Chaix Et Du Marais,MarketedProduct
+43041491,10 ML Glucose 50 MG/ML Injectable Solution Box of 50 by Aguettant,MarketedProduct
+43041492,10 ML Glucose 50 MG/ML Injectable Solution Box of 100 by Renaudin,MarketedProduct
+43041493,10 ML Glucose 50 MG/ML Injectable Solution Box of 100 by Chaix Et Du Marais,MarketedProduct
+43042148,20 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+43042149,20 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Chaix Et Du Marais,MarketedProduct
+43042150,20 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+43042151,20 ML Glucose 50 MG/ML Injectable Solution Box of 20 by Aguettant,MarketedProduct
+43042152,20 ML Glucose 50 MG/ML Injectable Solution Box of 50,QuantClinicalBox
+43042153,20 ML Glucose 50 MG/ML Injectable Solution Box of 50 by Renaudin,MarketedProduct
+43042779,50 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43042780,50 ML Glucose 50 MG/ML Injectable Solution by Chaix Et Du Marais,MarketedProduct
+43042781,50 ML Glucose 50 MG/ML Injectable Solution by Bioluz,MarketedProduct
+43042782,50 ML Glucose 50 MG/ML Injectable Solution Box of 40 by Fresenius,MarketedProduct
+43043210,100 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43043211,100 ML Glucose 50 MG/ML Injectable Solution by Chaix Et Du Marais,MarketedProduct
+43043212,100 ML Glucose 50 MG/ML Injectable Solution by Bioluz,MarketedProduct
+43043213,100 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Chaix Et Du Marais,MarketedProduct
+43043214,100 ML Glucose 50 MG/ML Injectable Solution Box of 40 by Fresenius,MarketedProduct
+43043216,100 ML Glucose 50 MG/ML Injectable Solution Box of 50 by Chaix Et Du Marais,MarketedProduct
+43043474,125 ML Glucose 50 MG/ML Injectable Solution by Chaix Et Du Marais,MarketedProduct
+43043955,250 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43043956,250 ML Glucose 50 MG/ML Injectable Solution by Cooper,MarketedProduct
+43043957,250 ML Glucose 50 MG/ML Injectable Solution by Chaix Et Du Marais,MarketedProduct
+43043958,250 ML Glucose 50 MG/ML Injectable Solution by Bioluz,MarketedProduct
+43043959,250 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Chaix Et Du Marais,MarketedProduct
+43043960,250 ML Glucose 50 MG/ML Injectable Solution Box of 12 by Chaix Et Du Marais,MarketedProduct
+43043961,250 ML Glucose 50 MG/ML Injectable Solution Box of 20 by B.Braun,MarketedProduct
+43043962,250 ML Glucose 50 MG/ML Injectable Solution Box of 20 by Fresenius,MarketedProduct
+43044230,500 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43044231,500 ML Glucose 50 MG/ML Injectable Solution by Cooper,MarketedProduct
+43044232,500 ML Glucose 50 MG/ML Injectable Solution by Chaix Et Du Marais,MarketedProduct
+43044233,500 ML Glucose 50 MG/ML Injectable Solution by Bioluz,MarketedProduct
+43044234,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Fresenius,MarketedProduct
+43044235,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Chaix Et Du Marais,MarketedProduct
+43044236,500 ML Glucose 50 MG/ML Injectable Solution Box of 12 by Chaix Et Du Marais,MarketedProduct
+43044237,500 ML Glucose 50 MG/ML Injectable Solution Box of 15 by Fresenius,MarketedProduct
+43044238,500 ML Glucose 50 MG/ML Injectable Solution Box of 20 by B.Braun,MarketedProduct
+43044494,1000 ML Glucose 50 MG/ML Injectable Solution by Cooper,MarketedProduct
+43044495,1000 ML Glucose 50 MG/ML Injectable Solution by Chaix Et Du Marais,MarketedProduct
+43044496,1000 ML Glucose 50 MG/ML Injectable Solution by Bioluz,MarketedProduct
+43044497,1000 ML Glucose 50 MG/ML Injectable Solution Box of 8 by Fresenius,MarketedProduct
+43044498,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Fresenius,MarketedProduct
+43044499,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Chaix Et Du Marais,MarketedProduct
+43297820,500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injection by Braun,MarketedProduct
+43581254,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 30,BrandedDrugBox
+43581256,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 35,BrandedDrugBox
+43581257,Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] Box of 10,BrandedDrugBox
+43581261,Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 20,BrandedDrugBox
+43590165,1000 ML Glucose 50 MG/ML Injectable Solution [G 5] by Zentral-Apotheke,MarketedProduct
+43595327,100 ML Glucose 50 MG/ML Injectable Solution Box of 10 by B.Braun,MarketedProduct
+43595328,100 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] by B.Braun,MarketedProduct
+43595329,100 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10,QuantBrandedBox
+43595330,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 55 by Fresenius,MarketedProduct
+43595331,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 60,QuantBrandedBox
+43595332,100 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+43595664,100 ML Glucose 50 MG/ML Injectable Solution Box of 20 by AlleMan,MarketedProduct
+43596322,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10,QuantBrandedBox
+43596324,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 10,QuantBrandedBox
+43596325,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20,QuantBrandedBox
+43596326,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 35,QuantBrandedBox
+43596876,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] by AlleMan,MarketedProduct
+43596877,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 10 by Fresenius,MarketedProduct
+43596878,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10,QuantBrandedBox
+43596879,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10,QuantBrandedBox
+43596880,500 ML Glucose 50 MG/ML Injectable Solution [Normofundin] by B.Braun,MarketedProduct
+43596882,500 ML Glucose 50 MG/ML Injectable Solution by Bernburg,MarketedProduct
+43596883,500 ML Glucose 50 MG/ML Injectable Solution [AMINOVEN] Box of 10 by Fresenius,MarketedProduct
+43596884,"500 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] by B.Braun",MarketedProduct
+43596886,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] by Baxter,MarketedProduct
+43597841,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 10 by Fresenius,MarketedProduct
+43597843,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] by Baxter,MarketedProduct
+43597844,1000 ML Glucose 50 MG/ML Injectable Solution [Normofundin] Box of 10,QuantBrandedBox
+43597845,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 6,QuantBrandedBox
+43598247,1000 ML Glucose 50 MG/ML Injectable Solution by Loewen-Apotheke,MarketedProduct
+43598248,1000 ML Glucose 50 MG/ML Injectable Solution by Meditrade Medicare Medizinprodukte,MarketedProduct
+43598537,2000 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43599254,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 20,BrandedDrugBox
+43599255,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 15,BrandedDrugBox
+43599256,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40,BrandedDrugBox
+43599257,Glucose 50 MG/ML Injectable Solution [Paediafusin Op] Box of 10,BrandedDrugBox
+43599258,Glucose 50 MG/ML Injectable Solution [Elektrolyt] Box of 6,BrandedDrugBox
+43599259,Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10,BrandedDrugBox
+43599260,"Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] Box of 10",BrandedDrugBox
+43608152,1000 ML Glucose 50 MG/ML Injectable Solution [Easyflex N] by Maco,MarketedProduct
+43611435,50 ML Glucose 50 MG/ML Injectable Solution Box of 60,QuantClinicalBox
+43613262,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] by Fresenius,MarketedProduct
+43614260,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10,QuantBrandedBox
+43614261,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20 by B.Braun,MarketedProduct
+43614814,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10 by B.Braun,MarketedProduct
+43614815,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 10,QuantBrandedBox
+43614816,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] by AlleMan,MarketedProduct
+43614817,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10,QuantBrandedBox
+43614818,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 20,QuantBrandedBox
+43615274,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by AlleMan,MarketedProduct
+43615814,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10,QuantBrandedBox
+43615816,1000 ML Glucose 50 MG/ML Injectable Solution [Salviamin] Box of 4,QuantBrandedBox
+43615817,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 6 by AlleMan,MarketedProduct
+43615818,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10,QuantBrandedBox
+43615819,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] Box of 10,QuantBrandedBox
+43615820,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] by Fresenius,MarketedProduct
+43615821,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10 by Fresenius,MarketedProduct
+43616161,1000 ML Glucose 50 MG/ML Injectable Solution by Mocho-Apotheke Thomas Pforr,MarketedProduct
+43616272,1250 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43616661,5000 ML Glucose 50 MG/ML Injectable Solution Box of 2,QuantClinicalBox
+43617244,Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] Box of 10,BrandedDrugBox
+43617245,Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 10,BrandedDrugBox
+43617246,Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 20,BrandedDrugBox
+43617247,Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10,BrandedDrugBox
+43617248,Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] Box of 10,BrandedDrugBox
+43617249,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 8,BrandedDrugBox
+43617250,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 10,BrandedDrugBox
+43617251,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10,BrandedDrugBox
+43617252,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 50,BrandedDrugBox
+43617253,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 60,BrandedDrugBox
+43617255,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10,BrandedDrugBox
+43617256,Glucose 50 MG/ML Injectable Solution [AMINOVEN] Box of 6,BrandedDrugBox
+43617258,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20,BrandedDrugBox
+43626143,1000 ML Glucose 50 MG/ML Injectable Solution by Clintec,MarketedProduct
+43626144,1000 ML Glucose 50 MG/ML Injectable Solution [Easyperf] by Maco,MarketedProduct
+43627903,10 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10,QuantBrandedBox
+43631395,100 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 20,QuantBrandedBox
+43631709,100 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Demo,MarketedProduct
+43632408,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10 by B.Braun,MarketedProduct
+43632409,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 30,QuantBrandedBox
+43632411,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] by Baxter,MarketedProduct
+43632994,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20,QuantBrandedBox
+43632995,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 15,QuantBrandedBox
+43632996,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 20,QuantBrandedBox
+43632997,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 20 by Baxter,MarketedProduct
+43632998,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] Box of 10,QuantBrandedBox
+43633000,500 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 10,QuantBrandedBox
+43633001,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 15,QuantBrandedBox
+43633002,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10 by Fresenius,MarketedProduct
+43633003,"500 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] Box of 10 by B.Braun",MarketedProduct
+43633004,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 10 by Baxter,MarketedProduct
+43633655,750 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43634001,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] Box of 10,QuantBrandedBox
+43634002,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 6 by B.Braun,MarketedProduct
+43634003,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 8,QuantBrandedBox
+43634004,1000 ML Glucose 50 MG/ML Injectable Solution [Elektrolyt] by Bernburg,MarketedProduct
+43634005,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10 by B.Braun,MarketedProduct
+43634696,2500 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43634735,3000 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43634736,3000 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43634868,6000 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43634869,6000 ML Glucose 50 MG/ML Injectable Solution Box of 2 by Fresenius,MarketedProduct
+43635409,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 40,BrandedDrugBox
+43635410,Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10,BrandedDrugBox
+43635411,Glucose 50 MG/ML Injectable Solution [Elektrolyt] Box of 10,BrandedDrugBox
+43635419,Glucose 50 MG/ML Injectable Solution Box of 2,ClinicalDrugBox
+43644362,1000 ML Glucose 50 MG/ML Injectable Solution by Eifelfango,MarketedProduct
+43646258,10 ML Glucose 50 MG/ML Injectable Solution by AlleMan,MarketedProduct
+43647651,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] by Fresenius,MarketedProduct
+43649508,100 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 50,QuantBrandedBox
+43650504,250 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] by Baxter,MarketedProduct
+43650505,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 30 by Fresenius,MarketedProduct
+43650506,"250 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10",QuantBrandedBox
+43651074,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] by B.Braun,MarketedProduct
+43651075,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 10 by Fresenius,MarketedProduct
+43651076,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 15 by Fresenius,MarketedProduct
+43651078,500 ML Glucose 50 MG/ML Injectable Solution [Elektrolyt] Box of 10,QuantBrandedBox
+43651079,500 ML Glucose 50 MG/ML Injectable Solution [AMINOVEN] Box of 10,QuantBrandedBox
+43651080,"500 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10 by B.Braun",MarketedProduct
+43652070,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] by AlleMan,MarketedProduct
+43652071,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 6 by B.Braun,MarketedProduct
+43652445,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Demo,MarketedProduct
+43652642,1500 ML Glucose 50 MG/ML Injectable Solution Box of 6,QuantClinicalBox
+43652772,2500 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43653486,Glucose 50 MG/ML Injectable Solution Box of 55,ClinicalDrugBox
+43653487,Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 6,BrandedDrugBox
+43662438,1000 ML Glucose 50 MG/ML Injectable Solution by Phi Hameln Infusionen,MarketedProduct
+43664193,10 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10 by Fresenius,MarketedProduct
+43665767,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 60,QuantBrandedBox
+43665768,50 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 50 by Baxter,MarketedProduct
+43667569,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40 by Fresenius,MarketedProduct
+43668565,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10 by B.Braun,MarketedProduct
+43668566,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 20 by Fresenius,MarketedProduct
+43668567,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 30,QuantBrandedBox
+43668568,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10,QuantBrandedBox
+43669094,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 20,QuantBrandedBox
+43669095,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20,QuantBrandedBox
+43669097,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] Box of 20,QuantBrandedBox
+43670066,1000 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43670067,1000 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+43670068,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] by Fresenius,MarketedProduct
+43670069,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 8 by Fresenius,MarketedProduct
+43670070,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10 by Baxter,MarketedProduct
+43670072,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] Box of 10 by AlleMan,MarketedProduct
+43670073,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] by Fresenius,MarketedProduct
+43670075,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10,QuantBrandedBox
+43670076,"1000 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] by B.Braun",MarketedProduct
+43670484,1000 ML Glucose 50 MG/ML Injectable Solution by Krankenhaus Eppendorf Der Universitaet Hamburg - Apotheke,MarketedProduct
+43670485,1000 ML Glucose 50 MG/ML Injectable Solution by mv-Pharma,MarketedProduct
+43670486,1000 ML Glucose 50 MG/ML Injectable Solution by Staedtisches Krankenhaus Stade - Apotheke - Peter,MarketedProduct
+43670487,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by AlleMan,MarketedProduct
+43670691,1500 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43671562,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 10,BrandedDrugBox
+43679962,1000 ML Glucose 50 MG/ML Injectable Solution by Berlin-Chemie,MarketedProduct
+43680374,1000 ML Glucose 50 MG/ML Injectable Solution by Bieffe Medital,MarketedProduct
+43683624,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 65,QuantBrandedBox
+43683625,50 ML Glucose 50 MG/ML Injectable Solution Box of 20 by B.Braun,MarketedProduct
+43685493,100 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10 by B.Braun,MarketedProduct
+43685494,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5 by Fresenius,MarketedProduct
+43685495,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 60 by Fresenius,MarketedProduct
+43685497,100 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] by Baxter,MarketedProduct
+43686489,250 ML Glucose 50 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+43686491,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 35,QuantBrandedBox
+43686492,250 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10 by Baxter,MarketedProduct
+43686493,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10 by Fresenius,MarketedProduct
+43686494,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Op] by Baxter,MarketedProduct
+43686495,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] Box of 10 by Baxter,MarketedProduct
+43686985,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] by Fresenius,MarketedProduct
+43686986,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] by Baxter,MarketedProduct
+43686987,500 ML Glucose 50 MG/ML Injectable Solution [Normofundin] Box of 10,QuantBrandedBox
+43686988,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 10 by Baxter,MarketedProduct
+43686989,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 15,QuantBrandedBox
+43686990,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 15 by Fresenius,MarketedProduct
+43686991,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10,QuantBrandedBox
+43686992,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 20,QuantBrandedBox
+43686993,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Bernburg,MarketedProduct
+43686994,"500 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] Box of 10",QuantBrandedBox
+43687942,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20 by B.Braun,MarketedProduct
+43687943,1000 ML Glucose 50 MG/ML Injectable Solution [Normofundin] by B.Braun,MarketedProduct
+43687945,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 6 by Baxter,MarketedProduct
+43687947,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] by AlleMan,MarketedProduct
+43687948,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 6,QuantBrandedBox
+43687949,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 8,QuantBrandedBox
+43687950,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] Box of 10 by Baxter,MarketedProduct
+43688327,1000 ML Glucose 50 MG/ML Injectable Solution by Dr Die Neue Apotheke,MarketedProduct
+43688328,1000 ML Glucose 50 MG/ML Injectable Solution by Delpharm Tours,MarketedProduct
+43688330,1000 ML Glucose 50 MG/ML Injectable Solution by Klinikum Coburg Ggmbh Krankenhausapotheke,MarketedProduct
+43688331,1000 ML Glucose 50 MG/ML Injectable Solution by Klemenz,MarketedProduct
+43688429,1250 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43688688,2500 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43689447,Glucose 50 MG/ML Injectable Solution Box of 65,ClinicalDrugBox
+43689448,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 8,BrandedDrugBox
+43689449,Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 6,BrandedDrugBox
+43689450,Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] Box of 10,BrandedDrugBox
+43689452,Glucose 50 MG/ML Injectable Solution [AMINOVEN] Box of 10,BrandedDrugBox
+43689453,Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 20,BrandedDrugBox
+43701647,50 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+43701650,50 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] by Baxter,MarketedProduct
+43703412,100 ML Glucose 50 MG/ML Injectable Solution Box of 55,QuantClinicalBox
+43704406,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 10 by Fresenius,MarketedProduct
+43704407,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40,QuantBrandedBox
+43704408,250 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 30,QuantBrandedBox
+43704939,500 ML Glucose 50 MG/ML Injectable Solution by Berlin-Chemie,MarketedProduct
+43704940,500 ML Glucose 50 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+43704941,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by B.Braun,MarketedProduct
+43704944,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 10,QuantBrandedBox
+43704945,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 10 by AlleMan,MarketedProduct
+43704946,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] by Baxter,MarketedProduct
+43704947,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 10,QuantBrandedBox
+43704948,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 20,QuantBrandedBox
+43704949,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 20 by Fresenius,MarketedProduct
+43704950,500 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] by Fresenius,MarketedProduct
+43704951,500 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 20 by Fresenius,MarketedProduct
+43704953,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5 by Fresenius,MarketedProduct
+43704954,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10 by Fresenius,MarketedProduct
+43704956,500 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 20 by Baxter,MarketedProduct
+43705873,1000 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43705874,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 8,QuantBrandedBox
+43705875,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 6,QuantBrandedBox
+43705876,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 10,QuantBrandedBox
+43705877,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] by B.Braun,MarketedProduct
+43705878,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10,QuantBrandedBox
+43705879,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10,QuantBrandedBox
+43706262,1000 ML Glucose 50 MG/ML Injectable Solution by Demo,MarketedProduct
+43706263,1000 ML Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+43706456,1500 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43706628,3000 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43707251,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 6,BrandedDrugBox
+43707252,Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 6,BrandedDrugBox
+43719344,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 60 by Fresenius,MarketedProduct
+43721192,100 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10 by B.Braun,MarketedProduct
+43721193,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10,QuantBrandedBox
+43721194,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 50,QuantBrandedBox
+43722196,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] by B.Braun,MarketedProduct
+43722198,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] by Fresenius,MarketedProduct
+43722199,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 30,QuantBrandedBox
+43722200,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] by Fresenius,MarketedProduct
+43722202,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] by Baxter,MarketedProduct
+43722492,250 ML Glucose 50 MG/ML Injectable Solution Box of 10 by AlleMan,MarketedProduct
+43722778,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 15 by Fresenius,MarketedProduct
+43722779,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] by AlleMan,MarketedProduct
+43722780,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10 by Baxter,MarketedProduct
+43722782,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] by Baxter,MarketedProduct
+43722783,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Op] Box of 10 by Baxter,MarketedProduct
+43722787,500 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] by Baxter,MarketedProduct
+43723407,750 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43723750,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] Box of 10 by AlleMan,MarketedProduct
+43723751,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 6 by AlleMan,MarketedProduct
+43723752,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 6 by Baxter,MarketedProduct
+43723753,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 10 by Fresenius,MarketedProduct
+43723754,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 6 by Fresenius,MarketedProduct
+43723755,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10 by Fresenius,MarketedProduct
+43723756,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] by Fresenius,MarketedProduct
+43723757,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10,QuantBrandedBox
+43723758,1000 ML Glucose 50 MG/ML Injectable Solution [AMINOVEN] Box of 6 by Fresenius,MarketedProduct
+43724153,1000 ML Glucose 50 MG/ML Injectable Solution by Allgemeines Krankenhaus Altona - Apotheke - Horst Wrede,MarketedProduct
+43724154,1000 ML Glucose 50 MG/ML Injectable Solution by Duomed,MarketedProduct
+43724155,1000 ML Glucose 50 MG/ML Injectable Solution by Ronhof-Apotheke,MarketedProduct
+43725216,Glucose 50 MG/ML Injectable Solution Box of 4,ClinicalDrugBox
+43725221,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 35,BrandedDrugBox
+43725222,Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] Box of 20,BrandedDrugBox
+43725223,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 8,BrandedDrugBox
+43725224,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 55,BrandedDrugBox
+43725226,Glucose 50 MG/ML Injectable Solution [Elektrolyt],BrandedDrug
+43725227,Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 6,BrandedDrugBox
+43725228,"Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45]",BrandedDrug
+43733772,1 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] by Baxter,MarketedProduct
+43735938,10 ML Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+43736175,10 ML Glucose 50 MG/ML Injectable Solution Box of 20 by AlleMan,MarketedProduct
+43739312,100 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10,QuantBrandedBox
+43740335,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20,QuantBrandedBox
+43740336,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20 by B.Braun,MarketedProduct
+43740337,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10,QuantBrandedBox
+43740338,"250 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10 by B.Braun",MarketedProduct
+43740892,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 20 by Fresenius,MarketedProduct
+43740893,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] by AlleMan,MarketedProduct
+43740894,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10 by AlleMan,MarketedProduct
+43740895,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] Box of 10 by AlleMan,MarketedProduct
+43740896,500 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 10 by Fresenius,MarketedProduct
+43740897,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] by Fresenius,MarketedProduct
+43740898,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 20 by Fresenius,MarketedProduct
+43740900,500 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 20,QuantBrandedBox
+43741885,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20,QuantBrandedBox
+43741887,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10,QuantBrandedBox
+43741888,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 10,QuantBrandedBox
+43741890,1000 ML Glucose 50 MG/ML Injectable Solution [Elektrolyt] Box of 6,QuantBrandedBox
+43741891,"1000 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10 by B.Braun",MarketedProduct
+43742300,1000 ML Glucose 50 MG/ML Injectable Solution by Staedtisches Klinikum - Apotheke,MarketedProduct
+43742301,1000 ML Glucose 50 MG/ML Injectable Solution by AlleMan,MarketedProduct
+43742302,1000 ML Glucose 50 MG/ML Injectable Solution by Serag-Wiessner,MarketedProduct
+43742303,1000 ML Glucose 50 MG/ML Injectable Solution Box of 6 by AlleMan,MarketedProduct
+43742304,1000 ML Glucose 50 MG/ML Injectable Solution [Dextrose Roth] by Roth,MarketedProduct
+43742505,1500 ML Glucose 50 MG/ML Injectable Solution Box of 6 by Fresenius,MarketedProduct
+43743329,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 15,BrandedDrugBox
+43743334,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 6,BrandedDrugBox
+43743335,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 15,BrandedDrugBox
+43755430,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40,QuantBrandedBox
+43757245,100 ML Glucose 50 MG/ML Injectable Solution Box of 5,QuantClinicalBox
+43758224,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 20,QuantBrandedBox
+43758225,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] by B.Braun,MarketedProduct
+43758226,"250 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] by B.Braun",MarketedProduct
+43758782,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] Box of 10,QuantBrandedBox
+43758783,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 20 by Baxter,MarketedProduct
+43758785,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] Box of 20 by Baxter,MarketedProduct
+43758787,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 20 by Fresenius,MarketedProduct
+43759182,500 ML Glucose 50 MG/ML Injectable Solution by AlleMan,MarketedProduct
+43759705,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10 by B.Braun,MarketedProduct
+43759706,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 6 by Fresenius,MarketedProduct
+43759707,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 6,QuantBrandedBox
+43759709,1000 ML Glucose 50 MG/ML Injectable Solution [AMINOVEN] by Fresenius,MarketedProduct
+43759711,"1000 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10",QuantBrandedBox
+43759712,"1000 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] Box of 10",QuantBrandedBox
+43760112,1000 ML Glucose 50 MG/ML Injectable Solution by Antonius-Apotheke,MarketedProduct
+43760113,1000 ML Glucose 50 MG/ML Injectable Solution by Oberlaender-Apoheke,MarketedProduct
+43760572,5000 ML Glucose 50 MG/ML Injectable Solution Box of 2 by Fresenius,MarketedProduct
+43760627,6000 ML Glucose 50 MG/ML Injectable Solution Box of 2,QuantClinicalBox
+43761185,Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 10,BrandedDrugBox
+43761186,Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10,BrandedDrugBox
+43761187,Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 6,BrandedDrugBox
+43761188,Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 20,BrandedDrugBox
+43770101,1000 ML Glucose 50 MG/ML Injectable Solution by Bernburg,MarketedProduct
+43775219,100 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] by B.Braun,MarketedProduct
+43775220,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 50 by Fresenius,MarketedProduct
+43775221,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20,QuantBrandedBox
+43776224,250 ML Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+43776225,250 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10 by AlleMan,MarketedProduct
+43776226,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Op] Box of 10,QuantBrandedBox
+43776527,250 ML Glucose 50 MG/ML Injectable Solution by Demo,MarketedProduct
+43776821,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20 by B.Braun,MarketedProduct
+43776823,500 ML Glucose 50 MG/ML Injectable Solution [Normofundin] Box of 10 by B.Braun,MarketedProduct
+43776824,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10,QuantBrandedBox
+43776825,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 10,QuantBrandedBox
+43776826,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 10,QuantBrandedBox
+43776828,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10,QuantBrandedBox
+43777812,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 6,QuantBrandedBox
+43777813,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 10 by AlleMan,MarketedProduct
+43777814,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20,QuantBrandedBox
+43777815,1000 ML Glucose 50 MG/ML Injectable Solution [Normofundin] Box of 10 by B.Braun,MarketedProduct
+43777816,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] by Baxter,MarketedProduct
+43777818,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] by Fresenius,MarketedProduct
+43778188,1000 ML Glucose 50 MG/ML Injectable Solution by Fleethaus-Apotheke,MarketedProduct
+43778189,1000 ML Glucose 50 MG/ML Injectable Solution by Bfarm Bundesinstitut Fuer Und Medizinprodukte,MarketedProduct
+43778190,1000 ML Glucose 50 MG/ML Injectable Solution by Staedtisches Krankenhaus Muenchen-Schwabing - Apotheke,MarketedProduct
+43778286,1250 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43778413,1500 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43778501,2000 ML Glucose 50 MG/ML Injectable Solution Box of 4,QuantClinicalBox
+43779241,Glucose 50 MG/ML Injectable Solution Box of 5,ClinicalDrugBox
+43779242,Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 6,BrandedDrugBox
+43779243,Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10,BrandedDrugBox
+43779245,Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 20,BrandedDrugBox
+43779247,"Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10",BrandedDrugBox
+43779248,Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 10,BrandedDrugBox
+43787974,1000 ML Glucose 50 MG/ML Injectable Solution [Macoflex] by Maco,MarketedProduct
+43793108,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5,QuantBrandedBox
+43793109,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40,QuantBrandedBox
+43793110,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 55,QuantBrandedBox
+43793111,100 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 20 by Baxter,MarketedProduct
+43793112,100 ML Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+43793113,100 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 50 by Baxter,MarketedProduct
+43793460,100 ML Glucose 50 MG/ML Injectable Solution by Demo,MarketedProduct
+43794133,250 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] by AlleMan,MarketedProduct
+43794134,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 30 by Fresenius,MarketedProduct
+43794136,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 35 by Fresenius,MarketedProduct
+43794137,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40 by Fresenius,MarketedProduct
+43794139,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] Box of 10,QuantBrandedBox
+43794675,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] by B.Braun,MarketedProduct
+43794676,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20 by B.Braun,MarketedProduct
+43794677,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] by Fresenius,MarketedProduct
+43794678,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] by Fresenius,MarketedProduct
+43794679,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5,QuantBrandedBox
+43794680,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20 by Fresenius,MarketedProduct
+43794683,"500 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] by B.Braun",MarketedProduct
+43794684,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] by Baxter,MarketedProduct
+43794685,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] Box of 10 by Baxter,MarketedProduct
+43795162,500 ML Glucose 50 MG/ML Injectable Solution by Demo,MarketedProduct
+43795347,750 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43795696,1000 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43795697,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Hd 5] Box of 10,QuantBrandedBox
+43795698,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 6,QuantBrandedBox
+43795699,1000 ML Glucose 50 MG/ML Injectable Solution [Salviamin] by Baxter,MarketedProduct
+43795700,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Hg 5] by Baxter,MarketedProduct
+43795701,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 6,QuantBrandedBox
+43796084,1000 ML Glucose 50 MG/ML Injectable Solution by Humboldt-Universitaet Berlin Universitaetsklinikum Rudolf,MarketedProduct
+43796554,5000 ML Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+43797144,Glucose 50 MG/ML Injectable Solution Box of 35,ClinicalDrugBox
+43797145,Glucose 50 MG/ML Injectable Solution [Deltajonin Opg] Box of 6,BrandedDrugBox
+43797146,Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 20,BrandedDrugBox
+43797153,Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 10,BrandedDrugBox
+43806031,1000 ML Glucose 50 MG/ML Injectable Solution by Deutsche Bundeswehr Kommando Sanitaetsdienst Der Bundeswehr,MarketedProduct
+43806032,1000 ML Glucose 50 MG/ML Injectable Solution [Nova-Sol Glucose] by Nova Med,MarketedProduct
+43807781,10 ML Glucose 50 MG/ML Injectable Solution Box of 20 by B.Braun,MarketedProduct
+43808019,10 ML Glucose 50 MG/ML Injectable Solution Box of 20,QuantClinicalBox
+43809413,50 ML Glucose 50 MG/ML Injectable Solution Box of 65,QuantClinicalBox
+43809414,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 70,QuantBrandedBox
+43811282,100 ML Glucose 50 MG/ML Injectable Solution Box of 20 by B.Braun,MarketedProduct
+43811283,100 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] by Baxter,MarketedProduct
+43811284,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 10 by Fresenius,MarketedProduct
+43812286,250 ML Glucose 50 MG/ML Injectable Solution Box of 35,QuantClinicalBox
+43812287,250 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10,QuantBrandedBox
+43812288,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] by Fresenius,MarketedProduct
+43812289,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10,QuantBrandedBox
+43812290,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 35 by Fresenius,MarketedProduct
+43812291,250 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 20 by Fresenius,MarketedProduct
+43812292,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5 by Fresenius,MarketedProduct
+43812294,250 ML Glucose 50 MG/ML Injectable Solution by Bernburg,MarketedProduct
+43812295,250 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Bernburg,MarketedProduct
+43812296,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 10 by Baxter,MarketedProduct
+43812297,250 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] by Baxter,MarketedProduct
+43812862,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 10 by Fresenius,MarketedProduct
+43812864,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10 by B.Braun,MarketedProduct
+43812865,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 10,QuantBrandedBox
+43813812,1000 ML Glucose 50 MG/ML Injectable Solution Box of 10 by B.Braun,MarketedProduct
+43813813,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 6 by Fresenius,MarketedProduct
+43813816,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 10 by AlleMan,MarketedProduct
+43813817,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin G 5] Box of 10,QuantBrandedBox
+43813819,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 10,QuantBrandedBox
+43813820,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 10 by Fresenius,MarketedProduct
+43813821,1000 ML Glucose 50 MG/ML Injectable Solution Box of 6 by Bernburg,MarketedProduct
+43813822,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] by B.Braun,MarketedProduct
+43813823,1000 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] by Baxter,MarketedProduct
+43813824,1000 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 10 by Baxter,MarketedProduct
+43814189,1000 ML Glucose 50 MG/ML Injectable Solution by Apotheke,MarketedProduct
+43814190,1000 ML Glucose 50 MG/ML Injectable Solution by Friedrich-Ebert-Krankenhaus Neumuenster - Zentrallabor,MarketedProduct
+43814463,2000 ML Glucose 50 MG/ML Injectable Solution Box of 4 by Fresenius,MarketedProduct
+43815262,Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 20,BrandedDrugBox
+43815263,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 30,BrandedDrugBox
+43815264,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 65,BrandedDrugBox
+43824148,1000 ML Glucose 50 MG/ML Injectable Solution by Krankenhaus Der Barmherzigen Brueder Muenchen - Apotheke,MarketedProduct
+43827435,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 40 by Fresenius,MarketedProduct
+43827436,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 65 by Fresenius,MarketedProduct
+43829228,100 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20 by Fresenius,MarketedProduct
+43829582,100 ML Glucose 50 MG/ML Injectable Solution Box of 10 by AlleMan,MarketedProduct
+43830296,250 ML Glucose 50 MG/ML Injectable Solution Box of 10 by B.Braun,MarketedProduct
+43830297,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 20,QuantBrandedBox
+43830298,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20 by Fresenius,MarketedProduct
+43830299,250 ML Glucose 50 MG/ML Injectable Solution [Elektrolyt] Box of 10,QuantBrandedBox
+43830300,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin] Box of 10,QuantBrandedBox
+43830301,250 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 30 by Baxter,MarketedProduct
+43830584,250 ML Glucose 50 MG/ML Injectable Solution by AlleMan,MarketedProduct
+43831287,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Demo,MarketedProduct
+43831842,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] by AlleMan,MarketedProduct
+43831844,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10 by B.Braun,MarketedProduct
+43831845,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20 by B.Braun,MarketedProduct
+43831846,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 10 by Baxter,MarketedProduct
+43831847,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] Box of 6,QuantBrandedBox
+43831848,1000 ML Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100] Box of 8 by Fresenius,MarketedProduct
+43832267,1000 ML Glucose 50 MG/ML Injectable Solution by Dr Franz Koehler Chemie Mit Beschraenkter,MarketedProduct
+43832268,1000 ML Glucose 50 MG/ML Injectable Solution by St. Leonhards Apotheke Dr. Ulrike Sterzer,MarketedProduct
+43832269,1000 ML Glucose 50 MG/ML Injectable Solution by Pfingstweide-Apotheke Juergen Duerrwang,MarketedProduct
+43832270,1000 ML Glucose 50 MG/ML Injectable Solution by Klinikum Der Johann W.Goethe-Universitaet - Apotheke,MarketedProduct
+43833357,Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20,BrandedDrugBox
+43833359,Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 10,BrandedDrugBox
+43833360,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 6,BrandedDrugBox
+43833367,Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 30,BrandedDrugBox
+43833368,Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 50,BrandedDrugBox
+43842223,1000 ML Glucose 50 MG/ML Injectable Solution by Grifols,MarketedProduct
+43843973,10 ML Glucose 50 MG/ML Injectable Solution Box of 10,QuantClinicalBox
+43843974,10 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] by Fresenius,MarketedProduct
+43845545,50 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 70 by Fresenius,MarketedProduct
+43845546,50 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 50,QuantBrandedBox
+43848328,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 10 by Fresenius,MarketedProduct
+43848329,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 40,QuantBrandedBox
+43848330,250 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 10,QuantBrandedBox
+43848331,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] by B.Braun,MarketedProduct
+43848332,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 20,QuantBrandedBox
+43848333,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5,QuantBrandedBox
+43848617,250 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Demo,MarketedProduct
+43848900,500 ML Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+43848901,500 ML Glucose 50 MG/ML Injectable Solution [Tutofusin] Box of 20,QuantBrandedBox
+43848902,500 ML Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 20,QuantBrandedBox
+43848903,500 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 20,QuantBrandedBox
+43848904,500 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] by Fresenius,MarketedProduct
+43848905,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Op] by Baxter,MarketedProduct
+43848906,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Op] Box of 10,QuantBrandedBox
+43848907,500 ML Glucose 50 MG/ML Injectable Solution [AMINOVEN] by Fresenius,MarketedProduct
+43848908,"500 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] Box of 10",QuantBrandedBox
+43849925,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 6,QuantBrandedBox
+43849926,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 6 by B.Braun,MarketedProduct
+43849927,1000 ML Glucose 50 MG/ML Injectable Solution [Salviamin] Box of 4 by Baxter,MarketedProduct
+43849928,1000 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 8 by Fresenius,MarketedProduct
+43849929,1000 ML Glucose 50 MG/ML Injectable Solution [AMINOVEN] Box of 6,QuantBrandedBox
+43849930,"1000 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,9] by B.Braun",MarketedProduct
+43851351,Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 20,BrandedDrugBox
+43851352,Glucose 50 MG/ML Injectable Solution [Normofundin] Box of 10,BrandedDrugBox
+43851353,Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 10,BrandedDrugBox
+43851354,Glucose 50 MG/ML Injectable Solution [Salviamin] Box of 4,BrandedDrugBox
+43851355,Glucose 50 MG/ML Injectable Solution [Paediatrische] Box of 30,BrandedDrugBox
+43851356,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 5,BrandedDrugBox
+43851357,Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 70,BrandedDrugBox
+43851358,Glucose 50 MG/ML Injectable Solution [Jonosteril Na 100 Kaliumfrei] Box of 20,BrandedDrugBox
+43863762,50 ML Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+43865934,100 ML Glucose 50 MG/ML Injectable Solution by AlleMan,MarketedProduct
+43866567,250 ML Glucose 50 MG/ML Injectable Solution Box of 40,QuantClinicalBox
+43866568,250 ML Glucose 50 MG/ML Injectable Solution [Jonosteril] Box of 40 by Fresenius,MarketedProduct
+43866570,250 ML Glucose 50 MG/ML Injectable Solution [Glucosteril] Box of 30 by Fresenius,MarketedProduct
+43866571,250 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Op] Box of 10 by Baxter,MarketedProduct
+43866573,250 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] Box of 10 by B.Braun,MarketedProduct
+43867113,500 ML Glucose 50 MG/ML Injectable Solution Box of 10 by Berlin-Chemie,MarketedProduct
+43867114,500 ML Glucose 50 MG/ML Injectable Solution [Deltajonin Hg 5] Box of 10 by AlleMan,MarketedProduct
+43867115,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] Box of 10,QuantBrandedBox
+43867116,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 10 by B.Braun,MarketedProduct
+43867118,500 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Bg-5] by B.Braun,MarketedProduct
+43867119,500 ML Glucose 50 MG/ML Injectable Solution [Paediafusin Ii] Box of 10,QuantBrandedBox
+43868080,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin] by B.Braun,MarketedProduct
+43868082,1000 ML Glucose 50 MG/ML Injectable Solution [Sterofundin Heg-5] Box of 6,QuantBrandedBox
+43868083,1000 ML Glucose 50 MG/ML Injectable Solution [Tutofusin Op G] Box of 10,QuantBrandedBox
+43868084,1000 ML Glucose 50 MG/ML Injectable Solution [Deltajonin] by AlleMan,MarketedProduct
+43868085,"1000 ML Glucose 50 MG/ML Injectable Solution [Kochsalz 0,45] Box of 10 by B.Braun",MarketedProduct
+43868089,1000 ML Glucose 50 MG/ML Injectable Solution [Glucose Baxter] Box of 10,QuantBrandedBox
+43868481,1000 ML Glucose 50 MG/ML Injectable Solution by Kreiskrankenhaus Grevenbroich - Apotheke - A.Wehner,MarketedProduct
+43868482,1000 ML Glucose 50 MG/ML Injectable Solution by Diprom,MarketedProduct
+44063991,Glucose 50 MG/ML Injection by Hospira,MarketedProduct
+44071635,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Intravenous Solution,ClinicalDrug
+44084532,Glucose 50 MG/ML Intravenous Solution,ClinicalDrug
+44089576,Glucose 50 MG/ML Injectable Solution by International Medication Systems,MarketedProduct
+44102575,Glucose 50 MG/ML Injectable Solution by Fresenius,MarketedProduct
+44102577,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injection by Hospira,MarketedProduct
+44102578,Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injection by B.Braun,MarketedProduct
+44115395,Glucose 50 MG/ML Injectable Solution by B.Braun,MarketedProduct
+590164,Glucose 50 MG/ML Injectable Solution by Hospira,MarketedProduct
+967825,Glucose 50 MG/ML / Sodium Chloride 0.154 MEQ/ML Injectable Solution,ClinicalDrug

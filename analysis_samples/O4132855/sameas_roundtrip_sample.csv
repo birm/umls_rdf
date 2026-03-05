@@ -1,0 +1,4 @@
+concept_id,label,concept_class
+1030617,Immunization,LoincComponent
+4132855,Active or passive immunization,Procedure
+4144375,Active immunization,Procedure

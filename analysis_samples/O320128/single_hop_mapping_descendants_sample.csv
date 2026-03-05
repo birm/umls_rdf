@@ -1,0 +1,16 @@
+concept_id,label,concept_class
+312648,Benign essential hypertension,Disorder
+317898,Malignant essential hypertension,Disorder
+4034031,Benign essential hypertension complicating AND/OR reason for care during pregnancy,Disorder
+4058987,High-renin essential hypertension,Disorder
+4083723,Essential hypertension complicating AND/OR reason for care during childbirth,Disorder
+4148205,Benign essential hypertension complicating AND/OR reason for care during puerperium,Disorder
+4159755,Labile essential hypertension,Disorder
+4180283,Systolic essential hypertension,Disorder
+4215640,Benign essential hypertension complicating AND/OR reason for care during childbirth,Disorder
+4217486,Essential hypertension in obstetric context,Disorder
+4263067,Low-renin essential hypertension,Disorder
+4269358,Benign essential hypertension in obstetric context,Disorder
+4302591,Essential hypertension complicating AND/OR reason for care during pregnancy,Disorder
+4321603,Essential hypertension complicating AND/OR reason for care during puerperium,Disorder
+45757787,Postpartum pre-existing essential hypertension,Disorder

@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1002858,Infection of foot,LoincComponent
+1004305,Date of previous biopsy,LoincComponent
+1008422,Broken bone,LoincComponent
+1011898,Left ventricular hypertrophy,LoincComponent
+1012479,Squamous cell carcinoma,LoincComponent
+1014894,Chronic lymphocytic leukemia,LoincComponent
+1016367,Maculopapular rash,LoincComponent
+1016368,Lymphadenopathy,LoincComponent
+1018116,Pressure ulcer stage,LoincComponent
+1021148,Pigmentation,LoincSystem
+1021209,Rash,LoincSystem
+1021263,Skin scar,LoincSystem
+1022041,Radius,LoincSystem
+1022050,Ulna,LoincSystem
+1022067,Ulnar artery,LoincSystem
+10225,Contusion of right ear,6CharNonbillCode
+10226,Contusion of left ear,6CharNonbillCode
+10242,Abrasion of lip,6CharNonbillCode
+10245,External constriction of lip,6CharNonbillCode
+10254,Abrasion of other part of head,5CharNonbillCode
+10256,Contusion of other part of head,5CharNonbillCode
+10264,Contusion of unspecified part of head,5CharNonbillCode
+1027712,Skin melanoma,LoincSystem
+1028152,Suicidal behavior,LoincComponent
+1028252,Diffuse large B-cell lymphoma,LoincComponent
+10293,Unspecified open wound of nose,5CharNonbillCode
+1029833,Abscess,LoincSystem
+1030617,Immunization,LoincComponent
+1030926,Physical findings skin pressure injury,LoincComponent
+1031992,Asthma,LoincComponent
+1032212,Diabetic foot ulcer(s),LoincComponent
+1032421,Hip fracture,LoincComponent
+1032468,Infection of the foot,LoincComponent
+1032678,Night sweats,LoincComponent
+1032808,Radial artery,LoincSystem
+1032817,Radial artery Left,LoincSystem
+1032836,Radial artery Right,LoincSystem
+1032854,Radius diaphysis,LoincSystem
+1032938,Pressure injury,LoincComponent
+1032939,Pressure injury stage,LoincComponent
+1033016,Rashes,LoincComponent
+1033206,Stasis pressure injury,LoincComponent
+1033235,Surgical wound,LoincComponent
+1033237,Surgical wounds,LoincComponent
+1033351,Ulcers,LoincComponent
+1033452,Wound infection,LoincComponent
+1033525,Radius.diaphysis Right,LoincSystem
+1033532,Ulna diaphysis Right,LoincSystem
+1033702,Ulcer,LoincSystem
+1033703,Ulna diaphysis,LoincSystem
+1033704,Ulnar artery Left,LoincSystem
+1033705,Ulnar artery Right,LoincSystem
+1033739,Wound,LoincSystem
+1033821,Skin conditions,LoincComponent
+1034563,Pressure ulcers,LoincComponent
+1034650,Stage 3 or 4 pressure injury with largest surface dimensions,LoincComponent
+1034716,Diabetic foot ulcers,LoincComponent
+1035236,Excessive sweating,Answer
+10359,Fracture of vault of skull,4CharNonbillCode
+10367,Other fracture of base of skull,5CharNonbillCode
+10368,Fracture of nasal bones,4CharNonbillCode
+10369,Fracture of orbital floor,4CharNonbillCode
+10373,LeFort I fracture,6CharNonbillCode
+10374,LeFort II fracture,6CharNonbillCode
+10375,LeFort III fracture,6CharNonbillCode
+10377,Fracture of tooth (traumatic),4CharNonbillCode
+10379,"Fracture of mandible, unspecified",6CharNonbillCode
+10380,Fracture of condylar process of mandible,5CharNonbillCode
+10382,Fracture of coronoid process of mandible,5CharNonbillCode
+10383,Fracture of ramus of mandible,5CharNonbillCode
+10388,Fractures of other specified skull and facial bones,4CharNonbillCode
+10689,Unspecified injury of nose,5CharNonbillCode
+10690,Unspecified injury of face,5CharNonbillCode
+10691,Contusion of throat,4CharNonbillCode
+1073437,Decompression fasciotomy of anterior and posterior compartments of lower leg,Procedure
+1074839,Empyema of nasal sinus,Disorder
+1075007,Complete transection of thoracic aorta,Disorder
+1075258,Central papillary atrophy of tongue,Disorder
+1075329,Bilateral hallux valgus,Disorder
+1075791,Maculopapular cutaneous mastocytosis,Disorder
+1075839,Becker nevus syndrome,Disorder
+1075851,Full schwannomatosis,Disorder
+1075914,Disseminated Langerhans cell histiocytosis of bone,Disorder
+1076184,Keratitis fugax hereditaria,Disorder
+1076214,Nephrotomy with tube drainage,Procedure
+1076290,Neisseria gonorrhoeae proctitis,Disorder
+1076320,Fracture of distal epiphysis of femur,Disorder
+1076373,Infective cervicitis,Disorder
+1076441,Neuropathic ulcer of foot,Disorder
+1076471,Malignant neoplasm of pinna,Disorder
+1077232,Contusion of left flank,Disorder
+1077233,Contusion of right flank,Disorder
+1077309,Contact dermatitis of skin of left hand,Disorder
+1077310,Contact dermatitis of skin of right hand,Disorder
+10826,Fracture of other parts of neck,4CharNonbillCode
+10827,"Fracture of neck, unspecified",4CharNonbillCode
+1093785,Surgical wound,LoincSystem
+10963,Injury of unspecified blood vessel at neck level,4CharNonbillCode
+10968,Crushing injury of larynx and trachea,4CharNonbillCode
+10970,"Crushing injury of neck, part unspecified",4CharNonbillCode
+10980,Contusion of right breast,5CharNonbillCode
+10981,Contusion of left breast,5CharNonbillCode
+11007,Contusion of right back wall of thorax,6CharNonbillCode
+11008,Contusion of left back wall of thorax,6CharNonbillCode
+1102626,Fanconi anemia,5CharBillingCode
+1102731,Classic lichen planopilaris,5CharBillingCode
+1102733,Other lichen planopilaris,5CharBillingCode
+1102735,Other cicatricial alopecia,5CharBillingCode
+1102854,"Nodular lymphocyte predominant Hodgkin lymphoma, in remission",5CharBillingCode
+1102855,"Nodular sclerosis Hodgkin lymphoma, in remission",5CharBillingCode
+1102856,"Mixed cellularity Hodgkin lymphoma, in remission",5CharBillingCode
+1102857,"Lymphocyte depleted Hodgkin lymphoma, in remission",5CharBillingCode
+1102858,"Lymphocyte-rich Hodgkin lymphoma, in remission",5CharBillingCode
+1102859,"Other Hodgkin lymphoma, in remission",5CharBillingCode
+1102867,"Cutaneous follicle center lymphoma, in remission",5CharBillingCode
+1102868,"Other types of follicular lymphoma, in remission",5CharBillingCode
+1102871,"Mantle cell lymphoma, in remission",5CharBillingCode
+1102872,Primary central nervous system lymphoma,6CharBillingCode
+1102874,"Diffuse large B-cell lymphoma, in remission",5CharBillingCode
+1102875,"Lymphoblastic (diffuse) lymphoma, in remission",5CharBillingCode
+1102876,"Burkitt lymphoma, in remission",5CharBillingCode
+1102891,"Extranodal NK/T-cell lymphoma, nasal type not having achieved remission",5CharBillingCode
+1102892,"Extranodal NK/T-cell lymphoma, nasal type, in remission",5CharBillingCode
+1102897,Subcutaneous panniculitis-like T-cell lymphoma not having achieved remission,5CharBillingCode
+1102898,"Subcutaneous panniculitis-like T-cell lymphoma, in remission",5CharBillingCode
+1102899,Blastic NK-cell lymphoma not having achieved remission,5CharBillingCode
+1102900,"Blastic NK-cell lymphoma, in remission",5CharBillingCode
+1102901,Angioimmunoblastic T-cell lymphoma not having achieved remission,5CharBillingCode
+1102902,"Angioimmunoblastic T-cell lymphoma, in remission",5CharBillingCode
+1102911,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma] not having achieved remission,5CharBillingCode
+11201,Fracture of manubrium,5CharNonbillCode
+11202,Fracture of body of sternum,5CharNonbillCode
+11204,Fracture of xiphoid process,5CharNonbillCode
+11212,Flail chest,4CharNonbillCode
+11282,Minor laceration of thoracic aorta,5CharNonbillCode
+11283,Major laceration of thoracic aorta,5CharNonbillCode
+11298,Minor laceration of superior vena cava,5CharNonbillCode
+11299,Major laceration of superior vena cava,5CharNonbillCode
+11395,Contusion of thoracic trachea,5CharNonbillCode
+11436,Contusion of lower back and pelvis,4CharNonbillCode
+11437,Contusion of abdominal wall,4CharNonbillCode
+11460,External constriction of penis,6CharNonbillCode
+11678,Nondisplaced Zone I fracture of sacrum,6CharNonbillCode
+11679,Minimally displaced Zone I fracture of sacrum,6CharNonbillCode
+11680,Severely displaced Zone I fracture of sacrum,6CharNonbillCode
+11682,Nondisplaced Zone II fracture of sacrum,6CharNonbillCode
+11683,Minimally displaced Zone II fracture of sacrum,6CharNonbillCode
+11684,Severely displaced Zone II fracture of sacrum,6CharNonbillCode
+11686,Nondisplaced Zone III fracture of sacrum,6CharNonbillCode
+11687,Minimally displaced Zone III fracture of sacrum,6CharNonbillCode
+11688,Severely displaced Zone III fracture of sacrum,6CharNonbillCode
+11690,Type 1 fracture of sacrum,5CharNonbillCode
+11691,Type 2 fracture of sacrum,5CharNonbillCode
+11692,Type 3 fracture of sacrum,5CharNonbillCode
+11693,Type 4 fracture of sacrum,5CharNonbillCode
+11694,Other fracture of sacrum,5CharNonbillCode
+11695,Fracture of coccyx,4CharNonbillCode
+11699,Displaced avulsion fracture of right ilium,6CharNonbillCode
+11700,Displaced avulsion fracture of left ilium,6CharNonbillCode
+11702,Nondisplaced avulsion fracture of right ilium,6CharNonbillCode
+11703,Nondisplaced avulsion fracture of left ilium,6CharNonbillCode
+11711,Displaced fracture of anterior wall of right acetabulum,6CharNonbillCode
+11712,Displaced fracture of anterior wall of left acetabulum,6CharNonbillCode
+11714,Nondisplaced fracture of anterior wall of right acetabulum,6CharNonbillCode
+11715,Nondisplaced fracture of anterior wall of left acetabulum,6CharNonbillCode
+11717,Displaced fracture of posterior wall of right acetabulum,6CharNonbillCode
+11718,Displaced fracture of posterior wall of left acetabulum,6CharNonbillCode
+11720,Nondisplaced fracture of posterior wall of right acetabulum,6CharNonbillCode
+11721,Nondisplaced fracture of posterior wall of left acetabulum,6CharNonbillCode
+11723,Displaced fracture of anterior column [iliopubic] of right acetabulum,6CharNonbillCode
+11724,Displaced fracture of anterior column [iliopubic] of left acetabulum,6CharNonbillCode
+11726,Nondisplaced fracture of anterior column [iliopubic] of right acetabulum,6CharNonbillCode
+11727,Nondisplaced fracture of anterior column [iliopubic] of left acetabulum,6CharNonbillCode
+11729,Displaced fracture of posterior column [ilioischial] of right acetabulum,6CharNonbillCode
+11730,Displaced fracture of posterior column [ilioischial] of left acetabulum,6CharNonbillCode
+11733,Nondisplaced fracture of posterior column [ilioischial] of left acetabulum,6CharNonbillCode
+11735,Displaced transverse fracture of right acetabulum,6CharNonbillCode
+11736,Displaced transverse fracture of left acetabulum,6CharNonbillCode
+11738,Nondisplaced transverse fracture of right acetabulum,6CharNonbillCode
+11739,Nondisplaced transverse fracture of left acetabulum,6CharNonbillCode
+11741,Displaced associated transverse-posterior fracture of right acetabulum,6CharNonbillCode
+11742,Displaced associated transverse-posterior fracture of left acetabulum,6CharNonbillCode
+11744,Nondisplaced associated transverse-posterior fracture of right acetabulum,6CharNonbillCode
+11745,Nondisplaced associated transverse-posterior fracture of left acetabulum,6CharNonbillCode
+11747,Displaced fracture of medial wall of right acetabulum,6CharNonbillCode
+11748,Displaced fracture of medial wall of left acetabulum,6CharNonbillCode
+11750,Nondisplaced fracture of medial wall of right acetabulum,6CharNonbillCode
+11751,Nondisplaced fracture of medial wall of left acetabulum,6CharNonbillCode
+1177260,Arthrogryposis,Answer
+1177311,Hemifacial microsomia,Answer
+1177328,Cleidocranial dysostosis,Answer
+11774,Displaced avulsion fracture of right ischium,6CharNonbillCode
+11775,Displaced avulsion fracture of left ischium,6CharNonbillCode
+11777,Nondisplaced avulsion fracture of right ischium,6CharNonbillCode
+11778,Nondisplaced avulsion fracture of left ischium,6CharNonbillCode
+11787,Fracture of unspecified parts of lumbosacral spine and pelvis,4CharNonbillCode
+11838,Minor laceration of abdominal aorta,5CharNonbillCode
+11839,Major laceration of abdominal aorta,5CharNonbillCode
+11841,Unspecified injury of inferior vena cava,5CharNonbillCode
+11842,Minor laceration of inferior vena cava,5CharNonbillCode
+11843,Major laceration of inferior vena cava,5CharNonbillCode
+11844,Other injury of inferior vena cava,5CharNonbillCode
+11853,Minor laceration of inferior mesenteric artery,6CharNonbillCode
+11854,Major laceration of inferior mesenteric artery,6CharNonbillCode
+11861,Laceration of portal vein,6CharNonbillCode
+11864,Laceration of splenic vein,6CharNonbillCode
+11870,Laceration of inferior mesenteric vein,6CharNonbillCode
+12019,Major contusion of right kidney,6CharNonbillCode
+12020,Major contusion of left kidney,6CharNonbillCode
+12087,Crushing injury of vulva,5CharNonbillCode
+12088,"Crushing injury of abdomen, lower back, and pelvis",4CharNonbillCode
+12118,Contusion of left shoulder,6CharNonbillCode
+12120,Contusion of right upper arm,6CharNonbillCode
+12121,Contusion of left upper arm,6CharNonbillCode
+12210,Nondisplaced fracture of sternal end of right clavicle,6CharNonbillCode
+12211,Nondisplaced fracture of sternal end of left clavicle,6CharNonbillCode
+12213,Displaced fracture of shaft of right clavicle,6CharNonbillCode
+12214,Displaced fracture of shaft of left clavicle,6CharNonbillCode
+12216,Nondisplaced fracture of shaft of right clavicle,6CharNonbillCode
+12217,Nondisplaced fracture of shaft of left clavicle,6CharNonbillCode
+12219,Displaced fracture of lateral end of right clavicle,6CharNonbillCode
+12220,Displaced fracture of lateral end of left clavicle,6CharNonbillCode
+12222,Nondisplaced fracture of lateral end of right clavicle,6CharNonbillCode
+12223,Nondisplaced fracture of lateral end of left clavicle,6CharNonbillCode
+12270,2-part displaced fracture of surgical neck of right humerus,6CharNonbillCode
+12271,2-part displaced fracture of surgical neck of left humerus,6CharNonbillCode
+12273,2-part nondisplaced fracture of surgical neck of right humerus,6CharNonbillCode
+12274,2-part nondisplaced fracture of surgical neck of left humerus,6CharNonbillCode
+12282,Displaced fracture of greater tuberosity of right humerus,6CharNonbillCode
+12283,Displaced fracture of greater tuberosity of left humerus,6CharNonbillCode
+12285,Nondisplaced fracture of greater tuberosity of right humerus,6CharNonbillCode
+12286,Nondisplaced fracture of greater tuberosity of left humerus,6CharNonbillCode
+12288,Displaced fracture of lesser tuberosity of right humerus,6CharNonbillCode
+12289,Displaced fracture of lesser tuberosity of left humerus,6CharNonbillCode
+12291,Nondisplaced fracture of lesser tuberosity of right humerus,6CharNonbillCode
+12292,Nondisplaced fracture of lesser tuberosity of left humerus,6CharNonbillCode
+12345,Displaced simple supracondylar fracture without intercondylar fracture of right humerus,6CharNonbillCode
+12346,Displaced simple supracondylar fracture without intercondylar fracture of left humerus,6CharNonbillCode
+12348,Nondisplaced simple supracondylar fracture without intercondylar fracture of right humerus,6CharNonbillCode
+12349,Nondisplaced simple supracondylar fracture without intercondylar fracture of left humerus,6CharNonbillCode
+12351,Displaced comminuted supracondylar fracture without intercondylar fracture of right humerus,6CharNonbillCode
+12352,Displaced comminuted supracondylar fracture without intercondylar fracture of left humerus,6CharNonbillCode
+12354,Nondisplaced comminuted supracondylar fracture without intercondylar fracture of right humerus,6CharNonbillCode
+12355,Nondisplaced comminuted supracondylar fracture without intercondylar fracture of left humerus,6CharNonbillCode
+1243177,Inclusion body fibromatosis,MorphAbnormality
+1243179,Pertrochanteric fracture,MorphAbnormality
+1243180,Open pertrochanteric fracture,MorphAbnormality
+1243216,Sclerosing morpheic basal cell carcinoma,MorphAbnormality
+1243289,Solar lentigo,MorphAbnormality
+1243290,Simple lentigo,MorphAbnormality
+1243611,Verruca plantaris,MorphAbnormality
+1243621,Verruca plana,MorphAbnormality
+1243622,Verruca vulgaris,MorphAbnormality
+1243745,Pulmonary bulla,MorphAbnormality
+1244214,Complete transection of abdominal aorta,Disorder
+1244245,Greasy skin due to excessive secretion of sebum,Disorder
+1244246,Central cord syndrome of cervical spinal cord. due to open fracture at C1-C4 level,Disorder
+1244247,Central cord syndrome due to open fracture at C5-C7 level,Disorder
+1244272,Central cord syndrome of thoracic spinal cord due to open fracture at T1-T6 level,Disorder
+1244273,Central cord syndrome of thoracic spinal cord due to open fracture at T7-T12 level,Disorder
+1244442,Hallux valgus of left foot,Disorder
+1244443,Hallux valgus of right foot,Disorder
+1244592,VEXAS syndrome,Disorder
+1244878,Hidradenocarcinoma,Disorder
+1244888,Glomangioma,Disorder
+1244898,Intramuscular hemangioma,Disorder
+1244920,Mucosal lentiginous melanoma,Disorder
+1244960,Spitz malignant melanoma,Disorder
+1245007,ALDH18A1-related de Barsy syndrome,Disorder
+1245071,Exacerbation of psoriasis,Disorder
+1245180,Viral wart,Disorder
+1245208,Autosomal recessive agammaglobulinemia,Disorder
+1245434,Fracture of bone of jaw,Disorder
+1245682,Bilateral benign neoplasm of skin of ears,Disorder
+1245877,Melanoma in situ of anal skin,Disorder
+1245886,Congenital cutaneous mastocytosis,Disorder
+1246134,Left split hand,Disorder
+1246135,Right split hand,Disorder
+1246480,Cellulitis of left little toe,Disorder
+1246481,Cellulitis of right little toe,Disorder
+1246482,Cellulitis of left fourth toe,Disorder
+1246483,Cellulitis of right fourth toe,Disorder
+1246484,Cellulitis of left great toe,Disorder
+1246485,Cellulitis of right great toe,Disorder
+1246486,Cellulitis of left second toe,Disorder
+1246487,Cellulitis of right second toe,Disorder
+1246488,Cellulitis of left third toe,Disorder
+1246489,Cellulitis of right third toe,Disorder
+1246508,Cellulitis of left index finger,Disorder
+1246516,Cellulitis of left middle finger,Disorder
+1246517,Cellulitis of left ring finger,Disorder
+1246518,Cellulitis of right index finger,Disorder
+1246519,Cellulitis of right little finger,Disorder
+1246521,Cellulitis of right middle finger,Disorder
+1246522,Cellulitis of right ring finger,Disorder
+1246555,Contusion of left clavicular region,Disorder
+1246579,Contusion of left cheek,Disorder
+1246580,Contusion of right cheek,Disorder
+1260836,T-cell lymphoma,LoincComponent
+12726,Contusion of right elbow,5CharNonbillCode
+12727,Contusion of left elbow,5CharNonbillCode
+12729,Contusion of right forearm,5CharNonbillCode
+12730,Contusion of left forearm,5CharNonbillCode
+12815,Displaced fracture of olecranon process without intraarticular extension of right ulna,6CharNonbillCode
+12816,Displaced fracture of olecranon process without intraarticular extension of left ulna,6CharNonbillCode
+12818,Nondisplaced fracture of olecranon process without intraarticular extension of right ulna,6CharNonbillCode
+12819,Nondisplaced fracture of olecranon process without intraarticular extension of left ulna,6CharNonbillCode
+12821,Displaced fracture of olecranon process with intraarticular extension of right ulna,6CharNonbillCode
+12822,Displaced fracture of olecranon process with intraarticular extension of left ulna,6CharNonbillCode
+12824,Nondisplaced fracture of olecranon process with intraarticular extension of right ulna,6CharNonbillCode
+12825,Nondisplaced fracture of olecranon process with intraarticular extension of left ulna,6CharNonbillCode
+12827,Displaced fracture of coronoid process of right ulna,6CharNonbillCode
+12828,Displaced fracture of coronoid process of left ulna,6CharNonbillCode
+12830,Nondisplaced fracture of coronoid process of right ulna,6CharNonbillCode
+12831,Nondisplaced fracture of coronoid process of left ulna,6CharNonbillCode
+12842,Displaced fracture of head of right radius,6CharNonbillCode
+12843,Displaced fracture of head of left radius,6CharNonbillCode
+12845,Nondisplaced fracture of head of right radius,6CharNonbillCode
+12846,Nondisplaced fracture of head of left radius,6CharNonbillCode
+12848,Displaced fracture of neck of right radius,6CharNonbillCode
+12849,Displaced fracture of neck of left radius,6CharNonbillCode
+12851,Nondisplaced fracture of neck of right radius,6CharNonbillCode
+12852,Nondisplaced fracture of neck of left radius,6CharNonbillCode
+12908,Displaced transverse fracture of shaft of right radius,6CharNonbillCode
+12909,Displaced transverse fracture of shaft of left radius,6CharNonbillCode
+12911,Nondisplaced transverse fracture of shaft of right radius,6CharNonbillCode
+12912,Nondisplaced transverse fracture of shaft of left radius,6CharNonbillCode
+12914,Displaced oblique fracture of shaft of right radius,6CharNonbillCode
+12915,Displaced oblique fracture of shaft of left radius,6CharNonbillCode
+12917,Nondisplaced oblique fracture of shaft of right radius,6CharNonbillCode
+12918,Nondisplaced oblique fracture of shaft of left radius,6CharNonbillCode
+12959,Colles' fracture of right radius,6CharNonbillCode
+12960,Colles' fracture of left radius,6CharNonbillCode
+132391,Furuncle of face,Disorder
+132392,Staphylococcal scalded skin syndrome,Disorder
+132446,Congenital anomaly of skin,Disorder
+132482,"Abrasion and/or friction burn of shoulder and/or upper arm, infected",Disorder
+132483,Nonvenomous insect bite of hand with infection,Disorder
+132491,Contusion of scapular region,Disorder
+132542,Erythema nodosum due to tuberculosis,Disorder
+132570,"Leukemic reticuloendotheliosis of lymph nodes of head, face and neck",Disorder
+132572,Chronic myeloid leukemia in remission,Disorder
+132575,Myeloid sarcoma in remission,Disorder
+1326487,Other malignant mast cell neoplasm,5CharBillingCode
+1326488,Cutaneous mastocytosis,5CharBillingCode
+1326490,Other mast cell neoplasms of uncertain behavior,5CharBillingCode
+1326776,Umbilical granuloma,5CharBillingCode
+132702,Erythema multiforme,Disorder
+132703,Lichen planus,Disorder
+132706,Disorder of nail,Disorder
+132707,Urticaria caused by cold,Disorder
+132724,Congenital anomaly of hair,Disorder
+132772,Arthus type urticaria,Disorder
+132834,White piedra,Disorder
+132841,Malignant lymphoma of lymph nodes of multiple sites,Disorder
+132850,Myeloid leukemia in remission,Disorder
+132853,Lymphoid leukemia,Disorder
+132932,Chronic ethmoidal sinusitis,Disorder
+132982,Keloid scar,Disorder
+132983,Dermatographic urticaria,Disorder
+133078,Epidermal burn of shoulder,Disorder
+133141,Tinea pedis,Disorder
+133154,Plasma cell leukemia,Disorder
+133158,Plasma cell leukemia in remission,Disorder
+133169,Myelofibrosis,Disorder
+133278,Disorder of hair,Disorder
+133280,Alopecia,Disorder
+133283,Pyoderma gangrenosum,Disorder
+133438,Chronic lymphoid leukemia in remission,Disorder
+133547,Pyoderma,Disorder
+133569,Fasciitis,Disorder
+133593,Transverse deficiency of upper limb,Disorder
+133610,"Open fracture scapula, coracoid",Disorder
+133669,Epidermal burn of lower leg,Disorder
+133714,Malignant melanoma of skin of trunk,Disorder
+13379,Contusion of unspecified finger without damage to nail,5CharNonbillCode
+133794,Chronic gingivitis,Disorder
+133803,Periapical abscess with sinus tract,Disorder
+133834,Atopic dermatitis,Disorder
+133835,Eczema,Disorder
+133890,Open fracture of sternal end of clavicle,Disorder
+133914,Epidermal burn of thumb,Disorder
+133959,Syphilitic alopecia,Disorder
+134074,Cellulitis of oral soft tissues,Disorder
+13411,Contusion of right wrist,6CharNonbillCode
+134117,Subcorneal pustular dermatosis,Disorder
+13412,Contusion of left wrist,6CharNonbillCode
+13414,Contusion of right hand,6CharNonbillCode
+13415,Contusion of left hand,6CharNonbillCode
+134232,Epidermal burn of scalp,Disorder
+134294,Malignant melanoma of skin of external auditory canal,Disorder
+134305,Acute lymphoid leukemia,Disorder
+134308,Carcinoma in situ of skin of lower limb,Disorder
+134315,Myelophthisis,ClinicalFinding
+134380,Erythromelalgia,Disorder
+134438,Contact dermatitis,Disorder
+134441,Chronic ulcer of skin,Disorder
+134442,Systemic sclerosis,Disorder
+134460,Plantar fascial fibromatosis,Disorder
+134520,Crushing injury of back,Disorder
+134569,Primate erythroparvovirus 1 infection,Disorder
+134596,Lymphoid leukemia in remission,Disorder
+134597,Chronic leukemia in remission,Disorder
+134603,Chronic myeloid leukemia,Disorder
+134661,Chronic sphenoidal sinusitis,Disorder
+134668,Chronic maxillary sinusitis,Disorder
+134718,Hirsutism,Disorder
+134743,Congenital ichthyosis of skin,Disorder
+134746,Finger clubbing,Disorder
+134757,Ectodermal dysplasia,Disorder
+1348412,Other functional disorders of polymorphonuclear neutrophils,4CharBillingCode
+1348469,Furuncle of flank,6CharBillingCode
+1348472,Non-pressure chronic ulcer of face,5CharNonbillCode
+1348473,Non-pressure chronic ulcer of abdomen,5CharNonbillCode
+1348474,Non-pressure chronic ulcer of abdomen limited to breakdown of skin,6CharBillingCode
+1348475,Non-pressure chronic ulcer of abdomen with fat layer exposed,6CharBillingCode
+1348476,Non-pressure chronic ulcer of abdomen with necrosis of muscle,6CharBillingCode
+1348477,Non-pressure chronic ulcer of abdomen with necrosis of bone,6CharBillingCode
+1348478,Non-pressure chronic ulcer of abdomen with muscle involvement without evidence of necrosis,6CharBillingCode
+1348479,Non-pressure chronic ulcer of abdomen with bone involvement without evidence of necrosis,6CharBillingCode
+1348480,Non-pressure chronic ulcer of abdomen with other specified severity,6CharBillingCode
+1348482,Non-pressure chronic ulcer of chest,5CharNonbillCode
+1348483,Non-pressure chronic ulcer of chest limited to breakdown of skin,6CharBillingCode
+1348484,Non-pressure chronic ulcer of chest with fat layer exposed,6CharBillingCode
+1348485,Non-pressure chronic ulcer of chest with necrosis of muscle,6CharBillingCode
+1348486,Non-pressure chronic ulcer of chest with necrosis of bone,6CharBillingCode
+1348487,Non-pressure chronic ulcer of chest with muscle involvement without evidence of necrosis,6CharBillingCode
+1348488,Non-pressure chronic ulcer of chest with bone involvement without evidence of necrosis,6CharBillingCode
+1348489,Non-pressure chronic ulcer of chest with other specified severity,6CharBillingCode
+1348491,Non-pressure chronic ulcer of neck,5CharNonbillCode
+1348492,Non-pressure chronic ulcer of neck limited to breakdown of skin,6CharBillingCode
+1348493,Non-pressure chronic ulcer of neck with fat layer exposed,6CharBillingCode
+1348494,Non-pressure chronic ulcer of neck with necrosis of muscle,6CharBillingCode
+1348495,Non-pressure chronic ulcer of neck with necrosis of bone,6CharBillingCode
+1348496,Non-pressure chronic ulcer of neck with muscle involvement without evidence of necrosis,6CharBillingCode
+1348497,Non-pressure chronic ulcer of neck with bone involvement without evidence of necrosis,6CharBillingCode
+1348498,Non-pressure chronic ulcer of neck with other specified severity,6CharBillingCode
+1348500,Non-pressure chronic ulcer of face limited to breakdown of skin,6CharBillingCode
+1348501,Non-pressure chronic ulcer of face with fat layer exposed,6CharBillingCode
+1348502,Non-pressure chronic ulcer of face with necrosis of muscle,6CharBillingCode
+1348503,Non-pressure chronic ulcer of face with necrosis of bone,6CharBillingCode
+1348504,Non-pressure chronic ulcer of face with muscle involvement without evidence of necrosis,6CharBillingCode
+1348505,Non-pressure chronic ulcer of face with bone involvement without evidence of necrosis,6CharBillingCode
+1348506,Non-pressure chronic ulcer of face with other specified severity,6CharBillingCode
+1348508,Non-pressure chronic ulcer of groin,5CharNonbillCode
+1348509,Non-pressure chronic ulcer of groin limited to breakdown of skin,6CharBillingCode
+1348510,Non-pressure chronic ulcer of groin with fat layer exposed,6CharBillingCode
+1348511,Non-pressure chronic ulcer of groin with necrosis of muscle,6CharBillingCode
+1348512,Non-pressure chronic ulcer of groin with necrosis of bone,6CharBillingCode
+1348513,Non-pressure chronic ulcer of groin with muscle involvement without evidence of necrosis,6CharBillingCode
+1348514,Non-pressure chronic ulcer of groin with bone involvement without evidence of necrosis,6CharBillingCode
+1348515,Non-pressure chronic ulcer of groin with other specified severity,6CharBillingCode
+1348518,Non-pressure chronic ulcer of upper arm,5CharNonbillCode
+1348519,Non-pressure chronic ulcer of right upper arm,6CharNonbillCode
+1348520,Non-pressure chronic ulcer of right upper arm limited to breakdown of skin,7CharBillingCode
+1348521,Non-pressure chronic ulcer of right upper arm with fat layer exposed,7CharBillingCode
+1348522,Non-pressure chronic ulcer of right upper arm with necrosis of muscle,7CharBillingCode
+1348523,Non-pressure chronic ulcer of right upper arm with necrosis of bone,7CharBillingCode
+1348524,Non-pressure chronic ulcer of right upper arm with muscle involvement without evidence of necrosis,7CharBillingCode
+1348525,Non-pressure chronic ulcer of right upper arm with bone involvement without evidence of necrosis,7CharBillingCode
+1348526,Non-pressure chronic ulcer of right upper arm with other specified severity,7CharBillingCode
+1348528,Non-pressure chronic ulcer of left upper arm,6CharNonbillCode
+1348529,Non-pressure chronic ulcer of left upper arm limited to breakdown of skin,7CharBillingCode
+1348530,Non-pressure chronic ulcer of left upper arm with fat layer exposed,7CharBillingCode
+1348531,Non-pressure chronic ulcer of left upper arm with necrosis of muscle,7CharBillingCode
+1348532,Non-pressure chronic ulcer of left upper arm with necrosis of bone,7CharBillingCode
+1348533,Non-pressure chronic ulcer of left upper arm with muscle involvement without evidence of necrosis,7CharBillingCode
+1348534,Non-pressure chronic ulcer of left upper arm with bone involvement without evidence of necrosis,7CharBillingCode
+1348535,Non-pressure chronic ulcer of left upper arm with other specified severity,7CharBillingCode
+1348546,Non-pressure chronic ulcer of forearm,5CharNonbillCode
+1348547,Non-pressure chronic ulcer of right forearm,6CharNonbillCode
+1348548,Non-pressure chronic ulcer of right forearm limited to breakdown of skin,7CharBillingCode
+1348549,Non-pressure chronic ulcer of right forearm with fat layer exposed,7CharBillingCode
+1348550,Non-pressure chronic ulcer of right forearm with necrosis of muscle,7CharBillingCode
+1348551,Non-pressure chronic ulcer of right forearm with necrosis of bone,7CharBillingCode
+1348552,Non-pressure chronic ulcer of right forearm with muscle involvement without evidence of necrosis,7CharBillingCode
+1348553,Non-pressure chronic ulcer of right forearm with bone involvement without evidence of necrosis,7CharBillingCode
+1348554,Non-pressure chronic ulcer of right forearm with other specified severity,7CharBillingCode
+1348556,Non-pressure chronic ulcer of left forearm,6CharNonbillCode
+1348557,Non-pressure chronic ulcer of left forearm limited to breakdown of skin,7CharBillingCode
+1348558,Non-pressure chronic ulcer of left forearm with fat layer exposed,7CharBillingCode
+1348559,Non-pressure chronic ulcer of left forearm with necrosis of muscle,7CharBillingCode
+1348560,Non-pressure chronic ulcer of left forearm with necrosis of bone,7CharBillingCode
+1348561,Non-pressure chronic ulcer of left forearm with muscle involvement without evidence of necrosis,7CharBillingCode
+1348562,Non-pressure chronic ulcer of left forearm with bone involvement without evidence of necrosis,7CharBillingCode
+1348563,Non-pressure chronic ulcer of left forearm with other specified severity,7CharBillingCode
+1348574,Non-pressure chronic ulcer of hand,5CharNonbillCode
+1348575,Non-pressure chronic ulcer of right hand,6CharNonbillCode
+1348576,Non-pressure chronic ulcer of right hand limited to breakdown of skin,7CharBillingCode
+1348577,Non-pressure chronic ulcer of right hand with fat layer exposed,7CharBillingCode
+1348578,Non-pressure chronic ulcer of right hand with necrosis of muscle,7CharBillingCode
+1348579,Non-pressure chronic ulcer of right hand with necrosis of bone,7CharBillingCode
+1348580,Non-pressure chronic ulcer of right hand with muscle involvement without evidence of necrosis,7CharBillingCode
+1348581,Non-pressure chronic ulcer of right hand with bone involvement without evidence of necrosis,7CharBillingCode
+1348582,Non-pressure chronic ulcer of right hand with other specified severity,7CharBillingCode
+1348584,Non-pressure chronic ulcer of left hand,6CharNonbillCode
+1348585,Non-pressure chronic ulcer of left hand limited to breakdown of skin,7CharBillingCode
+1348586,Non-pressure chronic ulcer of left hand with fat layer exposed,7CharBillingCode
+1348587,Non-pressure chronic ulcer of left hand with necrosis of muscle,7CharBillingCode
+1348588,Non-pressure chronic ulcer of left hand with necrosis of bone,7CharBillingCode
+1348589,Non-pressure chronic ulcer of left hand with muscle involvement without evidence of necrosis,7CharBillingCode
+1348590,Non-pressure chronic ulcer of left hand with bone involvement without evidence of necrosis,7CharBillingCode
+1348591,Non-pressure chronic ulcer of left hand with other specified severity,7CharBillingCode
+1348646,Contusion of abdominal wall,5CharNonbillCode
+134865,Tinea nigra,Disorder
+1348650,Contusion of groin,5CharNonbillCode
+134870,Pityriasis versicolor,Disorder
+134879,Mycosis fungoides of intrathoracic lymph nodes,Disorder
+135027,Carbuncle of leg (excluding foot),Disorder
+135030,Discoloration of skin,ClinicalFinding
+135194,Lymphosarcoma of intrathoracic lymph nodes,Disorder
+135214,Polycythemia vera (clinical),Disorder
+135287,Non-neoplastic nevus,Disorder
+135335,Carbuncle of trunk,Disorder
+135338,Pemphigus,Disorder
+135414,Epidermal burn of knee,Disorder
+135429,Epidermal burn of toe,Disorder
+135473,Dermatophytosis,Disorder
+135496,Acute leukemia in remission,Disorder
+135611,Furuncle of hand,Disorder
+135615,Pityriasis,Disorder
+135618,Pruritic rash,Disorder
+135654,Macrodactyly of toe,Disorder
+135688,"Abrasion and/or friction burn of foot and/or toe, infected",Disorder
+135722,Chronic infection of amputation stump,Disorder
+135764,Mycosis fungoides of lymph nodes of multiple sites,Disorder
+135766,Leukemia in remission,Disorder
+135768,Acute monocytic leukemia,Disorder
+135777,Neoplasm of uncertain behavior of skin,Disorder
+135858,Disorder of lip,Disorder
+135895,Variation in hair color,Disorder
+135939,Closed fracture of sternal end of clavicle,Disorder
+135974,Blister of hand with infection,Disorder
+136186,Apocrine miliaria,Disorder
+136203,Contracture of palmar fascia,Disorder
+136216,Congenital fistula of lip,Disorder
+136354,Metastatic malignant neoplasm to skin,Disorder
+136496,Cellulitis and abscess of face,Disorder
+136497,Scar conditions and fibrosis of skin,Disorder
+136538,Closed fracture larynx and/or trachea,Disorder
+136627,Lobomycosis,Disorder
+136655,"Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes",Disorder
+136656,Subacute lymphoid leukemia,Disorder
+136773,Rosacea,Disorder
+136774,Pityriasis rubra pilaris,Disorder
+136928,"Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes",Disorder
+136930,Megakaryocytic leukemia in remission,Disorder
+137053,Seborrheic dermatitis,Disorder
+137054,Skin striae,Disorder
+137057,Paronychia,Disorder
+137193,Erythema,ClinicalFinding
+137205,Tuberculosis of skin,Disorder
+137213,Dermal mycosis,Disorder
+137436,Epidermal burn of nose,Disorder
+137626,Seborrheic dermatitis of scalp,Disorder
+137627,Prickly heat,Disorder
+137658,Congenital pigmentary skin anomalies,Disorder
+13769,"Displaced fracture of triquetrum [cuneiform] bone, right wrist",6CharNonbillCode
+13770,"Displaced fracture of triquetrum [cuneiform] bone, left wrist",6CharNonbillCode
+13772,"Nondisplaced fracture of triquetrum [cuneiform] bone, right wrist",6CharNonbillCode
+137721,"Abrasion and/or friction burn of finger, infected",Disorder
+13773,"Nondisplaced fracture of triquetrum [cuneiform] bone, left wrist",6CharNonbillCode
+137785,Verruca plantaris,Disorder
+137792,Eczema herpeticum,Disorder
+137829,Aplastic anemia,Disorder
+13784,"Nondisplaced fracture of capitate [os magnum] bone, right wrist",6CharNonbillCode
+13785,"Nondisplaced fracture of capitate [os magnum] bone, left wrist",6CharNonbillCode
+13787,"Displaced fracture of body of hamate [unciform] bone, right wrist",6CharNonbillCode
+13788,"Displaced fracture of body of hamate [unciform] bone, left wrist",6CharNonbillCode
+13790,"Nondisplaced fracture of body of hamate [unciform] bone, right wrist",6CharNonbillCode
+137900,Acute sphenoidal sinusitis,Disorder
+13791,"Nondisplaced fracture of body of hamate [unciform] bone, left wrist",6CharNonbillCode
+137944,Bullous dermatosis,Disorder
+137951,Acquired keratoderma,Disorder
+137977,Jaundice,ClinicalFinding
+137997,Open fracture of acromial process of scapula,Disorder
+138099,"Erythroleukemia, FAB M6",Disorder
+138102,Benign neoplasm of skin,Disorder
+138225,Disorder of sebaceous gland,Disorder
+138346,Erysipelas,Disorder
+138378,Sezary's disease of lymph nodes of axilla and upper limb,Disorder
+138379,"Chronic lymphoid leukemia, disease",Disorder
+138455,Stomatitis,Disorder
+138463,Aphthous ulcer of mouth,Disorder
+13847,"Other fracture of first metacarpal bone, right hand",6CharNonbillCode
+13848,"Other fracture of first metacarpal bone, left hand",6CharNonbillCode
+138501,Cholinergic urticaria,Disorder
+138502,Vitiligo,Disorder
+138553,Congenital macrocheilia,Disorder
+138565,Hyperhidrosis,Disorder
+138644,Epidermal burn of lower limb,Disorder
+138682,Herpes zoster auricularis,Disorder
+138708,Acute leukemia,Disorder
+138825,Actinic keratosis,Disorder
+138826,Acne varioliformis,Disorder
+138844,Foreign body granuloma of muscle,Disorder
+138858,Pale complexion,ClinicalFinding
+138864,Congenital anomaly of nail,Disorder
+138994,Myelodysplastic syndrome (clinical),Disorder
+138996,Carcinoma in situ of skin,Disorder
+139099,Ingrowing nail,Disorder
+139100,Vibratory urticaria,Disorder
+139193,Blister of shoulder with infection,Disorder
+13920,"Other fracture of second metacarpal bone, right hand",6CharNonbillCode
+139200,Crushing injury of forearm,Disorder
+13921,"Other fracture of second metacarpal bone, left hand",6CharNonbillCode
+139210,Epidermal burn of back,Disorder
+13922,"Other fracture of third metacarpal bone, right hand",6CharNonbillCode
+13923,"Other fracture of third metacarpal bone, left hand",6CharNonbillCode
+13924,"Other fracture of fourth metacarpal bone, right hand",6CharNonbillCode
+13925,"Other fracture of fourth metacarpal bone, left hand",6CharNonbillCode
+13926,"Other fracture of fifth metacarpal bone, right hand",6CharNonbillCode
+13927,"Other fracture of fifth metacarpal bone, left hand",6CharNonbillCode
+139750,Primary malignant neoplasm of skin,Disorder
+139757,Malignant melanoma of skin of lower limb,Disorder
+139759,Reticulosarcoma of lymph nodes of multiple sites,Disorder
+139766,Carcinoma in situ of scalp and skin of neck,Disorder
+139841,Chronic frontal sinusitis,Disorder
+139850,Acute frontal sinusitis,Disorder
+139899,Pemphigoid,Disorder
+139900,Urticaria,Disorder
+139902,Allergic urticaria,Disorder
+139980,Epidermal burn of forearm,Disorder
+140020,Viral exanthem,Disorder
+140027,Herpetic gingivostomatitis,Disorder
+140048,Malignant melanoma of skin of lip,Disorder
+140057,Chronic leukemia,Disorder
+140064,Primary myelofibrosis,Disorder
+140065,Pure red cell aplasia,Disorder
+140168,Psoriasis,Disorder
+140176,Erythema nodosum,Disorder
+140214,Eruption,Disorder
+140266,Contusion of back,Disorder
+140273,Contusion of forearm,Disorder
+140352,"Acute myeloid leukemia, disease",Disorder
+140480,Impetigo,Disorder
+140487,Dermatitis herpetiformis,Disorder
+140489,Acquired acanthosis nigricans,Disorder
+140490,Anhidrosis,Disorder
+140641,Verruca vulgaris,Disorder
+140648,Onychomycosis due to dermatophyte,Disorder
+140654,Deep seated dermatophytosis,Disorder
+140663,Hodgkin's paragranuloma of lymph nodes of multiple sites,Disorder
+140664,Sézary's disease of lymph nodes of multiple sites,Disorder
+140666,Myeloid leukemia,Disorder
+140672,Acute monocytic leukemia in remission,Disorder
+140681,Constitutional aplastic anemia,Disorder
+140803,Idiopathic urticaria,Disorder
+140958,Kaposi's sarcoma of palate,Disorder
+140967,Myeloid sarcoma,Disorder
+141056,Acute ethmoidal sinusitis,Disorder
+141089,Carbuncle of foot,Disorder
+141090,Pyogenic granuloma of skin,Disorder
+141094,Lichen,Disorder
+141095,Acne,Disorder
+141143,Anterior cord syndrome due to open fracture of T1-T6 level,Disorder
+141168,"Abrasion and/or friction burn of hand, infected",Disorder
+141232,Malignant melanoma of skin,Disorder
+141243,"Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes",Disorder
+141248,Benign neoplasm of skin of lip,Disorder
+141323,Acute maxillary sinusitis,Disorder
+141371,Pityriasis rosea,Disorder
+141374,Actinic prurigo,Disorder
+141375,Hypertrophic condition of skin,Disorder
+141404,Abnormal dermatoglyphic pattern,Disorder
+141648,Contact dermatitis caused by cosmetics,Disorder
+141650,Disseminated superficial actinic porokeratosis,Disorder
+141651,Stevens-Johnson syndrome,Disorder
+141797,Black piedra,Disorder
+141816,Acute lymphoid leukemia in remission,Disorder
+141917,Balanitis xerotica obliterans,Disorder
+141932,Senile hyperkeratosis,Disorder
+141933,Alopecia areata,Disorder
+141972,Open fracture of T1-T6 level with spinal cord injury,Disorder
+142016,Nonvenomous insect bite of finger with infection,Disorder
+1447982,Structure of styloid process of right ulna,BodyStructure
+1447983,Structure of styloid process of left ulna,BodyStructure
+1449173,Autosomal dominant hyper-IgE syndrome due to STAT3 deficiency,Disorder
+1449341,Endemic pemphigus foliaceus,Disorder
+1450037,Fracture of first rib,Disorder
+1450038,Fracture of second rib,Disorder
+1450039,Fracture of third rib,Disorder
+1450040,Fracture of fourth rib,Disorder
+1450043,Fracture of fifth rib,Disorder
+1450044,Fracture of sixth rib,Disorder
+1450045,Fracture of seventh rib,Disorder
+1450046,Fracture of eighth rib,Disorder
+1450047,Fracture of ninth rib,Disorder
+1450048,Fracture of tenth rib,Disorder
+1450049,Fracture of eleventh rib,Disorder
+1450050,Fracture of twelfth rib,Disorder
+1450480,Aggressive fibromatosis of back,Disorder
+1472271,Rash(es),Answer
+14734,Contusion of right hip,5CharNonbillCode
+14735,Contusion of left hip,5CharNonbillCode
+14737,Contusion of right thigh,5CharNonbillCode
+14738,Contusion of left thigh,5CharNonbillCode
+14835,Displaced fracture of base of neck of right femur,6CharNonbillCode
+14836,Displaced fracture of base of neck of left femur,6CharNonbillCode
+14838,Nondisplaced fracture of base of neck of right femur,6CharNonbillCode
+14839,Nondisplaced fracture of base of neck of left femur,6CharNonbillCode
+14844,Displaced articular fracture of head of right femur,6CharNonbillCode
+14845,Displaced articular fracture of head of left femur,6CharNonbillCode
+14847,Nondisplaced articular fracture of head of right femur,6CharNonbillCode
+14848,Nondisplaced articular fracture of head of left femur,6CharNonbillCode
+14868,Displaced apophyseal fracture of right femur,6CharNonbillCode
+14869,Displaced apophyseal fracture of left femur,6CharNonbillCode
+14871,Nondisplaced apophyseal fracture of right femur,6CharNonbillCode
+14872,Nondisplaced apophyseal fracture of left femur,6CharNonbillCode
+14874,Displaced intertrochanteric fracture of right femur,6CharNonbillCode
+14875,Displaced intertrochanteric fracture of left femur,6CharNonbillCode
+14877,Nondisplaced intertrochanteric fracture of right femur,6CharNonbillCode
+14878,Nondisplaced intertrochanteric fracture of left femur,6CharNonbillCode
+14880,Displaced subtrochanteric fracture of right femur,5CharNonbillCode
+14881,Displaced subtrochanteric fracture of left femur,5CharNonbillCode
+14883,Nondisplaced subtrochanteric fracture of right femur,5CharNonbillCode
+14884,Nondisplaced subtrochanteric fracture of left femur,5CharNonbillCode
+14889,Displaced transverse fracture of shaft of right femur,6CharNonbillCode
+14890,Displaced transverse fracture of shaft of left femur,6CharNonbillCode
+14892,Nondisplaced transverse fracture of shaft of right femur,6CharNonbillCode
+14893,Nondisplaced transverse fracture of shaft of left femur,6CharNonbillCode
+14895,Displaced oblique fracture of shaft of right femur,6CharNonbillCode
+14896,Displaced oblique fracture of shaft of left femur,6CharNonbillCode
+14898,Nondisplaced oblique fracture of shaft of right femur,6CharNonbillCode
+14899,Nondisplaced oblique fracture of shaft of left femur,6CharNonbillCode
+14901,Displaced spiral fracture of shaft of right femur,6CharNonbillCode
+14902,Displaced spiral fracture of shaft of left femur,6CharNonbillCode
+14904,Nondisplaced spiral fracture of shaft of right femur,6CharNonbillCode
+14905,Nondisplaced spiral fracture of shaft of left femur,6CharNonbillCode
+14907,Displaced comminuted fracture of shaft of right femur,6CharNonbillCode
+14908,Displaced comminuted fracture of shaft of left femur,6CharNonbillCode
+14910,Nondisplaced comminuted fracture of shaft of right femur,6CharNonbillCode
+14911,Nondisplaced comminuted fracture of shaft of left femur,6CharNonbillCode
+14913,Displaced segmental fracture of shaft of right femur,6CharNonbillCode
+14914,Displaced segmental fracture of shaft of left femur,6CharNonbillCode
+14916,Nondisplaced segmental fracture of shaft of right femur,6CharNonbillCode
+14917,Nondisplaced segmental fracture of shaft of left femur,6CharNonbillCode
+14931,Displaced fracture of lateral condyle of right femur,6CharNonbillCode
+14932,Displaced fracture of lateral condyle of left femur,6CharNonbillCode
+14934,Nondisplaced fracture of lateral condyle of right femur,6CharNonbillCode
+14935,Nondisplaced fracture of lateral condyle of left femur,6CharNonbillCode
+14937,Displaced fracture of medial condyle of right femur,6CharNonbillCode
+14938,Displaced fracture of medial condyle of left femur,6CharNonbillCode
+14940,Nondisplaced fracture of medial condyle of right femur,6CharNonbillCode
+14941,Nondisplaced fracture of medial condyle of left femur,6CharNonbillCode
+15223,Contusion of right knee,5CharNonbillCode
+15224,Contusion of left knee,5CharNonbillCode
+15226,Contusion of right lower leg,5CharNonbillCode
+15227,Contusion of left lower leg,5CharNonbillCode
+15309,Displaced osteochondral fracture of right patella,6CharNonbillCode
+15310,Displaced osteochondral fracture of left patella,6CharNonbillCode
+15312,Nondisplaced osteochondral fracture of right patella,6CharNonbillCode
+15313,Nondisplaced osteochondral fracture of left patella,6CharNonbillCode
+15315,Displaced longitudinal fracture of right patella,6CharNonbillCode
+15316,Displaced longitudinal fracture of left patella,6CharNonbillCode
+15318,Nondisplaced longitudinal fracture of right patella,6CharNonbillCode
+15319,Nondisplaced longitudinal fracture of left patella,6CharNonbillCode
+15321,Displaced transverse fracture of right patella,6CharNonbillCode
+15322,Displaced transverse fracture of left patella,6CharNonbillCode
+15324,Nondisplaced transverse fracture of right patella,6CharNonbillCode
+15325,Nondisplaced transverse fracture of left patella,6CharNonbillCode
+15339,Displaced fracture of right tibial spine,6CharNonbillCode
+15340,Displaced fracture of left tibial spine,6CharNonbillCode
+15342,Nondisplaced fracture of right tibial spine,6CharNonbillCode
+15343,Nondisplaced fracture of left tibial spine,6CharNonbillCode
+15345,Displaced fracture of lateral condyle of right tibia,6CharNonbillCode
+15346,Displaced fracture of lateral condyle of left tibia,6CharNonbillCode
+15348,Nondisplaced fracture of lateral condyle of right tibia,6CharNonbillCode
+15349,Nondisplaced fracture of lateral condyle of left tibia,6CharNonbillCode
+15351,Displaced fracture of medial condyle of right tibia,6CharNonbillCode
+15352,Displaced fracture of medial condyle of left tibia,6CharNonbillCode
+15354,Nondisplaced fracture of medial condyle of right tibia,6CharNonbillCode
+15355,Nondisplaced fracture of medial condyle of left tibia,6CharNonbillCode
+15357,Displaced bicondylar fracture of right tibia,6CharNonbillCode
+15358,Displaced bicondylar fracture of left tibia,6CharNonbillCode
+15360,Nondisplaced bicondylar fracture of right tibia,6CharNonbillCode
+15361,Nondisplaced bicondylar fracture of left tibia,6CharNonbillCode
+15363,Displaced fracture of right tibial tuberosity,6CharNonbillCode
+15364,Displaced fracture of left tibial tuberosity,6CharNonbillCode
+15366,Nondisplaced fracture of right tibial tuberosity,6CharNonbillCode
+15367,Nondisplaced fracture of left tibial tuberosity,6CharNonbillCode
+15378,Displaced transverse fracture of shaft of right tibia,6CharNonbillCode
+15379,Displaced transverse fracture of shaft of left tibia,6CharNonbillCode
+15381,Nondisplaced transverse fracture of shaft of right tibia,6CharNonbillCode
+15382,Nondisplaced transverse fracture of shaft of left tibia,6CharNonbillCode
+15384,Displaced oblique fracture of shaft of right tibia,6CharNonbillCode
+15385,Displaced oblique fracture of shaft of left tibia,6CharNonbillCode
+15387,Nondisplaced oblique fracture of shaft of right tibia,6CharNonbillCode
+15388,Nondisplaced oblique fracture of shaft of left tibia,6CharNonbillCode
+15390,Displaced spiral fracture of shaft of right tibia,6CharNonbillCode
+15391,Displaced spiral fracture of shaft of left tibia,6CharNonbillCode
+15393,Nondisplaced spiral fracture of shaft of right tibia,6CharNonbillCode
+15394,Nondisplaced spiral fracture of shaft of left tibia,6CharNonbillCode
+15396,Displaced comminuted fracture of shaft of right tibia,6CharNonbillCode
+15397,Displaced comminuted fracture of shaft of left tibia,6CharNonbillCode
+15399,Nondisplaced comminuted fracture of shaft of right tibia,6CharNonbillCode
+15400,Nondisplaced comminuted fracture of shaft of left tibia,6CharNonbillCode
+15402,Displaced segmental fracture of shaft of right tibia,6CharNonbillCode
+15403,Displaced segmental fracture of shaft of left tibia,6CharNonbillCode
+15405,Nondisplaced segmental fracture of shaft of right tibia,6CharNonbillCode
+15406,Nondisplaced segmental fracture of shaft of left tibia,6CharNonbillCode
+15423,Displaced transverse fracture of shaft of right fibula,6CharNonbillCode
+15424,Displaced transverse fracture of shaft of left fibula,6CharNonbillCode
+15426,Nondisplaced transverse fracture of shaft of right fibula,6CharNonbillCode
+15427,Nondisplaced transverse fracture of shaft of left fibula,6CharNonbillCode
+15429,Displaced oblique fracture of shaft of right fibula,6CharNonbillCode
+15430,Displaced oblique fracture of shaft of left fibula,6CharNonbillCode
+15432,Nondisplaced oblique fracture of shaft of right fibula,6CharNonbillCode
+15433,Nondisplaced oblique fracture of shaft of left fibula,6CharNonbillCode
+15435,Displaced spiral fracture of shaft of right fibula,6CharNonbillCode
+15436,Displaced spiral fracture of shaft of left fibula,6CharNonbillCode
+15438,Nondisplaced spiral fracture of shaft of right fibula,6CharNonbillCode
+15439,Nondisplaced spiral fracture of shaft of left fibula,6CharNonbillCode
+15441,Displaced comminuted fracture of shaft of right fibula,6CharNonbillCode
+15442,Displaced comminuted fracture of shaft of left fibula,6CharNonbillCode
+15444,Nondisplaced comminuted fracture of shaft of right fibula,6CharNonbillCode
+15445,Nondisplaced comminuted fracture of shaft of left fibula,6CharNonbillCode
+15447,Displaced segmental fracture of shaft of right fibula,6CharNonbillCode
+15448,Displaced segmental fracture of shaft of left fibula,6CharNonbillCode
+15450,Nondisplaced segmental fracture of shaft of right fibula,6CharNonbillCode
+15451,Nondisplaced segmental fracture of shaft of left fibula,6CharNonbillCode
+15456,Displaced fracture of medial malleolus of right tibia,5CharNonbillCode
+15457,Displaced fracture of medial malleolus of left tibia,5CharNonbillCode
+15459,Nondisplaced fracture of medial malleolus of right tibia,5CharNonbillCode
+15460,Nondisplaced fracture of medial malleolus of left tibia,5CharNonbillCode
+15462,Displaced fracture of lateral malleolus of right fibula,5CharNonbillCode
+15463,Displaced fracture of lateral malleolus of left fibula,5CharNonbillCode
+15465,Nondisplaced fracture of lateral malleolus of right fibula,5CharNonbillCode
+15466,Nondisplaced fracture of lateral malleolus of left fibula,5CharNonbillCode
+15477,Displaced bimalleolar fracture of right lower leg,6CharNonbillCode
+15478,Displaced bimalleolar fracture of left lower leg,6CharNonbillCode
+15480,Nondisplaced bimalleolar fracture of right lower leg,6CharNonbillCode
+15481,Nondisplaced bimalleolar fracture of left lower leg,6CharNonbillCode
+15483,Displaced trimalleolar fracture of right lower leg,6CharNonbillCode
+15484,Displaced trimalleolar fracture of left lower leg,6CharNonbillCode
+15486,Nondisplaced trimalleolar fracture of right lower leg,6CharNonbillCode
+15487,Nondisplaced trimalleolar fracture of left lower leg,6CharNonbillCode
+1553746,Severe combined immunodeficiency due to adenosine deaminase deficiency,5CharBillingCode
+1553819,"Congenital metatarsus primus varus, right foot",6CharBillingCode
+1553820,"Congenital metatarsus primus varus, left foot",6CharBillingCode
+1553837,"Ehlers-Danlos syndrome, unspecified",5CharBillingCode
+1553839,Hypermobile Ehlers-Danlos syndrome,5CharBillingCode
+1553840,Vascular Ehlers-Danlos syndrome,5CharBillingCode
+1553841,Other Ehlers-Danlos syndromes,5CharBillingCode
+1553843,Other congenital malformation syndromes predominantly associated with short stature,5CharBillingCode
+1553847,Fracture of orbital roof,5CharNonbillCode
+1553913,"Fracture of orbit, unspecified",5CharNonbillCode
+1567265,Erysipeloid,3CharNonbillCode
+1567320,Anogenital herpesviral [herpes simplex] infections,3CharNonbillCode
+1567350,Herpesviral [herpes simplex] infections,3CharNonbillCode
+1567351,Herpesviral ocular disease,4CharNonbillCode
+1567364,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",3CharNonbillCode
+1567370,Other human herpesvirus encephalitis,4CharNonbillCode
+1567383,Infectious mononucleosis,3CharNonbillCode
+1567384,Gammaherpesviral mononucleosis,4CharNonbillCode
+1567385,Cytomegaloviral mononucleosis,4CharNonbillCode
+1567387,"Infectious mononucleosis, unspecified",4CharNonbillCode
+1567392,Dermatophytosis,3CharNonbillCode
+1567485,Malignant neoplasm of larynx,3CharNonbillCode
+1567502,Malignant melanoma of skin,3CharNonbillCode
+1567503,"Malignant melanoma of eyelid, including canthus",4CharNonbillCode
+1567504,Malignant melanoma of ear and external auricular canal,4CharNonbillCode
+1567506,Malignant melanoma of trunk,4CharNonbillCode
+1567508,"Malignant melanoma of lower limb, including hip",4CharNonbillCode
+1567515,Other and unspecified malignant neoplasm of skin,3CharNonbillCode
+1567529,Kaposi's sarcoma,3CharNonbillCode
+1567633,Hodgkin lymphoma,3CharNonbillCode
+1567634,Nodular lymphocyte predominant Hodgkin lymphoma,4CharNonbillCode
+1567635,Nodular sclerosis Hodgkin lymphoma,4CharNonbillCode
+1567636,Mixed cellularity Hodgkin lymphoma,4CharNonbillCode
+1567637,Lymphocyte depleted Hodgkin lymphoma,4CharNonbillCode
+1567638,Lymphocyte-rich Hodgkin lymphoma,4CharNonbillCode
+1567639,Other Hodgkin lymphoma,4CharNonbillCode
+1567640,"Hodgkin lymphoma, unspecified",4CharNonbillCode
+1567641,Follicular lymphoma,3CharNonbillCode
+1567642,Follicular lymphoma grade I,4CharNonbillCode
+1567643,Follicular lymphoma grade II,4CharNonbillCode
+1567648,Cutaneous follicle center lymphoma,4CharNonbillCode
+1567649,Other types of follicular lymphoma,4CharNonbillCode
+1567650,"Follicular lymphoma, unspecified",4CharNonbillCode
+1567652,Small cell B-cell lymphoma,4CharNonbillCode
+1567653,Mantle cell lymphoma,4CharNonbillCode
+1567654,Diffuse large B-cell lymphoma,4CharNonbillCode
+1567655,Lymphoblastic (diffuse) lymphoma,4CharNonbillCode
+1567656,Burkitt lymphoma,4CharNonbillCode
+1567657,Other non-follicular lymphoma,4CharNonbillCode
+1567660,Mycosis fungoides,4CharNonbillCode
+1567661,Sezary disease,4CharNonbillCode
+1567662,"Peripheral T-cell lymphoma, not elsewhere classified",4CharNonbillCode
+1567663,"Anaplastic large cell lymphoma, ALK-positive",4CharNonbillCode
+1567668,Other specified and unspecified types of non-Hodgkin lymphoma,3CharNonbillCode
+1567671,Other specified types of non-Hodgkin lymphoma,4CharNonbillCode
+1567672,"Non-Hodgkin lymphoma, unspecified",4CharNonbillCode
+1567677,Plasma cell leukemia,4CharNonbillCode
+1567680,Lymphoid leukemia,3CharNonbillCode
+1567681,Acute lymphoblastic leukemia [ALL],4CharNonbillCode
+1567682,Chronic lymphocytic leukemia of B-cell type,4CharNonbillCode
+1567684,Hairy cell leukemia,4CharNonbillCode
+1567685,Adult T-cell lymphoma/leukemia (HTLV-1-associated),4CharNonbillCode
+1567687,Other lymphoid leukemia,4CharNonbillCode
+1567688,"Lymphoid leukemia, unspecified",4CharNonbillCode
+1567689,Myeloid leukemia,3CharNonbillCode
+1567690,Acute myeloblastic leukemia,4CharNonbillCode
+1567691,"Chronic myeloid leukemia, BCR/ABL-positive",4CharNonbillCode
+1567692,"Atypical chronic myeloid leukemia, BCR/ABL-negative",4CharNonbillCode
+1567693,Myeloid sarcoma,4CharNonbillCode
+1567694,Acute promyelocytic leukemia,4CharNonbillCode
+1567695,Acute myelomonocytic leukemia,4CharNonbillCode
+1567697,Other myeloid leukemia,4CharNonbillCode
+1567698,"Myeloid leukemia, unspecified",4CharNonbillCode
+1567699,Monocytic leukemia,3CharNonbillCode
+1567700,Acute monoblastic/monocytic leukemia,4CharNonbillCode
+1567701,Chronic myelomonocytic leukemia,4CharNonbillCode
+1567702,Juvenile myelomonocytic leukemia,4CharNonbillCode
+1567703,Other monocytic leukemia,4CharNonbillCode
+1567704,"Monocytic leukemia, unspecified",4CharNonbillCode
+1567706,Acute erythroid leukemia,4CharNonbillCode
+1567707,Acute megakaryoblastic leukemia,4CharNonbillCode
+1567708,Mast cell leukemia,4CharNonbillCode
+1567709,Acute panmyelosis with myelofibrosis,4CharNonbillCode
+1567710,Other specified leukemias,4CharNonbillCode
+1567711,Leukemia of unspecified cell type,3CharNonbillCode
+1567712,Acute leukemia of unspecified cell type,4CharNonbillCode
+1567713,Chronic leukemia of unspecified cell type,4CharNonbillCode
+1567714,"Leukemia, unspecified",4CharNonbillCode
+1567717,"Carcinoma in situ of lip, oral cavity and pharynx",4CharNonbillCode
+1567718,Carcinoma in situ of other and unspecified digestive organs,3CharNonbillCode
+1567719,Carcinoma in situ of other and unspecified parts of intestine,4CharNonbillCode
+1567720,Carcinoma in situ of middle ear and respiratory system,3CharNonbillCode
+1567721,Carcinoma in situ of bronchus and lung,4CharNonbillCode
+1567722,Melanoma in situ,3CharNonbillCode
+1567724,Melanoma in situ of ear and external auricular canal,4CharNonbillCode
+1567726,Melanoma in situ of trunk,4CharNonbillCode
+1567729,Carcinoma in situ of skin,3CharNonbillCode
+1567730,"Carcinoma in situ of skin of eyelid, including canthus",4CharNonbillCode
+1567731,Carcinoma in situ of skin of ear and external auricular canal,4CharNonbillCode
+1567732,Carcinoma in situ of skin of other and unspecified parts of face,4CharNonbillCode
+1567733,"Carcinoma in situ of skin of upper limb, including shoulder",4CharNonbillCode
+1567734,"Carcinoma in situ of skin of lower limb, including hip",4CharNonbillCode
+1567735,Carcinoma in situ of breast,3CharNonbillCode
+1567736,Lobular carcinoma in situ of breast,4CharNonbillCode
+1567739,Unspecified type of carcinoma in situ of breast,4CharNonbillCode
+1567744,Carcinoma in situ of other and unspecified sites,3CharNonbillCode
+1567745,Carcinoma in situ of other and unspecified urinary organs,4CharNonbillCode
+1567746,Carcinoma in situ of eye,4CharNonbillCode
+1567764,"Hemangioma and lymphangioma, any site",3CharNonbillCode
+1567765,Hemangioma,4CharNonbillCode
+1567771,Melanocytic nevi,3CharNonbillCode
+1567777,Other benign neoplasms of skin,3CharNonbillCode
+1567778,"Other benign neoplasm of skin of eyelid, including canthus",4CharNonbillCode
+1567779,Other benign neoplasm of skin of ear and external auricular canal,4CharNonbillCode
+1567780,Other benign neoplasm of skin of other and unspecified parts of face,4CharNonbillCode
+1567781,"Other benign neoplasm of skin of upper limb, including shoulder",4CharNonbillCode
+1567782,"Other benign neoplasm of skin of lower limb, including hip",4CharNonbillCode
+1567831,Myelodysplastic syndromes,3CharNonbillCode
+1567855,Constitutional aplastic anemia,4CharNonbillCode
+1567864,Other primary thrombocytopenia,4CharNonbillCode
+1567865,Neutropenia,3CharNonbillCode
+1567866,Other disorders of white blood cells,3CharNonbillCode
+1567867,Other specified disorders of white blood cells,4CharNonbillCode
+1567868,Decreased white blood cell count,5CharNonbillCode
+1567869,Elevated white blood cell count,5CharNonbillCode
+1567881,Immunodeficiency with predominantly antibody defects,3CharNonbillCode
+1567885,Immunodeficiency associated with other major defects,3CharNonbillCode
+1567886,Common variable immunodeficiency,3CharNonbillCode
+1567887,Other immunodeficiencies,3CharNonbillCode
+1567888,Sarcoidosis,3CharNonbillCode
+1567889,Sarcoidosis of other sites,4CharNonbillCode
+1567890,"Other disorders involving the immune mechanism, not elsewhere classified",3CharNonbillCode
+1568027,Albinism,4CharNonbillCode
+1568028,Albinism with hematologic abnormality,5CharNonbillCode
+1568477,Chloasma of eyelid and periocular area,5CharNonbillCode
+1568479,Vitiligo of eyelid and periocular area,5CharNonbillCode
+1568504,Cellulitis of orbit,5CharNonbillCode
+1568566,Keratitis,3CharNonbillCode
+1568567,Corneal ulcer,4CharNonbillCode
+1568568,Unspecified corneal ulcer,5CharNonbillCode
+1568569,Corneal ulcer with hypopyon,5CharNonbillCode
+1568570,Mooren's corneal ulcer,5CharNonbillCode
+1568572,Unspecified superficial keratitis,5CharNonbillCode
+1568573,Keratoconjunctivitis,4CharNonbillCode
+1568574,Unspecified keratoconjunctivitis,5CharNonbillCode
+1568576,Other keratoconjunctivitis,5CharNonbillCode
+1568577,Interstitial and deep keratitis,4CharNonbillCode
+1568578,Unspecified interstitial keratitis,5CharNonbillCode
+1568579,Other interstitial and deep keratitis,5CharNonbillCode
+1568585,Adherent leukoma,4CharNonbillCode
+1568586,Central corneal opacity,4CharNonbillCode
+1568936,Otitis externa,3CharNonbillCode
+1568937,Abscess of external ear,4CharNonbillCode
+1568938,Cellulitis of external ear,4CharNonbillCode
+1568939,Malignant otitis externa,4CharNonbillCode
+1568942,Cholesteatoma of external ear,4CharNonbillCode
+1568943,Acute noninfective otitis externa,4CharNonbillCode
+1568944,Unspecified acute noninfective otitis externa,5CharNonbillCode
+1568947,Other otitis externa,4CharNonbillCode
+1568948,Other otitis externa,5CharNonbillCode
+1568949,Unspecified otitis externa,4CharNonbillCode
+1568969,Otitis externa in other diseases classified elsewhere,4CharNonbillCode
+1569003,Acute mastoiditis,4CharNonbillCode

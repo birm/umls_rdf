@@ -1,0 +1,206 @@
+concept_id,label,concept_class
+1011679,ECG,LoincComponent
+1028987,Electrocardiogram (EKG),LoincMethod
+1029070,Holter monitor,LoincMethod
+1448963,Implantable electrocardiographic monitor and loop recorder,PhysicalObject
+2007058,Other cardiovascular stress test,4DigBillingCode
+2007075,Ambulatory cardiac monitoring,4DigBillingCode
+2616270,"Transthoracic echocardiography with contrast, or without contrast followed by with contrast, real-time with image documentation (2d), includes m-mode recording, when performed, during rest and cardiovascular stress test using treadmill, bicycle exercis...",Hcpcs
+2616272,"Transthoracic echocardiography, with contrast, or without contrast followed by with contrast, real-time with image documentation (2d), includes m-mode recording, when performed, during rest and cardiovascular stress test using treadmill, bicycle exerci...",Hcpcs
+2617442,"TRACING ONLY, WITHOUT INTERPRETATION AND REPORT, PERFORMED AS A COMPONENT OF THE INITIAL PREVENTIVE EXAMINATION (Deprecated)",Hcpcs
+2617443,"INTERPRETATION AND REPORT ONLY, PERFORMED AS A COMPONENT OF THE INITIAL PREVENTIVE EXAMINATION (Deprecated)",Hcpcs
+2617470,"Electrocardiogram, routine ecg with 12 leads; performed as a screening for the initial preventive physical examination with interpretation and report",Hcpcs
+2617471,"Electrocardiogram, routine ecg with 12 leads; tracing only, without interpretation and report, performed as a screening for the initial preventive physical examination",Hcpcs
+2721042,"ELECTROCARDIOGRAPHIC MONITORING UTILIZING A HOME COMPUTERIZED TELEMETRY STATION WITH AUTOMATIC ACTIVATION AND REAL-TIME NOTIFICATION OF MONITORING STATION, 24-HOUR ATTENDED MONITORING, INCLUDING PHYSICIAN REVIEW AND INTERPRETATION; 24-HOUR... (Deprecated)",Hcpcs
+2785849,Ultrasonography of Single Coronary Artery using Other Contrast,Icd10pcs
+2785850,"Ultrasonography of Single Coronary Artery, Intravascular",Icd10pcs
+2785853,Ultrasonography of Multiple Coronary Arteries using Other Contrast,Icd10pcs
+2785854,"Ultrasonography of Multiple Coronary Arteries, Intravascular",Icd10pcs
+2786044,Ultrasonography of Right Heart using Other Contrast,Icd10pcs
+2786045,"Ultrasonography of Right Heart, Intravascular",Icd10pcs
+2786048,Ultrasonography of Left Heart using Other Contrast,Icd10pcs
+2786049,"Ultrasonography of Left Heart, Intravascular",Icd10pcs
+2786052,Ultrasonography of Right and Left Heart using Other Contrast,Icd10pcs
+2786053,"Ultrasonography of Right and Left Heart, Intravascular",Icd10pcs
+2786056,Ultrasonography of Heart with Aorta using Other Contrast,Icd10pcs
+2786057,"Ultrasonography of Heart with Aorta, Intravascular",Icd10pcs
+2786060,Ultrasonography of Pericardium using Other Contrast,Icd10pcs
+2786061,"Ultrasonography of Pericardium, Intravascular",Icd10pcs
+2786064,Ultrasonography of Pediatric Heart using Other Contrast,Icd10pcs
+2786065,"Ultrasonography of Pediatric Heart, Intravascular",Icd10pcs
+2787293,"Monitoring of Cardiac Electrical Activity, Open Approach",Icd10pcs
+2787298,"Monitoring of Cardiac Electrical Activity, Percutaneous Approach",Icd10pcs
+2787303,"Monitoring of Cardiac Electrical Activity, Ambulatory, External Approach",Icd10pcs
+2787304,"Monitoring of Cardiac Electrical Activity, External Approach",Icd10pcs
+3521514,Radionuclide myocardial perfusion stress study using technetium Tc-99m methoxyisobutylisonitrile,Procedure
+3521518,Cardiopulmonary exercise test,Procedure
+3521586,Cardiovascular stress test using the dobutamine stress test protocol,Procedure
+3522302,Shuttle walking test,Undefined
+3522418,Shuttle walking test,Undefined
+3522620,Shuttle walking test,Undefined
+3522874,Shuttle walking test,Undefined
+3523307,Tilt table test,Undefined
+3524527,Tilt table testing,Procedure
+3524585,48 hour ambulatory electrocardiography,Procedure
+3524586,Cardiomemo electrocardiographic monitoring,Procedure
+3525956,24 Hour ECG,Undefined
+3525957,48 hour ambulatory electrocardiography,Undefined
+3525958,Stress ECG,Undefined
+3525959,Holter extended electrocardiographic recording,Undefined
+3525960,Cardiomemo electrocardiographic monitoring,Undefined
+3526012,Tilt table testing,Undefined
+3526379,Incremental shuttle walk test,Undefined
+3526419,Incremental shuttle walk test,Undefined
+3526420,Endurance shuttle walk test,Undefined
+3542467,6-minute walk test,Undefined
+3543797,Cardiovascular stress test using pharmacologic stress agent,Procedure
+3543820,Chester step test,Undefined
+3544325,Electrocardiography,Undefined
+3544326,Cardiovascular stress test using pharmacologic stress agent,Undefined
+3545824,Electrocardiogram rhythm strip monitoring,Undefined
+3546030,Cardiopulmonary exercise test,Undefined
+3546106,Cardiovascular stress test using adenosine stress test protocol,Procedure
+3546845,Cardiovascular stress test using dobutamine stress test protocol,Undefined
+3546949,72 hour ambulatory electrocardiographic monitoring,Undefined
+3559797,Cardiovascular stress test using Bruce protocol,Undefined
+35608108,GSPECT of myocardium using technetium (99m-Tc) sestamibi,Procedure
+35608109,Radionuclide imaging of myocardium using technetium (99m-Tc) sestamibi with cardiac stress test,Procedure
+35622703,Radionuclide imaging of myocardium using technetium (99m-Tc) sestamibi with administration of dipyridamole,Procedure
+3563514,18 lead electrocardiographic monitoring,Procedure
+3566045,Holter extended electrocardiographic recording,Procedure
+3567506,Endurance shuttle walk test,Procedure
+3569609,3 lead electrocardiographic monitoring,Procedure
+3570185,15 lead electrocardiographic monitoring,Procedure
+3571732,Tilt table test,Undefined
+3572511,Electrocardiography,Undefined
+3573984,Radionuclide myocardial perfusion stress study using technetium Tc-99m methoxyisobutylisonitrile,Undefined
+3573987,Cardiovascular stress test using adenosine stress test protocol,Undefined
+36308175,Electrocardiogram,Answer
+36309064,Cardiac Stress Testing,Answer
+36309821,Stress echocardiogram,Answer
+37023739,12 lead EKG panel,LoincComponent
+37155245,14 day ambulatory electrocardiographic monitoring,Procedure
+37155246,7 day ambulatory electrocardiographic monitoring,Procedure
+37159228,ECG (electrocardiogram) gated CT venography of cardiac vein with contrast,Procedure
+37311809,Echocardiography using pharmacologic stress agent,Procedure
+37311810,Stress echocardiography,Procedure
+37312752,Preoperative cardiopulmonary exercise test using bicycle ergometer,Procedure
+37312753,Preoperative cardiopulmonary exercise test using arm ergometer,Procedure
+37312776,Cardiopulmonary exercise test using arm ergometer,Procedure
+37312777,Cardiopulmonary exercise test using bicycle ergometer,Procedure
+37396252,72 hour ambulatory electrocardiographic monitoring,Procedure
+4006458,Intracardiac electrophysiologic procedure with ECG,Procedure
+4008307,Phonocardiogram with ECG lead,Procedure
+4018841,Percutaneous transluminal electrophysiological studies on conducting system of heart,Procedure
+40217702,"Post-symptom telephonic transmission of electrocardiogram rhythm strip(s) and 24-hour attended monitoring, per 30-day period; tracing only (Deprecated)",Hcpcs
+40217714,ECG phy review & interpret (Deprecated),Hcpcs
+40217815,"Patient demand single or multiple event recording with pre-symptom memory loop and 24-hour attended monitoring, per 30-day period; 24-hour attended monitoring, receipt of transmissions, and analysis (Deprecated)",Hcpcs
+40218329,ECG transm phys review & int (Deprecated),Hcpcs
+40218340,"Post-symptom telephonic transmission of electrocardiogram rhythm strip(s) and 24 hour attended monitoring, per 30 day period; physician review and interpretation only (Deprecated)",Hcpcs
+4028481,"Electrocardiogram, intracardiac, His bundle recording",Procedure
+40297725,Electrocardiography,Procedure
+40297728,12 lead ECG,Procedure
+40297730,Stress ECG,Procedure
+40297731,Ambulatory ECG,Procedure
+40297738,12 lead ECG,Procedure
+40298292,24 Hour ECG,Procedure
+40298851,Exercise tolerance test,Procedure
+40309093,Electrocardiography,Procedure
+4032141,"Electrocardiogram, single lead",Procedure
+40329471,Electrocardiography,Procedure
+40329487,12 lead ECG,Procedure
+40330033,24 Hour ECG,Procedure
+4033557,Tilt table test,Procedure
+4034869,Left ventricular recording,Procedure
+40367083,Vectorcardiogram with ECG,Procedure
+4043543,Pepper protocol,Procedure
+4044735,Ellestad protocol,Procedure
+4044736,Ramp protocol,Procedure
+40461142,Exercise stress echocardiography,Procedure
+40491312,12 lead electrocardiogram at rest,Procedure
+40491313,12 lead electrocardiogram during exercise,Procedure
+40492338,Cardiopulmonary exercise test,Procedure
+4053165,Electrocardiogram with maximal exercise test,Procedure
+40587839,Tilt table test,Procedure
+4065276,ECG - general,Procedure
+4065277,Standard ECG,Procedure
+4065278,Ambulatory ECG,Procedure
+4065416,Exercise tolerance test,Procedure
+4090980,Stair-climbing test,Procedure
+4091303,Exercise stress test - endocrine,Procedure
+4092959,Shuttle test,Procedure
+4094501,Cardiovascular stress test using bicycle ergometer,Procedure
+4098049,Progressive exercise test,Procedure
+4098347,Progressive exercise test on bicycle,Procedure
+4098508,24 Hour ECG,Procedure
+4098518,Progressive exercise test on treadmill,Procedure
+4099101,6-minute walk test,Procedure
+4099102,12-minute walk test,Procedure
+4099103,Simple walk test,Procedure
+4119098,Stimulation of carotid sinus with simultaneous electrocardiographic monitoring,Procedure
+4121310,Walking exercise test,Procedure
+4137237,Cardiomemo electrocardiographic monitoring,Procedure
+4137702,Endurance shuttle walk test,Procedure
+4140473,Holter extended electrocardiographic recording,Procedure
+4140676,Signal-averaged electrocardiography,Procedure
+4140912,18 lead electrocardiographic monitoring,Procedure
+4141651,Continuous ECG monitoring,Procedure
+4144544,Continuous electrocardiogram,Procedure
+4145308,12 lead ECG,Procedure
+4145916,"Electrocardiogram monitoring, 10 hour portrait",Procedure
+4146297,48 hour ambulatory electrocardiographic monitoring,Procedure
+4148302,Bundle of His recording,Procedure
+4150682,Electrocardiogram with sub-maximal exercise test,Procedure
+4151424,Monitoring of cardiac output by ECG,Procedure
+4154744,ECG automated dysrhythmia monitoring,Procedure
+4155644,EKG ST segment monitoring,Procedure
+4163951,Electrocardiographic procedure,Procedure
+4178324,Stress test using cardiac pacing,Procedure
+4179374,15 lead electrocardiographic monitoring,Procedure
+4181448,Pharmacologic and exercise stress test,Procedure
+4187078,Electrocardiographic monitoring,Procedure
+4204712,Apexcardiography,Procedure
+4211020,"Electrocardiogram, esophageal lead",Procedure
+4213739,Cardiovascular stress test using treadmill,Procedure
+4215796,Right ventricular recording,Procedure
+4217026,Ergonovine provocation test,Procedure
+4217935,"Phonocardiogram with ECG lead, interpretation and report",Procedure
+4225900,Tracing of carotid pulse with ECG lead,Procedure
+4229427,"Biofeedback, electrocardiogram",Procedure
+4235362,Measurement of microvolt T wave alternans for ventricular arrhythmia assessment,Procedure
+4235899,Intra-atrial recording,Procedure
+4236501,Monitoring of ECG and pressure during major surgery,Procedure
+4237055,Monitoring of ECG at surgery,Procedure
+4250762,Electrocardiogram with vectorcardiogram,Procedure
+4261616,"Masters' stress test, two-step",Procedure
+4261794,Electrocardiogram with exercise test,Procedure
+4277091,"Electrocardiogram, intracardiac",Procedure
+4286037,Electrocardiographic recording from artificial pacemaker,Procedure
+4296597,Cardiovascular stress testing,Procedure
+4309083,Cardiovascular stress test using the adenosine stress test protocol,Procedure
+4311809,"Monitoring of ECG, pressure, blood gases and cardiac output",Procedure
+4311840,Cardiovascular stress test using the dipyridamole stress test protocol,Procedure
+4313572,Electrocardiographic monitor and recorder,PhysicalObject
+4314332,Cardiovascular stress test using pharmacologic stress agent,Procedure
+4314477,Cardiovascular stress test using the dobutamine stress test protocol,Procedure
+4314809,Apexcardiogram with ECG lead,Procedure
+4323962,"Electrocardiogram, rhythm",Procedure
+4324770,3 lead electrocardiographic monitoring,Procedure
+4327042,Fetal electrocardiogram,Procedure
+4335824,Exercise stress echocardiography,Procedure
+44791536,Incremental shuttle walk test,Procedure
+44804704,Chester step test,Procedure
+44808009,ECG (electrocardiogram) rhythm strip monitoring,Procedure
+44810379,Cardiovascular stress test using Bruce protocol,Procedure
+45759920,ST-segment electrocardiographic monitor,PhysicalObject
+45761650,Cardiac stress exercise monitoring system,PhysicalObject
+45761918,Electrocardiographic monitor,PhysicalObject
+45763481,Implantable cardiac monitor,PhysicalObject
+45770390,72 hour ambulatory electrocardiographic monitoring,Procedure
+45773079,Stress echocardiography using dobutamine,Procedure
+46271135,Noninvasive abdominal fetal electrocardiography,Procedure
+46273550,Electrocardiography via fetal scalp electrodes,Procedure
+46273971,Patient-activated electrocardiographic monitor and recording device,PhysicalObject
+600692,Electrocardiogram with exercise test using Bruce protocol,Procedure
+705074,Functional Threshold Power (FTP) measurement,Procedure
+953151,Insertion or removal and replacement of intracardiac ischemia monitoring system including imaging supervision and interpretation and peri-operative interrogation and programming; complete system (includes device and electrode) (Deprecated),Hcpcs

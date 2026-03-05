@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1008528,Diabetes,LoincComponent
+1032211,Diabetes mellitus,LoincComponent
+1032212,Diabetic foot ulcer(s),LoincComponent
+1032213,Diabetic retinopathy,LoincComponent
+1034716,Diabetic foot ulcers,LoincComponent
+1075372,Intermediate DEND syndrome,Disorder
+1075652,Stable treated proliferative retinopathy due to diabetes mellitus,Disorder
+1075653,Bilateral stable treated proliferative retinopathy due to diabetes mellitus,Disorder
+1075886,Hypertension in chronic kidney disease stage 3B due to type 1 diabetes mellitus,Disorder
+1075887,Hypertension in chronic kidney disease stage 3A due to type 1 diabetes mellitus,Disorder
+1075888,Hypertension in chronic kidney disease stage 3 due to type 1 diabetes mellitus,Disorder
+1075903,Hypertension in chronic kidney disease stage 2 due to type 1 diabetes mellitus,Disorder
+1075904,Hypertension in chronic kidney disease stage 3B due to type 2 diabetes mellitus,Disorder
+1075905,Hypertension in chronic kidney disease stage 3A due to type 2 diabetes mellitus,Disorder
+1075906,Hypertension in chronic kidney disease stage 5 due to type 1 diabetes mellitus,Disorder
+1075907,Hypertension in chronic kidney disease stage 4 due to type 1 diabetes mellitus,Disorder
+1075908,Chronic kidney disease stage 3B due to type 2 diabetes mellitus,Disorder
+1075909,Chronic kidney disease stage 3A due to type 2 diabetes mellitus,Disorder
+1075910,Chronic kidney disease stage 3B due to type 1 diabetes mellitus,Disorder
+1075911,Chronic kidney disease stage 3A due to type 1 diabetes mellitus,Disorder
+1102627,"Type 1 diabetes mellitus, presymptomatic",4CharNonbillCode
+1244603,Presymptomatic type 1 diabetes mellitus,Disorder
+1245117,Vasopressin-related polyuria,Disorder
+1245158,Autosomal hereditary vasopressin resistance,Disorder
+1245159,Hereditary vasopressin resistance,Disorder
+1245160,Autosomal dominant vasopressin resistance,Disorder
+1245161,Autosomal recessive vasopressin resistance,Disorder
+1245162,X-linked hereditary vasopressin resistance,Disorder
+1245163,Hereditary vasopressin-related polyuria,Disorder
+1245164,Autosomal dominant hereditary vasopressin deficiency,Disorder
+1245165,Autosomal recessive hereditary arginine vasopressin deficiency,Disorder
+1245166,Secondary vasopressin deficiency,Disorder
+1245167,Secondary vasopressin resistance,Disorder
+1245219,Adipsic vasopressin-related polyuria,Disorder
+1245220,Organic primary polydipsia,Disorder
+1326491,Type 2 diabetes mellitus with ketoacidosis,4CharNonbillCode
+1340233,Early exacerbation of retinopathy due to diabetes mellitus,Disorder
+1340306,Exacerbation of diabetes mellitus,Disorder
+1340515,Progression of diabetes mellitus,Disorder
+1340528,Slowly progressive insulin dependent diabetes mellitus type 1A,Disorder
+1348414,Type 2 diabetes mellitus without complications in remission,4CharBillingCode
+1348432,Generalized lipodystrophy,5CharBillingCode
+1448892,Peripheral circulatory disorder due to malnutrition-related diabetes mellitus,Disorder
+1449982,Mild diabetic macular edema,Disorder
+1449983,Moderate diabetic macular edema,Disorder
+1449984,Severe diabetic macular edema,Disorder
+1567940,Type 1 diabetes mellitus,3CharNonbillCode
+1567941,Type 1 diabetes mellitus with ketoacidosis,4CharNonbillCode
+1567949,Type 1 diabetes mellitus with neurological complications,4CharNonbillCode
+1567951,Type 1 diabetes mellitus with other specified complications,4CharNonbillCode
+1567952,Type 1 diabetes mellitus with diabetic arthropathy,5CharNonbillCode
+1567955,Type 1 diabetes mellitus with hypoglycemia,5CharNonbillCode
+1567956,Type 2 diabetes mellitus,3CharNonbillCode
+1567957,Type 2 diabetes mellitus with hyperosmolarity,4CharNonbillCode
+1567959,Type 2 diabetes mellitus with ophthalmic complications,4CharNonbillCode
+1567965,Type 2 diabetes mellitus with neurological complications,4CharNonbillCode
+1567967,Type 2 diabetes mellitus with other specified complications,4CharNonbillCode
+1567968,Type 2 diabetes mellitus with diabetic arthropathy,5CharNonbillCode
+1567971,Type 2 diabetes mellitus with hypoglycemia,5CharNonbillCode
+1567972,Other specified diabetes mellitus,3CharNonbillCode
+1567974,Other specified diabetes mellitus with ketoacidosis,4CharNonbillCode
+1567976,Other specified diabetes mellitus with ophthalmic complications,4CharNonbillCode
+1567984,Other specified diabetes mellitus with other specified complications,4CharNonbillCode
+1568047,Lactose intolerance,3CharNonbillCode
+1568052,Other disorders of intestinal carbohydrate absorption,4CharNonbillCode
+1571683,"Diabetes mellitus in pregnancy, childbirth, and the puerperium",3CharNonbillCode
+1571685,"Pre-existing type 1 diabetes mellitus, in pregnancy",5CharNonbillCode
+1571687,"Pre-existing type 2 diabetes mellitus, in pregnancy",5CharNonbillCode
+1571690,Gestational diabetes mellitus,4CharNonbillCode
+1571691,Gestational diabetes mellitus in pregnancy,5CharNonbillCode
+1571692,Gestational diabetes mellitus in childbirth,5CharNonbillCode
+1571693,Gestational diabetes mellitus in the puerperium,5CharNonbillCode
+1571694,"Other pre-existing diabetes mellitus in pregnancy, childbirth, and the puerperium",4CharNonbillCode
+1571696,"Unspecified diabetes mellitus in pregnancy, childbirth and the puerperium",4CharNonbillCode
+1571697,Unspecified diabetes mellitus in pregnancy,5CharNonbillCode
+1572274,Abnormal glucose,4CharNonbillCode
+1619301,High blood glucose,LoincComponent
+1620816,Diabetes without complications,Answer
+192279,Disorder of kidney due to diabetes mellitus,Disorder
+192286,Intestinal disaccharidase deficiency,Disorder
+192591,Post-surgical hypoinsulinemia,Disorder
+193323,Neonatal diabetes mellitus,Disorder
+194700,"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium",Disorder
+195771,Secondary diabetes mellitus,Disorder
+200687,Renal disorder due to type 1 diabetes mellitus,Disorder
+201254,Type 1 diabetes mellitus,Disorder
+201530,Hyperosmolar coma due to type 2 diabetes mellitus,Disorder
+201531,Hyperosmolar coma due to type 1 diabetes mellitus,Disorder
+201820,Diabetes mellitus,Disorder
+201826,Type 2 diabetes mellitus,Disorder
+3002769,TOLBUTamide [Presence] in Serum or Plasma,LabTest
+3005023,TOLBUTamide [Mass/volume] in Urine,LabTest
+3008268,TOLBUTamide [Mass/volume] in Specimen,LabTest
+3017621,TOLBUTamide [Mass/volume] in Serum or Plasma,LabTest
+3021898,TOLBUTamide [Moles/volume] in Serum or Plasma,LabTest
+3026326,TOLBUTamide [Mass] of Dose,LabTest
+3027161,TOLBUTamide.IV [Mass] of Dose,LabTest
+3044534,TOLBUTamide [Mass/volume] in 24 hour Urine,LabTest
+3052949,TOLBUTamide [Presence] in Specimen,LabTest
+30968,Diabetes insipidus,Disorder
+318712,Peripheral circulatory disorder due to type 1 diabetes mellitus,Disorder
+321822,Peripheral vascular disorder due to diabetes mellitus,Disorder
+35206878,Type 1 diabetes mellitus with unspecified complications,4CharBillingCode
+35206879,Type 1 diabetes mellitus without complications,4CharBillingCode
+35206881,Type 2 diabetes mellitus with unspecified complications,4CharBillingCode
+35206882,Type 2 diabetes mellitus without complications,4CharBillingCode
+35206885,Other specified diabetes mellitus without complications,4CharBillingCode
+35206911,Diabetes insipidus,4CharBillingCode
+35207041,Congenital lactase deficiency,4CharBillingCode
+35207042,Secondary lactase deficiency,4CharBillingCode
+35207044,"Lactose intolerance, unspecified",4CharBillingCode
+35207109,Postprocedural hypoinsulinemia,4CharBillingCode
+35209292,Nephrogenic diabetes insipidus,4CharBillingCode
+35210608,Syndrome of infant of mother with gestational diabetes,4CharBillingCode
+35210609,Syndrome of infant of a diabetic mother,4CharBillingCode
+35210610,Neonatal diabetes mellitus,4CharBillingCode
+35211420,"Hyperglycemia, unspecified",4CharBillingCode
+3522463,Type I diabetes mellitus,Undefined
+3522464,Type I diabetes mellitus with multiple complications,Undefined
+3522465,Type I diabetes mellitus with ulcer,Undefined
+3522468,Type I diabetes mellitus with arthropathy,Undefined
+3522470,Type II diabetes mellitus,Undefined
+3522471,Type II diabetes mellitus with multiple complications,Undefined
+3522472,Type II diabetes mellitus with retinopathy,Undefined
+3522475,Type II diabetes mellitus with mononeuropathy,Undefined
+3522477,Type II diabetes mellitus with peripheral angiopathy,Undefined
+3522478,Type II diabetes mellitus with arthropathy,Undefined
+3522479,Type II diabetes mellitus with neuropathic arthropathy,Undefined
+3522480,Insulin treated Type 2 diabetes mellitus,Undefined
+3522630,Type I diabetes mellitus,Undefined
+3522660,Type I diabetes mellitus,Undefined
+3522661,Type I diabetes mellitus with arthropathy,Undefined
+3522662,Type II diabetes mellitus,Undefined
+3522663,Insulin treated Type 2 diabetes mellitus,Undefined
+3522803,Type II diabetes mellitus,Undefined
+3522920,Type I diabetes mellitus with ulcer,Undefined
+3522921,Type I diabetes mellitus with retinopathy,Undefined
+3522922,Type I diabetes mellitus maturity onset,Undefined
+3522925,Type I diabetes mellitus with hypoglycaemic coma,Undefined
+3522926,Type I diabetes mellitus with peripheral angiopathy,Undefined
+3522928,Type II diabetes mellitus with renal complications,Undefined
+3522929,Type II diabetes mellitus with neurological complications,Undefined
+3522930,Type II diabetes mellitus with multiple complications,Undefined
+3522931,Type II diabetes mellitus with ulcer,Undefined
+3522932,Type II diabetes mellitus with retinopathy,Undefined
+3522935,Type II diabetes mellitus with mononeuropathy,Undefined
+3522936,Type II diabetes mellitus with hypoglycaemic coma,Undefined
+3522937,Type II diabetes mellitus with peripheral angiopathy,Undefined
+3522938,Type II diabetes mellitus with arthropathy,Undefined
+3522978,O/E - right eye diabetic maculopathy,Undefined
+3523124,O/E - left eye diabetic maculopathy,Undefined
+3523159,Diabetes mellitus due to insulin receptor antibodies,Undefined
+3523161,Diabetes mellitus induced by non-steroid drugs,Undefined
+3523162,Insulin resistance - type A,Undefined
+3523165,"Diabetes insipidus,diabetes mellitus, optic atrophy and deafness",Undefined
+3523166,Fibrocalculous pancreatic diabetes,Undefined
+3523219,O/E - left eye diabetic maculopathy,Undefined
+3523287,Secondary diabetes mellitus,Undefined
+3523289,Impaired glucose tolerance,Undefined
+3523319,Fibrocalculous pancreatic diabetes,Undefined
+3523545,O/E - right eye clinically significant macular oedema,Undefined
+3523546,O/E - left eye clinically significant macular oedema,Undefined
+3524314,Drug resistance to insulin,Undefined
+3527637,Latent autoimmune diabetes mellitus in adult,Disorder
+3527722,Latent autoimmune diabetes mellitus in adult,Undefined
+3528634,Diabetic femoral mononeuropathy,Disorder
+3528638,Diabetic amyotrophy,Disorder
+3529161,[X]Malnutrition-related diabetes mellitus with other specified complications,Disorder
+3529226,[X]Malnutrition-related diabetes mellitus with unspecified complications,Disorder
+3543193,Renal cysts and diabetes syndrome,Disorder
+3544887,Glucose galactose malabsorption,Disorder
+3545541,Acquired nephrogenic diabetes insipidus,Undefined
+3545720,Impaired glucose regulation,Undefined
+3547729,Maturity onset diabetes of the young type 5,Disorder
+3547730,Maturity onset diabetes of the young type 5,Undefined
+3547994,Non-diabetic hyperglycaemia,Undefined
+3550739,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Undefined
+3550979,Diabetes mellitus with persistent proteinuria,Undefined
+3550980,Type 1 diabetes mellitus with ketoacidosis,Undefined
+3550981,Type 2 diabetes mellitus with ketoacidosis,Undefined
+3551089,Type 1 diabetes mellitus with persistent microalbuminuria,Undefined
+3551090,Type 1 diabetes mellitus with ketoacidotic coma,Undefined
+3551091,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Undefined
+3551092,Type 2 diabetes mellitus with persistent proteinuria,Undefined
+3551093,Type 2 diabetes mellitus with persistent microalbuminuria,Undefined
+3551094,Type 2 diabetes mellitus with ketoacidosis,Undefined
+3553242,Diabetic patient unsuitable for digital retinal photography,Undefined
+3553363,Diabetic patient unsuitable for digital retinal photography,Undefined
+3554353,Extended glucose tolerance test,Undefined
+3554517,Extended glucose tolerance test,Undefined
+3554620,Glucose tolerance test,Undefined
+3559597,Proteinuric diabetic nephropathy,Undefined
+35622016,Insulin resistance,Disorder
+35622647,Verloove Vanhorick Brubakk syndrome,Disorder
+35625717,Cataract of right eye due to diabetes mellitus,Disorder
+35625718,Cataract of left eye due to diabetes mellitus,Disorder
+35625719,Diabetic cataract of bilateral eyes,Disorder
+35625722,Iritis of right eye due to diabetes mellitus,Disorder
+35625723,Iritis of left eye due to diabetes mellitus,Disorder
+35625724,Bilateral iritis due to diabetes mellitus,Disorder
+35626036,Preproliferative retinopathy of right eye due to diabetes mellitus,Disorder
+35626037,Preproliferative retinopathy of left eye due to diabetes mellitus,Disorder
+35626038,Mild nonproliferative retinopathy of right eye due to diabetes mellitus,Disorder
+35626039,Mild nonproliferative retinopathy of left eye due to diabetes mellitus,Disorder
+35626041,Moderate nonproliferative diabetic retinopathy of right eye,Disorder
+35626042,Moderate nonproliferative diabetic retinopathy of left eye,Disorder
+35626043,Severe nonproliferative retinopathy of right eye due to diabetes mellitus,Disorder
+35626044,Severe nonproliferative retinopathy of left eye due to diabetes mellitus,Disorder
+35626046,Very severe nonproliferative retinopathy of right eye due to diabetes mellitus,Disorder
+35626047,Very severe nonproliferative retinopathy of left eye due to diabetes mellitus,Disorder
+35626067,Macular edema of right eye due to diabetes mellitus,Disorder
+35626068,Macular edema of left eye due to diabetes mellitus,Disorder
+35626069,Macular edema due to type 1 diabetes mellitus,Disorder
+35626070,Macular edema due to type 2 diabetes mellitus,Disorder
+35626071,Clinically significant macular edema of right eye due to diabetes mellitus,Disorder
+35626072,Clinically significant macular edema of left eye due to diabetes mellitus,Disorder
+35626087,Disorder of right macula due to diabetes mellitus,Disorder
+35626088,Disorder of left macula due to diabetes mellitus,Disorder
+35626761,Cervical radiculoplexus neuropathy due to diabetes mellitus,Disorder
+35626762,Cranial nerve palsy due to diabetes mellitus,Disorder
+35626764,Clinically significant macular edema due to diabetes mellitus,Disorder
+35626765,Cranial nerve palsy due to type 1 diabetes mellitus,Disorder
+35626904,Retinal edema due to diabetes mellitus,Disorder
+35626905,Ischemia of retina due to diabetes mellitus,Disorder
+3571423,Type 1 diabetes mellitus with exudative maculopathy,Undefined
+3571424,Secondary pancreatic diabetes mellitus,Undefined
+3571425,Impaired fasting glycaemia,Undefined
+3571533,Pregnancy and insulin-dependent diabetes mellitus,Undefined
+3571534,Pregnancy and non-insulin-dependent diabetes mellitus,Undefined
+3571638,Leprechaunism,Undefined
+3571645,Neuropathic diabetic ulcer - foot,Undefined
+3571655,Diabetic skin ulcer,Disorder
+3571767,Lipoatrophic diabetes,Undefined
+3571773,Alstrom syndrome,Undefined
+3572224,Diabetes mellitus induced by non-steroid drugs,Undefined
+3572228,Type A insulin resistance,Undefined
+3572230,Lipoatrophic diabetes mellitus without complication,Undefined
+3572231,Secondary diabetes mellitus,Undefined
+3572234,"Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities",Undefined
+3572575,Maternally inherited diabetes mellitus,Undefined
+3572578,Metabolic stress hyperglycaemia,Undefined
+3572827,Ankle ulcer associated with type 1 diabetes mellitus,Disorder
+3572830,Type I diabetes mellitus maturity onset,Undefined
+3572832,Type I diabetes mellitus with hypoglycaemic coma,Undefined
+3572833,Type II diabetes mellitus with ophthalmic complications,Undefined
+3572834,Type II diabetes mellitus with ulcer,Undefined
+3573862,Type II diabetes mellitus with neuropathic arthropathy,Undefined
+3573913,"Diabetes insipidus, diabetes mellitus, optic atrophy and deafness",Undefined
+3573928,Insulin resistance,Undefined
+3574215,O/E - right eye diabetic maculopathy,Undefined
+3574379,Steroid-induced diabetes,Undefined
+3574380,Malnutrition-related diabetes mellitus,Undefined
+3574385,Ischaemic ulcer diabetic foot,Undefined
+3574386,Mixed diabetic ulcer - foot,Undefined
+3576225,Type I diabetes mellitus with multiple complications,Undefined
+36209547,Insulin dependent diabetes mellitus,LoincComponent
+36210383,Diabetes mellitus (DM),Answer
+36309877,Diabetic foot ulcer(s),Answer
+36309990,Mild non-proliferative retinopathy,Answer
+3655235,Disorder of macula of bilateral eyes due to diabetes mellitus,Disorder
+3655269,Glaucoma due to diabetes mellitus,Disorder
+3655340,Generalized diabetic autonomic neuropathy,Disorder
+3655382,Ulcer of right foot due to diabetes mellitus,Disorder
+3655383,Ulcer of left foot due to diabetes mellitus,Disorder
+3655384,Chronic ulcer of right foot due to diabetes mellitus,Disorder
+3655385,Chronic ulcer of left foot due to diabetes mellitus,Disorder
+3655913,Severe nonproliferative diabetic retinopathy with venous beading,Disorder
+3655914,Cystoid macular edema due to diabetes mellitus,Disorder
+3655948,Persistent macular edema due to diabetes mellitus,Disorder
+3656194,Centrally involved macular edema due to diabetes mellitus,Disorder
+3656195,Non centrally involved macular edema due to diabetes mellitus,Disorder
+3661732,Newly diagnosed type 1 diabetes mellitus,Disorder
+36674199,Proliferative retinopathy of right eye with diabetes mellitus,Disorder
+36674200,Proliferative retinopathy of left eye due to diabetes mellitus,Disorder
+36674561,Intolerance to lactose due to nonpersistence of intestinal lactase,ClinicalFinding
+36674577,Intolerance to lactose,ClinicalFinding
+36674651,Vitreous hemorrhage of right eye due to diabetes mellitus,Disorder
+36674652,Vitreous hemorrhage of left eye due to diabetes mellitus,Disorder
+36674752,Microaneurysm of right retinal artery due to diabetes mellitus,Disorder
+36674753,Microaneurysm of left retinal artery due to diabetes mellitus,Disorder
+36674765,Venous beading of right retina due to diabetes mellitus,Disorder
+36674766,Venous beading of left retina due to diabetes mellitus,Disorder
+36684225,Intolerance to lactose due to acquired lactase deficiency,ClinicalFinding
+36684226,Intolerance to lactose due to congenital lactase deficiency,ClinicalFinding
+36684227,Intolerance to lactose due to lactase deficiency in diseases other than of the small intestine,ClinicalFinding
+36684827,Diabetes mellitus type 2 with periodontal disease,Disorder
+36685758,Ketosis-prone diabetes mellitus,Disorder
+36712670,Skin ulcer due to type 2 diabetes mellitus,Disorder
+36712686,Ulcer of left foot due to type 2 diabetes mellitus,Disorder
+36712687,Ulcer of right foot due to type 2 diabetes mellitus,Disorder
+36713094,Peripheral angiopathy due to type 1 diabetes mellitus,Disorder
+36713275,Atypical diabetes mellitus,Disorder
+36714116,Hypoglycemic coma due to type 2 diabetes mellitus,Disorder
+36715051,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome",Disorder
+36715417,DEND syndrome,Disorder
+36715571,Acidosis due to type 1 diabetes mellitus,Disorder
+36715573,Hypoinsulinemia following procedure,Disorder
+36716108,"Lipodystrophy, intellectual disability, deafness syndrome",Disorder
+36716258,"Pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome",Disorder
+36716696,Primary lactase deficiency,Disorder
+36716755,Neonatal hyperglycemia due to insulin deficiency,Disorder
+36716853,Renal papillary necrosis due to diabetes mellitus,Disorder
+36717057,Acanthosis nigricans and insulin resistance with muscle cramp and acral enlargement syndrome,Disorder
+36717156,Acidosis due to type 2 diabetes mellitus,Disorder
+36717215,"Intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome",Disorder
+37016163,Complication due to diabetes mellitus type 2,Disorder
+37016179,Mild nonproliferative retinopathy due to type 1 diabetes mellitus,Disorder
+37016180,Moderate nonproliferative retinopathy due to type 1 diabetes mellitus,Disorder
+37016348,Hyperglycemia due to type 1 diabetes mellitus,Disorder
+37016349,Hyperglycemia due to type 2 diabetes mellitus,Disorder
+37016353,Dyslipidemia due to type 1 diabetes mellitus,Disorder
+37016354,Neuropathy due to type 2 diabetes mellitus,Disorder
+37016355,Hyperosmolar coma due to secondary diabetes mellitus,Disorder
+37016356,Mild nonproliferative retinopathy due to secondary diabetes mellitus,Disorder
+37016357,Non-proliferative retinopathy due to secondary diabetes mellitus,Disorder
+37016358,Moderate nonproliferative retinopathy due to secondary diabetes mellitus,Disorder
+37016767,Autonomic neuropathy due to type 1 diabetes mellitus,Disorder
+37016768,Autonomic neuropathy due to type 2 diabetes mellitus,Disorder
+37017221,Neovascular glaucoma due to diabetes mellitus,Disorder
+37017429,Gastroparesis due to type 1 diabetes mellitus,Disorder
+37017430,Gastroparesis due to diabetes mellitus,Disorder
+37017431,Polyneuropathy due to type 1 diabetes mellitus,Disorder
+37017432,Polyneuropathy due to type 2 diabetes mellitus,Disorder
+37018196,Prediabetes,ClinicalFinding
+37018566,Peripheral neuropathy due to type 1 diabetes mellitus,Disorder
+37018728,Gastroparesis due to type 2 diabetes mellitus,Disorder
+37018765,Gestational diabetes mellitus complicating pregnancy,Disorder
+37018912,Diabetic hand syndrome due to type 2 diabetes mellitus,Disorder
+37110041,Permanent neonatal diabetes mellitus with cerebellar agenesis syndrome,Disorder
+37110060,Neuroectodermal endocrine syndrome,Disorder
+37110117,Laminopathy type Decaudain Vigouroux,Disorder
+37110165,"X-linked immune dysregulation, polyendocrinopathy, enteropathy syndrome",Disorder
+37110714,Familial partial lipodystrophy Kobberling type,Disorder
+37115758,"X-linked intellectual disability, limb spasticity, retinal dystrophy, arginine vasopressin deficiency",Disorder
+37116379,Stimmler syndrome,Disorder
+37116960,Wolfram-like syndrome,Disorder
+37117810,Lumbosacral plexopathy co-occurrent and due to diabetes mellitus,Disorder
+37162163,Vasopressin deficiency due to trauma,Disorder
+37162626,Neovascular glaucoma due to diabetes mellitus type 2,Disorder
+37162627,Neovascular glaucoma due to diabetes mellitus type 1,Disorder
+37162799,"Intrauterine growth restriction, short stature, early adult-onset diabetes syndrome",Disorder
+37162900,PPARG-related familial partial lipodystrophy,Disorder
+37162901,AKT2-related familial partial lipodystrophy,Disorder
+37162902,Autosomal semi-dominant severe lipodystrophic laminopathy,Disorder
+37162903,CIDEC-related familial partial lipodystrophy,Disorder
+37162904,LIPE-related familial partial lipodystrophy,Disorder
+37163431,Ketosis-resistant diabetes mellitus,Disorder
+37163452,Fulminant type 1 diabetes mellitus,Disorder
+37163711,Diabetic neurotrophic keratitis,Disorder
+37163796,"Microcephalic primordial dwarfism, insulin resistance syndrome",Disorder
+37165632,"Juvenile-onset diabetes mellitus, central and peripheral neurodegeneration syndrome",Disorder
+37166059,Brachial plexus lesion due to diabetes mellitus,Disorder
+37168689,Wolfram syndrome type 1,Disorder
+37168690,Wolfram syndrome type 2,Disorder
+37169731,Prediabetes in mother during pregnancy,Disorder
+37169959,Diabetic foot ulcer in remission,Disorder
+37169960,Diabetic ulcer of right foot in remission,Disorder
+37169961,Diabetic ulcer of left foot in remission,Disorder
+37174264,Diabetes mellitus type 1 stage 1,Disorder
+37174265,Diabetes mellitus type 1 stage 2,Disorder
+37174270,Diabetes mellitus type 1 stage 3,Disorder
+37174506,Number of suspend episodes in insulin pump greater than 60 minutes,ObservableEntity
+37174772,Blood glucose below reference range,ClinicalFinding
+37200070,Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy,6CharNonbillCode
+37201113,Prediabetes,5CharBillingCode
+37204232,"Primary microcephaly, mild intellectual disability, young-onset diabetes syndrome",Disorder
+37204277,"Primary microcephaly, epilepsy, permanent neonatal diabetes syndrome",Disorder
+37204732,Perilipin 1 related familial partial lipodystrophy,Disorder
+37204818,Myopathy and diabetes mellitus,Disorder
+37309630,Coronary artery disease due to type 2 diabetes mellitus,Disorder
+37311253,Nonproliferative retinopathy of right eye due to diabetes mellitus,Disorder
+37311254,Nonproliferative retinopathy of left eye due to diabetes mellitus,Disorder
+37311329,Woodhouse Sakati syndrome,Disorder
+37311453,Armanni-Ebstein kidney due to diabetes mellitus,Disorder
+37311454,Armanni-Ebstein kidney,Disorder
+37311673,Hyperglycemia due to diabetes mellitus,Disorder
+37311832,Stable treated proliferative retinopathy of left eye due to diabetes mellitus,Disorder
+37311833,Stable treated proliferative retinopathy of right eye due to diabetes mellitus,Disorder
+37312019,Diabetic cardiomyopathy,Disorder
+37312198,Sensory polyneuropathy due to diabetes mellitus,Disorder
+37312200,Ulcer of midfoot due to type 1 diabetes mellitus,Disorder
+37312201,Ulcer of heel due to type 1 diabetes mellitus,Disorder
+37312202,Neuropathic ulcer of midfoot due to type 2 diabetes mellitus,Disorder
+37312203,Neuropathic ulcer of heel due to type 2 diabetes mellitus,Disorder
+37312204,Ulcer of midfoot due to diabetes mellitus,Disorder
+37312205,Ulcer of heel due to type 2 diabetes mellitus,Disorder
+37312207,Ulcer of heel due to diabetes mellitus,Disorder
+37312218,Neuropathy due to type 1 diabetes mellitus,Disorder
+37395855,Familial partial lipodystrophy Dunnigan type,Disorder
+37396268,Diabetic embryopathy,Disorder
+37396398,Schofer Beetz Bohl syndrome,Disorder
+37396524,Gingival disease co-occurrent with diabetes mellitus,Disorder
+376065,Disorder of nervous system due to type 2 diabetes mellitus,Disorder
+376112,Polyneuropathy due to diabetes mellitus,Disorder
+376114,Severe nonproliferative retinopathy due to diabetes mellitus,Disorder
+376683,Nonproliferative retinopathy due to diabetes mellitus,Disorder
+376979,Cataract due to diabetes mellitus,Disorder
+377552,Moderate nonproliferative retinopathy due to diabetes mellitus,Disorder
+377821,Disorder of nervous system due to type 1 diabetes mellitus,Disorder
+378743,Mild nonproliferative retinopathy due to diabetes mellitus,Disorder
+380096,Proliferative retinopathy due to diabetes mellitus,Disorder
+380097,Macular edema due to diabetes mellitus,Disorder
+3968674,Diabetes Type I,Answer
+3968732,Diabetes Type II,Answer
+3968756,Impaired glucose tolerance,Answer
+4006979,Leprechaunism syndrome,Disorder
+4007106,[D]Glucose tolerance test abnormal,ContextDependent
+4008576,Diabetes mellitus without complication,Disorder
+4009303,Diabetic ketoacidosis without coma,Disorder
+4012477,Glucose tolerance test,Procedure
+4016046,Chronic hyperglycemia,Disorder
+4016906,Diabetic - cooperative patient,ClinicalFinding
+4017318,Diabetic-uncooperative patient,ClinicalFinding
+4018316,"Glucose measurement, tolbutamide tolerance test",Procedure
+4019513,Brittle diabetes mellitus,Disorder
+4020421,Tolbutamide measurement,Procedure
+4023792,Pseudotabes due to diabetes mellitus,Disorder
+4024659,Gestational diabetes mellitus,Disorder
+4027029,Insulin receptor defect,Disorder
+4027121,Nephrotic syndrome due to diabetes mellitus,Disorder
+40275338,Diabetes mellitus associated with unlisted condition,Disorder
+40275340,Impaired glucose tolerance associated with unlisted conditions,Disorder
+4027550,Impaired glucose tolerance with hyperinsulism,Disorder
+4027848,Secondary vasopressin-related polyuria,Disorder
+40288248,Nephrogenic diabetes insipidus,Disorder
+4029420,Severe hyperglycemia due to diabetes mellitus,Disorder
+4029421,Metabolic stress hyperglycemia,Disorder
+4029440,Familial vasopressin deficiency,Disorder
+4029736,Lactase deficiency,Disorder
+4029951,Impaired glucose tolerance in MODY (maturity onset diabetes in the young),Disorder
+4030061,Malnutrition-related diabetes mellitus - fibrocalculous,Disorder
+4030063,Hereditary benign acanthosis nigricans with insulin resistance,Disorder
+4030064,"Acrorenal field defect, ectodermal dysplasia, and lipoatrophic diabetes",Disorder
+4030066,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction",Disorder
+4030067,Impaired glucose tolerance in pregnancy,Disorder
+40303453,Retinal abnormality - diabetes-related,Disorder
+4030430,Large baby of diabetic mother,Disorder
+4030664,Proteinuric nephropathy due to diabetes mellitus,Disorder
+40307835,Blood glucose abnormal,ClinicalFinding
+40307842,Glucose tol. test impaired,ClinicalFinding
+40307843,Glucose tol. test diabetic,ClinicalFinding
+40308078,Diabetic - cooperative patient,ClinicalFinding
+40308079,Diabetic-uncooperative patient,ClinicalFinding
+40316773,Prediabetes,Disorder
+40318690,"Diabetes mellitus during pregnancy, childbirth and the puerperium",Disorder
+40318697,Pregnancy with abnormal glucose tolerance test,Disorder
+40320435,[D]Glucose tolerance test abnormal,ContextDependent
+40320749,Diabetes mellitus: [adult onset] or [noninsulin dependent],Disorder
+40321135,Diabetes mellitus: [juvenile] or [insulin dependent],Disorder
+40321136,Diabetes mellitus with no mention of complication,Disorder
+40321139,Diabetes + nephropathy (& [Kimmelstiel-Wilson syndrome]),Disorder
+40321141,Proliferative diabetic retinopathy,Disorder
+40321142,Background diabetic retinopathy,Disorder
+40321144,Preproliferative diabetic retinopathy,Disorder
+40321145,Diabetic maculopathy,Disorder
+40321147,Diabetic mononeuritis multiplex,Disorder
+40321149,Acute painful diabetic neuropathy,Disorder
+40321151,Insulin-treated non-insulin-dependent diabetes mellitus,Disorder
+40321163,Central diabetes insipidus,Disorder
+40321186,Hyperglycemia,Disorder
+40321187,Impaired glucose tolerance,Disorder
+40322832,Diabetic retinopathy,Disorder
+40322840,Advanced diabetic retinal disease,Disorder
+40323021,Infant of a diabetic mother syndrome,Disorder
+40325823,Retinal abnormality - diabetes-related,Disorder
+4034959,Hyperglycemic disorder,Disorder
+4034960,Secondary endocrine diabetes mellitus,Disorder
+4034961,"Muscular atrophy, ataxia, retinitis pigmentosa, and diabetes mellitus",Disorder
+4034962,Hyperproinsulinemia,Disorder
+4034963,"Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",Disorder
+4034965,Poor glycemic control,Disorder
+4034966,Hyperglycemic disorder in pregnancy,Disorder
+40350749,Central diabetes insipidus,Disorder
+40362675,Diabetic femoral mononeuropathy,Disorder
+40375050,Congenital lipoatrophic diabetes,Disorder
+40384716,Diabetic maculopathy,Disorder
+40384717,Advanced diabetic retinal disease,Disorder
+40386754,Type I diabetes mellitus,Disorder
+40386766,Type I diabetes mellitus without complication,Disorder
+40386770,Type I diabetes mellitus with hypoglycemic coma,Disorder
+40386773,Type 1 diabetes mellitus with arthropathy,Disorder
+40386775,Type I diabetes mellitus with neuropathic arthropathy,Disorder
+40386778,Type II diabetes mellitus,Disorder
+40386790,Type II diabetes mellitus without complication,Disorder
+40386794,Type II diabetes mellitus with hypoglycemic coma,Disorder
+40386798,Type II diabetes mellitus with peripheral angiopathy,Disorder
+40386799,Type II diabetes mellitus with arthropathy,Disorder
+40386800,Type II diabetes mellitus with neuropathic arthropathy,Disorder
+40386801,Malnutrition-related diabetes mellitus,Disorder
+40386811,[X]Malnutrition-related diabetes mellitus with unspecified complications,Disorder
+40386812,[X]Malnutrition-related diabetes mellitus with other specified complications,Disorder
+40386813,Steroid-induced diabetes,Disorder
+40387221,Postpancreatectomy hyperglycemia,Disorder
+40389543,Diabetes mellitus,Disorder
+40392011,(Myasthenic syndrome due to diabetic amyotrophy) or (diabetic amyotrophy),Disorder
+40392068,Diabetic mononeuropathy,Disorder
+40394501,"[X]Pre-existing diabetes mellitus, unspecified",Disorder
+40395652,Gestational diabetes mellitus,Disorder
+40395653,"[X]Pre-existing diabetes mellitus, unspecified",Disorder
+40401644,[D]Drug induced hyperglycemia,ContextDependent
+40403428,"[X]Hyperglycemia, unspecified",ClinicalFinding
+4042065,Random blood sugar below reference range,ClinicalFinding
+4042067,Impaired glucose tolerance test,ClinicalFinding
+4042728,Blood glucose outside reference range,ClinicalFinding
+4043348,Drug-induced nephrogenic diabetes insipidus,Disorder
+4043582,Diabetic distal sensorimotor polyneuropathy,Disorder
+40436206,Visually threatening diabetic retinopathy,Disorder
+40438034,Congenital lipoatrophic diabetes,Disorder
+40438043,Wolcott-Rallison dysplasia,Disorder
+40438058,Gestational diabetes mellitus,Disorder
+40439498,Acquired lactase deficiency,Disorder
+4044391,Neuropathy due to diabetes mellitus,Disorder
+4044392,Chronic painful polyneuropathy due to diabetes mellitus,Disorder
+4044393,Asymmetric polyneuropathy due to diabetes mellitus,Disorder
+4045297,Impaired glucose tolerance in obese,Disorder
+4046332,Diabetic acute painful polyneuropathy,Disorder
+4046333,Diabetic truncal radiculopathy,Disorder
+40464154,Background retinopathy,Disorder
+4047260,Impaired glucose tolerance associated with genetic syndrome,Disorder
+4047906,Insulin dependent diabetes mellitus type 1A,Disorder
+40480031,Hyperglycemic crisis due to diabetes mellitus,Disorder
+40480068,Drug-induced hyperglycemia,Disorder
+4048028,Diabetic mononeuropathy,Disorder
+4048029,Thoracic radiculopathy due to diabetes mellitus,Disorder
+40480725,High glucose level in blood,ClinicalFinding
+4048202,Houssay's syndrome,Disorder
+40482458,Macroalbuminuric nephropathy due to diabetes mellitus,Disorder
+40482883,Posttransplant diabetes mellitus,Disorder
+40484021,Random blood glucose outside reference range,ClinicalFinding
+40484649,Well controlled type 1 diabetes mellitus,Disorder
+40485020,Well controlled type 2 diabetes mellitus,Disorder
+40488810,Renal cysts and diabetes syndrome,Disorder
+4049477,Psychogenic polydipsia,Disorder
+4049727,Deficiency of beta-fructofuranosidase,Disorder
+40514201,Retinal abnormality - diabetes-related,Disorder
+40525132,Background diabetic retinopathy,Disorder
+40535717,Deficiency of sucrase-isomaltase,Disorder
+40540073,Maternal gestational diabetes mellitus,Disorder
+40545711,Insulin treated Type 2 diabetes mellitus,Disorder
+4054812,Mixed sensorimotor polyneuropathy due to diabetes mellitus,Disorder
+4055671,Random blood sugar above reference range,ClinicalFinding
+4055679,Glucose tolerance test indicates diabetes mellitus,ClinicalFinding
+40560645,Diabetes mellitus autosomal dominant,Disorder
+40560646,Diabetes mellitus autosomal dominant type 2,Disorder
+40560648,Non proliferative diabetic retinopathy,Disorder
+40560649,Proliferative diabetic retinopathy - high risk,Disorder
+40560651,High risk non proliferative diabetic retinopathy,Disorder
+40560661,[D]Hyperglycaemia,ContextDependent
+40560663,[D]Impaired fasting glycaemia,ContextDependent
+40562984,High risk non proliferative diabetic retinopathy,Disorder
+40565485,Impaired fasting glycaemia,Disorder
+40567643,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Disorder
+40567663,[D]Impaired glucose tolerance,ContextDependent
+40571985,Gestational diabetes mellitus,Disorder
+40575046,Maturity onset diabetes mellitus in young,Disorder
+4058243,"Diabetes mellitus during pregnancy, childbirth and the puerperium",Disorder
+40584359,Type 1 diabetes mellitus with exudative maculopathy,Disorder
+40585456,Diabetes mellitus due to insulin receptor antibodies,Disorder
+40585457,Lipoatrophic diabetes,Disorder
+40585458,Drug-induced diabetes mellitus,Disorder
+40585459,Fibrocalculous pancreatic diabetes,Disorder
+40602086,Diabetes mellitus type 2 in nonobese,Disorder
+40621966,Secondary nephrogenic diabetes insipidus,Disorder
+40623801,Vasopressin deficiency syndrome,Disorder
+4062687,Pre-existing malnutrition-related diabetes mellitus,Disorder
+40629709,Postsurgical hypoinsulinemia,Disorder
+4063042,Pre-existing type 1 diabetes mellitus,Disorder
+4063043,Pre-existing type 2 diabetes mellitus,Disorder
+4063569,Ischemic ulcer of foot due to diabetes mellitus,Disorder
+40646726,Diabetes with peripheral circulatory disorders,Disorder
+4065354,Neuropathic ulcer of foot due to diabetes mellitus,Disorder
+4066936,Mixed diabetic ulcer - foot,Disorder
+4077805,Unstable diabetes,Disorder
+4078307,"[D]Glucose, blood level abnormal",ContextDependent
+4079850,Diabetes mellitus in neonate small for gestational age,Disorder
+4082360,Hypohidrosis-diabetes insipidus syndrome,Disorder
+4084643,"Extreme insulin resistance with acanthosis nigricans, hirsutism AND abnormal insulin receptors",Disorder
+4091442,Tolbutamide tolerance test,Procedure
+4093752,Diabetic gangrene,Disorder
+4095288,Ketoacidotic coma due to diabetes mellitus,Disorder
+4096041,Malnutrition-related diabetes mellitus with ketoacidosis,Disorder
+4096042,Malnutrition-related diabetes mellitus without complications,Disorder
+4096468,Potential abnormality of glucose tolerance,Disorder
+4096665,Diabetes mellitus with no mention of complication,Disorder
+4096668,Type 1 diabetes mellitus with gangrene,Disorder
+4096670,Malnutrition-related diabetes mellitus with renal complications,Disorder
+4096671,Malnutrition-related diabetes mellitus with peripheral circulatory complications,Disorder
+4098477,Glucose-galactose malabsorption,Disorder
+4098478,Sucrosuria,Disorder
+4098718,Previous abnormality of glucose tolerance,Disorder
+4099214,Type 1 diabetes mellitus with ulcer,Disorder
+4099215,Type 1 diabetes mellitus maturity onset,Disorder
+4099216,Multiple complications due to type 2 diabetes mellitus,Disorder
+4099217,Type 2 diabetes mellitus with gangrene,Disorder
+4099334,Steroid-induced diabetes,Disorder
+4099651,Type 2 diabetes mellitus with ulcer,Disorder
+4099653,Steroid-induced diabetes mellitus without complication,Disorder
+4099741,Fibrocalculous pancreatic diabetes,Disorder
+4101299,Primary lactose intolerance,ClinicalFinding
+4101478,Microaneurysm of retinal artery due to diabetes mellitus,Disorder
+4101853,Congenital glucose-galactose malabsorption,Disorder
+4101887,Mononeuritis multiplex with diabetes mellitus,Disorder
+4101892,Asymptomatic neuropathy due to diabetes mellitus,Disorder
+4102018,Insulin dependent diabetes mellitus type 1B,Disorder
+4102176,Iritis due to diabetes mellitus,Disorder
+4105016,Acute painful diabetic neuropathy,Disorder
+4105172,Preproliferative retinopathy due to diabetes mellitus,Disorder
+4105173,Advanced maculopathy due to diabetes mellitus,Disorder
+4105639,Chronic painful neuropathy due to diabetes mellitus,Disorder
+4105746,Lactase deficiency in diseases other than of the small intestine,Disorder
+4109803,"Familial hypoplastic, glomerulocystic kidney",Disorder
+4111314,Wolcott-Rallison dysplasia,Disorder
+4111658,Congenital generalized lipodystrophy,Disorder
+4111906,Impaired glucose tolerance associated with pancreatic disease,Disorder
+4114427,Neuropathic arthropathy due to diabetes mellitus,Disorder
+4119164,Postpancreatectomy hypoinsulinemia,Disorder
+4119690,Hereditary gastrogenic lactose intolerance,Disorder
+4128221,Microalbuminuric diabetic nephropathy,Disorder
+4129225,Motor polyneuropathy due to diabetes mellitus,Disorder
+4129378,Transient neonatal diabetes mellitus,Disorder
+4129515,"Bird-headed dwarfism with progressive ataxia, insulin-resistant diabetes, goiter, and primary gonadal insufficiency",Disorder
+4129516,Maternally inherited diabetes and deafness,Disorder
+4129517,Acute hyperglycemia,Disorder
+4129519,Pregnancy and type 2 diabetes mellitus,Disorder
+4129524,Insulin resistance - type A,Disorder
+4129525,Insulin resistance - type B,Disorder
+4130162,Insulin treated type 2 diabetes mellitus,Disorder
+4130164,"Maturity onset diabetes of the young, type 2",Disorder
+4130165,"Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities",Disorder
+4131117,Sensory neuropathy due to diabetes mellitus,Disorder
+4131907,Lipoatrophic diabetes,Disorder
+4131908,Peripheral angiopathy due to diabetes mellitus,Disorder
+4134557,Dawn phenomenon,Disorder
+4136163,Fibrocalculous pancreatopathy without complication,Disorder
+4136531,Impaired glucose tolerance in nonobese,Disorder
+4136889,Diabetes mellitus induced by non-steroid drugs without complication,Disorder
+4137220,Diabetic glomerulonephritis,Disorder
+4140466,Lumbosacral radiculoplexus neuropathy due to type 2 diabetes mellitus,Disorder
+4140808,Rabson-Mendenhall syndrome,Disorder
+4142579,Small vessel disease due to type 2 diabetes mellitus,Disorder
+4143343,Disaccharidase deficiency,Disorder
+4143529,Diabetes mellitus associated with cystic fibrosis,Disorder
+4143689,Small vessel disease due to type 1 diabetes mellitus,Disorder
+4143857,Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus,Disorder
+4144221,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class D",Disorder
+4144583,Diabetes mellitus due to cystic fibrosis,Disorder
+4145827,Latent autoimmune diabetes mellitus in adult,Disorder
+4146514,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class B",Disorder
+4147504,Myasthenic syndrome due to diabetic amyotrophy,Disorder
+4147577,Intracapillary glomerulosclerosis of kidney due to diabetes mellitus,Disorder
+4147614,Impaired intestinal carbohydrate absorption,ClinicalFinding
+4147719,Hyperosmolar non-ketotic state due to diabetes mellitus,Disorder
+4150016,Malabsorption of glucose,Disorder
+4151281,Type 1 diabetes mellitus with hypoglycemic coma,Disorder
+4151453,Diabetic optic papillopathy,Disorder
+4151946,Kimmelstiel-Wilson syndrome,Disorder
+4152858,Type 1 diabetes mellitus with arthropathy,Disorder
+4157329,Pregnancy with abnormal glucose tolerance test,ClinicalFinding
+4159742,Diabetic foot ulcer,Disorder
+4161670,Venous beading of retina due to diabetes mellitus,Disorder
+4161671,Non-high-risk proliferative retinopathy with no macular edema due to diabetes mellitus,Disorder
+4162095,Macular edema not clinically significant due to diabetes mellitus,Disorder
+4162239,Somogyi phenomenon,Disorder
+4162865,"Glucose tolerance test during pregnancy, childbirth and puerperium outside reference range",ClinicalFinding
+4164174,High risk proliferative retinopathy without macular edema due to diabetes mellitus,Disorder
+4164175,Diabetic intraretinal microvascular anomaly,Disorder
+4164176,High risk proliferative retinopathy not amenable to photocoagulation due to diabetes mellitus,Disorder
+4164632,Very severe proliferative retinopathy due to diabetes mellitus,Disorder
+4164730,Vasopressin deficiency,Disorder
+4166381,Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn,Disorder
+4168924,Drug resistance to insulin,Disorder
+4171098,Iatrogenic neonatal hyperglycemia,Disorder
+4171246,Familial vasopressin-related polyuria,Disorder
+4173184,Neonatal hyperglycemia,Disorder
+4173185,Transient neonatal hyperglycemia,Disorder
+4174059,Familial partial lipodystrophy,Disorder
+4174977,Retinopathy due to diabetes mellitus,Disorder
+4175440,Autonomic neuropathy due to diabetes mellitus,Disorder
+4176925,Ophthalmoplegia due to diabetes mellitus,Disorder
+4177050,Erectile dysfunction due to type 2 diabetes mellitus,Disorder
+4178452,Diabetes mellitus associated with pancreatic disease,Disorder
+4178790,Diabetes mellitus associated with receptor abnormality,Disorder
+4181599,Intolerance to lactose in children without lactase deficiency,ClinicalFinding
+4182243,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class F",Disorder
+4190521,Kussmaul's respiration,ClinicalFinding
+4191611,Lumbosacral radiculoplexus neuropathy due to diabetes mellitus,Disorder
+4192852,Diabetes mellitus caused by insulin receptor antibodies,Disorder
+4192901,[D]Impaired glucose tolerance,ContextDependent
+4193704,Type 2 diabetes mellitus without complication,Disorder
+4194970,Asymmetric proximal motor neuropathy due to diabetes mellitus,Disorder
+4195043,High risk proliferative retinopathy due to diabetes mellitus,Disorder
+4195044,Proliferative retinopathy with iris neovascularization due to diabetes mellitus,Disorder
+4195045,Vitreous hemorrhage due to diabetes mellitus,Disorder
+4195046,Clinically significant macular edema,Disorder
+4195498,Mixed maculopathy due to diabetes mellitus,Disorder
+4196141,Arthropathy due to type 2 diabetes mellitus,Disorder
+4196269,[D]Drug induced hyperglycemia,ContextDependent
+4197723,[D]Hyperglycemia,ContextDependent
+4198296,Type 2 diabetes mellitus with neuropathic arthropathy,Disorder
+4199039,Diffuse exudative maculopathy due to diabetes mellitus,Disorder
+4200873,Type 1 diabetes mellitus with neuropathic arthropathy,Disorder
+4200875,Type 2 diabetes mellitus with peripheral angiopathy,Disorder
+4201904,Congenital lactase deficiency,Disorder
+4202383,Drug-induced diabetes mellitus,Disorder
+4206115,Glomerulopathy due to diabetes mellitus,Disorder
+4209538,Advanced retinal disease due to diabetes mellitus,Disorder
+4210128,Non-high-risk proliferative retinopathy due to diabetes mellitus,Disorder
+4210129,Quiescent proliferative retinopathy due to diabetes mellitus,Disorder
+4210872,Focal exudative maculopathy due to diabetes mellitus,Disorder
+4210874,Ischemic maculopathy due to diabetes mellitus,Disorder
+4212631,Protein-deficient diabetes mellitus,Disorder
+4214376,Hyperglycemia,Disorder
+4215719,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus,Disorder
+4216968,Acquired vasopressin resistance,Disorder
+4219466,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class A",Disorder
+4219845,Diabetic patient unsuitable for digital retinal photography,ClinicalFinding
+4220981,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class FR",Disorder
+4221344,Exudative maculopathy due to type 1 diabetes mellitus,Disorder
+4221487,Persistent microalbuminuria due to type 2 diabetes mellitus,Disorder
+4221495,Cataract due to diabetes mellitus type 2,Disorder
+4221532,Primary polydipsia,Disorder
+4221933,Coma due to malnutrition-related diabetes mellitus,Disorder
+4221962,Very severe nonproliferative retinopathy without macular edema due to diabetes mellitus,Disorder
+4222222,"Gestational diabetes mellitus, class F",Disorder
+4222410,Multiple complications of type 2 diabetes mellitus,Disorder
+4222415,Mononeuropathy due to type 2 diabetes mellitus,Disorder
+4222553,Persistent proteinuria due to type 1 diabetes mellitus,Disorder
+4222687,Persistent microalbuminuria due to type 1 diabetes mellitus,Disorder
+4222834,"Gestational diabetes mellitus, class D",Disorder
+4222876,Gangrene due to type 2 diabetes mellitus,Disorder
+4223303,Gangrene due to type 1 diabetes mellitus,Disorder
+4223463,Exudative maculopathy due to type 2 diabetes mellitus,Disorder
+4223734,Non-ketotic non-hyperosmolar coma due to diabetes mellitus,Disorder
+4223739,Persistent proteinuria due to type 2 diabetes mellitus,Disorder
+4224254,Ketoacidotic coma due to type 1 diabetes mellitus,Disorder
+4224419,Disorder of eye due to malnutrition related diabetes mellitus,Disorder
+4224709,Multiple complications due to type 1 diabetes mellitus,Disorder
+4224879,Disorder of nervous system due to malnutrition related diabetes mellitus,Disorder
+4225013,"Gestational diabetes mellitus, class T",Disorder
+4225055,Mononeuropathy due to type 1 diabetes mellitus,Disorder
+4225656,Cataract due to diabetes mellitus type 1,Disorder
+4226121,Retinopathy due to type 2 diabetes mellitus,Disorder
+4226238,Hyperosmolar coma due to diabetes mellitus,Disorder
+4226354,Gangrene due to diabetes mellitus,Disorder
+4226798,Hypoglycemic coma due to diabetes mellitus,Disorder
+4227210,Retinopathy due to type 1 diabetes mellitus,Disorder
+4227657,Skin ulcer due to diabetes mellitus,Disorder
+4228102,"Gestational diabetes mellitus, class C",Disorder
+4228112,Hypoglycemic coma due to type 1 diabetes mellitus,Disorder
+4228443,Ketoacidotic coma due to type 2 diabetes mellitus,Disorder
+4228483,Newly diagnosed diabetes,Disorder
+4229140,Impaired glucose tolerance associated with insulin receptor abnormality,Disorder
+4229735,Diabetes self-management behavior,ObservableEntity
+4230254,Type 2 diabetes mellitus in nonobese,Disorder
+4231744,NIDDM in nonobese,Disorder
+4231917,Maternal diabetes mellitus,Disorder
+4234742,Diabetic neuropathy with neurologic complication,Disorder
+4235261,O/E - right eye diabetic maculopathy,Disorder
+4235410,Diabetes mellitus induced by non-steroid drugs,Disorder
+4237068,Diabetes mellitus due to structurally abnormal insulin,Disorder
+4237269,Deficiency of isomaltase,Disorder
+4240589,Diabetes mellitus associated with hormonal etiology,Disorder
+4242528,Diarrhea due to diabetes mellitus,Disorder
+4242853,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class C",Disorder
+4243326,Nodular glomerulosclerosis,MorphAbnormality
+4243622,Nonpersistence of intestinal lactase,Disorder
+4243625,Diffuse glomerulosclerosis of kidney due to diabetes mellitus,Disorder
+4245270,Diabetes mellitus associated with genetic syndrome,Disorder
+4245406,Acquired lactase deficiency,Disorder
+4251180,Impaired glucose tolerance associated with hormonal etiology,Disorder
+42535539,Disorder of nerve due to type 1 diabetes mellitus,Disorder
+42535540,Hyperosmolarity due to type 1 diabetes mellitus,Disorder
+42536603,Hyperosmolar hyperglycemic coma due to diabetes mellitus without ketoacidosis,Disorder
+42537681,Diabetes mellitus caused by chemical,Disorder
+42538169,Disorder of eye due to type 1 diabetes mellitus,Disorder
+42538560,Syndrome of infant of mother with gestational diabetes,Disorder
+42538561,Neonatal hyperglycemia due to iatrogenic intravenous therapy,Disorder
+4255402,O/E - left eye diabetic maculopathy,Disorder
+4262282,Diabetic mononeuropathy multiplex,Disorder
+4263090,Femoral mononeuropathy due to diabetes mellitus,Disorder
+4263688,Impaired glucose tolerance associated with drugs,Disorder
+4263902,Gestational diabetes mellitus class A2,Disorder
+4265337,Hereditary nephrogenic diabetes insipidus,Disorder
+4266041,Visually threatening diabetic retinopathy,Disorder
+4266042,High risk proliferative retinopathy with clinically significant macula edema due to diabetes mellitus,Disorder
+4266637,Severe nonproliferative retinopathy without macular edema due to diabetes mellitus,Disorder
+4269870,Non-high-risk proliferative retinopathy with clinically significant macular edema due to diabetes mellitus,Disorder
+4269871,Very severe nonproliferative retinopathy due to diabetes mellitus,Disorder
+4270049,Nodular type diabetic glomerulosclerosis,Disorder
+4270189,Alstrom syndrome,Disorder
+4290822,Severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus,Disorder
+4290823,Very severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus,Disorder
+4294429,Wet gangrene of foot due to diabetes mellitus,Disorder
+4295011,Type 1 diabetes mellitus with persistent microalbuminuria,Disorder
+4295363,Postpancreatectomy hyperglycemia,Disorder
+4296488,Congenital total lipoatrophy,Disorder
+4297627,Idiopathic vasopressin-related polyuria,Disorder
+4301746,Sucrase-isomaltase deficiency,Disorder
+4304377,Type 2 diabetes mellitus in obese,Disorder
+4304701,Mononeuropathy simplex due to diabetes mellitus,Disorder
+4305491,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class R",Disorder
+4307037,[D]Impaired fasting glycaemia,ContextDependent
+4307319,Symmetric proximal motor neuropathy due to diabetes mellitus,Disorder
+4308509,Impaired fasting glycemia,Disorder
+4311629,Impaired glucose tolerance,Disorder
+4311708,Diabetic peripheral neuropathy,Disorder
+4321756,Acanthosis nigricans due to type 2 diabetes mellitus,Disorder
+4322638,Wolfram syndrome,Disorder
+4325113,Gestational diabetes mellitus class B-1,Disorder
+4326434,Gestational diabetes mellitus class A1,Disorder
+4327944,Malnutrition related diabetes mellitus,Disorder
+4334884,Disorder of macula due to diabetes mellitus,Disorder
+4336000,Proliferative retinopathy with neovascularization elsewhere than the optic disc due to diabetes mellitus,Disorder
+4336665,Acquired generalized lipodystrophy,Disorder
+4338900,Proliferative retinopathy with optic disc neovascularization due to diabetes mellitus,Disorder
+4338901,Traction detachment of retina due to diabetes mellitus,Disorder
+4340935,Hollow visceral neuropathy,Disorder
+434480,Syndrome of infant of diabetic mother,Disorder
+435216,Disorder due to type 1 diabetes mellitus,Disorder
+43530653,Diabetic skin ulcer associated with type 2 diabetes mellitus,Disorder
+43530656,Nonproliferative retinopathy due to type 2 diabetes mellitus,Disorder
+43530657,Diabetic peripheral neuropathy associated with type 1 diabetes mellitus,Disorder
+43530660,Mixed hyperlipidemia due to type 1 diabetes mellitus,Disorder
+43530685,Proliferative retinopathy due to type 2 diabetes mellitus,Disorder
+43530689,Peripheral neuropathy due to type 2 diabetes mellitus,Disorder
+43530690,Foot ulcer due to type 2 diabetes mellitus,Disorder
+43531006,"Maturity onset diabetes of the young, type 1",Disorder
+43531007,Pre-existing diabetes mellitus in pregnancy,Disorder
+43531008,Pre-existing type 1 diabetes mellitus in pregnancy,Disorder
+43531009,Pregnancy and type 1 diabetes mellitus,Disorder
+43531010,Pre-existing type 2 diabetes mellitus in pregnancy,Disorder
+43531011,Diabetes mellitus due to genetic defect in beta cell function,Disorder
+43531012,"Maturity-onset diabetes of the young, type 3",Disorder
+43531013,"Maturity-onset diabetes of the young, type 4",Disorder
+43531014,"Maturity-onset diabetes of the young, type 5",Disorder
+43531015,"Maturity-onset diabetes of the young, type 7",Disorder
+43531016,"Maturity-onset diabetes of the young, type 9",Disorder
+43531017,"Maturity-onset diabetes of the young, type 10",Disorder
+43531018,"Maturity-onset diabetes of the young, type 11",Disorder
+43531019,"Diabetes mellitus, transient neonatal 2",Disorder
+43531020,"Diabetes mellitus, transient neonatal 3",Disorder
+43531559,Chronic kidney disease stage 1 due to type 2 diabetes mellitus,Disorder
+43531562,Chronic kidney disease stage 5 due to type 2 diabetes mellitus,Disorder
+43531563,Neuropathic arthropathy due to type 2 diabetes mellitus,Disorder
+43531564,Dyslipidemia due to type 2 diabetes mellitus,Disorder
+43531565,Erectile dysfunction due to type 1 diabetes mellitus,Disorder
+43531566,Chronic kidney disease stage 2 due to type 2 diabetes mellitus,Disorder
+43531577,Chronic kidney disease stage 4 due to type 2 diabetes mellitus,Disorder
+43531578,Chronic kidney disease due to type 2 diabetes mellitus,Disorder
+43531588,Angina associated with type 2 diabetes mellitus,Disorder
+43531597,Disorder due to well controlled type 2 diabetes mellitus,Disorder
+43531608,Vitreous hemorrhage due to type 2 diabetes mellitus,Disorder
+43531616,Dermopathy due to type 2 diabetes mellitus,Disorder
+43531640,Maturity-onset diabetes of the young,Disorder
+43531641,Permanent neonatal diabetes mellitus,Disorder
+43531642,Diabetes mellitus due to genetic defect in insulin action,Disorder
+43531643,"Maturity-onset diabetes of the young, type 6",Disorder
+43531644,"Maturity-onset diabetes of the young, type 8",Disorder
+43531645,"Diabetes mellitus, transient neonatal 1",Disorder
+43531651,Mixed hyperlipidemia due to type 2 diabetes mellitus,Disorder
+43531653,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,Disorder
+438476,Vasopressin resistance,Disorder
+438480,"Abnormal glucose tolerance in mother complicating pregnancy, childbirth AND/OR puerperium",Disorder
+439770,Ketoacidosis due to type 1 diabetes mellitus,Disorder
+440216,Glucose tolerance test outside reference range,ClinicalFinding
+443238,Diabetic - poor control,ClinicalFinding
+443412,Type 1 diabetes mellitus without complication,Disorder
+443592,Hyperosmolality due to uncontrolled type 1 diabetes mellitus,Disorder
+443727,Diabetic ketoacidosis,Disorder
+443729,Peripheral circulatory disorder due to type 2 diabetes mellitus,Disorder
+443731,Renal disorder due to type 2 diabetes mellitus,Disorder
+443732,Disorder due to type 2 diabetes mellitus,Disorder
+443733,Disorder of eye due to type 2 diabetes mellitus,Disorder
+443734,Ketoacidosis due to type 2 diabetes mellitus,Disorder
+443735,Coma due to diabetes mellitus,Disorder
+443767,Disorder of eye due to diabetes mellitus,Disorder
+44783612,"Glucose tolerance test, antenatal",Procedure
+44787902,Lipoatrophic diabetes mellitus without complication,Disorder
+44790867,Extended glucose tolerance test,Procedure
+44792134,Maternally inherited diabetes mellitus,Disorder
+44793113,Diabetes mellitus with multiple complications,Disorder
+44793114,Pre-existing diabetes mellitus,Disorder
+44799392,"[X]Pre-existing diabetes mellitus, unspecified",Disorder
+44801936,[D]Glucose tolerance test abnormal,ContextDependent
+44802541,[D]Drug induced hyperglycaemia,ContextDependent
+44802621,[D]Impaired glucose tolerance,ContextDependent
+44805212,Symptomatic diabetic peripheral neuropathy,Disorder
+44805628,Diabetic retinopathy detected by national screening programme,Disorder
+44808373,Impaired glucose regulation,Disorder
+44808385,Pre-diabetes,Disorder
+44810191,Non-diabetic hyperglycaemia,Disorder
+44810562,Diabetes mellitus in remission,Disorder
+44810563,Type I diabetes mellitus in remission,Disorder
+44810565,Type II diabetes mellitus in remission,Disorder
+44813103,[D]Hyperglycaemia,ContextDependent
+44813104,[D]Impaired fasting glycaemia,ContextDependent
+44813412,"[X]Hyperglycaemia, unspecified",ClinicalFinding
+44819499,"Secondary diabetes mellitus with hyperosmolarity, uncontrolled",5DigBillingCode
+44819503,Diabetes with other specified manifestations,4DigNonbillCode
+44819517,Intestinal disaccharidase deficiencies and disaccharide malabsorption,4DigBillingCode
+44820047,Neonatal diabetes mellitus,4DigBillingCode
+44820681,"Secondary diabetes mellitus with ketoacidosis, uncontrolled",5DigBillingCode
+44820682,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled",5DigBillingCode
+44820684,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled",5DigBillingCode
+44821870,Diabetic macular edema,5DigBillingCode
+44822099,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",5DigBillingCode
+44822933,"Secondary diabetes mellitus with neurological manifestations, uncontrolled",5DigBillingCode
+44822938,Diabetes insipidus,4DigBillingCode
+44823040,Nonproliferative diabetic retinopathy NOS,5DigBillingCode
+44823192,Nephrogenic diabetes insipidus,4DigBillingCode
+44823246,"Abnormal glucose tolerance of mother, complicating pregnancy, childbirth, or the puerperium",4DigNonbillCode
+44824074,Diabetes with renal manifestations,4DigNonbillCode
+44824634,Abnormal glucose,4DigNonbillCode
+44825262,Secondary diabetes mellitus with neurological manifestations,4DigNonbillCode
+44825349,Polyneuropathy in diabetes,4DigBillingCode
+44826573,Diabetic retinopathy,4DigNonbillCode
+44826965,"Syndrome of ""infant of a diabetic mother""",4DigBillingCode
+44826981,Impaired fasting glucose,5DigBillingCode
+44827615,Diabetes with neurological manifestations,4DigNonbillCode
+44827618,Postsurgical hypoinsulinemia,4DigBillingCode
+44828788,Secondary diabetes mellitus with ophthalmic manifestations,4DigNonbillCode
+44828789,Secondary diabetes mellitus with peripheral circulatory disorders,4DigNonbillCode
+44828793,Diabetes with ketoacidosis,4DigNonbillCode
+44828794,Diabetes with ophthalmic manifestations,4DigNonbillCode
+44829305,Other abnormal glucose,5DigBillingCode
+44829880,Diabetes with peripheral circulatory disorders,4DigNonbillCode
+44830221,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication",5DigBillingCode
+44831148,Background diabetic retinopathy,5DigBillingCode
+44832187,Secondary diabetes mellitus,3DigNonbillCode
+44832188,"Secondary diabetes mellitus without mention of complication, uncontrolled",5DigBillingCode
+44832299,Moderate nonproliferative diabetic retinopathy,5DigBillingCode
+44832300,Severe nonproliferative diabetic retinopathy,5DigBillingCode
+44832532,"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium",4DigNonbillCode
+44832533,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication",5DigBillingCode
+44833365,Diabetes mellitus,3DigNonbillCode
+44833465,Proliferative diabetic retinopathy,5DigBillingCode
+44833484,Diabetic cataract,5DigBillingCode
+44834547,Secondary diabetes mellitus with renal manifestations,4DigNonbillCode
+44834548,Diabetes mellitus without mention of complication,4DigNonbillCode
+44834549,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled",5DigBillingCode
+44834647,Mild nonproliferative diabetic retinopathy,5DigBillingCode
+44835747,Secondary diabetes mellitus with ketoacidosis,4DigNonbillCode
+44835750,"Secondary diabetes mellitus with renal manifestations, uncontrolled",5DigBillingCode
+44835751,"Secondary diabetes mellitus with peripheral circulatory disorders, uncontrolled",5DigBillingCode
+44836084,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",5DigBillingCode
+44836913,"Secondary diabetes mellitus with ophthalmic manifestations, uncontrolled",5DigBillingCode
+44836914,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",5DigBillingCode
+44837245,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable",5DigBillingCode
+45533016,"Type 1 diabetes mellitus, With neurological complications",Icd10Code
+45533018,Type 1 diabetes mellitus with hyperglycemia,5CharBillingCode
+45533023,Type 2 diabetes mellitus with periodontal disease,6CharBillingCode
+45533040,Congenital lactase deficiency,Icd10Code
+45533163,Diabetic polyneuropathy,Icd10Code
+45533286,Diabetic cataract,Icd10Code
+45534186,Diabetes mellitus in pregnancy,Icd10Hierarchy
+45534187,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent",Icd10Code
+45534354,Syndrome of infant of mother with gestational diabetes,Icd10Code
+45534355,Syndrome of infant of a diabetic mother,Icd10Code
+45537959,"Type 1 diabetes mellitus, With other specified complications",Icd10Code
+45537964,"Other specified diabetes mellitus, without complications",Icd10Code
+45537982,Sucrase-isomaltase deficiency,5CharBillingCode
+45537983,Other disorders of intestinal carbohydrate absorption,5CharBillingCode
+45539106,"Gestational diabetes mellitus in childbirth, diet controlled",6CharBillingCode
+45539107,"Diabetes mellitus in pregnancy, unspecified",Icd10Code
+45542735,"Type 1 diabetes mellitus, With ketoacidosis",Icd10Code
+45542739,"Type 2 diabetes mellitus, with ketoacidosis",Icd10Code
+45542740,"Malnutrition-related diabetes mellitus, with ketoacidosis",Icd10Code
+45543921,"Pre-existing type 1 diabetes mellitus, in pregnancy, unspecified trimester",6CharBillingCode
+45543922,Diabetes mellitus arising in pregnancy,Icd10Code
+45547624,Type 1 diabetes mellitus with other specified complication,5CharBillingCode
+45547626,Type 2 diabetes mellitus with diabetic dermatitis,6CharBillingCode
+45547628,"Malnutrition-related diabetes mellitus, with neurological complications",Icd10Code
+45547629,"Malnutrition-related diabetes mellitus, without complications",Icd10Code
+45547630,"Other specified diabetes mellitus, with ketoacidosis",Icd10Code
+45547631,"Other specified diabetes mellitus, with renal complications",Icd10Code
+45547636,"Other specified diabetes mellitus, with other specified complications",Icd10Code
+45547637,"Other specified diabetes mellitus, with multiple complications",Icd10Code
+45547638,"Unspecified diabetes mellitus, with peripheral circulatory complications",Icd10Code
+45547655,Lactose intolerance,Icd10Hierarchy
+45552379,Type 1 diabetes mellitus with diabetic nephropathy,5CharBillingCode
+45552383,Type 1 diabetes mellitus with hypoglycemia with coma,6CharBillingCode
+45552384,"Type 1 diabetes mellitus, With unspecified complications",Icd10Code
+45552387,"Type 2 diabetes mellitus, with other specified complications",Icd10Code
+45553483,"Gestational diabetes mellitus in pregnancy, diet controlled",6CharBillingCode
+45557111,Type 1 diabetes mellitus with periodontal disease,6CharBillingCode
+45557114,"Type 2 diabetes mellitus, with peripheral circulatory complications",Icd10Code
+45557115,"Malnutrition-related diabetes mellitus, with other specified complications",Icd10Code
+45557132,Secondary lactase deficiency,Icd10Code
+45557135,Other disorders of intestinal carbohydrate absorption,Icd10Code
+45558213,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent",Icd10Code
+45561949,Type 2 diabetes mellitus with hypoglycemia with coma,6CharBillingCode
+45561950,"Type 2 diabetes mellitus, with multiple complications",Icd10Code
+45561951,"Type 2 diabetes mellitus, with unspecified complications",Icd10Code
+45561952,"Type 2 diabetes mellitus, without complications",Icd10Code
+45561959,"Unspecified diabetes mellitus, with coma",Icd10Code
+45563059,"Gestational diabetes mellitus in childbirth, insulin controlled",6CharBillingCode
+45566732,Other specified diabetes mellitus,Icd10Hierarchy
+45567834,Nephrogenic diabetes insipidus,Icd10Code
+45571655,"Type 1 diabetes mellitus, With multiple complications",Icd10Code
+45571656,Type 2 diabetes mellitus,Icd10Hierarchy

@@ -1,0 +1,5 @@
+concept_id,label,concept_class
+1728416,penicillin G,Ingredient
+40772650,Penicillin G,LoincComponent
+4205895,Penicillin G,Substance
+4301247,Penicillin G-containing product,PharmabiolProduct

@@ -1,0 +1,5 @@
+concept_id,label,concept_class
+3010713,XR Chest Views,ClinicalObservation
+4060900,Fluoroscopy - chest wall,Procedure
+4163872,Plain X-ray of chest,Procedure
+45876814,Chest x-ray,Answer

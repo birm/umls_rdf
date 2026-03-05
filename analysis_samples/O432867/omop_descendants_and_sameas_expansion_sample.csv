@@ -1,0 +1,104 @@
+concept_id,label,concept_class
+1017670,Hyperlipidemia,LoincComponent
+1340362,Exacerbation of hypercholesterolemia,Disorder
+1595535,Other hyperlipidemia,5CharBillingCode
+35207060,Pure hypercholesterolemia,4CharNonbillCode
+35207061,Pure hyperglyceridemia,4CharBillingCode
+35207062,Mixed hyperlipidemia,4CharBillingCode
+35207063,Hyperchylomicronemia,4CharBillingCode
+35207064,Other hyperlipidemia,4CharNonbillCode
+35207065,"Hyperlipidemia, unspecified",4CharBillingCode
+3553904,Hypertriglyceridaemia,Undefined
+3556799,Familial defective apolipoprotein B-100,Undefined
+3557155,Familial hypercholesterolaemia due to homozygous low density lipoprotein receptor mutation,Disorder
+3557156,Familial hypercholesterolaemia due to heterozygous low density lipoprotein receptor mutation,Disorder
+3558763,Polygenic hypercholesterolaemia,Undefined
+3558764,Familial combined hyperlipidaemia,Undefined
+3560175,Hypercholesterolaemia,Undefined
+35608140,Double heterozygous familial hypercholesterolemia,Disorder
+36674388,Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency,Disorder
+36676683,Transient infantile hypertriglyceridemia and hepatosteatosis,Disorder
+37016144,Hyperlipidemia caused by steroid,Disorder
+37162785,Familial chylomicronemia syndrome,Disorder
+37163227,TMEM199 congenital disorder of glycosylation,Disorder
+37165942,Xanthoma due to secondary hyperlipidemia,Disorder
+37165945,Xanthoma due to primary hypertriglyceridemia,Disorder
+37165946,Xanthoma due to primary combined hyperlipidemia,Disorder
+37165947,Xanthoma due to primary hypercholesterolemia,Disorder
+37166026,Xanthoma due to primary chylomicronemia,Disorder
+37200312,"Pure hypercholesterolemia, unspecified",5CharBillingCode
+37200313,Familial hypercholesterolemia,5CharNonbillCode
+4029258,Polygenic hypercholesterolemia,Disorder
+4029259,Familial hypercholesterolemia - heterozygous,Disorder
+4029260,Primary hypertriglyceridemia,Disorder
+4029261,Fredrickson type IV hyperlipoproteinemia,Disorder
+4029262,Familial lipoprotein lipase deficiency,Disorder
+4029263,Primary combined hyperlipidemia,Disorder
+4029305,Hypercholesterolemia,Disorder
+4029890,Familial defective apolipoprotein B-100,Disorder
+4029891,Secondary hypercholesterolemia,Disorder
+4029892,Secondary hypertriglyceridemia,Disorder
+4030586,Exogenous hyperlipidemia,Disorder
+4030618,Endogenous hyperlipidemia,Disorder
+4030619,Mixed hypercholesterolemia and hypertriglyceridemia,Disorder
+4031945,Primary hypercholesterolemia,Disorder
+4031947,Very low density lipoprotinemia,Disorder
+40321211,Pure hyperglyceridemia,Disorder
+40321212,Mixed hyperlipidemia,Disorder
+40439956,Familial lipoprotein lipase deficiency,Disorder
+40482885,Posttransplant hyperlipidemia,Disorder
+40528469,Familial lipoprotein lipase deficiency,Disorder
+4077382,"Hyperlipoproteinemia, type I",Disorder
+4079876,Familial combined hyperlipidemia,Disorder
+4079885,Familial hypercholesterolemia - homozygous,Disorder
+4079886,Hyperalphalipoproteinemia,Disorder
+4079887,Secondary combined hyperlipidemia,Disorder
+4096215,"Hyperlipidemia, group A",Disorder
+4098481,Hyperbetalipoproteinemia,Disorder
+4104485,Familial multiple lipoprotein-type hyperlipidemia,Disorder
+4120314,Hypertriglyceridemia,Disorder
+4134862,Familial hypercholesterolemia,Disorder
+4142496,Familial hypertriglyceridemia,Disorder
+4143177,Familial apolipoprotein C-II deficiency,Disorder
+4144326,Chemically induced hyperlipidemia,Disorder
+4144529,Familial type 5 hyperlipoproteinemia,Disorder
+4220010,Fredrickson type IIa hyperlipoproteinemia,Disorder
+4223495,Primary acquired chylomicronemia,Disorder
+4270878,Primary polygenic type IIb combined hyperlipidemia,Disorder
+4291436,Primary chylomicronemia,Disorder
+4292672,Secondary hyperlipidemia,Disorder
+4294296,Chylomicronemia syndrome,Disorder
+4294297,Primary genetic mixed hyperlipidemia,Disorder
+4295608,Familial hypercholesterolemia due to heterozygous LDL receptor mutation,Disorder
+4295609,Familial hypercholesterolemia due to genetic defect of apolipoprotein B,Disorder
+4298010,Familial hypercholesterolemia due to homozygous LDL receptor mutation,Disorder
+4298723,Hyperlipidemia with lipid deposition in skin,Disorder
+4298733,Primary genetic hyperlipidemia,Disorder
+4299409,Sporadic primary hypertriglyceridemia,Disorder
+4300461,Familial lipoprotein lipase deficiency with type V phenotype,Disorder
+4301409,Familial lipoprotein lipase deficiency with type I phenotype,Disorder
+432867,Hyperlipidemia,Disorder
+4345818,Tuberous xanthoma,Disorder
+43530660,Mixed hyperlipidemia due to type 1 diabetes mellitus,Disorder
+43531651,Mixed hyperlipidemia due to type 2 diabetes mellitus,Disorder
+437521,Familial hyperchylomicronemia,Disorder
+437827,Pure hypercholesterolemia,Disorder
+438720,Mixed hyperlipidemia,Disorder
+440360,Pure hyperglyceridemia,Disorder
+44822948,Hyperchylomicronemia,4DigBillingCode
+44827629,Other and unspecified hyperlipidemia,4DigBillingCode
+44834564,Pure hypercholesterolemia,4DigBillingCode
+44834565,Pure hyperglyceridemia,4DigBillingCode
+44836929,Mixed hyperlipidemia,4DigBillingCode
+45537985,Hyperchylomicronaemia,Icd10Code
+45537986,"Hyperlipidaemia, unspecified",Icd10Code
+45542771,Pure hypercholesterolaemia,Icd10Code
+45542772,Pure hyperglyceridaemia,Icd10Code
+45561984,Other hyperlipidaemia,Icd10Code
+45581383,Mixed hyperlipidaemia,Icd10Code
+45757432,Hyperlipidemia due to type 1 diabetes mellitus,Disorder
+45757500,Familial hyperalphalipoproteinemia,Disorder
+45765429,Chylomicron retention disease,Disorder
+45770880,Hyperlipidemia due to type 2 diabetes mellitus,Disorder
+45883494,Elevated cholesterol,Answer
+766254,Exacerbation of hyperlipidaemia,Disorder

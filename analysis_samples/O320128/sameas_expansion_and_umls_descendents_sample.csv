@@ -1,0 +1,253 @@
+concept_id,label,concept_class
+1008437,Pulmonary hypertension,LoincComponent
+1032443,Hypertension,LoincComponent
+1326592,"Pulmonary hypertension, unspecified",5CharBillingCode
+1326596,Chronic thromboembolic pulmonary hypertension,5CharBillingCode
+1326597,Other secondary pulmonary hypertension,5CharBillingCode
+1326773,Pulmonary hypertension of newborn,5CharBillingCode
+137613,Eclampsia in pregnancy,Disorder
+141084,Pre-eclampsia or eclampsia with pre-existing hypertension,Disorder
+141693,Elevated blood-pressure reading without diagnosis of hypertension,ContextDependent
+1569120,Hypertensive heart disease,3CharNonbillCode
+1569121,Hypertensive chronic kidney disease,3CharNonbillCode
+1569124,Secondary hypertension,3CharNonbillCode
+1571635,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",4CharNonbillCode
+1571638,Pre-existing hypertensive heart disease complicating pregnancy,5CharNonbillCode
+1571645,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium",4CharNonbillCode
+1571647,Pre-existing hypertension with pre-eclampsia,3CharNonbillCode
+1571649,Gestational edema,4CharNonbillCode
+1571650,Gestational proteinuria,4CharNonbillCode
+1571651,Gestational edema with proteinuria,4CharNonbillCode
+1571652,Gestational [pregnancy-induced] hypertension without significant proteinuria,3CharNonbillCode
+1571653,Pre-eclampsia,3CharNonbillCode
+1571655,Severe pre-eclampsia,4CharNonbillCode
+1571656,Unspecified pre-eclampsia,4CharNonbillCode
+1571657,Eclampsia,3CharNonbillCode
+1571658,Eclampsia complicating pregnancy,4CharNonbillCode
+1571659,Unspecified maternal hypertension,3CharNonbillCode
+192680,Portal hypertension,Disorder
+193493,Benign hypertensive renal disease,Disorder
+1989868,Hypertension (high blood pressure),Answer
+201313,Hypertensive renal disease,Disorder
+312648,Benign essential hypertension,Disorder
+312938,Hypertensive encephalopathy,Disorder
+313502,Benign hypertensive heart disease without congestive heart failure,Disorder
+314090,Mild pre-eclampsia,Disorder
+314369,Malignant hypertensive heart disease without congestive heart failure,Disorder
+314378,Hypertensive heart disease with congestive heart failure,Disorder
+314958,Benign secondary hypertension,Disorder
+316866,Hypertensive disorder,Disorder
+316994,Malignant hypertensive heart disease with congestive heart failure,Disorder
+317895,Renovascular hypertension,Disorder
+317898,Malignant essential hypertension,Disorder
+318437,Malignant secondary hypertension,Disorder
+319034,Hypertensive heart disease without congestive heart failure,Disorder
+319826,Secondary hypertension,Disorder
+320128,Essential hypertension,Disorder
+321080,"Hypertension complicating pregnancy, childbirth and the puerperium",Disorder
+35207668,Essential (primary) hypertension,3CharBillingCode
+35207669,Hypertensive heart disease with heart failure,4CharBillingCode
+35207670,Hypertensive heart disease without heart failure,4CharBillingCode
+35207672,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",4CharBillingCode
+35207675,Renovascular hypertension,4CharBillingCode
+35207676,Hypertension secondary to other renal disorders,4CharBillingCode
+35207677,Hypertension secondary to endocrine disorders,4CharBillingCode
+35207678,Other secondary hypertension,4CharBillingCode
+35207679,"Secondary hypertension, unspecified",4CharBillingCode
+35207707,Primary pulmonary hypertension,4CharBillingCode
+35207709,Other secondary pulmonary hypertension,4CharNonbillCode
+35207832,Hypertensive encephalopathy,4CharBillingCode
+35208365,Portal hypertension,4CharBillingCode
+35209551,"Eclampsia, unspecified as to time period",4CharBillingCode
+35210519,Persistent fetal circulation,4CharNonbillCode
+35211268,"Elevated blood-pressure reading, without diagnosis of hypertension",4CharBillingCode
+35622939,Postpartum pre-eclampsia,Disorder
+36713482,Grange syndrome,Disorder
+36715087,Brachydactyly and arterial hypertension syndrome,Disorder
+36716711,Idiopathic portal hypertension,Disorder
+37200959,"Gestational edema, complicating childbirth",5CharBillingCode
+37200960,"Gestational edema, complicating the puerperium",5CharBillingCode
+37200961,"Gestational proteinuria, complicating childbirth",5CharBillingCode
+37200962,"Gestational proteinuria, complicating the puerperium",5CharBillingCode
+37200963,"Gestational edema with proteinuria, complicating childbirth",5CharBillingCode
+37200964,"Gestational edema with proteinuria, complicating the puerperium",5CharBillingCode
+37200971,"HELLP syndrome, complicating childbirth",5CharBillingCode
+37200972,"HELLP syndrome, complicating the puerperium",5CharBillingCode
+37208172,Resistant hypertensive disorder,Disorder
+4013643,Pulmonary arterial hypertension,Disorder
+4030513,Focal segmental glomerulosclerosis,Disorder
+4032952,Renal sclerosis with hypertension,Disorder
+4034094,Moderate proteinuric hypertension of pregnancy,Disorder
+4034096,Eclampsia in labor,Disorder
+4048212,Goldblatt hypertension,Disorder
+4052763,Segmental glomerulosclerosis,MorphAbnormality
+4055971,Albuminuria in pregnancy without hypertension,Disorder
+4058113,Gestational edema with proteinuria,Disorder
+4078532,Congestive splenomegaly,Disorder
+4086587,Increased blood pressure,ClinicalFinding
+4093431,Focal glomerular sclerosis,Disorder
+4110948,Hypertension secondary to endocrine disorder,Disorder
+4116344,Eclampsia in puerperium,Disorder
+4118910,Maternal hypertension,Disorder
+4119429,High altitude pulmonary edema,Disorder
+4119611,Familial primary pulmonary hypertension,Disorder
+4120094,Chronic thromboembolic pulmonary hypertension,Disorder
+4121462,Persistent pulmonary hypertension of the newborn,Disorder
+4121809,Familial pulmonary capillary hemangiomatosis,Disorder
+4140207,Nephrosclerosis,Disorder
+4142037,Gestational proteinuria,Disorder
+4163687,Cruveilhier-Baumgarten syndrome,Disorder
+4167358,Diastolic hypertension,Disorder
+4167493,Pregnancy-induced hypertension,Disorder
+4173820,Cardiomegaly due to hypertension,Disorder
+4183981,Malignant hypertensive heart disease,Disorder
+4193236,Ayerza's syndrome,Disorder
+4207194,Rowley-Rosenberg syndrome,Disorder
+4209293,Systolic hypertension,Disorder
+42538946,Hypertension complicating pregnancy,Disorder
+4263504,Benign hypertensive heart disease,Disorder
+4268006,Indian childhood cirrhosis,Disorder
+4283352,Pre-eclampsia added to pre-existing hypertension,Disorder
+4289933,Malignant hypertension,Disorder
+43021748,Hypertensive nephrosclerosis,Disorder
+4316372,HELLP syndrome,Disorder
+4322024,Pulmonary hypertension,Disorder
+433536,Severe pre-eclampsia,Disorder
+4339214,Secondary pulmonary hypertension,Disorder
+439393,Pre-eclampsia,Disorder
+439694,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Disorder
+439695,Hypertensive heart and renal disease with renal failure,Disorder
+439696,Hypertensive heart and renal disease with (congestive) heart failure,Disorder
+439698,Benign hypertensive heart disease with congestive cardiac failure,Disorder
+441922,Transient hypertension of pregnancy,Disorder
+442604,Hypertensive heart disease,Disorder
+442626,Benign hypertensive heart AND renal disease,Disorder
+442766,Malignant hypertensive renal disease,Disorder
+443214,Gestational edema,Disorder
+443700,Eclampsia,Disorder
+443771,Renal hypertension,Disorder
+444101,Hypertensive heart failure,Disorder
+44782429,Chronic kidney disease due to hypertension,Disorder
+44782560,Idiopathic pulmonary arterial hypertension,Disorder
+44783618,Heritable pulmonary arterial hypertension,Disorder
+44783644,Labile hypertension due to being in a clinical environment,Disorder
+44784439,Benign hypertensive renal disease with renal failure,Disorder
+44819695,"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",5DigBillingCode
+44819851,"Mild or unspecified pre-eclampsia, unspecified as to episode of care or not applicable",5DigBillingCode
+44819852,"Severe pre-eclampsia, antepartum condition or complication",5DigBillingCode
+44820856,"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease",5DigBillingCode
+44821020,Mild or unspecified pre-eclampsia,4DigNonbillCode
+44821021,Severe pre-eclampsia,4DigNonbillCode
+44821949,Unspecified essential hypertension,4DigBillingCode
+44821950,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease",5DigBillingCode
+44822040,Portal hypertension,4DigBillingCode
+44822082,"Mild or unspecified pre-eclampsia, delivered, with or without mention of antepartum condition",5DigBillingCode
+44823109,Malignant essential hypertension,4DigBillingCode
+44823110,Benign hypertensive heart disease with heart failure,5DigBillingCode
+44823113,Primary pulmonary hypertension,4DigBillingCode
+44823231,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium",4DigNonbillCode
+44824235,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease",5DigBillingCode
+44824236,Other malignant secondary hypertension,5DigBillingCode
+44824393,"Severe pre-eclampsia, postpartum condition or complication",5DigBillingCode
+44825427,"Hypertensive renal disease, benign",4DigNonbillCode
+44825589,"Severe pre-eclampsia, delivered, with or without mention of antepartum condition",5DigBillingCode
+44825590,"Eclampsia, unspecified as to episode of care or not applicable",5DigBillingCode
+44826774,Transient hypertension of pregnancy,4DigNonbillCode
+44826775,"Mild or unspecified pre-eclampsia, postpartum condition or complication",5DigBillingCode
+44827778,Malignant hypertensive heart disease without heart failure,5DigBillingCode
+44827781,Other benign secondary hypertension,5DigBillingCode
+44827933,"Severe pre-eclampsia, unspecified as to episode of care or not applicable",5DigBillingCode
+44827934,"Eclampsia complicating pregnancy, childbirth or the puerperium",4DigNonbillCode
+44827935,"Eclampsia, delivered, with or without mention of antepartum condition",5DigBillingCode
+44828970,Benign hypertensive heart disease without heart failure,5DigBillingCode
+44828971,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",5DigBillingCode
+44829063,"Renal sclerosis, unspecified",3DigBillingCode
+44829313,Elevated blood pressure reading without diagnosis of hypertension,4DigBillingCode
+44830076,Benign hypertensive heart disease,4DigNonbillCode
+44830077,"Hypertensive renal disease, unspecified",4DigNonbillCode
+44830212,"Eclampsia, postpartum condition or complication",5DigBillingCode
+44830637,"Complications affecting other specified body systems, not elsewhere classified, hypertension",5DigBillingCode
+44831229,Malignant hypertensive heart disease,4DigNonbillCode
+44831231,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease",5DigBillingCode
+44831233,Malignant secondary hypertension,4DigNonbillCode
+44831235,Benign secondary hypertension,4DigNonbillCode
+44831562,Maternal hypertensive disorders affecting fetus or newborn,4DigBillingCode
+44832366,Hypertensive heart disease,3DigNonbillCode
+44832367,Hypertensive chronic kidney disease,3DigNonbillCode
+44832370,Secondary hypertension,3DigNonbillCode
+44832371,Benign renovascular hypertension,5DigBillingCode
+44832522,"Eclampsia, antepartum condition or complication",5DigBillingCode
+44832682,Persistent fetal circulation,5DigBillingCode
+44833556,Essential hypertension,3DigNonbillCode
+44833557,Malignant hypertensive heart disease with heart failure,5DigBillingCode
+44833560,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease",5DigBillingCode
+44833713,"Hypertension complicating pregnancy, childbirth, and the puerperium",3DigNonbillCode
+44834715,Benign essential hypertension,4DigBillingCode
+44834716,Unspecified hypertensive heart disease,4DigNonbillCode
+44834717,"Hypertensive heart and renal disease, benign",4DigNonbillCode
+44834877,"Mild or unspecified pre-eclampsia, antepartum condition or complication",5DigBillingCode
+44834878,"Severe pre-eclampsia, delivered, with mention of postpartum complication",5DigBillingCode
+44834879,"Eclampsia, delivered, with mention of postpartum complication",5DigBillingCode
+44835922,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified",5DigBillingCode
+44835923,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",5DigBillingCode
+44835953,Hypertensive encephalopathy,4DigBillingCode
+44837098,Unspecified secondary hypertension,4DigNonbillCode
+44837234,"Mild or unspecified pre-eclampsia, delivered, with mention of postpartum complication",5DigBillingCode
+45538369,Hypertensive heart disease with (congestive) heart failure,Icd10Code
+45539091,Gestational [pregnancy-induced] hypertension,Icd10Hierarchy
+45543914,Gestational oedema,Icd10Code
+45548007,Hypertensive heart disease,Icd10Hierarchy
+45548008,Other secondary hypertension,Icd10Code
+45548700,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium",Icd10Code
+45548701,"Gestational proteinuria, first trimester",5CharBillingCode
+45548702,"Gestational proteinuria, third trimester",5CharBillingCode
+45548704,"Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester",4CharBillingCode
+45548705,"Severe pre-eclampsia, second trimester",5CharBillingCode
+45548706,"Unspecified pre-eclampsia, unspecified trimester",5CharBillingCode
+45552780,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Icd10Code
+45552787,Primary pulmonary hypertension,Icd10Code
+45553477,Mild to moderate pre-eclampsia,Icd10Code
+45553712,"Elevated blood-pressure reading, without diagnosis of hypertension",Icd10Code
+45557535,Hypertension secondary to other renal disorders,Icd10Code
+45558143,"Renal sclerosis, unspecified",4CharBillingCode
+45562338,Secondary hypertension,Icd10Hierarchy
+45563049,Gestational proteinuria,Icd10Code
+45563050,"Gestational proteinuria, second trimester",5CharBillingCode
+45563054,Unspecified maternal hypertension,Icd10Hierarchy
+45567162,Hypertensive renal disease,Icd10Hierarchy
+45567163,"Secondary hypertension, unspecified",Icd10Code
+45567889,Eclampsia in the puerperium,Icd10Code
+45567890,"Eclampsia, unspecified as to time period",Icd10Code
+45572075,Hypertensive heart and renal disease with (congestive) heart failure,Icd10Code
+45572076,Hypertensive heart and renal disease with renal failure,Icd10Code
+45572077,Renovascular hypertension,Icd10Code
+45572764,"Pre-eclampsia, unspecified",Icd10Code
+45576863,Hypertensive heart disease without (congestive) heart failure,Icd10Code
+45577560,Gestational oedema with proteinuria,Icd10Code
+45582448,HELLP syndrome,4CharNonbillCode
+45587282,"Gestational edema, first trimester",5CharBillingCode
+45587283,Severe pre-eclampsia,Icd10Code
+45587284,"Severe pre-eclampsia, third trimester",5CharBillingCode
+45591453,Essential (primary) hypertension,Icd10Hierarchy
+45591479,Hypertensive encephalopathy,Icd10Code
+45591608,Portal hypertension,Icd10Code
+45592187,"Gestational edema, second trimester",5CharBillingCode
+45592188,"Gestational edema, third trimester",5CharBillingCode
+45592190,Eclampsia in pregnancy,Icd10Code
+45596187,Hypertensive renal disease with renal failure,Icd10Code
+45596189,Hypertension secondary to endocrine disorders,Icd10Code
+45596922,Eclampsia,Icd10Hierarchy
+45596923,"Unspecified maternal hypertension, unspecified trimester",4CharBillingCode
+45597075,Persistent fetal circulation,Icd10Code
+45601777,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",Icd10Code
+45605778,Hypertensive renal disease without renal failure,Icd10Code
+45605875,Postprocedural hypertension,4CharBillingCode
+45606540,Eclampsia in labour,Icd10Code
+45757140,Pre-existing hypertensive heart disease in mother complicating pregnancy,Disorder
+45769388,Congenital pulmonary alveolar capillary dysplasia,Disorder
+45876622,Hypertension,Answer
+45877941,Hypertension gestational,Answer
+45880616,HELLP syndrome,Answer
+45883495,High blood pressure,Answer
+785992,Other hypertension,3CharNonbillCode
+785993,Resistant hypertension,4CharBillingCode

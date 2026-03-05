@@ -1,0 +1,190 @@
+root,strategy,total_count,sample_size,class_distribution
+201820,descendants_only,131,131,Disorder:131
+201820,single_hop_mapping_descendants,131,131,Disorder:131
+201820,partial_synonym_descendants,228,228,Disorder:191; Undefined:37
+201820,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+201820,sameas_roundtrip,6,6,Answer:2; LoincComponent:1; Disorder:1; 3DigNonbillCode:1; Icd10Hierarchy:1
+201820,descendants_then_sameas_roundtrip,126,126,Disorder:126
+201820,omop_descendants_and_sameas_expansion,272,272,Disorder:193; Undefined:37; Answer:10; Icd10Hierarchy:5; 3CharNonbillCode:4; Icd10Code:4; 6CharBillingCode:4; LoincComponent:3; 4CharNonbillCode:3; 5CharNonbillCode:3; 3DigNonbillCode:2; 4CharBillingCode:1; 4DigBillingCode:1; 4DigNonbillCode:1; 5DigBillingCode:1
+201820,sameas_expansion_and_umls_descendents,260,260,Disorder:114; Icd10Code:44; 5DigBillingCode:16; 4DigNonbillCode:14; Answer:13; 4CharBillingCode:11; 4CharNonbillCode:8; LoincComponent:7; ClinicalFinding:6; 5CharBillingCode:5; Icd10Hierarchy:5; 6CharBillingCode:5; 4DigBillingCode:4; 3CharNonbillCode:3; 3DigNonbillCode:2; 5CharNonbillCode:1; 6CharNonbillCode:1; ObservableEntity:1
+201820,dual_expansion,1219,1000,Disorder:670; Undefined:96; Icd10Code:34; ClinicalFinding:32; 5DigBillingCode:26; 4CharNonbillCode:17; 4CharBillingCode:16; ContextDependent:16; 4DigNonbillCode:16; 5CharNonbillCode:10; LabTest:9; 6CharBillingCode:9; LoincComponent:7; 5CharBillingCode:7; Answer:7; 4DigBillingCode:7; Procedure:6; 3CharNonbillCode:5; Icd10Hierarchy:4; ObservableEntity:2; 3DigNonbillCode:2; 6CharNonbillCode:1; MorphAbnormality:1
+201254,descendants_only,24,24,Disorder:24
+201254,single_hop_mapping_descendants,24,24,Disorder:24
+201254,partial_synonym_descendants,42,42,Disorder:31; Undefined:11
+201254,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+201254,sameas_roundtrip,8,8,Answer:3; Disorder:2; 3CharNonbillCode:1; LoincComponent:1; Icd10Hierarchy:1
+201254,descendants_then_sameas_roundtrip,22,22,Disorder:22
+201254,omop_descendants_and_sameas_expansion,54,54,Disorder:33; Undefined:11; Answer:3; 4CharNonbillCode:1; 3CharNonbillCode:1; 5CharNonbillCode:1; LoincComponent:1; 6CharBillingCode:1; Icd10Code:1; Icd10Hierarchy:1
+201254,sameas_expansion_and_umls_descendents,26,26,Disorder:7; Icd10Code:6; Answer:3; 4CharNonbillCode:2; 4CharBillingCode:2; 3CharNonbillCode:1; LoincComponent:1; 5DigBillingCode:1; 5CharBillingCode:1; 6CharBillingCode:1; Icd10Hierarchy:1
+201254,dual_expansion,216,216,Disorder:156; Undefined:23; Icd10Code:9; 6CharBillingCode:7; 4CharNonbillCode:4; 5CharNonbillCode:3; Answer:3; 5DigBillingCode:3; 5CharBillingCode:3; 4CharBillingCode:2; 3CharNonbillCode:1; LoincComponent:1; Icd10Hierarchy:1
+1177480,descendants_only,15984,1000,MarketedProduct:300; BrandedDrug:204; BrandedDrugComp:191; QuantBrandedDrug:93; BrandedDrugForm:86; ClinicalDrug:61; ClinicalDrugComp:22; BrandedDrugBox:17; ClinicalDrugBox:13; QuantClinicalDrug:10; BrandedDoseGroup:2; QuantBrandedBox:1
+1177480,single_hop_mapping_descendants,158122,1000,ClinicalDrug:413; BrandedDrug:153; ClinicalDrugComp:139; BrandedDrugComp:65; ClinicalDrugForm:65; QuantClinicalDrug:63; BrandedDrugForm:39; ClinicalDoseGroup:20; ClinicalPack:17; Ingredient:11; QuantBrandedDrug:9; BrandedDoseGroup:6
+1177480,partial_synonym_descendants,1692620,1000,ClinicalDrug:436; ClinicalDrugComp:259; BrandedDrug:235; Ingredient:40; QuantClinicalDrug:9; ClinicalDrugForm:8; QuantBrandedDrug:7; PharmabiolProduct:4; Substance:2
+1177480,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+1177480,sameas_roundtrip,5,5,Ingredient:1; LoincComponent:1; PharmabiolProduct:1; Substance:1; Answer:1
+1177480,descendants_then_sameas_roundtrip,718,718,BrandedDoseGroup:150; BrandedDrug:126; BrandedDrugComp:119; BrandedDrugForm:89; ClinicalDrug:88; ClinicalDoseGroup:61; ClinicalDrugForm:50; ClinicalDrugComp:25; QuantBrandedDrug:4; QuantClinicalDrug:4; ClinicalPack:1; BrandedPack:1
+1177480,omop_descendants_and_sameas_expansion,1697467,1000,ClinicalDrug:421; ClinicalDrugComp:242; BrandedDrug:230; Ingredient:40; LoincComponent:16; LabTest:12; QuantClinicalDrug:9; ClinicalDrugForm:9; QuantBrandedDrug:7; Organism:5; PharmabiolProduct:4; LoincSystem:2; Substance:2; Answer:1
+1177480,sameas_expansion_and_umls_descendents,52,52,BrandName:20; ClinicalDrug:10; BrandedDrug:4; PharmabiolProduct:4; Substance:4; MultipleIngredients:3; PreciseIngredient:2; BrandedDrugForm:2; Ingredient:1; LoincComponent:1; Answer:1
+1177480,dual_expansion,2029043,1000,LoincComponent:384; ClinicalDrug:118; LoincSystem:97; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:69; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+1728416,descendants_only,2385,1000,ClinicalDrug:153; ClinicalDrugBox:145; BrandedDrugBox:106; ClinicalDrugComp:105; BrandedDrug:103; BrandedDrugComp:85; MarketedProduct:81; BrandedDrugForm:68; QuantClinicalDrug:43; BrandedDoseGroup:26; ClinicalDrugForm:25; QuantBrandedDrug:22; QuantClinicalBox:16; QuantBrandedBox:12; ClinicalDoseGroup:10
+1728416,single_hop_mapping_descendants,2385,1000,ClinicalDrug:153; ClinicalDrugBox:145; BrandedDrugBox:106; ClinicalDrugComp:105; BrandedDrug:103; BrandedDrugComp:85; MarketedProduct:81; BrandedDrugForm:68; QuantClinicalDrug:43; BrandedDoseGroup:26; ClinicalDrugForm:25; QuantBrandedDrug:22; QuantClinicalBox:16; QuantBrandedBox:12; ClinicalDoseGroup:10
+1728416,partial_synonym_descendants,2875,1000,ClinicalDrug:175; ClinicalDrugComp:120; MarketedProduct:114; BrandedDrug:108; BrandedDrugComp:91; ClinicalDrugBox:82; BrandedDrugBox:73; BrandedDrugForm:61; QuantClinicalDrug:44; BrandedDoseGroup:26; ClinicalDrugForm:26; QuantBrandedDrug:23; QuantClinicalBox:17; QuantBrandedBox:13; ClinicalDoseGroup:10; PharmabiolProduct:10; Atc5th:4; Ingredient:2; Substance:1
+1728416,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+1728416,sameas_roundtrip,4,4,Ingredient:1; LoincComponent:1; Substance:1; PharmabiolProduct:1
+1728416,descendants_then_sameas_roundtrip,329,329,ClinicalDrug:84; ClinicalDrugComp:72; BrandedDrug:35; BrandedDrugComp:33; BrandedDrugForm:28; BrandedDoseGroup:27; QuantClinicalDrug:16; QuantBrandedDrug:12; ClinicalDrugForm:12; ClinicalDoseGroup:10
+1728416,omop_descendants_and_sameas_expansion,2876,1000,ClinicalDrug:175; ClinicalDrugComp:120; MarketedProduct:114; BrandedDrug:108; BrandedDrugComp:90; ClinicalDrugBox:82; BrandedDrugBox:73; BrandedDrugForm:61; QuantClinicalDrug:44; BrandedDoseGroup:26; ClinicalDrugForm:26; QuantBrandedDrug:23; QuantClinicalBox:17; QuantBrandedBox:13; ClinicalDoseGroup:10; PharmabiolProduct:10; Atc5th:4; Ingredient:2; Substance:1; LoincComponent:1
+1728416,sameas_expansion_and_umls_descendents,186,186,ClinicalDrug:44; Substance:28; BrandName:25; PreciseIngredient:17; BrandedDrug:14; LoincComponent:14; PharmabiolProduct:13; Ingredient:11; MultipleIngredients:7; ClinicalPack:4; BrandedPack:4; QuantClinicalDrug:3; Answer:1; BrandedDrugForm:1
+1728416,dual_expansion,2029043,1000,LoincComponent:384; ClinicalDrug:118; LoincSystem:97; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:69; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+4012185,descendants_only,17121,1000,Icd10pcs:727; Procedure:118; 4DigBillingCode:107; Hcpcs:23; 3DigNonbillCode:19; Icd10pcsHierarchy:3; 2DigNonbillCode:2; 3DigBillingCode:1
+4012185,single_hop_mapping_descendants,17121,1000,Icd10pcs:727; Procedure:118; 4DigBillingCode:107; Hcpcs:23; 3DigNonbillCode:19; Icd10pcsHierarchy:3; 2DigNonbillCode:2; 3DigBillingCode:1
+4012185,partial_synonym_descendants,18381,1000,Icd10pcs:725; Procedure:120; 4DigBillingCode:107; Hcpcs:23; 3DigNonbillCode:19; Icd10pcsHierarchy:3; 2DigNonbillCode:2; 3DigBillingCode:1
+4012185,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+4012185,sameas_roundtrip,2,2,LoincComponent:1; Procedure:1
+4012185,descendants_then_sameas_roundtrip,17121,1000,Icd10pcs:727; Procedure:118; 4DigBillingCode:107; Hcpcs:23; 3DigNonbillCode:19; Icd10pcsHierarchy:3; 2DigNonbillCode:2; 3DigBillingCode:1
+4012185,omop_descendants_and_sameas_expansion,18402,1000,Icd10pcs:716; Procedure:120; 4DigBillingCode:107; Hcpcs:23; 3DigNonbillCode:19; Answer:4; LoincComponent:3; Icd10pcsHierarchy:3; LoincMethod:2; 2DigNonbillCode:2; 3DigBillingCode:1
+4012185,sameas_expansion_and_umls_descendents,2625,1000,BrandName:232; Ingredient:191; PreciseIngredient:99; ClinicalDrug:75; BrandedDrug:75; QuantBrandedDrug:72; QuantClinicalDrug:61; BrandedPack:52; PharmabiolProduct:32; Substance:28; Answer:19; MultipleIngredients:19; LoincComponent:18; ClinicalPack:8; Hcpcs:5; Icd10pcs:4; BrandedDoseGroup:4; LoincMethod:1; Procedure:1; 4CharBillingCode:1; BrandedDrugForm:1; ClinicalDoseGroup:1; ClinicalDrugForm:1
+4012185,dual_expansion,2154102,1000,LoincComponent:394; LoincHierarchy:105; ClinicalDrug:98; LoincSystem:97; BrandedDrug:79; ClinicalDrugComp:55; LoincMethod:43; 5CharNonbillCode:39; 6CharNonbillCode:31; Answer:29; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+4002167,descendants_only,1,1,Procedure:1
+4002167,single_hop_mapping_descendants,1,1,Procedure:1
+4002167,partial_synonym_descendants,1,1,Procedure:1
+4002167,unconstrained_mapping_descendants,2,2,Procedure:2
+4002167,sameas_roundtrip,1,1,Procedure:1
+4002167,descendants_then_sameas_roundtrip,1,1,Procedure:1
+4002167,omop_descendants_and_sameas_expansion,2,2,Procedure:2
+4002167,sameas_expansion_and_umls_descendents,1,1,Procedure:1
+4002167,dual_expansion,2,2,Procedure:2
+320128,descendants_only,15,15,Disorder:15
+320128,single_hop_mapping_descendants,15,15,Disorder:15
+320128,partial_synonym_descendants,19,19,Disorder:19
+320128,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+320128,sameas_roundtrip,11,11,Answer:3; Disorder:2; LoincComponent:1; 3CharBillingCode:1; 4DigBillingCode:1; 5DigBillingCode:1; 3DigNonbillCode:1; Icd10Hierarchy:1
+320128,descendants_then_sameas_roundtrip,15,15,Disorder:15
+320128,omop_descendants_and_sameas_expansion,252,252,Disorder:186; Icd10Code:10; 4CharBillingCode:9; Undefined:7; 4DigNonbillCode:7; 3CharNonbillCode:6; 4CharNonbillCode:5; Answer:5; Icd10Hierarchy:4; 4DigBillingCode:3; 3DigNonbillCode:3; 5DigBillingCode:2; 5CharBillingCode:2; LoincComponent:1; 5CharNonbillCode:1; 3CharBillingCode:1
+320128,sameas_expansion_and_umls_descendents,252,252,Disorder:84; 5DigBillingCode:33; Icd10Code:29; 5CharBillingCode:21; 4CharBillingCode:18; 4DigNonbillCode:14; 4CharNonbillCode:11; 3CharNonbillCode:9; 4DigBillingCode:8; Icd10Hierarchy:7; Answer:5; 3DigNonbillCode:5; LoincComponent:2; ContextDependent:1; 5CharNonbillCode:1; 3CharBillingCode:1; MorphAbnormality:1; ClinicalFinding:1; 3DigBillingCode:1
+320128,dual_expansion,710,710,Disorder:456; 5DigBillingCode:38; Icd10Code:38; 5CharBillingCode:27; 4CharBillingCode:26; 4DigNonbillCode:18; ClinicalFinding:17; 4CharNonbillCode:14; 3CharNonbillCode:13; Undefined:12; Icd10Hierarchy:10; 4DigBillingCode:9; ContextDependent:7; 3DigNonbillCode:6; Answer:5; MorphAbnormality:5; LoincComponent:2; 5CharNonbillCode:2; BodyStructure:2; 3CharBillingCode:1; 3DigBillingCode:1; 6CharBillingCode:1
+432867,descendants_only,65,65,Disorder:65
+432867,single_hop_mapping_descendants,65,65,Disorder:65
+432867,partial_synonym_descendants,77,77,Disorder:72; Undefined:5
+432867,unconstrained_mapping_descendants,227,227,Disorder:180; Icd10Code:9; 4DigBillingCode:7; 5CharBillingCode:6; 4CharBillingCode:6; Undefined:5; 6CharBillingCode:4; 4CharNonbillCode:4; 3CharNonbillCode:1; 5CharNonbillCode:1; ClinicalFinding:1; 3DigNonbillCode:1; 5DigBillingCode:1; Icd10Hierarchy:1
+432867,sameas_roundtrip,4,4,LoincComponent:1; 4CharBillingCode:1; Disorder:1; Icd10Code:1
+432867,descendants_then_sameas_roundtrip,63,63,Disorder:63
+432867,omop_descendants_and_sameas_expansion,103,103,Disorder:76; Icd10Code:6; Undefined:5; 4DigBillingCode:5; 4CharBillingCode:4; 5CharBillingCode:2; 4CharNonbillCode:2; LoincComponent:1; 5CharNonbillCode:1; Answer:1
+432867,sameas_expansion_and_umls_descendents,61,61,Disorder:37; Icd10Code:6; 4DigBillingCode:5; 4CharBillingCode:4; 5CharBillingCode:2; 4CharNonbillCode:2; LoincComponent:1; 6CharBillingCode:1; 5CharNonbillCode:1; ClinicalFinding:1; Answer:1
+432867,dual_expansion,2029043,1000,LoincComponent:384; ClinicalDrug:118; LoincSystem:97; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:69; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+4193704,descendants_only,0,0,
+4193704,single_hop_mapping_descendants,14,14,Disorder:14
+4193704,partial_synonym_descendants,32,32,Disorder:24; Undefined:8
+4193704,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+4193704,sameas_roundtrip,1,1,Disorder:1
+4193704,descendants_then_sameas_roundtrip,0,0,
+4193704,omop_descendants_and_sameas_expansion,41,41,Disorder:24; Undefined:8; Answer:3; LoincComponent:1; 3CharNonbillCode:1; 5CharNonbillCode:1; Icd10Code:1; Icd10Hierarchy:1; 6CharBillingCode:1
+4193704,sameas_expansion_and_umls_descendents,1,1,Disorder:1
+4193704,dual_expansion,1219,1000,Disorder:670; Undefined:96; Icd10Code:34; ClinicalFinding:32; 5DigBillingCode:26; 4CharNonbillCode:17; 4CharBillingCode:16; ContextDependent:16; 4DigNonbillCode:16; 5CharNonbillCode:10; LabTest:9; 6CharBillingCode:9; LoincComponent:7; 5CharBillingCode:7; Answer:7; 4DigBillingCode:7; Procedure:6; 3CharNonbillCode:5; Icd10Hierarchy:4; ObservableEntity:2; 3DigNonbillCode:2; 6CharNonbillCode:1; MorphAbnormality:1
+77670,descendants_only,127,127,ClinicalFinding:72; Disorder:55
+77670,single_hop_mapping_descendants,127,127,ClinicalFinding:72; Disorder:55
+77670,partial_synonym_descendants,230,230,ClinicalFinding:102; Disorder:89; ContextDependent:37; Undefined:2
+77670,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+77670,sameas_roundtrip,7,7,LoincComponent:1; Answer:1; 4DigNonbillCode:1; 5DigBillingCode:1; 4CharBillingCode:1; Icd10Code:1; ClinicalFinding:1
+77670,descendants_then_sameas_roundtrip,124,124,ClinicalFinding:71; Disorder:53
+77670,omop_descendants_and_sameas_expansion,283,283,ClinicalFinding:103; Disorder:91; ContextDependent:42; Icd10Code:10; 4CharBillingCode:9; 5DigBillingCode:5; 4DigBillingCode:5; Answer:4; 5CharBillingCode:4; Undefined:3; 4CharNonbillCode:2; LoincComponent:1; 3CharNonbillCode:1; 4DigNonbillCode:1; 3DigNonbillCode:1; Icd10Hierarchy:1
+77670,sameas_expansion_and_umls_descendents,45,45,ClinicalFinding:17; Disorder:6; 5CharBillingCode:5; 5DigBillingCode:4; Icd10Code:4; 4CharBillingCode:3; 4DigBillingCode:2; LoincComponent:1; 4CharNonbillCode:1; Answer:1; 4DigNonbillCode:1
+77670,dual_expansion,1648,1000,Disorder:730; ClinicalFinding:92; 4CharBillingCode:68; ContextDependent:29; 5CharBillingCode:14; 5CharNonbillCode:14; 3CharNonbillCode:12; 4CharNonbillCode:10; Undefined:10; Answer:7; LoincComponent:5; 6CharBillingCode:4; BodyStructure:2; LoincMethod:1; Hcpcs:1; MorphAbnormality:1
+438720,descendants_only,8,8,Disorder:8
+438720,single_hop_mapping_descendants,8,8,Disorder:8
+438720,partial_synonym_descendants,11,11,Disorder:10; Undefined:1
+438720,unconstrained_mapping_descendants,24,24,Disorder:20; 4CharBillingCode:1; Undefined:1; 4DigBillingCode:1; Icd10Code:1
+438720,sameas_roundtrip,12,12,Disorder:5; 4DigBillingCode:2; Icd10Code:2; 5CharBillingCode:1; 4CharBillingCode:1; 4CharNonbillCode:1
+438720,descendants_then_sameas_roundtrip,8,8,Disorder:8
+438720,omop_descendants_and_sameas_expansion,22,22,Disorder:13; Undefined:2; 4DigBillingCode:2; Icd10Code:2; 5CharBillingCode:1; 4CharBillingCode:1; 4CharNonbillCode:1
+438720,sameas_expansion_and_umls_descendents,54,54,Disorder:34; 4DigBillingCode:5; Icd10Code:5; 4CharBillingCode:3; 5CharBillingCode:2; 4CharNonbillCode:2; 6CharBillingCode:1; 5CharNonbillCode:1; Answer:1
+438720,dual_expansion,2029043,1000,LoincComponent:384; ClinicalDrug:118; LoincSystem:97; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:69; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+19079524,descendants_only,1171,1000,MarketedProduct:674; QuantBrandedBox:149; QuantClinicalBox:83; BrandedDrugBox:75; ClinicalDrugBox:19
+19079524,single_hop_mapping_descendants,15824,1000,MarketedProduct:411; BrandedDrug:110; QuantBrandedDrug:108; QuantClinicalDrug:96; ClinicalDrug:80; QuantClinicalBox:70; ClinicalDrugBox:55; QuantBrandedBox:35; BrandedDrugBox:31; ClinicalDrugComp:3; ClinicalDrugForm:1
+19079524,partial_synonym_descendants,1444,1000,MarketedProduct:641; QuantBrandedBox:175; BrandedDrugBox:79; QuantClinicalBox:72; ClinicalDrugBox:17; ClinicalDrug:6; BrandedDrug:5; PharmabiolProduct:5
+19079524,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+19079524,sameas_roundtrip,119,119,BrandedPack:57; QuantBrandedDrug:28; QuantClinicalDrug:14; ClinicalDrug:10; ClinicalPack:5; BrandedDrug:5
+19079524,descendants_then_sameas_roundtrip,0,0,
+19079524,omop_descendants_and_sameas_expansion,1965,1000,MarketedProduct:603; QuantBrandedBox:135; BrandedDrugBox:60; BrandedPack:49; QuantClinicalBox:48; BrandedDrug:40; ClinicalDrug:25; ClinicalDrugBox:18; QuantBrandedDrug:14; ClinicalPack:4; QuantClinicalDrug:4
+19079524,sameas_expansion_and_umls_descendents,141,141,BrandedPack:58; QuantBrandedDrug:28; QuantClinicalDrug:27; ClinicalDrug:11; ClinicalPack:10; BrandedDrug:7
+19079524,dual_expansion,2029043,1000,LoincComponent:384; ClinicalDrug:118; LoincSystem:97; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:69; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+967823,descendants_only,19406,1000,ClinicalDrug:177; MarketedProduct:168; BrandedDrugComp:149; BrandedDrug:118; ClinicalDrugComp:89; QuantClinicalDrug:89; QuantBrandedDrug:88; BrandedDrugForm:50; ClinicalDrugForm:19; BrandedDrugBox:14; ClinicalDrugBox:13; BrandedDoseGroup:7; ClinicalDoseGroup:7; ClinicalPack:3; BrandedPack:3; BrandedPackBox:2; ClinicalPackBox:2; QuantClinicalBox:1; QuantBrandedBox:1
+967823,single_hop_mapping_descendants,19406,1000,ClinicalDrug:177; MarketedProduct:168; BrandedDrugComp:149; BrandedDrug:118; ClinicalDrugComp:89; QuantClinicalDrug:89; QuantBrandedDrug:88; BrandedDrugForm:50; ClinicalDrugForm:19; BrandedDrugBox:14; ClinicalDrugBox:13; BrandedDoseGroup:7; ClinicalDoseGroup:7; ClinicalPack:3; BrandedPack:3; BrandedPackBox:2; ClinicalPackBox:2; QuantClinicalBox:1; QuantBrandedBox:1
+967823,partial_synonym_descendants,1692620,1000,ClinicalDrug:436; ClinicalDrugComp:259; BrandedDrug:235; Ingredient:40; QuantClinicalDrug:9; ClinicalDrugForm:8; QuantBrandedDrug:7; PharmabiolProduct:4; Substance:2
+967823,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+967823,sameas_roundtrip,4,4,ClinicalDrugForm:1; PharmabiolProduct:1; Substance:1; Ingredient:1
+967823,descendants_then_sameas_roundtrip,1246,1000,ClinicalDrug:174; BrandedDoseGroup:156; BrandedDrugComp:118; ClinicalDrugComp:102; BrandedDrugForm:99; ClinicalDoseGroup:97; ClinicalDrugForm:95; BrandedDrug:92; QuantClinicalDrug:62; ClinicalPack:2; BrandedPack:2; QuantBrandedDrug:1
+967823,omop_descendants_and_sameas_expansion,1697467,1000,ClinicalDrug:421; ClinicalDrugComp:242; BrandedDrug:230; Ingredient:40; LoincComponent:16; LabTest:12; QuantClinicalDrug:9; ClinicalDrugForm:9; QuantBrandedDrug:7; Organism:5; PharmabiolProduct:4; LoincSystem:2; Substance:2; Answer:1
+967823,sameas_expansion_and_umls_descendents,364,364,BrandName:66; BrandedPack:58; QuantClinicalDrug:57; ClinicalDrug:47; QuantBrandedDrug:32; BrandedDrug:32; BrandedDrugForm:17; BrandedDoseGroup:14; ClinicalDrugForm:14; ClinicalPack:10; Substance:5; ClinicalDoseGroup:3; PharmabiolProduct:3; MultipleIngredients:2; PreciseIngredient:2; Answer:1; Ingredient:1
+967823,dual_expansion,2029043,1000,LoincComponent:384; ClinicalDrug:118; LoincSystem:97; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:69; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:5; LoincProperty:2; ClinicalObservation:1
+19097059,descendants_only,0,0,
+19097059,single_hop_mapping_descendants,0,0,
+19097059,partial_synonym_descendants,0,0,
+19097059,unconstrained_mapping_descendants,0,0,
+19097059,sameas_roundtrip,1,1,Ingredient:1
+19097059,descendants_then_sameas_roundtrip,0,0,
+19097059,omop_descendants_and_sameas_expansion,1,1,Ingredient:1
+19097059,sameas_expansion_and_umls_descendents,1,1,Ingredient:1
+19097059,dual_expansion,1,1,Ingredient:1
+19076324,descendants_only,773,773,MarketedProduct:442; QuantBrandedBox:153; BrandedDrugBox:87; QuantClinicalBox:68; ClinicalDrugBox:23
+19076324,single_hop_mapping_descendants,7700,1000,MarketedProduct:382; ClinicalDrug:113; QuantClinicalDrug:111; QuantClinicalBox:86; ClinicalDrugBox:71; BrandedDrug:66; BrandedDrugBox:54; QuantBrandedBox:53; QuantBrandedDrug:50; ClinicalPack:8; BrandedPack:4; ClinicalDrugComp:2
+19076324,partial_synonym_descendants,936,936,MarketedProduct:526; QuantBrandedBox:199; BrandedDrugBox:116; QuantClinicalBox:68; ClinicalDrugBox:23; ClinicalDrug:2; BrandedDrug:2
+19076324,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+19076324,sameas_roundtrip,1,1,ClinicalDrug:1
+19076324,descendants_then_sameas_roundtrip,0,0,
+19076324,omop_descendants_and_sameas_expansion,936,936,MarketedProduct:526; QuantBrandedBox:199; BrandedDrugBox:116; QuantClinicalBox:68; ClinicalDrugBox:23; ClinicalDrug:2; BrandedDrug:2
+19076324,sameas_expansion_and_umls_descendents,5,5,QuantClinicalDrug:3; ClinicalDrug:2
+19076324,dual_expansion,950,950,MarketedProduct:529; QuantBrandedBox:199; BrandedDrugBox:116; QuantClinicalBox:68; ClinicalDrugBox:23; ClinicalDrug:6; PharmabiolProduct:4; QuantClinicalDrug:3; BrandedDrug:2
+1154186,descendants_only,91,91,MarketedProduct:44; BrandedDrugBox:15; BrandedDrug:13; ClinicalDrugBox:11; ClinicalDrug:8
+1154186,single_hop_mapping_descendants,91,91,MarketedProduct:44; BrandedDrugBox:15; BrandedDrug:13; ClinicalDrugBox:11; ClinicalDrug:8
+1154186,partial_synonym_descendants,102,102,MarketedProduct:50; BrandedDrugBox:16; BrandedDrug:15; ClinicalDrugBox:11; ClinicalDrug:10
+1154186,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+1154186,sameas_roundtrip,1,1,ClinicalDrugComp:1
+1154186,descendants_then_sameas_roundtrip,5,5,ClinicalDrug:3; BrandedDrug:2
+1154186,omop_descendants_and_sameas_expansion,103,103,MarketedProduct:50; BrandedDrugBox:16; BrandedDrug:15; ClinicalDrugBox:11; ClinicalDrug:10; ClinicalDrugComp:1
+1154186,sameas_expansion_and_umls_descendents,3,3,BrandedDrugComp:2; ClinicalDrugComp:1
+1154186,dual_expansion,105,105,MarketedProduct:50; BrandedDrugBox:16; BrandedDrug:15; ClinicalDrugBox:11; ClinicalDrug:10; BrandedDrugComp:2; ClinicalDrugComp:1
+4036803,descendants_only,257,257,Procedure:254; Hcpcs:3
+4036803,single_hop_mapping_descendants,257,257,Procedure:254; Hcpcs:3
+4036803,partial_synonym_descendants,458,458,Procedure:420; Undefined:15; ClinicalFinding:13; ContextDependent:7; Hcpcs:3
+4036803,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+4036803,sameas_roundtrip,1,1,Procedure:1
+4036803,descendants_then_sameas_roundtrip,257,257,Procedure:254; Hcpcs:3
+4036803,omop_descendants_and_sameas_expansion,559,559,Procedure:483; Icd10pcs:30; Undefined:18; ClinicalFinding:13; ContextDependent:7; Hcpcs:3; Answer:2; LoincComponent:1; Icd10pcsHierarchy:1; LoincMethod:1
+4036803,sameas_expansion_and_umls_descendents,1,1,Procedure:1
+4036803,dual_expansion,2425227,1000,LoincHierarchy:658; LoincComponent:125; ClinicalDrug:63; BrandedDrug:42; ClinicalDrugComp:41; LoincMethod:24; ClinicalObservation:19; LabTest:12; LoincSystem:6; Ingredient:5; 5CharNonbillCode:2; 4CharNonbillCode:2; LoincTime:1
+4313303,descendants_only,4,4,Procedure:3; Hcpcs:1
+4313303,single_hop_mapping_descendants,4,4,Procedure:3; Hcpcs:1
+4313303,partial_synonym_descendants,4,4,Procedure:3; Hcpcs:1
+4313303,unconstrained_mapping_descendants,5,5,Procedure:4; Hcpcs:1
+4313303,sameas_roundtrip,1,1,Procedure:1
+4313303,descendants_then_sameas_roundtrip,4,4,Procedure:3; Hcpcs:1
+4313303,omop_descendants_and_sameas_expansion,5,5,Procedure:4; Hcpcs:1
+4313303,sameas_expansion_and_umls_descendents,2,2,ObservableEntity:1; Procedure:1
+4313303,dual_expansion,7,7,Procedure:4; ObservableEntity:2; Hcpcs:1
+4145308,descendants_only,4,4,Hcpcs:2; Procedure:2
+4145308,single_hop_mapping_descendants,4,4,Hcpcs:2; Procedure:2
+4145308,partial_synonym_descendants,9,9,Procedure:7; Hcpcs:2
+4145308,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+4145308,sameas_roundtrip,1,1,Procedure:1
+4145308,descendants_then_sameas_roundtrip,4,4,Hcpcs:2; Procedure:2
+4145308,omop_descendants_and_sameas_expansion,9,9,Procedure:7; Hcpcs:2
+4145308,sameas_expansion_and_umls_descendents,35,35,Procedure:27; LoincComponent:2; LoincMethod:2; Answer:2; PhysicalObject:2
+4145308,dual_expansion,205,205,Procedure:129; Undefined:27; Icd10pcs:20; Hcpcs:13; PhysicalObject:7; Answer:3; LoincComponent:2; LoincMethod:2; 4DigBillingCode:2
+4163872,descendants_only,99,99,Procedure:99
+4163872,single_hop_mapping_descendants,99,99,Procedure:99
+4163872,partial_synonym_descendants,161,161,Procedure:160; Undefined:1
+4163872,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+4163872,sameas_roundtrip,2,2,Procedure:1; Answer:1
+4163872,descendants_then_sameas_roundtrip,99,99,Procedure:99
+4163872,omop_descendants_and_sameas_expansion,162,162,Procedure:160; Undefined:1; Answer:1
+4163872,sameas_expansion_and_umls_descendents,4,4,Procedure:2; ClinicalObservation:1; Answer:1
+4163872,dual_expansion,211,211,Procedure:179; ClinicalFinding:24; ContextDependent:5; ClinicalObservation:1; Undefined:1; Answer:1
+4132855,descendants_only,51,51,Procedure:40; 4DigBillingCode:6; Hcpcs:4; 3DigNonbillCode:1
+4132855,single_hop_mapping_descendants,51,51,Procedure:40; 4DigBillingCode:6; Hcpcs:4; 3DigNonbillCode:1
+4132855,partial_synonym_descendants,63,63,Procedure:50; 4DigBillingCode:6; Hcpcs:4; 3DigNonbillCode:1; Undefined:1; ContextDependent:1
+4132855,unconstrained_mapping_descendants,4246782,1000,6CharNonbillCode:208; ClinicalDrug:163; OtcDrug:122; 5CharNonbillCode:109; ClinicalDrugComp:106; BrandedDrug:101; PrescriptionDrug:72; LabTest:53; 4CharNonbillCode:43; Ingredient:21; QuantClinicalDrug:2
+4132855,sameas_roundtrip,3,3,Procedure:2; LoincComponent:1
+4132855,descendants_then_sameas_roundtrip,50,50,Procedure:39; 4DigBillingCode:6; Hcpcs:4; 3DigNonbillCode:1
+4132855,omop_descendants_and_sameas_expansion,65,65,Procedure:51; 4DigBillingCode:6; Hcpcs:4; LoincComponent:1; 3DigNonbillCode:1; Undefined:1; ContextDependent:1
+4132855,sameas_expansion_and_umls_descendents,11308,1000,Disorder:290; 6CharNonbillCode:279; 4CharNonbillCode:117; 5CharNonbillCode:85; 7CharBillingCode:42; 6CharBillingCode:39; 3CharNonbillCode:37; 5CharBillingCode:35; LoincComponent:31; LoincSystem:20; MorphAbnormality:10; Answer:5; ClinicalFinding:5; Procedure:2; BodyStructure:2; 4CharBillingCode:1
+4132855,dual_expansion,2033173,1000,LoincComponent:390; ClinicalDrug:116; LoincSystem:98; LoincHierarchy:97; BrandedDrug:83; ClinicalDrugComp:62; 5CharNonbillCode:39; LoincMethod:32; 6CharNonbillCode:31; Answer:20; Ingredient:13; 4CharNonbillCode:9; LabTest:7; LoincProperty:2; ClinicalObservation:1

@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1073299,Intravenous shockwave lithotripsy of atherosclerotic plaque of artery,Procedure
+1073317,Ab interno canaloplasty,Procedure
+1073378,Combined superficial venous arterialization and selective venous occlusion of lower limb,Procedure
+1073461,Percutaneous transluminal construction of deep vein arteriovenous fistula with insertion of stent,Procedure
+1073650,Trapping of aneurysm of cerebral artery,Procedure
+1073656,Electrocoagulation of aneurysm of cerebral artery,Procedure
+1073706,Fluoroscopy guided percutaneous transluminal angioplasty of vein with contrast,Procedure
+1073782,Endoscopic coagulation of hemorrhage of small intestine,Procedure
+1073862,Repair of acquired arteriovenous fistula of limb,Procedure
+1073863,Repair of traumatic arteriovenous fistula of limb,Procedure
+1073865,Fluoroscopy guided implantation of cardiac resynchronization defibrillator system,Procedure
+1073964,Cardiac ablation for atrial fibrillation,Procedure
+1073965,Clipping of aneurysm of cerebral artery,Procedure
+1074042,Ultrasonography guided percutaneous radiofrequency ablation of left long saphenous vein,Procedure
+1074043,Ultrasonography guided percutaneous radiofrequency ablation of right long saphenous vein,Procedure
+1074044,Ultrasonography guided percutaneous radiofrequency ablation of bilateral long saphenous veins,Procedure
+1074045,Fluoroscopy guided percutaneous radiofrequency ablation of left renal artery,Procedure
+1074046,Fluoroscopy guided percutaneous radiofrequency ablation of right renal artery,Procedure
+1074047,Fluoroscopy guided percutaneous radiofrequency ablation of bilateral renal arteries,Procedure
+1074048,Ultrasonography guided percutaneous radiofrequency ablation of left short saphenous vein,Procedure
+1074049,Ultrasonography guided percutaneous radiofrequency ablation of right short saphenous vein,Procedure
+1074050,Ultrasonography guided percutaneous radiofrequency ablation of bilateral short saphenous veins,Procedure
+1074248,Trapping of aneurysm of intracranial artery,Procedure
+1074594,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of coronary artery with contrast,Procedure
+1074595,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of superficial femoral artery with contrast,Procedure
+1074596,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of left superficial femoral artery with contrast,Procedure
+1074597,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of right superficial femoral artery with contrast,Procedure
+1074598,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of popliteal artery with contrast,Procedure
+1074599,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of left popliteal artery with contrast,Procedure
+1074600,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of right popliteal artery with contrast,Procedure
+1074601,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of infrapopliteal artery with contrast,Procedure
+1074602,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of left infrapopliteal artery with contrast,Procedure
+1074603,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of right infrapopliteal artery with contrast,Procedure
+1074604,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified calcified atherosclerotic plaque of external iliac artery with contrast,Procedure
+1074605,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of left external iliac artery with contrast,Procedure
+1074606,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of right external iliac artery with contrast,Procedure
+1074607,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of common iliac artery with contrast,Procedure
+1074608,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of left common iliac artery with contrast,Procedure
+1074609,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of right common iliac artery with contrast,Procedure
+1074610,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of common femoral artery with contrast,Procedure
+1074611,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of left common femoral artery with contrast,Procedure
+1074612,Fluoroscopy guided intravascular shockwave balloon lithotripsy of calcified atherosclerotic plaque of right common femoral artery with contrast,Procedure
+1075287,Excision of tufted angioma,Procedure
+1075295,Left great saphenous vein stripping and ligation,Procedure
+1075296,Right great saphenous vein stripping and ligation,Procedure
+1075346,Aortic valve reconstruction with glutaraldehyde-treated autologous pericardium,Procedure
+1105984,"Bypass Hepatic Artery to Lower Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1105985,"Bypass Hepatic Artery to Lower Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1105986,"Bypass Hepatic Artery to Lower Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1105987,"Bypass Hepatic Artery to Lower Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1105988,"Bypass Hepatic Artery to Lower Artery, Open Approach",Icd10pcs
+1105989,"Bypass Hepatic Artery to Lower Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1105990,"Bypass Hepatic Artery to Lower Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1105991,"Bypass Hepatic Artery to Lower Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1105992,"Bypass Hepatic Artery to Lower Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1105993,"Bypass Hepatic Artery to Lower Artery, Percutaneous Endoscopic Approach",Icd10pcs
+1105994,"Bypass Splenic Artery to Lower Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1105995,"Bypass Splenic Artery to Lower Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1105996,"Bypass Splenic Artery to Lower Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1105997,"Bypass Splenic Artery to Lower Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1105998,"Bypass Splenic Artery to Lower Artery, Open Approach",Icd10pcs
+1105999,"Bypass Splenic Artery to Lower Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1106000,"Bypass Splenic Artery to Lower Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1106001,"Bypass Splenic Artery to Lower Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1106002,"Bypass Splenic Artery to Lower Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1106003,"Bypass Splenic Artery to Lower Artery, Percutaneous Endoscopic Approach",Icd10pcs
+1106004,"Dilation of Right Femoral Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106005,"Dilation of Right Femoral Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106006,"Dilation of Right Femoral Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106007,"Dilation of Right Femoral Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106008,"Dilation of Left Femoral Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106009,"Dilation of Left Femoral Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106010,"Dilation of Left Femoral Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106011,"Dilation of Left Femoral Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106020,"Dilation of Right Anterior Tibial Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106021,"Dilation of Right Anterior Tibial Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106022,"Dilation of Right Anterior Tibial Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106023,"Dilation of Right Anterior Tibial Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106024,"Dilation of Left Anterior Tibial Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106025,"Dilation of Left Anterior Tibial Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106026,"Dilation of Left Anterior Tibial Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106027,"Dilation of Left Anterior Tibial Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106028,"Dilation of Right Posterior Tibial Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106029,"Dilation of Right Posterior Tibial Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106030,"Dilation of Right Posterior Tibial Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106031,"Dilation of Right Posterior Tibial Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106032,"Dilation of Left Posterior Tibial Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106033,"Dilation of Left Posterior Tibial Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106034,"Dilation of Left Posterior Tibial Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106035,"Dilation of Left Posterior Tibial Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106036,"Dilation of Right Peroneal Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106037,"Dilation of Right Peroneal Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106038,"Dilation of Right Peroneal Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106039,"Dilation of Right Peroneal Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106040,"Dilation of Left Peroneal Artery with Drug-eluting Intraluminal Device, Sustained Release, Percutaneous Approach",Icd10pcs
+1106041,"Dilation of Left Peroneal Artery with Two Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106042,"Dilation of Left Peroneal Artery with Three Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106043,"Dilation of Left Peroneal Artery with Four or More Drug-eluting Intraluminal Devices, Sustained Release, Percutaneous Approach",Icd10pcs
+1106045,"Bypass Head Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106046,"Bypass Head Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106050,"Bypass Head Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106051,"Bypass Head Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106055,"Bypass Right Neck Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106056,"Bypass Right Neck Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106060,"Bypass Right Neck Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106061,"Bypass Right Neck Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106065,"Bypass Left Neck Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106066,"Bypass Left Neck Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106070,"Bypass Left Neck Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106071,"Bypass Left Neck Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106075,"Bypass Right Upper Extremity Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106076,"Bypass Right Upper Extremity Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106080,"Bypass Right Upper Extremity Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106081,"Bypass Right Upper Extremity Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106085,"Bypass Left Upper Extremity Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106086,"Bypass Left Upper Extremity Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106090,"Bypass Left Upper Extremity Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106091,"Bypass Left Upper Extremity Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106095,"Bypass Right Axillary Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106096,"Bypass Right Axillary Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106100,"Bypass Right Axillary Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106101,"Bypass Right Axillary Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106105,"Bypass Left Axillary Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106106,"Bypass Left Axillary Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106110,"Bypass Left Axillary Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106111,"Bypass Left Axillary Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106115,"Bypass Thorax Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106116,"Bypass Thorax Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106120,"Bypass Thorax Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106121,"Bypass Thorax Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106125,"Bypass Right Internal Mammary Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106126,"Bypass Right Internal Mammary Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106130,"Bypass Right Internal Mammary Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106131,"Bypass Right Internal Mammary Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106135,"Bypass Left Internal Mammary Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106136,"Bypass Left Internal Mammary Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106140,"Bypass Left Internal Mammary Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106141,"Bypass Left Internal Mammary Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106145,"Bypass Mesenteric Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106146,"Bypass Mesenteric Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106150,"Bypass Mesenteric Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106151,"Bypass Mesenteric Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106155,"Bypass Pelvis Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106156,"Bypass Pelvis Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106160,"Bypass Pelvis Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106161,"Bypass Pelvis Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106165,"Bypass Aortic Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106166,"Bypass Aortic Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106170,"Bypass Aortic Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106171,"Bypass Aortic Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106175,"Bypass Right Lower Extremity Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106176,"Bypass Right Lower Extremity Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106180,"Bypass Right Lower Extremity Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106181,"Bypass Right Lower Extremity Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106185,"Bypass Left Lower Extremity Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106186,"Bypass Left Lower Extremity Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106190,"Bypass Left Lower Extremity Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106191,"Bypass Left Lower Extremity Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106195,"Bypass Right Inguinal Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106196,"Bypass Right Inguinal Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106200,"Bypass Right Inguinal Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106201,"Bypass Right Inguinal Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106205,"Bypass Left Inguinal Lymphatic to Peripheral Vein, Open Approach",Icd10pcs
+1106206,"Bypass Left Inguinal Lymphatic to Central Vein, Open Approach",Icd10pcs
+1106210,"Bypass Left Inguinal Lymphatic to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106211,"Bypass Left Inguinal Lymphatic to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106215,"Bypass Thoracic Duct to Peripheral Vein, Open Approach",Icd10pcs
+1106216,"Bypass Thoracic Duct to Central Vein, Open Approach",Icd10pcs
+1106220,"Bypass Thoracic Duct to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106221,"Bypass Thoracic Duct to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106225,"Bypass Cisterna Chyli to Peripheral Vein, Open Approach",Icd10pcs
+1106226,"Bypass Cisterna Chyli to Central Vein, Open Approach",Icd10pcs
+1106230,"Bypass Cisterna Chyli to Peripheral Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106231,"Bypass Cisterna Chyli to Central Vein, Percutaneous Endoscopic Approach",Icd10pcs
+1106261,"Dilation of Right Anterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106262,"Dilation of Left Anterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106263,"Dilation of Right Posterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106264,"Dilation of Left Posterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106265,"Dilation of Right Peroneal Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106266,"Dilation of Left Peroneal Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106268,"Division of Aortic Valve using Intraluminal Bioprosthetic Valve Leaflet Splitting Technology in Existing Valve, Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106269,"Replacement of Right Upper Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",Icd10pcs
+1106270,"Replacement of Left Upper Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",Icd10pcs
+1106271,"Replacement of Right Lower Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",Icd10pcs
+1106272,"Replacement of Left Lower Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",Icd10pcs
+1106273,"Replacement of Tricuspid Valve with Multi-plane Flex Technology Bioprosthetic Valve, Percutaneous Approach, New Technology Group 10",Icd10pcs
+1106274,"Restriction of Descending Thoracic Aorta and Abdominal Aorta using Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries, Percutaneous Approach, New Technology Group 10",Icd10pcs
+1126204,"Revascularization, endovascular, open or percutaneous, femoral, popliteal artery(ies), unilateral, with transluminal angioplasty with intravascular ultrasound (initial noncoronary vessel) during diagnostic evaluation and/or therapeutic intervention, in...",Hcpcs
+1126205,"Transluminal balloon angioplasty (except lower extremity artery(ies) for occlusive disease, intracranial, coronary, pulmonary, or dialysis circuit), initial artery, open or percutaneous, including all imaging and radiological supervision and interpreta...",Hcpcs
+1126206,"Revascularization, endovascular, open or percutaneous, femoral, popliteal artery(ies), unilateral, with atherectomy, includes angioplasty within the same vessel, when performed with intravascular ultrasound (initial noncoronary vessel) during diagnosti...",Hcpcs
+1126207,"Revascularization, endovascular, open or percutaneous, femoral, popliteal artery(ies), unilateral, with transluminal stent placement(s), includes angioplasty within the same vessel, when performed, with intravascular ultrasound (initial noncoronary ves...",Hcpcs
+1133776,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary angiography, imaging supervision and interpretation; with right and left heart catheterization including intraprocedural injection(s)...",Hcpcs
+1133777,"Transluminal balloon angioplasty (except lower extremity artery(ies) for occlusive disease, intracranial, coronary, pulmonary, or dialysis circuit), open or percutaneous, including all imaging and radiological supervision and interpretation necessary t...",Hcpcs
+1133778,"Percutaneous transluminal mechanical thrombectomy, vein(s), including intraprocedural pharmacological thrombolytic injections and fluoroscopic guidance with intravascular ultrasound (noncoronary vessel(s)) during diagnostic evaluation and/or therapeuti...",Hcpcs
+1242649,Electrocoagulation of arteriovenous fistula,Procedure
+1242650,Coronary artery bypass using robotic assistance,Procedure
+1242689,Percutaneous repair of mitral valve,Procedure
+1242719,Operation on iliac artery,Procedure
+1242722,Operation on femoral artery,Procedure
+1242755,Angioplasty of transverse sinus of brain with insertion of stent,Procedure
+1242777,Incision of vascular structure of head,Procedure
+1242778,Incision of vascular structure of neck,Procedure
+1242799,Operation on carotid artery,Procedure
+1242800,Operation on cerebral artery,Procedure
+1242801,Operation on subclavian artery,Procedure
+1242971,Transluminal operation on cerebral artery,Procedure
+1243414,Fluoroscopy guided percutaneous transfemoral insertion of stent into extracranial carotid artery,Procedure
+1243646,Arterial bypass graft of lower limb artery using arterial graft,Procedure
+1243647,Arterial bypass graft of thoracic artery using arterial graft,Procedure
+1243675,Arterial bypass graft of upper limb artery using arterial graft,Procedure
+1243963,Ultrasonography and fluoroscopy guided percutaneous endovascular creation of arteriovenous fistula of upper limb with contrast,Procedure
+1243975,Ultrasonography guided percutaneous endovascular creation of arteriovenous fistula of upper limb,Procedure
+1244444,Transcatheter replacement of mitral valve bioprosthesis,Procedure
+1245037,Emergency replacement of aneurysmal femoral artery,Procedure
+1245038,Emergency replacement of aneurysmal femoral artery by anastomosis,Procedure
+1245039,Emergency replacement of aneurysmal popliteal artery by anastomosis,Procedure
+1447341,Fluoroscopy guided percutaneous transluminal balloon angioplasty of coronary artery with contrast,Procedure
+1447344,Fluoroscopy guided percutaneous transluminal angioplasty of aorta with prosthesis with contrast,Procedure
+1447345,Fluoroscopy guided percutaneous transluminal angioplasty of transverse sinus of brain with insertion of stent with contrast,Procedure
+1447346,Fluoroscopy guided percutaneous transluminal angioplasty of branches of abdominal aorta with contrast,Procedure
+1447347,Fluoroscopy guided percutaneous transluminal angioplasty of external iliac artery with prosthesis with contrast,Procedure
+1447348,Fluoroscopy guided percutaneous transluminal angioplasty of abdominal vascular structure with contrast,Procedure
+1447393,Fluoroscopy guided percutaneous transluminal angioplasty of blood vessel using paclitaxel coated balloon catheter using fluoroscopic guidance with contrast,Procedure
+1447407,Fluoroscopy guided endovascular repair of aneurysm of iliac artery using stent graft with contrast,Procedure
+1447440,Fluoroscopy guided percutaneous transluminal angioplasty of aorta with contrast,Procedure
+1447443,Percutaneous transluminal angioplasty with insertion of stent into aorta using fluoroscopic guidance with contrast,Procedure
+1447450,Ligation of artery of neck,Procedure
+1447451,Ligation of artery of extremity,Procedure
+1447464,Fluoroscopy guided percutaneous transluminal angioplasty of mesenteric artery with contrast,Procedure
+1447465,Fluoroscopy guided percutaneous transluminal angioplasty of right renal artery with contrast,Procedure
+1447466,Fluoroscopy guided percutaneous transluminal angioplasty of renal transplant with contrast,Procedure
+1447467,Fluoroscopy guided percutaneous transluminal angioplasty of bilateral renal arteries with contrast,Procedure
+1447468,Fluoroscopy guided percutaneous transluminal angioplasty with insertion of stent into pulmonary artery with contrast,Procedure
+1447475,Repair of artery with synthetic polyethylene terephthalate patch graft,Procedure
+1447476,Repair of artery with synthetic polytetrafluoroethylene patch graft,Procedure
+1447477,Imaging guided percutaneous transluminal angioplasty of popliteal artery with prosthesis with contrast,Procedure
+1447478,Imaging guided percutaneous transluminal angioplasty of common femoral artery with prosthesis with contrast,Procedure
+1447479,Imaging guided percutaneous transluminal angioplasty of superficial femoral artery with prosthesis with contrast,Procedure
+1447480,Imaging guided transluminal angioplasty of superficial femoral artery with vein graft with contrast,Procedure
+1447481,Repair of blood vessel with synthetic polyethylene terephthalate patch graft,Procedure
+1447482,Repair of blood vessel with synthetic polytetrafluoroethylene patch graft,Procedure
+1447483,Imaging guided transluminal angioplasty of common femoral artery with vein graft with contrast,Procedure
+1447486,Imaging guided percutaneous transluminal angioplasty of common femoral artery with contrast,Procedure
+1447543,Repair of artery with synthetic patch graft,Procedure
+1447544,Repair of artery with tissue patch graft,Procedure
+1447545,Repair of blood vessel with synthetic patch graft,Procedure
+1447546,Repair of blood vessel with tissue patch graft,Procedure
+1447659,Fluoroscopy guided percutaneous transluminal angioplasty of popliteal artery with vein graft with contrast,Procedure
+1447788,Ab interno canaloplasty of left eye,Procedure
+1447789,Ab interno canaloplasty of right eye,Procedure
+1447790,Bilateral ab interno canaloplasty,Procedure
+1447835,Ab externo canaloplasty of left eye,Procedure
+1447839,Ab externo canaloplasty of right eye,Procedure
+1447841,Bilateral ab externo canaloplasty,Procedure
+1447939,Reimplantation of aberrant renal vein,Procedure
+1447994,Oversewing of mitral valve,Procedure
+1447995,Oversewing of tricuspid valve,Procedure
+1447996,Oversewing of pulmonary valve,Procedure
+1447997,Oversewing of atrioventricular valve,Procedure
+1448348,Percutaneous ligation of left atrial appendage,Procedure
+1449139,Replacement of implanted heart valve prosthesis,Procedure
+1449182,Viscocanalostomy of left eye,Procedure
+1449185,Viscocanalostomy of right eye,Procedure
+1449186,Bilateral viscocanalostomy,Procedure
+1450452,Open excision of left atrial appendage,Procedure
+1523954,"Cerebral Embolic Filtration, Single Deflection Filter in Aortic Arch, Percutaneous Approach, New Technology Group 5",Icd10pcsHierarchy
+1523955,"Dilation of Left Peroneal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523956,"Dilation of Left Peroneal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523957,"Dilation of Left Peroneal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523958,"Dilation of Left Peroneal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523959,"Dilation of Right Peroneal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523960,"Dilation of Right Peroneal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523961,"Dilation of Right Peroneal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523962,"Dilation of Right Peroneal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523963,"Dilation of Left Posterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523964,"Dilation of Left Posterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523965,"Dilation of Left Posterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523966,"Dilation of Left Posterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523967,"Dilation of Right Posterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523968,"Dilation of Right Posterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523969,"Dilation of Right Posterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523970,"Dilation of Right Posterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523971,"Dilation of Left Anterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523972,"Dilation of Left Anterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523973,"Dilation of Left Anterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523974,"Dilation of Left Anterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523975,"Dilation of Right Anterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523976,"Dilation of Right Anterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523977,"Dilation of Right Anterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523978,"Dilation of Right Anterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523979,"Dilation of Distal Left Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523980,"Dilation of Distal Left Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523981,"Dilation of Distal Left Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523982,"Dilation of Distal Left Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523983,"Dilation of Distal Right Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523984,"Dilation of Distal Right Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523985,"Dilation of Distal Right Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523986,"Dilation of Distal Right Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523987,"Dilation of Proximal Left Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523988,"Dilation of Proximal Left Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523989,"Dilation of Proximal Left Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523990,"Dilation of Proximal Left Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523991,"Dilation of Proximal Right Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523992,"Dilation of Proximal Right Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523993,"Dilation of Proximal Right Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523994,"Dilation of Proximal Right Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523995,"Dilation of Left Femoral Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523996,"Dilation of Left Femoral Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523997,"Dilation of Left Femoral Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523998,"Dilation of Left Femoral Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1523999,"Dilation of Right Femoral Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1524000,"Dilation of Right Femoral Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1524001,"Dilation of Right Femoral Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1524002,"Dilation of Right Femoral Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5 (Deprecated)",Icd10pcs
+1524494,"Occlusion of Gastric Vein, Via Natural or Artificial Opening Endoscopic",Icd10pcs
+1524495,"Occlusion of Gastric Vein with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",Icd10pcs
+1524496,"Occlusion of Gastric Vein with Extraluminal Device, Via Natural or Artificial Opening Endoscopic",Icd10pcs
+1524497,"Occlusion of Gastric Vein, Via Natural or Artificial Opening",Icd10pcs
+1524498,"Occlusion of Gastric Vein with Intraluminal Device, Via Natural or Artificial Opening",Icd10pcs
+1524499,"Occlusion of Gastric Vein with Extraluminal Device, Via Natural or Artificial Opening",Icd10pcs
+1524501,"Restriction of Left Vertebral Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524504,"Restriction of Right Vertebral Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524507,"Restriction of Left External Carotid Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524510,"Restriction of Right External Carotid Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524513,"Restriction of Left Internal Carotid Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524516,"Restriction of Right Internal Carotid Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524519,"Restriction of Left Common Carotid Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524522,"Restriction of Right Common Carotid Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524524,"Restriction of Intracranial Artery with Intraluminal Device, Flow Diverter, Percutaneous Endoscopic Approach",Icd10pcs
+1524525,"Restriction of Intracranial Artery with Intraluminal Device, Flow Diverter, Percutaneous Approach",Icd10pcs
+1524526,"Restriction of Intracranial Artery with Intraluminal Device, Flow Diverter, Open Approach",Icd10pcs
+1524527,"Bypass Left Radial Artery to Lower Arm Vein, Percutaneous Approach",Icd10pcs
+1524528,"Bypass Right Radial Artery to Lower Arm Vein, Percutaneous Approach",Icd10pcs
+1524529,"Bypass Left Ulnar Artery to Lower Arm Vein, Percutaneous Approach",Icd10pcs
+1524530,"Bypass Right Ulnar Artery to Lower Arm Vein, Percutaneous Approach",Icd10pcs
+1524531,"Bypass Left Brachial Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524532,"Bypass Left Brachial Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524533,"Bypass Left Brachial Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524534,"Bypass Left Brachial Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524535,"Bypass Left Brachial Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524536,"Bypass Right Brachial Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524537,"Bypass Right Brachial Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524538,"Bypass Right Brachial Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524539,"Bypass Right Brachial Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524540,"Bypass Right Brachial Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524541,"Bypass Left Axillary Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524542,"Bypass Left Axillary Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524543,"Bypass Left Axillary Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524544,"Bypass Innominate Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524545,"Bypass Left Axillary Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524546,"Bypass Left Axillary Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524547,"Bypass Right Axillary Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524548,"Bypass Right Axillary Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524549,"Bypass Right Axillary Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524550,"Bypass Right Axillary Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524551,"Bypass Right Axillary Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524552,"Bypass Left Subclavian Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524553,"Bypass Left Subclavian Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524554,"Bypass Left Subclavian Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524555,"Bypass Left Subclavian Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524556,"Bypass Left Subclavian Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524557,"Bypass Right Subclavian Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524558,"Bypass Right Subclavian Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524559,"Bypass Right Subclavian Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524560,"Bypass Right Subclavian Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524561,"Bypass Right Subclavian Artery to Lower Extremity Vein with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524562,"Bypass Innominate Artery to Lower Extremity Vein, Open Approach",Icd10pcs
+1524563,"Bypass Innominate Artery to Lower Extremity Vein with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524564,"Bypass Innominate Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1524565,"Bypass Innominate Artery to Lower Extremity Vein with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524570,"Supplement Coronary Artery, Four or More Arteries with Nonautologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524571,"Supplement Coronary Artery, Four or More Arteries with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1524572,"Supplement Coronary Artery, Four or More Arteries with Zooplastic Tissue, Percutaneous Approach",Icd10pcs
+1524573,"Supplement Coronary Artery, Four or More Arteries with Autologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524582,"Supplement Coronary Artery, Three Arteries with Nonautologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524583,"Supplement Coronary Artery, Three Arteries with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1524584,"Supplement Coronary Artery, Three Arteries with Zooplastic Tissue, Percutaneous Approach",Icd10pcs
+1524585,"Supplement Coronary Artery, Three Arteries with Autologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524594,"Supplement Coronary Artery, Two Arteries with Nonautologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524595,"Supplement Coronary Artery, Two Arteries with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1524596,"Supplement Coronary Artery, Two Arteries with Zooplastic Tissue, Percutaneous Approach",Icd10pcs
+1524597,"Supplement Coronary Artery, Two Arteries with Autologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524606,"Supplement Coronary Artery, One Artery with Nonautologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524607,"Supplement Coronary Artery, One Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1524608,"Supplement Coronary Artery, One Artery with Zooplastic Tissue, Percutaneous Approach",Icd10pcs
+1524609,"Supplement Coronary Artery, One Artery with Autologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+1524614,"Insertion of Intraluminal Device into Coronary Artery, Three Arteries, Percutaneous Approach",Icd10pcs
+1524619,"Insertion of Other Device into Coronary Artery, Two Arteries, Percutaneous Approach",Icd10pcs
+1524620,"Insertion of Intraluminal Device into Coronary Artery, Two Arteries, Percutaneous Approach",Icd10pcs
+1524625,"Insertion of Other Device into Coronary Artery, One Artery, Percutaneous Approach",Icd10pcs
+1524626,"Insertion of Intraluminal Device into Coronary Artery, One Artery, Percutaneous Approach",Icd10pcs
+1524631,"Insertion of Other Device into Coronary Artery, Four or More Arteries, Percutaneous Approach",Icd10pcs
+1524632,"Insertion of Intraluminal Device into Coronary Artery, Four or More Arteries, Percutaneous Approach",Icd10pcs
+1524637,"Insertion of Other Device into Coronary Artery, Three Arteries, Percutaneous Approach",Icd10pcs
+1524638,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery, Percutaneous Endoscopic Approach",Icd10pcs
+1524639,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1524640,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1524641,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1524642,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1524643,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1524644,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery, Open Approach",Icd10pcs
+1524645,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524646,"Bypass Thoracic Aorta, Descending to Innominate Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1524647,"Bypass Thoracic Aorta, Descending to Innominate Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1524648,"Bypass Thoracic Aorta, Descending to Innominate Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1524649,"Bypass Thoracic Aorta, Descending to Innominate Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1524650,"Bypass Thoracic Aorta, Descending to Innominate Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+1524651,"Bypass Thoracic Aorta, Descending to Innominate Artery, Open Approach",Icd10pcs
+1524652,"Bypass Thoracic Aorta, Descending to Innominate Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1524653,"Bypass Thoracic Aorta, Descending to Innominate Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1524654,"Bypass Thoracic Aorta, Descending to Innominate Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524655,"Bypass Thoracic Aorta, Descending to Innominate Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524656,"Bypass Thoracic Aorta, Descending to Innominate Artery with Zooplastic Tissue, Open Approach",Icd10pcs
+1524657,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1524658,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1524659,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1524660,"Bypass Thoracic Aorta, Ascending/Arch to Innominate Artery with Zooplastic Tissue, Open Approach",Icd10pcs
+1524661,"Bypass Thoracic Aorta, Descending to Innominate Artery, Percutaneous Endoscopic Approach",Icd10pcs
+1531635,"Bypass Pelvic Cavity to Lower Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531636,"Bypass Pelvic Cavity to Upper Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531646,"Bypass Left Pleural Cavity to Lower Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531647,"Bypass Left Pleural Cavity to Upper Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531654,"Bypass Right Pleural Cavity to Lower Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531655,"Bypass Right Pleural Cavity to Upper Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531755,"Dilation of Left Cephalic Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531756,"Dilation of Left Cephalic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531757,"Dilation of Left Cephalic Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531758,"Dilation of Left Cephalic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531759,"Dilation of Left Cephalic Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531760,"Dilation of Left Cephalic Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531761,"Dilation of Right Cephalic Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531762,"Dilation of Right Cephalic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531763,"Dilation of Right Cephalic Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531764,"Dilation of Right Cephalic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531765,"Dilation of Right Cephalic Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531766,"Dilation of Right Cephalic Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531767,"Dilation of Left Basilic Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531768,"Dilation of Left Basilic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531769,"Dilation of Left Basilic Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531770,"Dilation of Left Basilic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531771,"Dilation of Left Basilic Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531772,"Dilation of Left Basilic Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531773,"Dilation of Right Basilic Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531774,"Dilation of Right Basilic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531775,"Dilation of Right Basilic Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531776,"Dilation of Right Basilic Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531777,"Dilation of Right Basilic Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531778,"Dilation of Right Basilic Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531779,"Dilation of Left Brachial Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531780,"Dilation of Left Brachial Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531781,"Dilation of Left Brachial Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531782,"Dilation of Left Brachial Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531783,"Dilation of Left Brachial Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531784,"Dilation of Left Brachial Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531785,"Dilation of Right Brachial Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531786,"Dilation of Right Brachial Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531787,"Dilation of Right Brachial Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531788,"Dilation of Right Brachial Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531789,"Dilation of Right Brachial Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531790,"Dilation of Right Brachial Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531791,"Dilation of Left Axillary Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531792,"Dilation of Left Axillary Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531793,"Dilation of Left Axillary Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531794,"Dilation of Left Axillary Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531795,"Dilation of Left Axillary Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531796,"Dilation of Left Axillary Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531797,"Dilation of Right Axillary Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531798,"Dilation of Right Axillary Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531799,"Dilation of Right Axillary Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531800,"Dilation of Right Axillary Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531801,"Dilation of Right Axillary Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531802,"Dilation of Right Axillary Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531803,"Dilation of Left Subclavian Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531804,"Dilation of Left Subclavian Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531805,"Dilation of Left Subclavian Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531806,"Dilation of Left Subclavian Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531807,"Dilation of Left Subclavian Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531808,"Dilation of Left Subclavian Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531810,"Dilation of Right Subclavian Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531811,"Dilation of Right Subclavian Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531812,"Dilation of Right Subclavian Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531813,"Dilation of Right Subclavian Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531814,"Dilation of Right Subclavian Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531815,"Dilation of Right Subclavian Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531816,"Dilation of Left Innominate Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531817,"Dilation of Left Innominate Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531818,"Dilation of Left Innominate Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531819,"Dilation of Left Innominate Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531820,"Dilation of Left Innominate Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531821,"Dilation of Left Innominate Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531822,"Dilation of Right Innominate Vein using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531823,"Dilation of Right Innominate Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531824,"Dilation of Right Innominate Vein using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531825,"Dilation of Right Innominate Vein with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531826,"Dilation of Right Innominate Vein using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531827,"Dilation of Right Innominate Vein with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531828,"Dilation of Innominate Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531829,"Dilation of Innominate Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531830,"Dilation of Left Internal Mammary Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531831,"Dilation of Left Internal Mammary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531832,"Dilation of Left Internal Mammary Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531833,"Dilation of Left Internal Mammary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531834,"Dilation of Left Internal Mammary Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531835,"Dilation of Left Internal Mammary Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531836,"Dilation of Right Internal Mammary Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531837,"Dilation of Right Internal Mammary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531838,"Dilation of Right Internal Mammary Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531839,"Dilation of Right Internal Mammary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531840,"Dilation of Right Internal Mammary Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531841,"Dilation of Right Internal Mammary Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531842,"Bypass Left Common Carotid Artery to Upper Artery, Open Approach",Icd10pcs
+1531843,"Bypass Left Common Carotid Artery to Upper Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1531844,"Bypass Left Common Carotid Artery to Upper Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531845,"Bypass Left Common Carotid Artery to Upper Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531846,"Bypass Left Common Carotid Artery to Upper Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531847,"Bypass Right Common Carotid Artery to Upper Artery, Open Approach",Icd10pcs
+1531848,"Bypass Right Common Carotid Artery to Upper Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1531849,"Bypass Right Common Carotid Artery to Upper Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531850,"Bypass Right Common Carotid Artery to Upper Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531851,"Bypass Right Common Carotid Artery to Upper Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531852,"Bypass Left Axillary Artery to Abdominal Artery, Open Approach",Icd10pcs
+1531853,"Bypass Left Axillary Artery to Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1531854,"Bypass Left Axillary Artery to Abdominal Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531855,"Bypass Left Axillary Artery to Abdominal Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531856,"Bypass Right Axillary Artery to Abdominal Artery, Open Approach",Icd10pcs
+1531857,"Bypass Right Axillary Artery to Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1531858,"Bypass Right Axillary Artery to Abdominal Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531859,"Bypass Right Axillary Artery to Abdominal Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531860,"Bypass Right Axillary Artery to Abdominal Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531861,"Bypass Left Axillary Artery to Abdominal Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531862,"Bypass Thoracic Aorta, Descending to Lower Extremity Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1531863,"Bypass Thoracic Aorta, Descending to Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+1531864,"Bypass Thoracic Aorta, Descending to Lower Extremity Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531865,"Bypass Thoracic Aorta, Descending to Abdominal Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531866,"Bypass Thoracic Aorta, Descending to Lower Extremity Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531867,"Bypass Thoracic Aorta, Descending to Brachial Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531868,"Bypass Thoracic Aorta, Descending to Axillary Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531869,"Bypass Thoracic Aorta, Descending to Abdominal Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+1531870,"Bypass Thoracic Aorta, Descending to Lower Extremity Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531871,"Bypass Thoracic Aorta, Descending to Brachial Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531872,"Bypass Thoracic Aorta, Descending to Axillary Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531873,"Bypass Thoracic Aorta, Descending to Abdominal Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+1531874,"Bypass Thoracic Aorta, Descending to Lower Extremity Artery with Zooplastic Tissue, Open Approach",Icd10pcs
+1531875,"Bypass Thoracic Aorta, Descending to Brachial Artery with Zooplastic Tissue, Open Approach",Icd10pcs
+1531876,"Bypass Thoracic Aorta, Descending to Axillary Artery with Zooplastic Tissue, Open Approach",Icd10pcs
+1531877,"Bypass Thoracic Aorta, Descending to Abdominal Artery with Zooplastic Tissue, Open Approach",Icd10pcs
+1531900,"Bypass Peritoneal Cavity to Lower Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531901,"Bypass Peritoneal Cavity to Upper Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531908,"Bypass Left Foot Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531909,"Bypass Left Foot Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531910,"Bypass Right Foot Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531911,"Bypass Right Foot Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531912,"Bypass Left Peroneal Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531913,"Bypass Left Peroneal Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531914,"Bypass Right Peroneal Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531915,"Bypass Right Peroneal Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531916,"Bypass Left Posterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531917,"Bypass Left Posterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531918,"Bypass Left Posterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531919,"Bypass Left Posterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531920,"Bypass Left Posterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1531921,"Bypass Left Posterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531922,"Bypass Right Posterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531923,"Bypass Right Posterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531924,"Bypass Right Posterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531925,"Bypass Right Posterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531926,"Bypass Right Posterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1531927,"Bypass Right Posterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531928,"Bypass Left Anterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531929,"Bypass Left Anterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531930,"Bypass Left Anterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531931,"Bypass Left Anterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531932,"Bypass Left Anterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1531933,"Bypass Left Anterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531934,"Bypass Right Anterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531935,"Bypass Right Anterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+1531936,"Bypass Right Anterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531937,"Bypass Right Anterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531938,"Bypass Right Anterior Tibial Artery to Lower Extremity Vein with Synthetic Substitute, Open Approach",Icd10pcs
+1531939,"Bypass Right Anterior Tibial Artery to Lower Extremity Artery with Synthetic Substitute, Open Approach",Icd10pcs
+1531940,"Bypass Left Popliteal Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531941,"Bypass Left Popliteal Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531942,"Bypass Right Popliteal Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531943,"Bypass Right Popliteal Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531944,"Bypass Left Femoral Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531945,"Bypass Left Femoral Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531946,"Bypass Right Femoral Artery to Lower Extremity Vein with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531947,"Bypass Right Femoral Artery to Lower Extremity Artery with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1531948,"Extirpation of Matter from Left Vertebral Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531949,"Extirpation of Matter from Right Vertebral Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531950,"Extirpation of Matter from Left External Carotid Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531951,"Extirpation of Matter from Right External Carotid Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531952,"Extirpation of Matter from Left Internal Carotid Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531953,"Extirpation of Matter from Right Internal Carotid Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531954,"Extirpation of Matter from Left Common Carotid Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531955,"Extirpation of Matter from Right Common Carotid Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531956,"Extirpation of Matter from Intracranial Artery using Stent Retriever, Percutaneous Approach",Icd10pcs
+1531957,"Dilation of Left Radial Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531958,"Dilation of Left Radial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531960,"Dilation of Left Radial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531961,"Dilation of Left Radial Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531962,"Dilation of Left Radial Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531963,"Dilation of Right Radial Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531964,"Dilation of Right Radial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531966,"Dilation of Right Radial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531967,"Dilation of Right Radial Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531968,"Dilation of Right Radial Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531969,"Dilation of Left Ulnar Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531970,"Dilation of Left Ulnar Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531972,"Dilation of Left Ulnar Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531973,"Dilation of Left Ulnar Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531974,"Dilation of Left Ulnar Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531975,"Dilation of Right Ulnar Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531976,"Dilation of Right Ulnar Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531978,"Dilation of Right Ulnar Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531979,"Dilation of Right Ulnar Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531980,"Dilation of Right Ulnar Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531982,"Dilation of Left Brachial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531983,"Dilation of Left Brachial Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531984,"Dilation of Left Brachial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531986,"Dilation of Left Brachial Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531988,"Dilation of Right Brachial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531989,"Dilation of Right Brachial Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531990,"Dilation of Right Brachial Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531992,"Dilation of Right Brachial Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531993,"Dilation of Left Axillary Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531994,"Dilation of Left Axillary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1531995,"Dilation of Left Axillary Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531996,"Dilation of Left Axillary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1531997,"Dilation of Left Axillary Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531998,"Dilation of Left Axillary Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1531999,"Dilation of Right Axillary Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1532000,"Dilation of Right Axillary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1532001,"Dilation of Right Axillary Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532002,"Dilation of Right Axillary Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532003,"Dilation of Right Axillary Artery using Drug-Coated Balloon, Open Approach",Icd10pcs
+1532004,"Dilation of Right Axillary Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1532006,"Dilation of Left Subclavian Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1532007,"Dilation of Left Subclavian Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532008,"Dilation of Left Subclavian Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532010,"Dilation of Left Subclavian Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1532012,"Dilation of Right Subclavian Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1532013,"Dilation of Right Subclavian Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532014,"Dilation of Right Subclavian Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532015,"Dilation of Right Subclavian Artery with Intraluminal Device, using Drug-Coated Balloon, Open Approach",Icd10pcs
+1532016,"Dilation of Innominate Artery using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1532017,"Dilation of Innominate Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Endoscopic Approach",Icd10pcs
+1532018,"Dilation of Innominate Artery using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1532019,"Dilation of Innominate Artery with Intraluminal Device, using Drug-Coated Balloon, Percutaneous Approach",Icd10pcs
+1552633,"Blinded or nonblinded procedure for symptomatic new york heart association (nyha) class ii, iii, iva heart failure; transcatheter implantation of left atrial to coronary sinus shunt using jugular vein access, including all imaging necessary to intra pr...",Hcpcs
+1780765,"Bypass Left Atrium to Right Atrium with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+1780766,"Fragmentation of Pulmonary Trunk, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780767,"Fragmentation of Pulmonary Trunk, Percutaneous Approach",Icd10pcs
+1780768,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780769,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach",Icd10pcs
+1780770,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780771,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach",Icd10pcs
+1780772,"Fragmentation of Right Pulmonary Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780773,"Fragmentation of Right Pulmonary Vein, Percutaneous Approach",Icd10pcs
+1780774,"Fragmentation of Left Pulmonary Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780775,"Fragmentation of Left Pulmonary Vein, Percutaneous Approach",Icd10pcs
+1780776,"Supplement Mitral Valve with Synthetic Substitute, Transapical, Percutaneous Approach",Icd10pcs
+1780778,"Fragmentation of Innominate Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780779,"Fragmentation of Innominate Artery, Percutaneous Approach",Icd10pcs
+1780780,"Fragmentation of Right Subclavian Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780781,"Fragmentation of Right Subclavian Artery, Percutaneous Approach",Icd10pcs
+1780782,"Fragmentation of Left Subclavian Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780783,"Fragmentation of Left Subclavian Artery, Percutaneous Approach",Icd10pcs
+1780784,"Fragmentation of Right Axillary Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780785,"Fragmentation of Right Axillary Artery, Percutaneous Approach",Icd10pcs
+1780786,"Fragmentation of Left Axillary Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780787,"Fragmentation of Left Axillary Artery, Percutaneous Approach",Icd10pcs
+1780788,"Fragmentation of Right Brachial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780789,"Fragmentation of Right Brachial Artery, Percutaneous Approach",Icd10pcs
+1780790,"Fragmentation of Left Brachial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780791,"Fragmentation of Left Brachial Artery, Percutaneous Approach",Icd10pcs
+1780792,"Fragmentation of Right Ulnar Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780793,"Fragmentation of Right Ulnar Artery, Percutaneous Approach",Icd10pcs
+1780794,"Fragmentation of Left Ulnar Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780795,"Fragmentation of Left Ulnar Artery, Percutaneous Approach",Icd10pcs
+1780796,"Fragmentation of Right Radial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780797,"Fragmentation of Right Radial Artery, Percutaneous Approach",Icd10pcs
+1780798,"Fragmentation of Left Radial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780799,"Fragmentation of Left Radial Artery, Percutaneous Approach",Icd10pcs
+1780800,"Fragmentation of Upper Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780801,"Fragmentation of Upper Artery, Percutaneous Approach",Icd10pcs
+1780803,"Fragmentation of Right Common Iliac Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780804,"Fragmentation of Right Common Iliac Artery, Percutaneous Approach",Icd10pcs
+1780805,"Fragmentation of Left Common Iliac Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780806,"Fragmentation of Left Common Iliac Artery, Percutaneous Approach",Icd10pcs
+1780807,"Fragmentation of Right Internal Iliac Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780808,"Fragmentation of Right Internal Iliac Artery, Percutaneous Approach",Icd10pcs
+1780809,"Fragmentation of Left Internal Iliac Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780810,"Fragmentation of Left Internal Iliac Artery, Percutaneous Approach",Icd10pcs
+1780811,"Fragmentation of Right External Iliac Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780812,"Fragmentation of Right External Iliac Artery, Percutaneous Approach",Icd10pcs
+1780813,"Fragmentation of Left External Iliac Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780814,"Fragmentation of Left External Iliac Artery, Percutaneous Approach",Icd10pcs
+1780815,"Fragmentation of Right Femoral Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780816,"Fragmentation of Right Femoral Artery, Percutaneous Approach",Icd10pcs
+1780817,"Fragmentation of Left Femoral Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780818,"Fragmentation of Left Femoral Artery, Percutaneous Approach",Icd10pcs
+1780819,"Fragmentation of Right Popliteal Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780820,"Fragmentation of Right Popliteal Artery, Percutaneous Approach",Icd10pcs
+1780821,"Fragmentation of Left Popliteal Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780822,"Fragmentation of Left Popliteal Artery, Percutaneous Approach",Icd10pcs
+1780823,"Fragmentation of Right Anterior Tibial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780824,"Fragmentation of Right Anterior Tibial Artery, Percutaneous Approach",Icd10pcs
+1780825,"Fragmentation of Left Anterior Tibial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780826,"Fragmentation of Left Anterior Tibial Artery, Percutaneous Approach",Icd10pcs
+1780827,"Fragmentation of Right Posterior Tibial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780828,"Fragmentation of Right Posterior Tibial Artery, Percutaneous Approach",Icd10pcs
+1780829,"Fragmentation of Left Posterior Tibial Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780830,"Fragmentation of Left Posterior Tibial Artery, Percutaneous Approach",Icd10pcs
+1780831,"Fragmentation of Right Peroneal Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780832,"Fragmentation of Right Peroneal Artery, Percutaneous Approach",Icd10pcs
+1780833,"Fragmentation of Left Peroneal Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780834,"Fragmentation of Left Peroneal Artery, Percutaneous Approach",Icd10pcs
+1780835,"Fragmentation of Lower Artery, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780836,"Fragmentation of Lower Artery, Percutaneous Approach",Icd10pcs
+1780838,"Fragmentation of Right Innominate Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780839,"Fragmentation of Right Innominate Vein, Percutaneous Approach",Icd10pcs
+1780840,"Fragmentation of Left Innominate Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780841,"Fragmentation of Left Innominate Vein, Percutaneous Approach",Icd10pcs
+1780842,"Fragmentation of Right Subclavian Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780843,"Fragmentation of Right Subclavian Vein, Percutaneous Approach",Icd10pcs
+1780844,"Fragmentation of Left Subclavian Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780845,"Fragmentation of Left Subclavian Vein, Percutaneous Approach",Icd10pcs
+1780846,"Fragmentation of Right Axillary Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780847,"Fragmentation of Right Axillary Vein, Percutaneous Approach",Icd10pcs
+1780848,"Fragmentation of Left Axillary Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780849,"Fragmentation of Left Axillary Vein, Percutaneous Approach",Icd10pcs
+1780850,"Fragmentation of Right Brachial Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780851,"Fragmentation of Right Brachial Vein, Percutaneous Approach",Icd10pcs
+1780852,"Fragmentation of Left Brachial Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780853,"Fragmentation of Left Brachial Vein, Percutaneous Approach",Icd10pcs
+1780854,"Fragmentation of Right Basilic Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780855,"Fragmentation of Right Basilic Vein, Percutaneous Approach",Icd10pcs
+1780856,"Fragmentation of Left Basilic Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780857,"Fragmentation of Left Basilic Vein, Percutaneous Approach",Icd10pcs
+1780858,"Fragmentation of Right Cephalic Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780859,"Fragmentation of Right Cephalic Vein, Percutaneous Approach",Icd10pcs
+1780860,"Fragmentation of Left Cephalic Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780861,"Fragmentation of Left Cephalic Vein, Percutaneous Approach",Icd10pcs
+1780862,"Fragmentation of Upper Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780863,"Fragmentation of Upper Vein, Percutaneous Approach",Icd10pcs
+1780865,"Fragmentation of Right Common Iliac Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780866,"Fragmentation of Right Common Iliac Vein, Percutaneous Approach",Icd10pcs
+1780867,"Fragmentation of Left Common Iliac Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780868,"Fragmentation of Left Common Iliac Vein, Percutaneous Approach",Icd10pcs
+1780869,"Fragmentation of Right External Iliac Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780870,"Fragmentation of Right External Iliac Vein, Percutaneous Approach",Icd10pcs
+1780871,"Fragmentation of Left External Iliac Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780872,"Fragmentation of Left External Iliac Vein, Percutaneous Approach",Icd10pcs
+1780873,"Fragmentation of Right Hypogastric Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780874,"Fragmentation of Right Hypogastric Vein, Percutaneous Approach",Icd10pcs
+1780875,"Fragmentation of Left Hypogastric Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780876,"Fragmentation of Left Hypogastric Vein, Percutaneous Approach",Icd10pcs
+1780877,"Fragmentation of Right Femoral Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780878,"Fragmentation of Right Femoral Vein, Percutaneous Approach",Icd10pcs
+1780879,"Fragmentation of Left Femoral Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780880,"Fragmentation of Left Femoral Vein, Percutaneous Approach",Icd10pcs
+1780881,"Fragmentation of Right Saphenous Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780882,"Fragmentation of Right Saphenous Vein, Percutaneous Approach",Icd10pcs
+1780883,"Fragmentation of Left Saphenous Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780884,"Fragmentation of Left Saphenous Vein, Percutaneous Approach",Icd10pcs
+1780885,"Fragmentation of Lower Vein, Percutaneous Approach, Ultrasonic",Icd10pcs
+1780886,"Fragmentation of Lower Vein, Percutaneous Approach",Icd10pcs
+1781267,"Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit from Right Common Carotid Artery, Percutaneous Approach, New Technology Group 6",Icd10pcsHierarchy
+1781268,"Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit from Left Common Carotid Artery, Percutaneous Approach, New Technology Group 6",Icd10pcsHierarchy
+1781294,"Transfusion of Brexucabtagene Autoleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 6 (Deprecated)",Icd10pcs
+1781295,"Transfusion of Lisocabtagene Maraleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 6 (Deprecated)",Icd10pcs
+1781296,"Transfusion of Brexucabtagene Autoleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 6 (Deprecated)",Icd10pcs
+1781297,"Transfusion of Lisocabtagene Maraleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 6 (Deprecated)",Icd10pcs
+2000017,Pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance,4DigBillingCode
+2000042,Insertion of one vascular stent,4DigBillingCode
+2000043,Insertion of two vascular stents,4DigBillingCode
+2000044,Insertion of three vascular stents,4DigBillingCode
+2000045,Insertion of four or more vascular stents,4DigBillingCode
+2000049,"Implantation of cardiac resynchronization defibrillator, total system [CRT-D]",4DigBillingCode
+2000053,Insertion of drug-eluting stent(s) of other peripheral vessel(s),4DigBillingCode
+2000059,Percutaneous angioplasty of extracranial vessel(s),4DigBillingCode
+2000062,Percutaneous insertion of other extracranial artery stent(s),4DigBillingCode
+2000285,Ligation of thyroid vessels,4DigBillingCode
+2000313,Ligation of adrenal vessels,4DigBillingCode
+2001008,Control of epistaxis by ligation of ethmoidal arteries,4DigBillingCode
+2001009,Control of epistaxis by (transantral) ligation of the maxillary artery,4DigBillingCode
+2001435,Closed heart valvotomy or transcatheter replacement of heart valve,3DigNonbillCode
+2001447,Open and other replacement of heart valve,3DigNonbillCode
+2001448,Open and other replacement of unspecified heart valve,4DigBillingCode
+2001449,Open and other replacement of aortic valve with tissue graft,4DigBillingCode
+2001450,Open and other replacement of aortic valve,4DigBillingCode
+2001451,Open and other replacement of mitral valve with tissue graft,4DigBillingCode
+2001452,Open and other replacement of mitral valve,4DigBillingCode
+2001453,Open and other replacement of pulmonary valve with tissue graft,4DigBillingCode
+2001454,Open and other replacement of pulmonary valve,4DigBillingCode
+2001455,Open and other replacement of tricuspid valve with tissue graft,4DigBillingCode
+2001456,Open and other replacement of tricuspid valve,4DigBillingCode
+2001457,Operations on structures adjacent to heart valves,3DigNonbillCode
+2001463,Operations on other structures adjacent to valves of heart,4DigBillingCode
+2001464,Production of septal defect in heart,3DigNonbillCode
+2001466,Creation of septal defect in heart,4DigBillingCode
+2001467,Repair of atrial and ventricular septa with prosthesis,3DigNonbillCode
+2001471,"Repair of ventricular septal defect with prosthesis, open technique",4DigBillingCode
+2001473,"Repair of ventricular septal defect with prosthesis, closed technique",4DigBillingCode
+2001474,Repair of atrial and ventricular septa with tissue graft,3DigNonbillCode
+2001479,Other and unspecified repair of atrial and ventricular septa,3DigNonbillCode
+2001480,Other and unspecified repair of unspecified septal defect of heart,4DigBillingCode
+2001488,"Total correction of transposition of great vessels, not elsewhere classified",4DigBillingCode
+2001489,Other operations on valves and septa of heart,3DigNonbillCode
+2001496,Other operations on septa of heart,4DigBillingCode
+2001497,Other operations on valves of heart,4DigBillingCode
+2001500,Single vessel percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy without mention of thrombolytic agent,Procedure
+2001501,Single vessel percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy with mention of thrombolytic agent,Procedure
+2001504,"Multiple vessel percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy performed during the same operation, with or without mention of thrombolytic agent",Procedure
+2001509,"Aortocoronary bypass for heart revascularization, not otherwise specified",4DigBillingCode
+2001516,Abdominal-coronary artery bypass,4DigBillingCode
+2001517,Other bypass anastomosis for heart revascularization,4DigBillingCode
+2001518,Heart revascularization by arterial implant,3DigBillingCode
+2001519,Other heart revascularization,3DigNonbillCode
+2001520,Open chest transmyocardial revascularization,4DigBillingCode
+2001521,Other transmyocardial revascularization,4DigBillingCode
+2001522,Endoscopic transmyocardial revascularization,4DigBillingCode
+2001523,Percutaneous transmyocardial revascularization,4DigBillingCode
+2001524,Other heart revascularization,4DigBillingCode
+2001525,Other operations on vessels of heart,3DigNonbillCode
+2001527,Other operations on vessels of heart,4DigBillingCode
+2001548,"Excision or destruction of other lesion or tissue of heart, open approach",4DigBillingCode
+2001549,"Excision or destruction of other lesion or tissue of heart, endovascular approach",4DigBillingCode
+2001550,Partial ventriculectomy,4DigBillingCode
+2001551,"Excision, destruction, or exclusion of left atrial appendage (LAA)",4DigBillingCode
+2001553,Implantation of prosthetic cardiac support device around the heart,4DigBillingCode
+2001554,Other repair of heart and pericardium,4DigBillingCode
+2001560,Removal of internal biventricular heart replacement system,4DigBillingCode
+2001566,Removal of external heart assist system(s) or device(s),4DigBillingCode
+2001578,Replacement of transvenous atrial and/or ventricular lead(s) [electrode],4DigBillingCode
+2001992,Insertion of left atrial appendage device,4DigBillingCode
+2001997,Implantation of automatic cardioverter/defibrillator lead(s) only,4DigBillingCode
+2001999,Replacement of automatic cardioverter/defibrillator lead(s) only,4DigBillingCode
+2002012,"Incision, excision, and occlusion of vessels",2DigNonbillCode
+2002016,"Incision of vessel, other vessels of head and neck",4DigBillingCode
+2002019,"Incision of vessel, other thoracic vessels",4DigBillingCode
+2002027,"Endarterectomy, other vessels of head and neck",4DigBillingCode
+2002030,"Endarterectomy, other thoracic vessels",4DigBillingCode
+2002043,Diagnostic procedures on blood vessels,3DigNonbillCode
+2002046,Intravascular spectroscopy,4DigBillingCode
+2002047,Other diagnostic procedures on blood vessels,4DigBillingCode
+2002051,"Resection of vessel with anastomosis, other vessels of head and neck",4DigBillingCode
+2002062,"Resection of vessel with anastomosis, upper limb vessels",4DigBillingCode
+2002064,"Resection of vessel with anastomosis, other thoracic vessels",4DigBillingCode
+2002071,"Resection of vessel with replacement, intracranial vessels",4DigBillingCode
+2002082,"Resection of vessel with replacement, other vessels of head and neck",4DigBillingCode
+2002083,"Resection of vessel with replacement, upper limb vessels",4DigBillingCode
+2002085,"Resection of vessel with replacement, thoracic vessels",4DigBillingCode
+2002103,"Ligation and stripping of varicose veins, other vessels of head and neck",4DigBillingCode
+2002105,"Ligation and stripping of varicose veins, other thoracic vessels",4DigBillingCode
+2002108,Other excision of vessels,3DigNonbillCode
+2002109,"Other excision of vessels, unspecified site",4DigBillingCode
+2002110,"Other excision of vessels, intracranial vessels",4DigBillingCode
+2002111,"Other excision of vessels, other vessels of head and neck",4DigBillingCode
+2002122,"Other excision of vessels, upper limb vessels",4DigBillingCode
+2002123,"Other excision of vessels, aorta, abdominal",4DigBillingCode
+2002124,"Other excision of vessels, thoracic vessels",4DigBillingCode
+2002125,"Other excision of vessels, abdominal arteries",4DigBillingCode
+2002126,"Other excision of vessels, abdominal veins",4DigBillingCode
+2002127,"Other excision of vessels, lower limb arteries",4DigBillingCode
+2002128,"Other excision of vessels, lower limb veins",4DigBillingCode
+2002130,Other surgical occlusion of vessels,3DigNonbillCode
+2002131,"Other surgical occlusion of vessels, unspecified site",4DigBillingCode
+2002142,"Other surgical occlusion of vessels, intracranial vessels",4DigBillingCode
+2002143,"Other surgical occlusion of vessels, other vessels of head and neck",4DigBillingCode
+2002144,"Other surgical occlusion of vessels, upper limb vessels",4DigBillingCode
+2002145,"Other surgical occlusion of vessels, aorta, abdominal",4DigBillingCode
+2002146,"Other surgical occlusion of vessels, thoracic vessels",4DigBillingCode
+2002147,"Other surgical occlusion of vessels, abdominal arteries",4DigBillingCode
+2002148,"Other surgical occlusion of vessels, abdominal veins",4DigBillingCode
+2002149,"Other surgical occlusion of vessels, lower limb arteries",4DigBillingCode
+2002150,"Other surgical occlusion of vessels, lower limb veins",4DigBillingCode
+2002179,Other operations on vessels,2DigNonbillCode
+2002182,Other shunt or vascular bypass,3DigNonbillCode
+2002185,Other intrathoracic vascular shunt or bypass,4DigBillingCode
+2002188,Other intra-abdominal vascular shunt or bypass,4DigBillingCode
+2002190,Extracranial-intracranial (EC-IC) vascular bypass,4DigBillingCode
+2002191,Other (peripheral) vascular shunt or bypass,4DigBillingCode
+2002210,Other revision of vascular procedure,4DigBillingCode
+2002211,Other repair of vessels,3DigNonbillCode
+2002222,Angioplasty of other non-coronary vessel(s),4DigBillingCode
+2002224,Other repair of aneurysm,4DigBillingCode
+2002227,Reimplantation of aberrant renal vessel,4DigBillingCode
+2002228,Repair of blood vessel with tissue patch graft,4DigBillingCode
+2002231,Other repair of vessel,4DigBillingCode
+2002242,Extracorporeal circulation and procedures auxiliary to heart surgery,3DigNonbillCode
+2002245,Cardioplegia,4DigBillingCode
+2002249,Endovascular procedures on vessel(s),3DigNonbillCode
+2002250,Endovascular implantation of other graft in abdominal aorta,4DigBillingCode
+2002251,Endovascular (total) embolization or occlusion of head and neck vessels,4DigBillingCode
+2002263,Endovascular removal of obstruction from head and neck vessel(s),4DigBillingCode
+2002264,Other endovascular procedures on other vessels,4DigBillingCode
+2002265,"Operations on carotid body, carotid sinus and other vascular bodies",3DigNonbillCode
+2002266,Other operations on vessels,3DigNonbillCode
+2002267,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),4DigBillingCode
+2002271,Replacement of vessel-to-vessel cannula,4DigBillingCode
+2002284,Other perfusion,4DigBillingCode
+2002286,Other operations on vessels,4DigBillingCode
+2003085,Other procedures on hemorrhoids,4DigBillingCode
+2008086,Nonoperative removal of heart assist system,4DigBillingCode
+2615741,"Catheter, transluminal atherectomy, directional",Hcpcs
+2615751,"Catheter, transluminal atherectomy, rotational",Hcpcs
+2615752,"Catheter, transluminal angioplasty, non-laser (may include guidance, infusion/perfusion capability)",Hcpcs
+2615864,"Catheter, transluminal angioplasty, laser",Hcpcs
+2617369,"Transcatheter placement of a drug eluting intracoronary stent(s), percutaneous, with or without other therapeutic intervention, any method; single vessel (Deprecated)",Hcpcs
+2617370,"Transcatheter placement of a drug eluting intracoronary stent(s), percutaneous, with or without other therapeutic intervention, any method; each additional vessel (Deprecated)",Hcpcs
+2617462,"TRANSLUMINAL BALLOON ANGIOPLASTY, PERCUTANEOUS; FOR MAINTENANCE OF HEMODIALYSIS ACCESS, ARTERIOVENOUS FISTULA OR GRAFT; VENOUS (Deprecated)",Hcpcs
+2617584,Patient documented to have received coronary artery bypass graft without use of internal mammary artery (Deprecated),Hcpcs
+2720496,Fabric wrapping of abdominal aneurysm,Hcpcs
+2720628,"Monitor control cable for use with electric ventricular assist device, replacement only",Hcpcs
+2721131,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using arterial graft(s), single coronary arterial graft",Hcpcs
+2721132,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using arterial graft(s), two coronary arterial grafts",Hcpcs
+2721133,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using venous graft only, single coronary venous graft",Hcpcs
+2721134,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using single arterial and venous graft(s), single venous graft",Hcpcs
+2721135,"Minimally invasive direct coronary artery bypass surgery involving mini-thoracotomy or mini-sternotomy surgery, performed under direct vision; using two arterial grafts and single venous graft",Hcpcs
+2722483,"Bypass Cerebral Ventricle to Blood Vessel with Autologous Tissue Substitute, Open Approach",Icd10pcs
+2722493,"Bypass Cerebral Ventricle to Blood Vessel with Synthetic Substitute, Open Approach",Icd10pcs
+2722503,"Bypass Cerebral Ventricle to Blood Vessel with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2722513,"Bypass Cerebral Ventricle to Blood Vessel with Autologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+2722523,"Bypass Cerebral Ventricle to Blood Vessel with Synthetic Substitute, Percutaneous Approach",Icd10pcs
+2722533,"Bypass Cerebral Ventricle to Blood Vessel with Nonautologous Tissue Substitute, Percutaneous Approach",Icd10pcs
+2724714,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+2724715,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Open Approach",Icd10pcs
+2724716,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Open Approach",Icd10pcs
+2724717,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+2724718,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+2724719,"Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Open Approach",Icd10pcs
+2724720,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2724721,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2724722,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2724723,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2724724,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2724725,"Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2724726,"Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Open Approach",Icd10pcs
+2724727,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Open Approach",Icd10pcs
+2724728,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Open Approach",Icd10pcs
+2724729,"Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Open Approach",Icd10pcs
+2724730,"Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Open Approach",Icd10pcs
+2724731,"Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Open Approach",Icd10pcs
+2724732,"Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2724733,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2724734,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2724735,"Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2724736,"Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2724737,"Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2724738,"Bypass Coronary Artery, One Artery from Coronary Artery, Open Approach",Icd10pcs
+2724739,"Bypass Coronary Artery, One Artery from Right Internal Mammary, Open Approach",Icd10pcs
+2724740,"Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach",Icd10pcs
+2724741,"Bypass Coronary Artery, One Artery from Thoracic Artery, Open Approach",Icd10pcs
+2724742,"Bypass Coronary Artery, One Artery from Abdominal Artery, Open Approach",Icd10pcs
+2724743,"Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach",Icd10pcs
+2724744,"Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Approach",Icd10pcs
+2724745,"Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach",Icd10pcs
+2724746,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724747,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724748,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724749,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724750,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724751,"Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724752,"Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724753,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724754,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724755,"Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724756,"Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724757,"Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Icd10pcs
+2724758,"Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach",Icd10pcs
+2724759,"Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724760,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724761,"Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724762,"Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724763,"Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724764,"Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724765,"Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2724766,"Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2725024,"Bypass Left Atrium to Pulmonary Trunk with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2725025,"Bypass Left Atrium to Right Pulmonary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2725026,"Bypass Left Atrium to Left Pulmonary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Icd10pcs
+2725027,"Bypass Left Atrium to Pulmonary Trunk, Percutaneous Endoscopic Approach",Icd10pcs
+2725028,"Bypass Left Atrium to Right Pulmonary Artery, Percutaneous Endoscopic Approach",Icd10pcs
+2725029,"Bypass Left Atrium to Left Pulmonary Artery, Percutaneous Endoscopic Approach",Icd10pcs
+2725030,"Bypass Right Ventricle to Pulmonary Trunk with Autologous Venous Tissue, Open Approach",Icd10pcs
+2725031,"Bypass Right Ventricle to Right Pulmonary Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+2725032,"Bypass Right Ventricle to Left Pulmonary Artery with Autologous Venous Tissue, Open Approach",Icd10pcs
+2725033,"Bypass Right Ventricle to Pulmonary Trunk with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2725034,"Bypass Right Ventricle to Right Pulmonary Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2725035,"Bypass Right Ventricle to Left Pulmonary Artery with Autologous Arterial Tissue, Open Approach",Icd10pcs
+2725036,"Bypass Right Ventricle to Pulmonary Trunk with Synthetic Substitute, Open Approach",Icd10pcs
+2725037,"Bypass Right Ventricle to Right Pulmonary Artery with Synthetic Substitute, Open Approach",Icd10pcs
+2725038,"Bypass Right Ventricle to Left Pulmonary Artery with Synthetic Substitute, Open Approach",Icd10pcs
+2725039,"Bypass Right Ventricle to Pulmonary Trunk with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2725040,"Bypass Right Ventricle to Right Pulmonary Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2725041,"Bypass Right Ventricle to Left Pulmonary Artery with Nonautologous Tissue Substitute, Open Approach",Icd10pcs
+2725042,"Bypass Right Ventricle to Coronary Circulation, Open Approach",Icd10pcs
+2725043,"Bypass Right Ventricle to Right Internal Mammary, Open Approach",Icd10pcs

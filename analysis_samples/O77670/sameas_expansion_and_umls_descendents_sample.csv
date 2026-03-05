@@ -1,0 +1,46 @@
+concept_id,label,concept_class
+1034842,Chest pain,LoincComponent
+134159,Precordial pain,ClinicalFinding
+1572194,Other chest pain,4CharNonbillCode
+35211284,Chest pain on breathing,4CharBillingCode
+35211285,Precordial pain,4CharBillingCode
+36310512,Chest pain,Answer
+37167256,Burning chest pain,ClinicalFinding
+37200584,Mediastinitis,5CharBillingCode
+37200585,"Other diseases of mediastinum, not elsewhere classified",5CharBillingCode
+4010016,Chest wall pain,ClinicalFinding
+4010017,Atypical chest pain,ClinicalFinding
+4056719,Fibrosis of mediastinum,Disorder
+4060316,Central chest pain,ClinicalFinding
+4060317,Anterior chest wall pain,ClinicalFinding
+4085758,Retraction of mediastinum,Disorder
+4111348,Left sided chest pain,ClinicalFinding
+4119438,Acute mediastinitis,Disorder
+4141129,Dull chest pain,ClinicalFinding
+4145057,Cardiac chest pain,ClinicalFinding
+4164298,Retrosternal pain,ClinicalFinding
+4164649,Non-cardiac chest pain,ClinicalFinding
+4168213,Chest pain on breathing,ClinicalFinding
+4182327,Rib pain,ClinicalFinding
+4189294,Inflammatory disorder of mediastinum,Disorder
+4249898,Sclerosing mediastinitis,Disorder
+42539051,Pain of intercostal space,ClinicalFinding
+4290189,Hernia of mediastinum,Disorder
+4330445,Pleuritic pain,ClinicalFinding
+442555,Breathing painful,ClinicalFinding
+44820063,Painful respiration,5DigBillingCode
+44823450,Other chest pain,5DigBillingCode
+44824627,Precordial pain,5DigBillingCode
+44825482,"Other diseases of mediastinum, not elsewhere classified",4DigBillingCode
+44825808,Chest pain,4DigNonbillCode
+44825809,"Chest pain, unspecified",5DigBillingCode
+44834777,Mediastinitis,4DigBillingCode
+45534424,"Chest pain, unspecified",4CharBillingCode
+45558450,"Chest pain, unspecified",Icd10Code
+45568108,Precordial pain,Icd10Code
+45577779,Chest pain on breathing,Icd10Code
+45587497,Pleurodynia,5CharBillingCode
+45597166,Other chest pain,Icd10Code
+45597167,Intercostal pain,5CharBillingCode
+45602002,Other chest pain,5CharBillingCode
+77670,Chest pain,ClinicalFinding

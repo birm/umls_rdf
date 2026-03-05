@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1177481,ibuprofen 3 MG/ML Oral Suspension,ClinicalDrug
+1177512,ibuprofen 0.05 MG/MG Topical Gel,ClinicalDrug
+1177513,ibuprofen 50 MG/ML Topical Cream,ClinicalDrug
+1177641,ibuprofen 300 MG Oral Capsule,ClinicalDrug
+1177662,ibuprofen 400 MG Oral Capsule,ClinicalDrug
+1177663,ibuprofen 120 MG Oral Tablet,ClinicalDrug
+1177664,acetaminophen 250 MG / ibuprofen 200 MG Oral Capsule,ClinicalDrug
+1177665,ibuprofen 300 MG Extended Release Oral Tablet,ClinicalDrug
+1177671,ibuprofen 133 MG/ML Injectable Solution,ClinicalDrug
+1177705,ibuprofen 500 MG Oral Tablet,ClinicalDrug
+1177706,cyclonium 10 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+1177740,ibuprofen 400 MG,ClinicalDrugComp
+1177741,ibuprofen 80 MG/ML,ClinicalDrugComp
+1177762,ibuprofen 40 MG/ML,ClinicalDrugComp
+1177763,ibuprofen 133 MG/ML,ClinicalDrugComp
+1177764,ibuprofen 500 MG,ClinicalDrugComp
+1177769,ibuprofen 600 MG Oral Tablet [Ibifon 600],BrandedDrug
+1177770,ibuprofen 600 MG Oral Tablet [Ibren],BrandedDrug
+1177793,ibuprofen 3 MG/ML,ClinicalDrugComp
+1177796,hydroxocobalamin 2 MG/ML / ibuprofen 80 MG/ML Injectable Solution,ClinicalDrug
+1177801,ibuprofen 800 MG Oral Tablet [Samson 8],BrandedDrug
+1177822,ibuprofen 20 MG/ML Oral Suspension [Motrin],BrandedDrug
+1177823,ibuprofen 10 MG/ML,ClinicalDrugComp
+1177825,2 ML ibuprofen 10 MG/ML Injection [Neoprofen],QuantBrandedDrug
+1177827,ibuprofen 200 MG Oral Capsule [Wal-Profen],BrandedDrug
+1177831,ibuprofen 50 MG Chewable Tablet [Advil],BrandedDrug
+1177842,ibuprofen 40 MG/ML Oral Suspension [Advil],BrandedDrug
+1177843,ibuprofen 200 MG Oral Capsule [Advil],BrandedDrug
+1177844,ibuprofen 100 MG Oral Tablet [Advil],BrandedDrug
+1177845,ibuprofen 100 MG Chewable Tablet [Advil],BrandedDrug
+1177847,ibuprofen 20 MG/ML Oral Solution,ClinicalDrug
+1177851,ibuprofen 100 MG Chewable Tablet [Motrin],BrandedDrug
+1361176,ibuprofen 4 MG/ML,ClinicalDrugComp
+1361177,ibuprofen 4 MG/ML [Caldolor],BrandedDrugComp
+1361178,ibuprofen 4 MG/ML Injection,ClinicalDrug
+1361179,ibuprofen 4 MG/ML Injection [Caldolor],BrandedDrug
+1361547,ibuprofen 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet,ClinicalDrug
+1361665,200 ML ibuprofen 4 MG/ML Injection,QuantClinicalDrug
+1361666,200 ML ibuprofen 4 MG/ML Injection [Caldolor],QuantBrandedDrug
+1510443,ibuprofen 200 MG [Dragon Tabs],BrandedDrugComp
+1510444,ibuprofen Oral Tablet [Dragon Tabs],BrandedDrugForm
+1510445,Dragon Tabs Oral Product,BrandedDoseGroup
+1510446,Dragon Tabs Pill,BrandedDoseGroup
+1510447,ibuprofen 200 MG Oral Tablet [Dragon Tabs],BrandedDrug
+1830416,ibuprofen Oral Suspension [Algidrin],BrandedDrugForm
+1830417,ibuprofen 20 MG/ML [Algidrin],BrandedDrugComp
+1830418,ibuprofen 20 MG/ML Oral Suspension [Algidrin],BrandedDrug
+1830419,ibuprofen 40 MG/ML Oral Suspension [Brufen],BrandedDrug
+1832242,2 ML ibuprofen 5 MG/ML Injectable Solution [Pedea] Box of 4 by Recordati,MarketedProduct
+1832764,200 ML ibuprofen 20 MG/ML Oral Suspension [Algidrin],QuantBrandedDrug
+1832765,200 ML ibuprofen 20 MG/ML Oral Suspension [Algidrin] by I.D. Phar,MarketedProduct
+1832766,200 ML ibuprofen 40 MG/ML Oral Suspension [Brufen],QuantBrandedDrug
+1832767,200 ML ibuprofen 40 MG/ML Oral Suspension [Brufen] by Mylan,MarketedProduct
+19002674,ibuprofen 50 MG/ML Topical Cream [Proflex],BrandedDrug
+19003152,ibuprofen 50 MG/ML Topical Cream [Proflex Pain Relief],BrandedDrug
+19007870,ibuprofen 200 MG Oral Tablet [Ibrufhalal],BrandedDrug
+19007901,ibuprofen 400 MG Oral Tablet [Cuprofen Maximum Strength],BrandedDrug
+19007902,ibuprofen 600 MG Oral Tablet [Arthrofen 600],BrandedDrug
+19007903,ibuprofen 300 MG Extended Release Oral Capsule [fenbid],BrandedDrug
+19007904,ibuprofen 20 MG/ML Oral Suspension [Junifen],BrandedDrug
+19007905,ibuprofen 3 MG/ML Oral Suspension [Brufen],BrandedDrug
+19007906,ibuprofen 300 MG Extended Release Oral Capsule [Proflex],BrandedDrug
+19010263,ibuprofen 50 MG/ML Topical Spray [Ibuleve],BrandedDrug
+19011849,ibuprofen 50 MG/ML Topical Spray,ClinicalDrug
+19011850,ibuprofen 0.05 MG/MG / menthol 0.03 MG/MG Topical Gel,ClinicalDrug
+19012742,ibuprofen 200 MG Oral Tablet [Relcofen],BrandedDrug
+19012743,ibuprofen 400 MG Oral Tablet [Relcofen],BrandedDrug
+19015997,ibuprofen 200 MG Oral Tablet [Inoven],BrandedDrug
+19016485,ibuprofen 0.05 MG/MG Topical Gel [fenbid],BrandedDrug
+19016761,ibuprofen 200 MG Oral Tablet [Advil],BrandedDrug
+19019050,ibuprofen 20 MG/ML Oral Suspension,ClinicalDrug
+19019071,ibuprofen 300 MG Oral Tablet,ClinicalDrug
+19019072,ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19019073,ibuprofen 600 MG Oral Tablet,ClinicalDrug
+19019074,ibuprofen 800 MG Oral Tablet,ClinicalDrug
+19019979,ibuprofen 100 MG Oral Tablet,ClinicalDrug
+19023311,ibuprofen 200 MG [Advil],BrandedDrugComp
+19023313,ibuprofen 50 MG [Advil],BrandedDrugComp
+19023315,ibuprofen 100 MG [Advil],BrandedDrugComp
+19024537,ibuprofen 200 MG Oral Tablet [Ibular],BrandedDrug
+19024538,ibuprofen 200 MG Oral Tablet [Ibumetin],BrandedDrug
+19024539,ibuprofen 200 MG Oral Tablet [Paxofen],BrandedDrug
+19024540,ibuprofen 200 MG Oral Tablet [Apsifen],BrandedDrug
+19024591,ibuprofen 200 MG Oral Tablet [Brufen],BrandedDrug
+19024592,ibuprofen 200 MG Oral Tablet [Ebufac],BrandedDrug
+19024593,ibuprofen 200 MG Oral Tablet [Cuprofen],BrandedDrug
+19024594,ibuprofen 200 MG Oral Tablet [Lidifen],BrandedDrug
+19024595,ibuprofen 200 MG Oral Tablet [Motrin],BrandedDrug
+19024596,ibuprofen 200 MG Oral Tablet [Rimafen],BrandedDrug
+19024597,ibuprofen 200 MG Oral Tablet [Arthrofen 200],BrandedDrug
+19024598,ibuprofen 200 MG Oral Tablet [Phor Pain],BrandedDrug
+19024599,ibuprofen 200 MG Oral Tablet [Proflex],BrandedDrug
+19024600,ibuprofen 200 MG Oral Tablet [Pacifene],BrandedDrug
+19024621,ibuprofen 200 MG Oral Tablet [Migrafen],BrandedDrug
+19024622,ibuprofen 400 MG Oral Tablet [Ibular],BrandedDrug
+19024623,ibuprofen 400 MG Oral Tablet [Ibumetin],BrandedDrug
+19024624,ibuprofen 400 MG Oral Tablet [Paxofen],BrandedDrug
+19024625,ibuprofen 400 MG Oral Tablet [Apsifen],BrandedDrug
+19024626,ibuprofen 400 MG Oral Tablet [Brufen],BrandedDrug
+19024627,ibuprofen 400 MG Oral Tablet [Ebufac],BrandedDrug
+19024628,ibuprofen 400 MG Oral Tablet [Isisfen],BrandedDrug
+19024629,ibuprofen 400 MG Oral Tablet [Lidifen],BrandedDrug
+19024630,ibuprofen 400 MG Oral Tablet [Ibumed],BrandedDrug
+19024651,ibuprofen 400 MG Oral Tablet [Motrin],BrandedDrug
+19024652,ibuprofen 400 MG Oral Tablet [Rimafen],BrandedDrug
+19024653,ibuprofen 400 MG Oral Tablet [Arthrofen 400],BrandedDrug
+19024654,ibuprofen 400 MG Oral Tablet [Pacifene],BrandedDrug
+19024655,ibuprofen 400 MG Oral Tablet [Phor Pain],BrandedDrug
+19024656,ibuprofen 600 MG Oral Tablet [Ibumetin],BrandedDrug
+19024657,ibuprofen 600 MG Oral Tablet [Paxofen],BrandedDrug
+19024658,ibuprofen 600 MG Oral Tablet [Brufen],BrandedDrug
+19024659,ibuprofen 600 MG Oral Tablet [Lidifen],BrandedDrug
+19024660,ibuprofen 600 MG Oral Tablet [Apsifen F],BrandedDrug
+19024751,ibuprofen 600 MG Oral Tablet [Motrin],BrandedDrug
+19026060,ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard],BrandedDrug
+19026061,ibuprofen 800 MG Oral Tablet [Motrin],BrandedDrug
+19027494,ibuprofen 40 MG/ML Oral Suspension,ClinicalDrug
+19033267,ibuprofen 600 MG [Ibifon 600],BrandedDrugComp
+19033269,ibuprofen 600 MG [Ibren],BrandedDrugComp
+19033719,ibuprofen 20 MG/ML Oral Suspension [Advil],BrandedDrug
+19033823,ibuprofen 200 MG Oral Tablet [Cap-Profen],BrandedDrug
+19033824,ibuprofen 200 MG Oral Tablet [Genpril],BrandedDrug
+19033825,ibuprofen 200 MG Oral Tablet [Haltran],BrandedDrug
+19033827,ibuprofen 200 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033828,ibuprofen 200 MG Oral Tablet [Menadol],BrandedDrug
+19033851,ibuprofen 200 MG Oral Tablet [Nuprin],BrandedDrug
+19033852,ibuprofen 200 MG Oral Tablet [Q-Profen],BrandedDrug
+19033853,ibuprofen 200 MG Oral Tablet [Saleto-200],BrandedDrug
+19033854,ibuprofen 200 MG Oral Tablet [Sup Pain Med],BrandedDrug
+19033855,ibuprofen 200 MG Oral Tablet [Tab-Profen],BrandedDrug
+19033856,ibuprofen 200 MG Oral Tablet [Uni-Pro],BrandedDrug
+19033891,ibuprofen 300 MG Oral Tablet [Motrin],BrandedDrug
+19033892,ibuprofen 400 MG Oral Tablet [Dolgesic],BrandedDrug
+19033893,ibuprofen 400 MG Oral Tablet [Ibu],BrandedDrug
+19033894,ibuprofen 400 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033895,ibuprofen 400 MG Oral Tablet [Rufen],BrandedDrug
+19033896,ibuprofen 400 MG Oral Tablet [Saleto-400],BrandedDrug
+19033921,ibuprofen 600 MG Oral Tablet [Ibu],BrandedDrug
+19033922,ibuprofen 600 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033923,ibuprofen 600 MG Oral Tablet [Rufen],BrandedDrug
+19033924,ibuprofen 600 MG Oral Tablet [Saleto-600],BrandedDrug
+19033925,ibuprofen 800 MG Oral Tablet [Ibu],BrandedDrug
+19033926,ibuprofen 800 MG Oral Tablet [Ibu-Tab],BrandedDrug
+19033927,ibuprofen 800 MG Oral Tablet [Rufen],BrandedDrug
+19033928,ibuprofen 800 MG Oral Tablet [Saleto-800],BrandedDrug
+19042618,ibuprofen 20 MG/ML [Motrin],BrandedDrugComp
+19042619,ibuprofen 200 MG [Motrin],BrandedDrugComp
+19042671,ibuprofen 600 MG [Motrin],BrandedDrugComp
+19042676,ibuprofen 200 MG [Nuprin],BrandedDrugComp
+19042679,ibuprofen 600 MG [Rufen],BrandedDrugComp
+19042680,ibuprofen 800 MG [Rufen],BrandedDrugComp
+19052755,ibuprofen 200 MG Oral Tablet [Anadin Ibuprofen],BrandedDrug
+19052960,ibuprofen 50 MG/ML Topical Foam [Ibuleve],BrandedDrug
+19053970,ibuprofen 0.05 MG/MG Topical Gel [Cuprofen],BrandedDrug
+19054057,ibuprofen 200 MG Oral Tablet [Nurofen Advance],BrandedDrug
+19054229,ibuprofen 20 MG/ML Oral Suspension [Nurofen For Children],BrandedDrug
+19054261,ibuprofen 50 MG/ML Topical Foam,ClinicalDrug
+19054555,ibuprofen 50 MG/ML Topical Foam [Ibumousse],BrandedDrug
+19054654,ibuprofen 200 MG Extended Release Oral Capsule,ClinicalDrug
+19057827,ibuprofen 200 MG [Cap-Profen],BrandedDrugComp
+19062040,acetaminophen 25 MG/ML / ibuprofen 20 MG/ML Oral Suspension,ClinicalDrug
+19062730,ibuprofen 800 MG Extended Release Oral Tablet,ClinicalDrug
+19063477,homatropine 4 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19063807,ibuprofen 200 MG / tolperisone 50 MG Oral Tablet,ClinicalDrug
+19064141,acetaminophen 250 MG / ibuprofen 250 MG Oral Tablet,ClinicalDrug
+19064433,ibuprofen 400 MG Oral Suspension,ClinicalDrug
+19064799,carisoprodol 200 MG / dexamethasone 0.5 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19064834,ibuprofen 400 MG / vitamin B12 3 MG Oral Tablet,ClinicalDrug
+19064901,ibuprofen 400 MG Extended Release Oral Tablet,ClinicalDrug
+19065087,ibuprofen 80 MG/ML Injectable Solution,ClinicalDrug
+19066957,ibuprofen 200 MG [Genpril],BrandedDrugComp
+19068102,ibuprofen 200 MG [Haltran],BrandedDrugComp
+19069505,ibuprofen 600 MG [Ibu],BrandedDrugComp
+19069506,ibuprofen 800 MG [Ibu],BrandedDrugComp
+19069508,ibuprofen 200 MG [Ibu-Tab],BrandedDrugComp
+19069510,ibuprofen 600 MG [Ibu-Tab],BrandedDrugComp
+19071002,ibuprofen 800 MG [Samson 8],BrandedDrugComp
+19072941,ibuprofen 200 MG [Menadol],BrandedDrugComp
+19078439,ibuprofen 100 MG Chewable Tablet,ClinicalDrug
+19078440,ibuprofen 200 MG Oral Capsule,ClinicalDrug
+19078461,ibuprofen 200 MG Oral Tablet,ClinicalDrug
+19079192,ibuprofen 200 MG [Q-Profen],BrandedDrugComp
+19080093,ibuprofen 50 MG Chewable Tablet,ClinicalDrug
+19080502,ibuprofen 200 MG [Saleto-200],BrandedDrugComp
+19080506,ibuprofen 600 MG [Saleto-600],BrandedDrugComp
+19080508,ibuprofen 800 MG [Saleto-800],BrandedDrugComp
+19081494,ibuprofen 100 MG,ClinicalDrugComp
+19081495,ibuprofen 20 MG/ML,ClinicalDrugComp
+19081496,ibuprofen 200 MG,ClinicalDrugComp
+19081497,ibuprofen 300 MG,ClinicalDrugComp
+19081498,ibuprofen 50 MG,ClinicalDrugComp
+19081499,ibuprofen 600 MG,ClinicalDrugComp
+19081500,ibuprofen 800 MG,ClinicalDrugComp
+19082016,ibuprofen 200 MG [Sup Pain Med],BrandedDrugComp
+19082206,ibuprofen 200 MG [Tab-Profen],BrandedDrugComp
+19089480,ibuprofen 10 MG/ML [Neoprofen],BrandedDrugComp
+19091196,ibuprofen 50 MG/ML,ClinicalDrugComp
+19091197,ibuprofen 120 MG,ClinicalDrugComp
+19091199,ibuprofen 250 MG,ClinicalDrugComp
+19100579,ibuprofen 300 MG Extended Release Oral Capsule,ClinicalDrug
+19100591,ibuprofen 0.05 MG/MG,ClinicalDrugComp
+19101780,ibuprofen 0.1 MG/MG Topical Gel,ClinicalDrug
+19101877,ibuprofen 0.05 MG/MG / levomenthol 0.03 MG/MG Topical Gel,ClinicalDrug
+19102048,ibuprofen 0.1 MG/MG,ClinicalDrugComp
+19102175,ibuprofen 300 MG / pseudoephedrine 45 MG Oral Capsule,ClinicalDrug
+19103806,ibuprofen 400 MG Extended Release Oral Capsule,ClinicalDrug
+19104238,ibuprofen 133 MG/ML / lidocaine 10 MG/ML Injectable Solution,ClinicalDrug
+19104951,ibuprofen 50 MG/ML / nicotinic acid benzyl ester 0.74 MG/ML Topical Cream,ClinicalDrug
+19105454,ibuprofen 500 MG Rectal Suppository,ClinicalDrug
+19106802,carisoprodol 50 MG / ibuprofen 200 MG Oral Tablet,ClinicalDrug
+19106803,carisoprodol 200 MG / ibuprofen 400 MG Oral Tablet,ClinicalDrug
+19107088,ibuprofen 300 MG / methocarbamol 300 MG Oral Tablet,ClinicalDrug
+19107089,ibuprofen 200 MG / methocarbamol 500 MG Oral Tablet,ClinicalDrug
+19107240,ibuprofen 400 MG / scopolamine 20 MG Oral Tablet,ClinicalDrug
+19107275,ibuprofen 1000 MG Oral Tablet,ClinicalDrug
+19107340,ibuprofen 600 MG Extended Release Oral Tablet,ClinicalDrug
+19107838,ibuprofen 200 MG Chewable Tablet,ClinicalDrug
+19107839,ibuprofen 120 MG Chewable Tablet,ClinicalDrug
+19110250,ibuprofen 1000 MG,ClinicalDrugComp
+19112592,ibuprofen 20 MG/ML Oral Gel,ClinicalDrug
+19115678,ibuprofen 50 MG/ML [Proflex],BrandedDrugComp
+19115740,ibuprofen 50 MG/ML [Proflex Pain Relief],BrandedDrugComp
+19116285,ibuprofen 200 MG [Ibrufhalal],BrandedDrugComp
+19116286,ibuprofen 400 MG [Cuprofen Maximum Strength],BrandedDrugComp
+19116287,ibuprofen 600 MG [Arthrofen 600],BrandedDrugComp
+19116288,ibuprofen 300 MG [fenbid],BrandedDrugComp
+19116289,ibuprofen 20 MG/ML [Junifen],BrandedDrugComp
+19116290,ibuprofen 3 MG/ML [Brufen],BrandedDrugComp
+19116291,ibuprofen 300 MG [Proflex],BrandedDrugComp
+19116571,ibuprofen 50 MG/ML [Ibuleve],BrandedDrugComp
+19116802,ibuprofen 200 MG [Relcofen],BrandedDrugComp
+19116803,ibuprofen 400 MG [Relcofen],BrandedDrugComp
+19116879,ibuprofen 200 MG [Inoven],BrandedDrugComp
+19116957,ibuprofen 0.05 MG/MG [fenbid],BrandedDrugComp
+19117430,ibuprofen 200 MG [Ibular],BrandedDrugComp
+19117431,ibuprofen 200 MG [Ibumetin],BrandedDrugComp
+19117432,ibuprofen 200 MG [Paxofen],BrandedDrugComp
+19117433,ibuprofen 200 MG [Apsifen],BrandedDrugComp
+19117434,ibuprofen 200 MG [Brufen],BrandedDrugComp
+19117435,ibuprofen 200 MG [Ebufac],BrandedDrugComp
+19117436,ibuprofen 200 MG [Cuprofen],BrandedDrugComp
+19117437,ibuprofen 200 MG [Lidifen],BrandedDrugComp
+19117438,ibuprofen 200 MG [Rimafen],BrandedDrugComp
+19117439,ibuprofen 200 MG [Arthrofen 200],BrandedDrugComp
+19117440,ibuprofen 200 MG [Phor Pain],BrandedDrugComp
+19117441,ibuprofen 200 MG [Proflex],BrandedDrugComp
+19117442,ibuprofen 200 MG [Pacifene],BrandedDrugComp
+19117443,ibuprofen 200 MG [Migrafen],BrandedDrugComp
+19117444,ibuprofen 400 MG [Ibular],BrandedDrugComp
+19117445,ibuprofen 400 MG [Ibumetin],BrandedDrugComp
+19117446,ibuprofen 400 MG [Paxofen],BrandedDrugComp
+19117447,ibuprofen 400 MG [Apsifen],BrandedDrugComp
+19117448,ibuprofen 400 MG [Brufen],BrandedDrugComp
+19117449,ibuprofen 400 MG [Ebufac],BrandedDrugComp
+19117450,ibuprofen 400 MG [Isisfen],BrandedDrugComp
+19117451,ibuprofen 400 MG [Lidifen],BrandedDrugComp
+19117452,ibuprofen 400 MG [Ibumed],BrandedDrugComp
+19117453,ibuprofen 400 MG [Motrin],BrandedDrugComp
+19117454,ibuprofen 400 MG [Rimafen],BrandedDrugComp
+19117455,ibuprofen 400 MG [Arthrofen 400],BrandedDrugComp
+19117456,ibuprofen 400 MG [Pacifene],BrandedDrugComp
+19117457,ibuprofen 400 MG [Phor Pain],BrandedDrugComp
+19117458,ibuprofen 600 MG [Ibumetin],BrandedDrugComp
+19117459,ibuprofen 600 MG [Paxofen],BrandedDrugComp
+19117460,ibuprofen 600 MG [Brufen],BrandedDrugComp
+19117461,ibuprofen 600 MG [Lidifen],BrandedDrugComp
+19117462,ibuprofen 600 MG [Apsifen F],BrandedDrugComp
+19117724,ibuprofen 800 MG [Brufen Retard],BrandedDrugComp
+19117725,ibuprofen 20 MG/ML [Brufen],BrandedDrugComp
+19117726,ibuprofen 800 MG [Motrin],BrandedDrugComp
+19118219,ibuprofen 20 MG/ML [Advil],BrandedDrugComp
+19118221,ibuprofen 200 MG [Uni-Pro],BrandedDrugComp
+19118226,ibuprofen 300 MG [Motrin],BrandedDrugComp
+19118227,ibuprofen 400 MG [Dolgesic],BrandedDrugComp
+19118228,ibuprofen 400 MG [Ibu],BrandedDrugComp
+19118229,ibuprofen 400 MG [Ibu-Tab],BrandedDrugComp
+19118230,ibuprofen 400 MG [Rufen],BrandedDrugComp
+19118231,ibuprofen 400 MG [Saleto-400],BrandedDrugComp
+19118233,ibuprofen 800 MG [Ibu-Tab],BrandedDrugComp
+19120465,ibuprofen 200 MG [Anadin Ibuprofen],BrandedDrugComp
+19120467,ibuprofen 0.05 MG/MG [Cuprofen],BrandedDrugComp
+19120468,ibuprofen 200 MG [Nurofen Advance],BrandedDrugComp
+19120495,ibuprofen 20 MG/ML [Nurofen For Children],BrandedDrugComp
+19120543,ibuprofen 50 MG/ML [Ibumousse],BrandedDrugComp
+19122000,ibuprofen 450 MG,ClinicalDrugComp
+19122001,ibuprofen 450 MG / oxycodone 5 MG Oral Tablet,ClinicalDrug
+19123153,ibuprofen 200 MG Oral Capsule [Motrin],BrandedDrug
+19124387,ibuprofen 200 MG [Wal-Profen],BrandedDrugComp
+19124388,ibuprofen 200 MG Oral Tablet [Wal-Profen],BrandedDrug
+19124856,ibuprofen 200 MG / pseudoisocytidine 30 MG Oral Tablet,ClinicalDrug
+19126141,ibuprofen 20 MG/ML [Elixsure IB],BrandedDrugComp
+19126142,ibuprofen 20 MG/ML Oral Suspension [Elixsure IB],BrandedDrug
+19127536,ibuprofen 40 MG/ML [Advil],BrandedDrugComp
+19128678,ibuprofen 20 MG/ML Oral Solution [Brufen],BrandedDrug
+19129017,ibuprofen 40 MG/ML Oral Solution,ClinicalDrug
+19129851,ibuprofen 100 MG [Motrin],BrandedDrugComp
+19131976,ibuprofen 100 MG Oral Tablet [Motrin],BrandedDrug
+1970512,ibuprofen 200 MG / phenylephrine 5 MG Oral Tablet Box of 16 by Stada,MarketedProduct
+1970693,ibuprofen Delayed Release Oral Tablet [Ibu Puren],BrandedDrugForm
+1970694,ibuprofen Oral Tablet [Ibu Puren],BrandedDrugForm
+1970695,ibuprofen 200 MG Oral Tablet [Ibu] Box of 10 by Sanofi,MarketedProduct
+1970696,ibuprofen 200 MG Oral Tablet [Ibu] Box of 20,BrandedDrugBox
+1970697,ibuprofen 200 MG Oral Tablet [Ibu] Box of 20 by Sanofi,MarketedProduct
+1970698,ibuprofen 200 MG Oral Tablet [Ibu] Box of 50,BrandedDrugBox
+1970699,ibuprofen 200 MG Oral Tablet [Ibu] Box of 50 by Sanofi,MarketedProduct
+1970700,ibuprofen 400 MG [Ibu Puren],BrandedDrugComp
+1970701,ibuprofen 400 MG Delayed Release Oral Tablet [Ibu Puren],BrandedDrug
+1970702,ibuprofen 400 MG Delayed Release Oral Tablet [Ibu Puren] Box of 20,BrandedDrugBox
+1970703,ibuprofen 400 MG Delayed Release Oral Tablet [Ibu Puren] Box of 20 by Puren,MarketedProduct
+1970704,ibuprofen 400 MG Delayed Release Oral Tablet Box of 10 by Ascend,MarketedProduct
+1970705,ibuprofen 400 MG Delayed Release Oral Tablet Box of 20 by Puren,MarketedProduct
+1970706,ibuprofen 400 MG Delayed Release Oral Tablet Box of 50 by Ivc Pragen,MarketedProduct
+1970707,ibuprofen 400 MG Delayed Release Oral Tablet Box of 50 by Aliud,MarketedProduct
+1970708,ibuprofen 400 MG Delayed Release Oral Tablet Box of 100 by Puren,MarketedProduct
+1970709,ibuprofen 400 MG Delayed Release Oral Tablet [Gib Ibuprofen] Box of 10,BrandedDrugBox
+1970711,ibuprofen 400 MG Delayed Release Oral Tablet [Gib Ibuprofen] Box of 10 by GIB,MarketedProduct
+1970712,ibuprofen 400 MG Oral Tablet [Ibu Puren],BrandedDrug
+1970713,ibuprofen 400 MG Oral Tablet [Ibu Puren] Box of 20,BrandedDrugBox
+1970714,ibuprofen 400 MG Oral Tablet [Ibu Puren] Box of 20 by Puren,MarketedProduct
+1970715,ibuprofen 400 MG Oral Tablet Box of 10 by Ascend,MarketedProduct
+1970716,ibuprofen 400 MG Oral Tablet Box of 20 by Puren,MarketedProduct
+1970717,ibuprofen 400 MG Oral Tablet Box of 50 by Ivc Pragen,MarketedProduct
+1970718,ibuprofen 400 MG Oral Tablet Box of 50 by Aliud,MarketedProduct
+1970719,ibuprofen 400 MG Oral Tablet Box of 100 by Puren,MarketedProduct
+1970720,ibuprofen 400 MG Oral Tablet [Gib Ibuprofen] Box of 10,BrandedDrugBox
+1970721,ibuprofen 400 MG Oral Tablet [Gib Ibuprofen] Box of 10 by GIB,MarketedProduct
+1970722,ibuprofen 600 MG Oral Tablet Box of 20 by Denk,MarketedProduct
+1970723,ibuprofen 600 MG Oral Tablet Box of 50 by Denk,MarketedProduct
+1970724,ibuprofen 600 MG Oral Tablet Box of 100 by Denk,MarketedProduct
+1970725,ibuprofen 800 MG Oral Tablet Box of 100 by Puren,MarketedProduct
+2009381,500 ML ibuprofen 12 MG/ML Oral Suspension [Q-Profen],QuantBrandedDrug
+2009382,500 ML ibuprofen 12 MG/ML Oral Suspension [Q-Profen] by Hanlim,MarketedProduct
+2009640,6 ML ibuprofen 12 MG/ML Oral Suspension [EAZY-COOL] by Humedix,MarketedProduct
+2010049,1 ML ibuprofen 40 MG/ML Oral Suspension [EVE DUO] by Sam-a,MarketedProduct
+2010050,1 ML ibuprofen 12 MG/ML Oral Suspension [KOKO PED] by Sam-a,MarketedProduct
+2010051,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBU-K],QuantBrandedDrug
+2010052,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBU-K] by SK Chemical,MarketedProduct
+2010053,1 ML ibuprofen 12 MG/ML Oral Suspension [Q-Profen],QuantBrandedDrug
+2010054,1 ML ibuprofen 12 MG/ML Oral Suspension [Q-Profen] by Hanlim,MarketedProduct
+2013170,ibuprofen 600 MG Oral Tablet [IBUFENON] by C-tri,MarketedProduct
+2013171,ibuprofen 400 MG Oral Tablet [DEXIROC] by C-tri,MarketedProduct
+2013173,ibuprofen 400 MG Oral Tablet [IBUFENON] by C-tri,MarketedProduct
+2013174,ibuprofen 400 MG Oral Tablet [IPREN-S],BrandedDrug
+2013175,ibuprofen 400 MG Oral Tablet [IPREN-S] by Samjin,MarketedProduct
+2013176,ibuprofen 400 MG [IPREN-S],BrandedDrugComp
+2013177,ibuprofen 12 MG/ML Oral Suspension [Q-Profen],BrandedDrug
+2013178,ibuprofen 12 MG/ML [Q-Profen],BrandedDrugComp
+2013179,ibuprofen Oral Tablet [IPREN-S],BrandedDrugForm
+2013180,ibuprofen Oral Suspension [Q-Profen],BrandedDrugForm
+2022587,1000 ML ibuprofen 12 MG/ML Oral Suspension,QuantClinicalDrug
+2022609,2000 ML ibuprofen 20 MG/ML Oral Suspension,QuantClinicalDrug
+2022639,2000 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN],QuantBrandedDrug
+2022640,2000 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN] by Kukje,MarketedProduct
+2022968,1000 ML ibuprofen 20 MG/ML Oral Suspension [CAROL],QuantBrandedDrug
+2022969,1000 ML ibuprofen 20 MG/ML Oral Suspension [CAROL] by Ildong,MarketedProduct
+2022970,1000 ML ibuprofen 20 MG/ML Oral Suspension [EXIPREN],QuantBrandedDrug
+2022971,1000 ML ibuprofen 20 MG/ML Oral Suspension [EXIPREN] by Hanall,MarketedProduct
+2022972,1000 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN],QuantBrandedDrug
+2022973,1000 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN] by Kukje,MarketedProduct
+2022974,1000 ML ibuprofen 20 MG/ML Oral Suspension [TTOTTO],QuantBrandedDrug
+2022975,1000 ML ibuprofen 20 MG/ML Oral Suspension [TTOTTO] by Koreandrug,MarketedProduct
+2022976,1000 ML ibuprofen 12 MG/ML Oral Suspension [MAXIBUPEN],QuantBrandedDrug
+2022977,1000 ML ibuprofen 12 MG/ML Oral Suspension [MAXIBUPEN] by Hanmi,MarketedProduct
+2024750,500 ML ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN],QuantBrandedDrug
+2024791,500 ML ibuprofen 40 MG/ML Oral Suspension [NEOFEN],QuantBrandedDrug
+2024792,500 ML ibuprofen 40 MG/ML Oral Suspension [NEOFEN] by Nexpharm,MarketedProduct
+2024793,500 ML ibuprofen 40 MG/ML Oral Suspension [NEW IBUFEN],QuantBrandedDrug
+2024794,500 ML ibuprofen 40 MG/ML Oral Suspension [NEW IBUFEN] by KMS,MarketedProduct
+2024795,500 ML ibuprofen 20 MG/ML Oral Suspension [IBUNAL],QuantBrandedDrug
+2024796,500 ML ibuprofen 20 MG/ML Oral Suspension [IBUNAL] by Wooridul,MarketedProduct
+2024797,500 ML ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN] by Daewoo,MarketedProduct
+2024798,500 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN],QuantBrandedDrug
+2024799,500 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN] by Kukje,MarketedProduct
+2024800,500 ML ibuprofen 20 MG/ML Oral Suspension [PAREN FOR CHILDREN],QuantBrandedDrug
+2024801,500 ML ibuprofen 20 MG/ML Oral Suspension [PAREN FOR CHILDREN] by Daewon,MarketedProduct
+2024802,500 ML ibuprofen 12 MG/ML Oral Suspension by Dongwha,MarketedProduct
+2024803,500 ML ibuprofen 12 MG/ML Oral Suspension [ALLBUPEN],QuantBrandedDrug
+2024804,500 ML ibuprofen 12 MG/ML Oral Suspension [ALLBUPEN] by Sinil,MarketedProduct
+2024805,500 ML ibuprofen 12 MG/ML Oral Suspension [BEARPROFEN],QuantBrandedDrug
+2024806,500 ML ibuprofen 12 MG/ML Oral Suspension [BEARPROFEN] by Daewoong,MarketedProduct
+2024807,500 ML ibuprofen 12 MG/ML Oral Suspension [BUROFEN],QuantBrandedDrug
+2024808,500 ML ibuprofen 12 MG/ML Oral Suspension [BUROFEN] by CTC Bio,MarketedProduct
+2024809,500 ML ibuprofen 12 MG/ML Oral Suspension [CHILFEN],QuantBrandedDrug
+2024810,500 ML ibuprofen 12 MG/ML Oral Suspension [CHILFEN] by Huons,MarketedProduct
+2024812,500 ML ibuprofen 12 MG/ML Oral Suspension [DEXFIN],QuantBrandedDrug
+2024813,500 ML ibuprofen 12 MG/ML Oral Suspension [DEXFIN] by Korea United Pharm,MarketedProduct
+2024814,500 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBFAN],QuantBrandedDrug
+2024815,500 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBFAN] by Kukje,MarketedProduct
+2024816,500 ML ibuprofen 12 MG/ML Oral Suspension [DONGNIP DEXIBUFEN],QuantBrandedDrug
+2024817,500 ML ibuprofen 12 MG/ML Oral Suspension [DONGNIP DEXIBUFEN] by Dongnip,MarketedProduct
+2024818,500 ML ibuprofen 12 MG/ML Oral Suspension [LEVOPEN],QuantBrandedDrug
+2024819,500 ML ibuprofen 12 MG/ML Oral Suspension [LEVOPEN] by Ahngook New Pharm,MarketedProduct
+2024820,500 ML ibuprofen 12 MG/ML Oral Suspension [WINDEXIFEN],QuantBrandedDrug
+2024821,500 ML ibuprofen 12 MG/ML Oral Suspension [WINDEXIFEN] by Hanwha,MarketedProduct
+2025925,100 ML ibuprofen 20 MG/ML Oral Suspension [IBUSUSPEN],QuantBrandedDrug
+2025926,100 ML ibuprofen 20 MG/ML Oral Suspension [IBUSUSPEN] by Hanmi,MarketedProduct
+2025927,100 ML ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN],QuantBrandedDrug
+2025928,100 ML ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN] by Daewoo,MarketedProduct
+2025929,100 ML ibuprofen 12 MG/ML Oral Suspension [MAXIBUPEN],QuantBrandedDrug
+2025930,100 ML ibuprofen 12 MG/ML Oral Suspension [MAXIBUPEN] by Hanmi,MarketedProduct
+2025977,75 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN],QuantBrandedDrug
+2026017,75 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN] by Kukje,MarketedProduct
+2026365,50 ML ibuprofen 20 MG/ML Oral Suspension [IBUSUSPEN],QuantBrandedDrug
+2026366,50 ML ibuprofen 20 MG/ML Oral Suspension [IBUSUSPEN] by Hanmi,MarketedProduct
+2026367,50 ML ibuprofen 12 MG/ML Oral Suspension [ESFEN],QuantBrandedDrug
+2026368,50 ML ibuprofen 12 MG/ML Oral Suspension [ESFEN] by Youngil,MarketedProduct
+2026369,50 ML ibuprofen 12 MG/ML Oral Suspension [DEXFIN],QuantBrandedDrug
+2026370,50 ML ibuprofen 12 MG/ML Oral Suspension [DEXFIN] by Korea United Pharm,MarketedProduct
+2026371,50 ML ibuprofen 12 MG/ML Oral Suspension [LEVOPEN],QuantBrandedDrug
+2026372,50 ML ibuprofen 12 MG/ML Oral Suspension [LEVOPEN] by Ahngook New Pharm,MarketedProduct
+2026495,30 ML ibuprofen 12 MG/ML Oral Suspension,QuantClinicalDrug
+2026496,30 ML ibuprofen 12 MG/ML Oral Suspension [KIZBUFEN],QuantBrandedDrug
+2026497,30 ML ibuprofen 12 MG/ML Oral Suspension [KIZBUFEN] by Yuyu,MarketedProduct
+2029716,2 ML ibuprofen 5 MG/ML Injectable Solution [Pedea] by Samoh,MarketedProduct
+2032291,1 ML ibuprofen 20 MG/ML Oral Suspension [BR IBUFEN] by Boryung,MarketedProduct
+2032315,1 ML ibuprofen 40 MG/ML Oral Suspension [EVE DUO],QuantBrandedDrug
+2032316,1 ML ibuprofen 40 MG/ML Oral Suspension [NEOFEN],QuantBrandedDrug
+2032317,1 ML ibuprofen 40 MG/ML Oral Suspension [NEOFEN] by Nexpharm,MarketedProduct
+2032318,1 ML ibuprofen 40 MG/ML Oral Suspension [NEW IBUFEN],QuantBrandedDrug
+2032319,1 ML ibuprofen 40 MG/ML Oral Suspension [NEW IBUFEN] by KMS,MarketedProduct
+2032320,1 ML ibuprofen 20 MG/ML Oral Suspension [IBUSUSPEN],QuantBrandedDrug
+2032321,1 ML ibuprofen 20 MG/ML Oral Suspension [IBUSUSPEN] by Hanmi,MarketedProduct
+2032322,1 ML ibuprofen 20 MG/ML Oral Suspension [CAROL],QuantBrandedDrug
+2032323,1 ML ibuprofen 20 MG/ML Oral Suspension [CAROL] by Ildong,MarketedProduct
+2032325,1 ML ibuprofen 20 MG/ML Oral Suspension [BABYPAIN],QuantBrandedDrug
+2032326,1 ML ibuprofen 20 MG/ML Oral Suspension [BABYPAIN] by Crown,MarketedProduct
+2032327,1 ML ibuprofen 20 MG/ML Oral Suspension [TATANAL],QuantBrandedDrug
+2032328,1 ML ibuprofen 20 MG/ML Oral Suspension [TATANAL] by Ahngook,MarketedProduct
+2032329,1 ML ibuprofen 20 MG/ML Oral Suspension [PICOPEN],QuantBrandedDrug
+2032330,1 ML ibuprofen 20 MG/ML Oral Suspension [PICOPEN] by Shinpoong,MarketedProduct
+2032331,1 ML ibuprofen 20 MG/ML Oral Suspension [IBUNAL],QuantBrandedDrug
+2032332,1 ML ibuprofen 20 MG/ML Oral Suspension [IBUNAL] by Wooridul,MarketedProduct
+2032333,1 ML ibuprofen 20 MG/ML Oral Suspension [BR IBUFEN],QuantBrandedDrug
+2032334,1 ML ibuprofen 20 MG/ML Oral Suspension,QuantClinicalDrug
+2032335,1 ML ibuprofen 20 MG/ML Oral Suspension by Sinil,MarketedProduct
+2032336,1 ML ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN],QuantBrandedDrug
+2032338,1 ML ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN] by Daewoo,MarketedProduct
+2032340,1 ML ibuprofen 20 MG/ML Oral Suspension [BRUFEN FOR CHILDREN],QuantBrandedDrug
+2032341,1 ML ibuprofen 20 MG/ML Oral Suspension [BRUFEN FOR CHILDREN] by Samil,MarketedProduct
+2032342,1 ML ibuprofen 20 MG/ML Oral Suspension [BUROFON],QuantBrandedDrug
+2032343,1 ML ibuprofen 20 MG/ML Oral Suspension [BUROFON] by Guju,MarketedProduct
+2032344,1 ML ibuprofen 20 MG/ML Oral Suspension [DAEWOONG IBUFEN],QuantBrandedDrug
+2032345,1 ML ibuprofen 20 MG/ML Oral Suspension [DAEWOONG IBUFEN] by Daewoong,MarketedProduct
+2032346,1 ML ibuprofen 20 MG/ML Oral Suspension [EXIPREN],QuantBrandedDrug
+2032347,1 ML ibuprofen 20 MG/ML Oral Suspension [EXIPREN] by Hanall,MarketedProduct
+2032348,1 ML ibuprofen 20 MG/ML Oral Suspension [ILHWA IBU],QuantBrandedDrug
+2032349,1 ML ibuprofen 20 MG/ML Oral Suspension [ILHWA IBU] by Ilwha,MarketedProduct
+2032350,1 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN],QuantBrandedDrug
+2032351,1 ML ibuprofen 20 MG/ML Oral Suspension [IVUPAN] by Kukje,MarketedProduct
+2032352,1 ML ibuprofen 20 MG/ML Oral Suspension [PAREN FOR CHILDREN],QuantBrandedDrug
+2032353,1 ML ibuprofen 20 MG/ML Oral Suspension [PAREN FOR CHILDREN] by Daewon,MarketedProduct
+2032354,1 ML ibuprofen 20 MG/ML Oral Suspension [QUIBEN],QuantBrandedDrug
+2032355,1 ML ibuprofen 20 MG/ML Oral Suspension [QUIBEN] by Korea MRB,MarketedProduct
+2032356,1 ML ibuprofen 20 MG/ML Oral Suspension [TTOTTO],QuantBrandedDrug
+2032357,1 ML ibuprofen 20 MG/ML Oral Suspension [TTOTTO] by Koreandrug,MarketedProduct
+2032358,1 ML ibuprofen 12 MG/ML Oral Suspension [MAXPROFEN],QuantBrandedDrug
+2032359,1 ML ibuprofen 12 MG/ML Oral Suspension [MAXPROFEN] by Theragen Etex,MarketedProduct
+2032360,1 ML ibuprofen 12 MG/ML Oral Suspension [ZYFEN],QuantBrandedDrug
+2032361,1 ML ibuprofen 12 MG/ML Oral Suspension [ZYFEN] by Ilwha,MarketedProduct
+2032362,1 ML ibuprofen 12 MG/ML Oral Suspension [DIBUROFEN],QuantBrandedDrug
+2032363,1 ML ibuprofen 12 MG/ML Oral Suspension [DIBUROFEN] by Aprogen,MarketedProduct
+2032364,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXINOFEN],QuantBrandedDrug
+2032365,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXINOFEN] by Withus,MarketedProduct
+2032366,1 ML ibuprofen 12 MG/ML Oral Suspension [MAXPRO],QuantBrandedDrug
+2032367,1 ML ibuprofen 12 MG/ML Oral Suspension [MAXPRO] by Ilsung,MarketedProduct
+2032368,1 ML ibuprofen 12 MG/ML Oral Suspension [KOKO PED],QuantBrandedDrug
+2032369,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXITOP],QuantBrandedDrug
+2032370,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXITOP] by Kuhnil,MarketedProduct
+2032371,1 ML ibuprofen 12 MG/ML Oral Suspension [DAXFEN],QuantBrandedDrug
+2032372,1 ML ibuprofen 12 MG/ML Oral Suspension [DAXFEN] by Binex,MarketedProduct
+2032373,1 ML ibuprofen 12 MG/ML Oral Suspension [BR DEXIFEN],QuantBrandedDrug
+2032374,1 ML ibuprofen 12 MG/ML Oral Suspension [BR DEXIFEN] by Boryung,MarketedProduct
+2032375,1 ML ibuprofen 12 MG/ML Oral Suspension [ANYFEN],QuantBrandedDrug
+2032376,1 ML ibuprofen 12 MG/ML Oral Suspension [ANYFEN] by Ahngook,MarketedProduct
+2032377,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIPURUFEN],QuantBrandedDrug
+2032378,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIPURUFEN] by Yungjin,MarketedProduct
+2032379,1 ML ibuprofen 12 MG/ML Oral Suspension [CUREFEN],QuantBrandedDrug
+2032380,1 ML ibuprofen 12 MG/ML Oral Suspension [CUREFEN] by Daewon,MarketedProduct
+2032381,1 ML ibuprofen 12 MG/ML Oral Suspension [COKIDSFEN],QuantBrandedDrug
+2032382,1 ML ibuprofen 12 MG/ML Oral Suspension [COKIDSFEN] by Kolon,MarketedProduct
+2032383,1 ML ibuprofen 12 MG/ML Oral Suspension [SONIFEN],QuantBrandedDrug
+2032384,1 ML ibuprofen 12 MG/ML Oral Suspension [SONIFEN] by JW,MarketedProduct
+2032385,1 ML ibuprofen 12 MG/ML Oral Suspension [MAXIBUPEN],QuantBrandedDrug
+2032386,1 ML ibuprofen 12 MG/ML Oral Suspension [MAXIBUPEN] by Hanmi,MarketedProduct
+2032387,1 ML ibuprofen 12 MG/ML Oral Suspension [ESFEN],QuantBrandedDrug
+2032388,1 ML ibuprofen 12 MG/ML Oral Suspension [ESFEN] by Youngil,MarketedProduct
+2032389,1 ML ibuprofen 12 MG/ML Oral Suspension [DIPROFEN],QuantBrandedDrug
+2032390,1 ML ibuprofen 12 MG/ML Oral Suspension [DIPROFEN] by Union Korea Pharm,MarketedProduct
+2032391,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBU],QuantBrandedDrug
+2032392,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBU] by Wooridul,MarketedProduct
+2032393,1 ML ibuprofen 12 MG/ML Oral Suspension [Maxifen],QuantBrandedDrug
+2032394,1 ML ibuprofen 12 MG/ML Oral Suspension [Maxifen] by Jinyang,MarketedProduct
+2032395,1 ML ibuprofen 12 MG/ML Oral Suspension,QuantClinicalDrug
+2032396,1 ML ibuprofen 12 MG/ML Oral Suspension by Dongwha,MarketedProduct
+2032397,1 ML ibuprofen 12 MG/ML Oral Suspension [ALLBUPEN],QuantBrandedDrug
+2032398,1 ML ibuprofen 12 MG/ML Oral Suspension [ALLBUPEN] by Sinil,MarketedProduct
+2032399,1 ML ibuprofen 12 MG/ML Oral Suspension [BEARPROFEN],QuantBrandedDrug
+2032401,1 ML ibuprofen 12 MG/ML Oral Suspension [BEARPROFEN] by Daewoong,MarketedProduct
+2032402,1 ML ibuprofen 12 MG/ML Oral Suspension [BUROFEN],QuantBrandedDrug
+2032403,1 ML ibuprofen 12 MG/ML Oral Suspension [BUROFEN] by CTC Bio,MarketedProduct
+2032404,1 ML ibuprofen 12 MG/ML Oral Suspension [CHILFEN],QuantBrandedDrug
+2032405,1 ML ibuprofen 12 MG/ML Oral Suspension [CHILFEN] by Huons,MarketedProduct
+2032406,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXFIN],QuantBrandedDrug
+2032407,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXFIN] by Korea United Pharm,MarketedProduct
+2032408,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBFAN],QuantBrandedDrug
+2032409,1 ML ibuprofen 12 MG/ML Oral Suspension [DEXIBFAN] by Kukje,MarketedProduct
+2032410,1 ML ibuprofen 12 MG/ML Oral Suspension [KIZBUFEN],QuantBrandedDrug
+2032411,1 ML ibuprofen 12 MG/ML Oral Suspension [KIZBUFEN] by Kolon,MarketedProduct
+2032412,1 ML ibuprofen 12 MG/ML Oral Suspension [KIZBUFEN] by Yuyu,MarketedProduct
+2032413,1 ML ibuprofen 12 MG/ML Oral Suspension [WINDEXIFEN],QuantBrandedDrug
+2032414,1 ML ibuprofen 12 MG/ML Oral Suspension [WINDEXIFEN] by Hanwha,MarketedProduct
+2068767,ibuprofen 400 MG [DEXIROC],BrandedDrugComp
+2068847,ibuprofen 400 MG Oral Tablet [DIBUFEN],BrandedDrug
+2069258,ibuprofen 300 MG Oral Tablet [DEXIPRO],BrandedDrug
+2069736,ibuprofen 600 MG Oral Tablet [ALOPAN],BrandedDrug
+2069737,ibuprofen 600 MG Oral Tablet [ALOPAN] by Nexpharm,MarketedProduct
+2069738,ibuprofen 600 MG Oral Tablet [Brufen] by Samil,MarketedProduct
+2069739,ibuprofen 600 MG Oral Tablet by Austin,MarketedProduct
+2069740,ibuprofen 600 MG Oral Tablet [CUBU] by Nelsons,MarketedProduct
+2069741,ibuprofen 600 MG Oral Tablet [CUBU],BrandedDrug
+2069742,ibuprofen 600 MG Oral Tablet [FULLOPAIN],BrandedDrug
+2069744,ibuprofen 600 MG Oral Tablet [FULLOPAIN] by Boram,MarketedProduct
+2069745,ibuprofen 600 MG Oral Tablet [FULLOPAIN] by Korea Kolmar,MarketedProduct
+2069746,ibuprofen 600 MG Oral Tablet [IBAFEN],BrandedDrug
+2069747,ibuprofen 600 MG Oral Tablet [IBAFEN] by Dongindang,MarketedProduct
+2069748,ibuprofen 600 MG Oral Tablet [IBUFENON],BrandedDrug
+2069749,ibuprofen 600 MG Oral Tablet [LOGPHEN],BrandedDrug
+2069750,ibuprofen 600 MG Oral Tablet [LOGPHEN] by Mothers,MarketedProduct
+2069751,ibuprofen 600 MG Oral Tablet [M0NITIN],BrandedDrug
+2069752,ibuprofen 600 MG Oral Tablet [M0NITIN] by Mirae,MarketedProduct
+2069753,ibuprofen 600 MG Oral Tablet [RUPIEN],BrandedDrug
+2069754,ibuprofen 600 MG Oral Tablet [RUPIEN] by Legochem,MarketedProduct
+2069755,ibuprofen 600 MG [ALOPAN],BrandedDrugComp
+2069756,ibuprofen 600 MG [CUBU],BrandedDrugComp
+2069757,ibuprofen 600 MG [FULLOPAIN],BrandedDrugComp
+2069758,ibuprofen 600 MG [IBAFEN],BrandedDrugComp
+2069759,ibuprofen 600 MG [IBUFENON],BrandedDrugComp
+2069760,ibuprofen 600 MG [LOGPHEN],BrandedDrugComp
+2069761,ibuprofen 600 MG [M0NITIN],BrandedDrugComp
+2069762,ibuprofen 600 MG [RUPIEN],BrandedDrugComp
+2069763,ibuprofen 400 MG Oral Tablet [IBUFEN] by Taiguk,MarketedProduct
+2069764,ibuprofen 400 MG Oral Tablet [ROZEFEN] by Dreampharma,MarketedProduct
+2069765,ibuprofen 400 MG Oral Tablet [IBUPRODIN] by Btopharm,MarketedProduct
+2069766,ibuprofen 400 MG Oral Tablet [FRIME],BrandedDrug
+2069767,ibuprofen 400 MG Oral Tablet [FRIME] by Korea Prime Pharm,MarketedProduct
+2069768,ibuprofen 400 MG Oral Tablet [ANYFEN],BrandedDrug
+2069769,ibuprofen 400 MG Oral Tablet [ANYFEN] by Ahngook,MarketedProduct
+2069770,ibuprofen 400 MG Oral Tablet [CUREFEN],BrandedDrug
+2069771,ibuprofen 400 MG Oral Tablet [CUREFEN] by Daewon,MarketedProduct
+2069772,ibuprofen 400 MG Oral Tablet [OLSFEN] by Korea Core Pharm,MarketedProduct
+2069773,ibuprofen 400 MG Oral Tablet [DEXIDIFEN],BrandedDrug
+2069774,ibuprofen 400 MG Oral Tablet [DEXIDIFEN] by Kyungdong,MarketedProduct
+2069775,ibuprofen 400 MG Oral Tablet by Dongkwang,MarketedProduct
+2069776,ibuprofen 400 MG Oral Tablet by Etex,MarketedProduct
+2069777,ibuprofen 400 MG Oral Tablet by Hutecs,MarketedProduct
+2069778,ibuprofen 400 MG Oral Tablet by Pharvis,MarketedProduct
+2069779,ibuprofen 400 MG Oral Tablet by Withus,MarketedProduct
+2069780,ibuprofen 400 MG Oral Tablet [ARTICOOLFEN] by DHP,MarketedProduct
+2069781,ibuprofen 400 MG Oral Tablet [ARTICOOLFEN],BrandedDrug
+2069782,ibuprofen 400 MG Oral Tablet [BRONGFEN],BrandedDrug
+2069783,ibuprofen 400 MG Oral Tablet [BRONGFEN] by Aprogen,MarketedProduct
+2069784,ibuprofen 400 MG Oral Tablet [BUROFON],BrandedDrug
+2069785,ibuprofen 400 MG Oral Tablet [BUROFON] by Guju,MarketedProduct
+2069786,ibuprofen 400 MG Oral Tablet [DEXICEPHEN],BrandedDrug
+2069787,ibuprofen 400 MG Oral Tablet [DEXICEPHEN] by Korea,MarketedProduct
+2069788,ibuprofen 400 MG Oral Tablet [DEXIKAI],BrandedDrug
+2069789,ibuprofen 400 MG Oral Tablet [DEXIKAI] by CMG,MarketedProduct
+2069790,ibuprofen 400 MG Oral Tablet [DEXINAL],BrandedDrug
+2069791,ibuprofen 400 MG Oral Tablet [DEXINAL] by Sungwon Adcock,MarketedProduct
+2069792,ibuprofen 400 MG Oral Tablet [DEXIP],BrandedDrug
+2069793,ibuprofen 400 MG Oral Tablet [DEXIP] by SS Pharm,MarketedProduct
+2069794,ibuprofen 400 MG Oral Tablet [DEXIROC],BrandedDrug
+2069795,ibuprofen 400 MG Oral Tablet [DEXISA],BrandedDrug
+2069796,ibuprofen 400 MG Oral Tablet [DEXISA] by Mcnulty,MarketedProduct
+2069797,ibuprofen 400 MG Oral Tablet [DEXITRA],BrandedDrug
+2069798,ibuprofen 200 MG [LIDOPAIN],BrandedDrugComp
+2069799,ibuprofen 400 MG Oral Tablet [DEXITRA] by Iksu,MarketedProduct
+2069800,ibuprofen 400 MG Oral Tablet [DIBUFEN] by Kolon,MarketedProduct
+2069801,ibuprofen 400 MG Oral Tablet [DIROFEN],BrandedDrug
+2069802,ibuprofen 400 MG Oral Tablet [DIROFEN] by Reyon,MarketedProduct
+2069803,ibuprofen 400 MG Oral Tablet [FULLOPAIN],BrandedDrug
+2069804,ibuprofen 400 MG Oral Tablet [FULLOPAIN] by Boram,MarketedProduct
+2069805,ibuprofen 400 MG Oral Tablet [FULLOPAIN] by Korea Kolmar,MarketedProduct
+2069806,ibuprofen 400 MG Oral Tablet [IBUFENON],BrandedDrug
+2069807,ibuprofen 400 MG Oral Tablet [IDEX],BrandedDrug
+2069808,ibuprofen 400 MG Oral Tablet [IDEX] by Korea Green,MarketedProduct
+2069809,ibuprofen 400 MG Oral Tablet [IPREN],BrandedDrug
+2069810,ibuprofen 400 MG Oral Tablet [IPREN] by Samjin,MarketedProduct
+2069811,ibuprofen 400 MG Oral Tablet [PENFRIL],BrandedDrug
+2069812,ibuprofen 400 MG Oral Tablet [PENFRIL] by Ilsung,MarketedProduct
+2069813,ibuprofen 400 MG Oral Tablet [RIFEN],BrandedDrug
+2069814,ibuprofen 400 MG Oral Tablet [RIFEN] by Korea Mypharm,MarketedProduct
+2069815,ibuprofen 400 MG Oral Tablet [WITHUDEXI],BrandedDrug
+2069816,ibuprofen 400 MG Oral Tablet [WITHUDEXI] by Withus,MarketedProduct
+2069817,ibuprofen 400 MG [FRIME],BrandedDrugComp
+2069818,ibuprofen 400 MG [ANYFEN],BrandedDrugComp
+2069819,ibuprofen 400 MG [CUREFEN],BrandedDrugComp
+2069820,ibuprofen 400 MG [DEXIDIFEN],BrandedDrugComp
+2069821,ibuprofen 400 MG [ARTICOOLFEN],BrandedDrugComp
+2069822,ibuprofen 400 MG [BRONGFEN],BrandedDrugComp
+2069823,ibuprofen 400 MG [BUROFON],BrandedDrugComp
+2069824,ibuprofen 400 MG [DEXICEPHEN],BrandedDrugComp
+2069825,ibuprofen 400 MG [DEXIKAI],BrandedDrugComp
+2069826,ibuprofen 400 MG [DEXINAL],BrandedDrugComp
+2069827,ibuprofen 400 MG [DEXIP],BrandedDrugComp
+2069828,ibuprofen 400 MG [DEXISA],BrandedDrugComp
+2069829,ibuprofen 400 MG [DEXITRA],BrandedDrugComp
+2069830,ibuprofen 400 MG [DIBUFEN],BrandedDrugComp
+2069831,ibuprofen 400 MG [DIROFEN],BrandedDrugComp
+2069832,ibuprofen 400 MG [FULLOPAIN],BrandedDrugComp
+2069833,ibuprofen 400 MG [IBUFENON],BrandedDrugComp
+2069834,ibuprofen 400 MG [IDEX],BrandedDrugComp
+2069835,ibuprofen 400 MG [IPREN],BrandedDrugComp
+2069836,ibuprofen 400 MG [PENFRIL],BrandedDrugComp
+2069837,ibuprofen 400 MG [RIFEN],BrandedDrugComp
+2069838,ibuprofen 400 MG [WITHUDEXI],BrandedDrugComp
+2069839,ibuprofen 300 MG Oral Tablet [EXPEN],BrandedDrug
+2069840,ibuprofen 300 MG Oral Tablet [EXPEN] by Dongkoo,MarketedProduct
+2069841,ibuprofen 300 MG Oral Tablet [PENTAUD] by Boram,MarketedProduct
+2069842,ibuprofen 300 MG Oral Tablet [PAX] by Chunggei,MarketedProduct
+2069843,ibuprofen 300 MG Oral Tablet [DECBUEFEN],BrandedDrug
+2069844,ibuprofen 300 MG Oral Tablet [DECBUEFEN] by Reyon,MarketedProduct
+2069845,ibuprofen 300 MG Oral Tablet [DECPRO],BrandedDrug
+2069846,ibuprofen 300 MG Oral Tablet [DECPRO] by Jungwoo,MarketedProduct
+2069847,ibuprofen 300 MG Oral Tablet [DEXAFEN],BrandedDrug
+2069848,ibuprofen 300 MG Oral Tablet [DEXAFEN] by Hana,MarketedProduct
+2069849,ibuprofen 300 MG Oral Tablet [DEXICO],BrandedDrug
+2069851,ibuprofen 300 MG Oral Tablet [DEXICO] by Sejong,MarketedProduct
+2069852,ibuprofen 300 MG Oral Tablet [DEXINE],BrandedDrug
+2069853,ibuprofen 300 MG Oral Tablet [DEXINE] by Hanpoong,MarketedProduct
+2069855,ibuprofen 300 MG Oral Tablet [DEXIPRO] by Legochem,MarketedProduct
+2069856,ibuprofen 300 MG Oral Tablet [DNEWPEN],BrandedDrug
+2069857,ibuprofen 300 MG Oral Tablet [DNEWPEN] by Dongkook,MarketedProduct
+2069858,ibuprofen 300 MG Oral Tablet [ENTIFEN] by Syntex,MarketedProduct
+2069859,ibuprofen 300 MG Oral Tablet [ENTIFEN],BrandedDrug
+2069860,ibuprofen 300 MG Oral Tablet [LEVOPEN],BrandedDrug
+2069861,ibuprofen 300 MG Oral Tablet [LEVOPEN] by Ahngook New Pharm,MarketedProduct
+2069862,ibuprofen 300 MG Oral Tablet [PANADEX],BrandedDrug
+2069863,ibuprofen 300 MG Oral Tablet [PANADEX] by Aju,MarketedProduct
+2069864,ibuprofen 300 MG Oral Capsule [PENTAUD],BrandedDrug
+2069865,ibuprofen 300 MG Oral Capsule [PENTAUD] by Boram,MarketedProduct
+2069866,ibuprofen 300 MG Oral Capsule [PENTAUD] by Korea Kolmar,MarketedProduct
+2069867,ibuprofen 300 MG Oral Capsule [DEXFIN],BrandedDrug
+2069868,ibuprofen 300 MG Oral Capsule [DEXFIN] by Korea United Pharm,MarketedProduct
+2069869,ibuprofen 300 MG [EXPEN],BrandedDrugComp
+2069870,ibuprofen 300 MG [DECBUEFEN],BrandedDrugComp
+2069871,ibuprofen 300 MG [DECPRO],BrandedDrugComp
+2069872,ibuprofen 300 MG [DEXAFEN],BrandedDrugComp
+2069873,ibuprofen 300 MG [DEXFIN],BrandedDrugComp
+2069874,ibuprofen 300 MG [DEXICO],BrandedDrugComp
+2069875,ibuprofen 300 MG [DEXINE],BrandedDrugComp
+2069876,ibuprofen 300 MG [DEXIPRO],BrandedDrugComp
+2069877,ibuprofen 300 MG [DNEWPEN],BrandedDrugComp
+2069878,ibuprofen 300 MG [ENTIFEN],BrandedDrugComp
+2069879,ibuprofen 300 MG [LEVOPEN],BrandedDrugComp
+2069880,ibuprofen 300 MG [PANADEX],BrandedDrugComp
+2069881,ibuprofen 200 MG Oral Tablet [TATANAL],BrandedDrug
+2069882,ibuprofen 200 MG Oral Tablet [TATANAL] by Ahngook,MarketedProduct
+2069883,ibuprofen 200 MG Oral Tablet [ROZEFEN] by Dreampharma,MarketedProduct
+2069884,ibuprofen 200 MG Oral Tablet [ALLIPEN],BrandedDrug
+2069885,ibuprofen 200 MG Oral Tablet [ALLIPEN] by Daewoo,MarketedProduct
+2069886,ibuprofen 200 MG Oral Tablet by Daehwa,MarketedProduct
+2069887,ibuprofen 200 MG Oral Tablet by Hawon,MarketedProduct
+2069889,ibuprofen 200 MG Oral Tablet by KMS,MarketedProduct
+2069890,ibuprofen 200 MG Oral Tablet by Sinil,MarketedProduct
+2069891,ibuprofen 200 MG Oral Tablet by Withus,MarketedProduct
+2069892,ibuprofen 200 MG Oral Tablet by Youngpoong,MarketedProduct
+2069893,ibuprofen 200 MG Oral Tablet [FULLOPAIN],BrandedDrug
+2069894,ibuprofen 200 MG Oral Tablet [FULLOPAIN] by Boram,MarketedProduct
+2069895,ibuprofen 200 MG Oral Tablet [FULLOPAIN] by BRN Science,MarketedProduct
+2069896,ibuprofen 200 MG Oral Tablet [N.E.FEN],BrandedDrug
+2069897,ibuprofen 200 MG Oral Tablet [N.E.FEN] by Pharvis,MarketedProduct
+2069898,ibuprofen 200 MG Oral Tablet [ONOPAIN],BrandedDrug
+2069899,ibuprofen 200 MG Oral Tablet [ONOPAIN] by Kukje,MarketedProduct
+2069900,ibuprofen 200 MG Oral Capsule [IBUROFEN],BrandedDrug
+2069901,ibuprofen 200 MG Oral Capsule [IBUROFEN] by Samnam,MarketedProduct
+2069902,ibuprofen 200 MG Oral Capsule [LIDOPAIN],BrandedDrug
+2069903,ibuprofen 200 MG Oral Capsule [LIDOPAIN] by Medicakorea,MarketedProduct
+2069904,ibuprofen 200 MG [TATANAL],BrandedDrugComp
+2069905,ibuprofen 200 MG [ALLIPEN],BrandedDrugComp
+2069906,ibuprofen 200 MG [FULLOPAIN],BrandedDrugComp
+2069907,ibuprofen 200 MG [IBUROFEN],BrandedDrugComp
+2069909,ibuprofen 200 MG [N.E.FEN],BrandedDrugComp
+2069910,ibuprofen 200 MG [ONOPAIN],BrandedDrugComp
+2069911,ibuprofen 150 MG Oral Tablet [DECORAFEN],BrandedDrug
+2069912,ibuprofen 150 MG Oral Tablet [DECORAFEN] by Inist,MarketedProduct
+2069913,ibuprofen 150 MG Oral Tablet [DAXFEN],BrandedDrug
+2069914,ibuprofen 12 MG/ML [LEVOPEN],BrandedDrugComp
+2069915,ibuprofen 150 MG Oral Tablet [DAXFEN] by Binex,MarketedProduct
+2069916,ibuprofen 150 MG Oral Tablet [LEVOPEN],BrandedDrug
+2069917,ibuprofen 150 MG Oral Tablet [LEVOPEN] by Ahngook New Pharm,MarketedProduct
+2069918,ibuprofen 150 MG [DECORAFEN],BrandedDrugComp
+2069919,ibuprofen 150 MG [DAXFEN],BrandedDrugComp
+2069920,ibuprofen 150 MG [LEVOPEN],BrandedDrugComp
+2069921,ibuprofen 100 MG Oral Tablet [SAMIL BRUFEN],BrandedDrug
+2069922,ibuprofen 100 MG Oral Tablet [SAMIL BRUFEN] by Samil,MarketedProduct
+2069923,ibuprofen 100 MG [SAMIL BRUFEN],BrandedDrugComp
+2069924,ibuprofen 50 MG Rectal Suppository [SAMIL BRUFEN],BrandedDrug
+2069925,ibuprofen 50 MG Rectal Suppository [SAMIL BRUFEN] by Samil,MarketedProduct
+2069927,ibuprofen 50 MG [SAMIL BRUFEN],BrandedDrugComp
+2069928,ibuprofen 40 MG/ML Oral Suspension [NEOFEN],BrandedDrug
+2069929,ibuprofen 40 MG/ML Oral Suspension [NEW IBUFEN],BrandedDrug
+2069930,ibuprofen 40 MG/ML [NEOFEN],BrandedDrugComp
+2069931,ibuprofen 40 MG/ML [NEW IBUFEN],BrandedDrugComp
+2069932,ibuprofen 20 MG/ML Oral Suspension [ALLIPEN FOR CHILDREN],BrandedDrug
+2069933,ibuprofen 20 MG/ML Oral Suspension [BRUFEN FOR CHILDREN],BrandedDrug
+2069934,ibuprofen 20 MG/ML Oral Suspension [BUROFON],BrandedDrug
+2069935,ibuprofen 20 MG/ML Oral Suspension [DAEWOONG IBUFEN],BrandedDrug
+2069936,ibuprofen 20 MG/ML Oral Suspension [EXIPREN],BrandedDrug
+2069937,ibuprofen 20 MG/ML Oral Suspension [ILHWA IBU],BrandedDrug
+2069938,ibuprofen 20 MG/ML Oral Suspension [IVUPAN],BrandedDrug
+2069939,ibuprofen 20 MG/ML Oral Suspension [PAREN FOR CHILDREN],BrandedDrug
+2069940,ibuprofen 20 MG/ML Oral Suspension [QUIBEN],BrandedDrug
+2069941,ibuprofen 20 MG/ML Oral Suspension [TTOTTO],BrandedDrug
+2069942,ibuprofen 20 MG/ML [ALLIPEN FOR CHILDREN],BrandedDrugComp
+2069943,ibuprofen Oral Tablet [IDEX],BrandedDrugForm
+2069944,ibuprofen 20 MG/ML [BRUFEN FOR CHILDREN],BrandedDrugComp
+2069945,ibuprofen 20 MG/ML [BUROFON],BrandedDrugComp
+2069946,ibuprofen 20 MG/ML [DAEWOONG IBUFEN],BrandedDrugComp
+2069948,ibuprofen 20 MG/ML [EXIPREN],BrandedDrugComp
+2069949,ibuprofen 20 MG/ML [ILHWA IBU],BrandedDrugComp
+2069950,ibuprofen 20 MG/ML [IVUPAN],BrandedDrugComp
+2069951,ibuprofen 20 MG/ML [PAREN FOR CHILDREN],BrandedDrugComp
+2069952,ibuprofen 20 MG/ML [QUIBEN],BrandedDrugComp
+2069953,ibuprofen 20 MG/ML [TTOTTO],BrandedDrugComp
+2069954,ibuprofen 12 MG/ML Oral Suspension [BR DEXIFEN],BrandedDrug
+2069955,ibuprofen 12 MG/ML Oral Suspension [ALLBUPEN],BrandedDrug
+2069956,ibuprofen 12 MG/ML Oral Suspension [BEARPROFEN],BrandedDrug
+2069957,ibuprofen 12 MG/ML Oral Suspension [BUROFEN],BrandedDrug
+2069958,ibuprofen 12 MG/ML Oral Suspension [CHILFEN],BrandedDrug
+2069959,ibuprofen 12 MG/ML Oral Suspension [DEXFIN],BrandedDrug
+2069960,ibuprofen 12 MG/ML Oral Suspension [DEXIBFAN],BrandedDrug
+2069961,ibuprofen 12 MG/ML Oral Suspension [DONGNIP DEXIBUFEN],BrandedDrug
+2069962,ibuprofen 12 MG/ML Oral Suspension [KIZBUFEN],BrandedDrug
+2069963,ibuprofen 12 MG/ML Oral Suspension [LEVOPEN],BrandedDrug
+2069964,ibuprofen 12 MG/ML Oral Suspension [WINDEXIFEN],BrandedDrug
+2069965,ibuprofen 12 MG/ML [BR DEXIFEN],BrandedDrugComp
+2069966,ibuprofen 12 MG/ML [ALLBUPEN],BrandedDrugComp
+2069967,ibuprofen 12 MG/ML [BEARPROFEN],BrandedDrugComp
+2069968,ibuprofen 12 MG/ML [BUROFEN],BrandedDrugComp
+2069969,ibuprofen 12 MG/ML [CHILFEN],BrandedDrugComp
+2069970,ibuprofen 12 MG/ML [DEXFIN],BrandedDrugComp
+2069971,ibuprofen 12 MG/ML [DEXIBFAN],BrandedDrugComp
+2069972,ibuprofen 12 MG/ML [DONGNIP DEXIBUFEN],BrandedDrugComp
+2069973,ibuprofen 12 MG/ML [KIZBUFEN],BrandedDrugComp
+2069974,ibuprofen 12 MG/ML [WINDEXIFEN],BrandedDrugComp
+2069975,ibuprofen Oral Tablet [TATANAL],BrandedDrugForm
+2069976,ibuprofen Oral Tablet [EXPEN],BrandedDrugForm
+2069977,ibuprofen Oral Tablet [CUREFEN],BrandedDrugForm
+2069978,ibuprofen Oral Tablet [DEXIDIFEN],BrandedDrugForm
+2069979,ibuprofen Oral Tablet [ARTICOOLFEN],BrandedDrugForm
+2069980,ibuprofen Oral Tablet [BRONGFEN],BrandedDrugForm
+2069981,ibuprofen Oral Tablet [BUROFON],BrandedDrugForm
+2069982,ibuprofen Oral Tablet [CUBU],BrandedDrugForm
+2069983,ibuprofen Oral Tablet [DECBUEFEN],BrandedDrugForm
+2069984,ibuprofen Oral Tablet [DECPRO],BrandedDrugForm
+2069985,ibuprofen Oral Tablet [DEXAFEN],BrandedDrugForm
+2069986,ibuprofen Oral Tablet [DEXICEPHEN],BrandedDrugForm
+2069987,ibuprofen Oral Tablet [DEXICO],BrandedDrugForm
+2069988,ibuprofen Oral Tablet [DEXIKAI],BrandedDrugForm
+2069989,ibuprofen Oral Tablet [DEXINAL],BrandedDrugForm
+2069990,ibuprofen Oral Tablet [DEXINE],BrandedDrugForm
+2069991,ibuprofen Oral Tablet [DEXIP],BrandedDrugForm
+2069992,ibuprofen Oral Tablet [DEXIPRO],BrandedDrugForm
+2069993,ibuprofen Oral Tablet [DEXIROC],BrandedDrugForm
+2069994,ibuprofen Oral Tablet [DEXISA],BrandedDrugForm
+2069995,ibuprofen Oral Tablet [DEXITRA],BrandedDrugForm
+2069996,ibuprofen Oral Tablet [DIBUFEN],BrandedDrugForm
+2069997,ibuprofen Oral Tablet [DIROFEN],BrandedDrugForm
+2069998,ibuprofen Oral Tablet [DNEWPEN],BrandedDrugForm
+2069999,ibuprofen Oral Tablet [ENTIFEN],BrandedDrugForm
+2070000,ibuprofen Oral Tablet [FULLOPAIN],BrandedDrugForm
+2070001,ibuprofen Oral Tablet [IBAFEN],BrandedDrugForm
+2070002,ibuprofen Oral Tablet [IBUFENON],BrandedDrugForm
+2070003,ibuprofen Oral Tablet [IPREN],BrandedDrugForm
+2070004,ibuprofen Oral Tablet [LEVOPEN],BrandedDrugForm
+2070005,ibuprofen Oral Tablet [LOGPHEN],BrandedDrugForm
+2070006,ibuprofen Oral Tablet [M0NITIN],BrandedDrugForm
+2070007,ibuprofen Oral Tablet [N.E.FEN],BrandedDrugForm
+2070008,ibuprofen Oral Tablet [ONOPAIN],BrandedDrugForm
+2070009,ibuprofen Oral Tablet [PANADEX],BrandedDrugForm
+2070010,ibuprofen Oral Tablet [PENFRIL],BrandedDrugForm
+2070011,ibuprofen Oral Tablet [RIFEN],BrandedDrugForm
+2070012,ibuprofen Oral Tablet [RUPIEN],BrandedDrugForm
+2070013,ibuprofen Oral Tablet [SAMIL BRUFEN],BrandedDrugForm
+2070014,ibuprofen Oral Tablet [WITHUDEXI],BrandedDrugForm
+2070015,ibuprofen Rectal Suppository [SAMIL BRUFEN],BrandedDrugForm
+2070016,ibuprofen Oral Suspension [BR DEXIFEN],BrandedDrugForm
+2070017,ibuprofen Oral Suspension [ALLBUPEN],BrandedDrugForm
+2070018,ibuprofen Oral Suspension [ALLIPEN FOR CHILDREN],BrandedDrugForm
+2070019,ibuprofen Oral Suspension [BEARPROFEN],BrandedDrugForm
+2070020,ibuprofen Oral Suspension [BRUFEN FOR CHILDREN],BrandedDrugForm
+2070021,ibuprofen Oral Suspension [BUROFEN],BrandedDrugForm
+2070022,ibuprofen Oral Suspension [BUROFON],BrandedDrugForm
+2070023,ibuprofen Oral Suspension [CHILFEN],BrandedDrugForm
+2070024,ibuprofen Oral Suspension [DAEWOONG IBUFEN],BrandedDrugForm
+2070025,ibuprofen Oral Suspension [DEXFIN],BrandedDrugForm
+2070026,ibuprofen Oral Suspension [DEXIBFAN],BrandedDrugForm
+2070027,ibuprofen Oral Suspension [DONGNIP DEXIBUFEN],BrandedDrugForm
+2070028,ibuprofen Oral Suspension [EXIPREN],BrandedDrugForm
+2070029,ibuprofen Oral Suspension [ILHWA IBU],BrandedDrugForm
+2070030,ibuprofen Oral Suspension [IVUPAN],BrandedDrugForm
+2070031,ibuprofen Oral Suspension [KIZBUFEN],BrandedDrugForm
+2070032,ibuprofen Oral Suspension [LEVOPEN],BrandedDrugForm
+2070033,ibuprofen Oral Suspension [NEOFEN],BrandedDrugForm
+2070034,ibuprofen Oral Suspension [NEW IBUFEN],BrandedDrugForm
+2070035,ibuprofen Oral Suspension [PAREN FOR CHILDREN],BrandedDrugForm
+2070036,ibuprofen Oral Suspension [QUIBEN],BrandedDrugForm
+2070037,ibuprofen Oral Suspension [TTOTTO],BrandedDrugForm
+2070038,ibuprofen Oral Suspension [WINDEXIFEN],BrandedDrugForm
+2070039,ibuprofen Oral Capsule [PENTAUD],BrandedDrugForm
+2070040,ibuprofen Oral Capsule [DEXFIN],BrandedDrugForm
+2070041,ibuprofen Oral Capsule [IBUROFEN],BrandedDrugForm
+2070043,ibuprofen Oral Capsule [LIDOPAIN],BrandedDrugForm
+2071488,acetaminophen 250 MG / codeine 10 MG / ibuprofen 200 MG Oral Capsule [MYPRODOL],BrandedDrug
+2071489,acetaminophen 250 MG / codeine 10 MG / ibuprofen 200 MG Oral Capsule [MYPRODOL] by Sungwon Adcock,MarketedProduct
+2071490,acetaminophen 250 MG / codeine 10 MG / ibuprofen 200 MG [MYPRODOL],BrandedDrugComp
+2071491,acetaminophen / codeine / ibuprofen Oral Capsule [MYPRODOL],BrandedDrugForm
+21024517,Ibuprofen Oral Capsule [Paramed Ibuprofen],BrandedDrugForm
+21024518,Ibuprofen Oral Capsule [Anadin],BrandedDrugForm
+21024519,Ibuprofen Extended Release Oral Capsule [Galprofen],BrandedDrugForm
+21024521,Ibuprofen Oral Tablet [Nurofen],BrandedDrugForm
+21024522,Ibuprofen Vaginal Gel [Mentholatum Ibuprofen],BrandedDrugForm
+21024524,Ibuprofen 200 MG [Librofem],BrandedDrugComp
+21024525,Ibuprofen 200 MG Oral Capsule by Kent,MarketedProduct
+21024526,Ibuprofen 200 MG Oral Capsule Box of 16 by Ennogen,MarketedProduct
+21024527,Ibuprofen 200 MG Oral Capsule Box of 30 by Ennogen,MarketedProduct
+21024528,Ibuprofen 200 MG Oral Capsule Box of 32,ClinicalDrugBox
+21024529,Ibuprofen 200 MG Oral Capsule [Anadin],BrandedDrug
+21024530,Ibuprofen 200 MG Oral Capsule [Galpharm Migraine Relief] Box of 16 by Galpharm,MarketedProduct
+21024531,Ibuprofen 200 MG Oral Tablet by OBG,MarketedProduct
+21024532,Ibuprofen 200 MG Oral Tablet by Fannin,MarketedProduct
+21024533,Ibuprofen 200 MG Oral Tablet Box of 12,ClinicalDrugBox
+21024534,Ibuprofen 200 MG Oral Tablet Box of 48 by Waymade,MarketedProduct
+21024535,Ibuprofen 200 MG Oral Tablet Box of 84 by TEVA,MarketedProduct
+21024536,Ibuprofen 200 MG Oral Tablet [Cuprofen] Box of 24 by SSL,MarketedProduct
+21024537,Ibuprofen 200 MG Oral Tablet [Ibucalm] Box of 24 by Aspar,MarketedProduct
+21024538,Ibuprofen 200 MG Oral Tablet [Nurofen] Box of 8 by Reckitt Benckiser,MarketedProduct
+21024539,Ibuprofen 200 MG Oral Tablet [Arthrofen],BrandedDrug
+21024540,Ibuprofen 200 MG Oral Tablet [Hedex],BrandedDrug
+21024541,Ibuprofen 200 MG Oral Tablet [Hedex] by Glaxosmithkline,MarketedProduct
+21024542,Ibuprofen 200 MG Oral Tablet [Pacifene] Box of 12,BrandedDrugBox
+21024543,Ibuprofen 50 MG/ML Nasal Spray by Colorama,MarketedProduct
+21024544,Ibuprofen 0.05 MG/MG Vaginal Gel by Thornton & Ross,MarketedProduct
+21024545,Ibuprofen 0.05 MG/MG Vaginal Gel by DE,MarketedProduct
+21024546,Ibuprofen 0.05 MG/MG Vaginal Gel [Ibuleve Speed Relief],BrandedDrug
+21024547,Ibuprofen 0.05 MG/MG Vaginal Gel [Cuprofen],BrandedDrug
+21024548,Ibuprofen 0.05 MG/MG Vaginal Gel [Numark Ibuprofen Pain Relief],BrandedDrug
+21024549,Ibuprofen 0.05 MG/MG Vaginal Gel [Numark Ibuprofen Pain Relief] by Numark,MarketedProduct
+21024550,Ibuprofen 300 MG Extended Release Oral Capsule [fenbid] Box of 120 by Mercury,MarketedProduct
+21024551,Ibuprofen 300 MG Extended Release Oral Capsule [Nurofen] Box of 12,BrandedDrugBox
+21024552,Ibuprofen 0.1 MG/MG Vaginal Gel by Phoenix Labs,MarketedProduct
+21024553,Ibuprofen 0.1 MG/MG Vaginal Gel by A A H,MarketedProduct
+21024554,Ibuprofen 0.1 MG/MG Vaginal Gel [Boots Ibuprofen] by Boots,MarketedProduct
+21024555,Ibuprofen 400 MG Oral Capsule Box of 20 by Ennogen,MarketedProduct
+21024556,Ibuprofen 400 MG Oral Capsule [Anadin] Box of 20,BrandedDrugBox
+21024558,Ibuprofen 400 MG Oral Tablet Box of 24 by A A H,MarketedProduct
+21024559,Ibuprofen 400 MG Oral Tablet Box of 24 by Wockhardt,MarketedProduct
+21024560,Ibuprofen 400 MG Oral Tablet Box of 48 by Kent,MarketedProduct
+21024561,Ibuprofen 400 MG Oral Tablet Box of 48 by Aspar,MarketedProduct
+21024562,Ibuprofen 400 MG Oral Tablet Box of 84 by Phoenix Labs,MarketedProduct
+21024563,Ibuprofen 400 MG Oral Tablet Box of 84 by Sigma-Tau,MarketedProduct
+21024564,Ibuprofen 400 MG Oral Tablet Box of 84 by Aspar,MarketedProduct
+21024565,Ibuprofen 400 MG Oral Tablet Box of 96 by A A H,MarketedProduct
+21024567,Ibuprofen 400 MG Oral Tablet [Obifen] Box of 24 by Ayrton,MarketedProduct
+21024568,Ibuprofen 400 MG Oral Tablet [Ibucalm] Box of 48,BrandedDrugBox
+21024569,Ibuprofen 400 MG Oral Tablet [Mandafen] by M & A chem,MarketedProduct
+21024570,Ibuprofen 400 MG Oral Tablet [Manorfen] Box of 48 by The Manor Drug,MarketedProduct
+21024571,Ibuprofen 400 MG Oral Tablet [Cuprofen Maximum Strength] Box of 96,BrandedDrugBox
+21024572,Ibuprofen 600 MG Oral Granules [Brufen],BrandedDrug
+21024573,Ibuprofen 600 MG Oral Tablet by Boston,MarketedProduct
+21024574,Ibuprofen 600 MG Oral Tablet by Fannin,MarketedProduct
+21024575,Ibuprofen 600 MG Oral Tablet [Mandafen],BrandedDrug
+21024576,Ibuprofen 20 MG/ML [Calprofen],BrandedDrugComp
+21024577,Ibuprofen 20 MG/ML [Orbifen For Children],BrandedDrugComp
+21024578,Ibuprofen 20 MG/ML Oral Suspension [Boots Ibuprofen] by Boots,MarketedProduct
+21024579,Ibuprofen 20 MG/ML Oral Suspension [Care Ibuprofen for Children] by Thornton & Ross,MarketedProduct
+21024580,Codeine / Ibuprofen Oral Tablet [Nurofen],BrandedDrugForm
+21024581,Codeine 12.8 MG / Ibuprofen 200 MG Oral Tablet Box of 16,ClinicalDrugBox
+21024582,Codeine 20 MG / Ibuprofen 300 MG Extended Release Oral Tablet Box of 56,ClinicalDrugBox
+21024583,Acetaminophen 500 MG / Ibuprofen 200 MG Oral Tablet [Nuromol],BrandedDrug
+21024585,Ibuprofen 200 MG / Pseudoephedrine 30 MG Oral Tablet [Boots Cold and Flu Relief with Ibuprofen] by Boots,MarketedProduct
+21024586,Ibuprofen 200 MG / Pseudoephedrine 30 MG Oral Tablet [Nurofen],BrandedDrug
+21024587,Ibuprofen 200 MG / Pseudoephedrine 30 MG Oral Tablet [Nurofen] by Reckitt Benckiser,MarketedProduct
+21024588,Ibuprofen 300 MG / Pseudoephedrine 45 MG Extended Release Oral Capsule Box of 8,ClinicalDrugBox
+21026513,Ibuprofen 300 MG Oral Tablet [Seractil],BrandedDrug
+21028969,5 ML Ibuprofen 20 MG/ML Oral Suspension [Calprofen] Box of 8 by Mcneil,MarketedProduct
+21028970,5 ML Ibuprofen 20 MG/ML Oral Suspension [Fenpaed] by Pinewood,MarketedProduct
+21029199,15000 MG Ibuprofen 0.05 MG/MG / LEVOMENTHOL 0.03 MG/MG Vaginal Gel [Deep Relief] by The Mentholatum,MarketedProduct
+21029398,30 ML Ibuprofen 50 MG/ML Vaginal Gel [Ibuleve],QuantBrandedDrug
+21029399,30000 MG Ibuprofen 0.05 MG/MG / LEVOMENTHOL 0.03 MG/MG Vaginal Gel [Deep Relief] by The Mentholatum,MarketedProduct
+21029463,50000 MG Ibuprofen 0.05 MG/MG Vaginal Gel [Cuprofen],QuantBrandedDrug
+21029464,50000 MG Ibuprofen 0.1 MG/MG Vaginal Gel [Phorpain],QuantBrandedDrug
+21029806,100000 MG Ibuprofen 0.05 MG/MG Vaginal Gel by Alliance,MarketedProduct
+21029807,100000 MG Ibuprofen 0.1 MG/MG Vaginal Gel [Fenbid Forte] by AMCo,MarketedProduct
+21029902,100 ML Ibuprofen 50 MG/ML Nasal Spray by Colorama,MarketedProduct
+21029903,100 ML Ibuprofen 50 MG/ML Nasal Spray [Ibu] by Dermal,MarketedProduct
+21029904,100 ML Ibuprofen 20 MG/ML Oral Suspension,QuantClinicalDrug
+21029905,100 ML Ibuprofen 20 MG/ML Oral Suspension by Alliance,MarketedProduct
+21029906,100 ML Ibuprofen 20 MG/ML Oral Suspension [Junior Ibuprofen],QuantBrandedDrug
+21029907,100 ML Ibuprofen 20 MG/ML Oral Suspension [Nurofen] by Reckitt Benckiser,MarketedProduct
+21030058,150 ML Ibuprofen 20 MG/ML Oral Suspension [Cuprofen] by SSL,MarketedProduct
+21030059,150 ML Ibuprofen 20 MG/ML Oral Suspension [Nurofen For Children] by Reckitt Benckiser,MarketedProduct
+21030130,200 ML Ibuprofen 20 MG/ML Oral Suspension [Nurofen For Children] by Reckitt Benckiser,MarketedProduct
+21032489,Ibuprofen 200 MG / Phenylephrine 5 MG Oral Tablet [Nurofen] by Reckitt Benckiser,MarketedProduct
+21034224,Ibuprofen Oral Tablet [Ibufem],BrandedDrugForm
+21034225,Ibuprofen Vaginal Gel [Radian B Ibuprofen],BrandedDrugForm
+21034228,Ibuprofen 200 MG [Boots Rapid Ibuprofen lysine],BrandedDrugComp
+21034230,Ibuprofen 200 MG Oral Capsule Box of 10,ClinicalDrugBox
+21034231,Ibuprofen 200 MG Oral Capsule [Galprofen] by Galpharm,MarketedProduct
+21034232,Ibuprofen 200 MG Oral Capsule [Anadin] Box of 12 by Pfizer,MarketedProduct
+21034233,Ibuprofen 200 MG Oral Capsule [Galpharm Migraine Relief] Box of 16,BrandedDrugBox
+21034235,Ibuprofen 200 MG Oral Tablet by Generics,MarketedProduct
+21034236,Ibuprofen 200 MG Oral Tablet by Boston,MarketedProduct
+21034237,Ibuprofen 200 MG Oral Tablet by Thornton & Ross,MarketedProduct
+21034238,Ibuprofen 200 MG Oral Tablet by Actavis,MarketedProduct
+21034239,Ibuprofen 200 MG Oral Tablet by Wockhardt,MarketedProduct
+21034240,Ibuprofen 200 MG Oral Tablet by Almus,MarketedProduct
+21034241,Ibuprofen 200 MG Oral Tablet Box of 16,ClinicalDrugBox
+21034242,Ibuprofen 200 MG Oral Tablet Box of 16 by Bristol Myers Squibb,MarketedProduct
+21034243,Ibuprofen 200 MG Oral Tablet Box of 16 by Sussex,MarketedProduct
+21034244,Ibuprofen 200 MG Oral Tablet Box of 48,ClinicalDrugBox
+21034245,Ibuprofen 200 MG Oral Tablet Box of 48 by Sussex,MarketedProduct
+21034246,Ibuprofen 200 MG Oral Tablet Box of 84 by Crescent,MarketedProduct
+21034247,Ibuprofen 200 MG Oral Tablet Box of 84 by Waymade,MarketedProduct
+21034248,Ibuprofen 200 MG Oral Tablet Box of 84 by Ranbaxy,MarketedProduct
+21034249,Ibuprofen 200 MG Oral Tablet Box of 96,ClinicalDrugBox
+21034250,Ibuprofen 200 MG Oral Tablet [Migrafen] Box of 24 by Chatfield,MarketedProduct
+21034251,Ibuprofen 200 MG Oral Tablet [Feminax] Box of 8,BrandedDrugBox
+21034252,Ibuprofen 200 MG Oral Tablet [Feminax] Box of 8 by Bayer,MarketedProduct
+21034255,Ibuprofen 200 MG Oral Tablet [Ibucalm] by Aspar,MarketedProduct
+21034256,Ibuprofen 200 MG Oral Tablet [Nurofen Advance] by Crookes,MarketedProduct
+21034257,Ibuprofen 200 MG Disintegrating Oral Tablet Box of 12,ClinicalDrugBox
+21034259,Ibuprofen 0.05 MG/MG [Nurofen],BrandedDrugComp
+21034260,Ibuprofen 0.05 MG/MG Vaginal Gel by Phoenix Labs,MarketedProduct
+21034261,Ibuprofen 0.05 MG/MG Vaginal Gel by Kent,MarketedProduct
+21034262,Ibuprofen 0.05 MG/MG Vaginal Gel [Ibuleve Speed Relief] by Dendron,MarketedProduct
+21034263,Ibuprofen 0.05 MG/MG Vaginal Gel [Nurofen] by Reckitt Benckiser,MarketedProduct
+21034264,Ibuprofen 0.05 MG/MG Vaginal Gel [Phorpain],BrandedDrug
+21034265,Ibuprofen 100 MG Oral Capsule [Nurofen For Children] Box of 12,BrandedDrugBox
+21034266,Ibuprofen 5 MG/ML [Pedea],BrandedDrugComp
+21034267,Ibuprofen 5 MG/ML Injection Box of 4,ClinicalDrugBox
+21034268,Ibuprofen 5 MG/ML Injection [Pedea],BrandedDrug
+21034269,Ibuprofen 300 MG Extended Release Oral Capsule Box of 12,ClinicalDrugBox
+21034270,Ibuprofen 300 MG Extended Release Oral Capsule [Nurofen] Box of 24 by Crookes,MarketedProduct
+21034271,Ibuprofen 0.1 MG/MG [Boots Ibuprofen],BrandedDrugComp
+21034272,Ibuprofen 400 MG [Lloydspharmacy Maximum Strength Ibuprofen],BrandedDrugComp
+21034274,Ibuprofen 400 MG Oral Capsule Box of 20 by AM Distributions,MarketedProduct
+21034275,Ibuprofen 400 MG Oral Capsule [Anadin] Box of 10 by Pfizer,MarketedProduct
+21034276,Ibuprofen 400 MG Oral Capsule [Galpharm Maximum Strength Ibuprofen] Box of 10 by Galpharm,MarketedProduct
+21034277,Ibuprofen 400 MG Oral Tablet by Thornton & Ross,MarketedProduct
+21034278,Ibuprofen 400 MG Oral Tablet Box of 24 by Thornton & Ross,MarketedProduct
+21034279,Ibuprofen 400 MG Oral Tablet Box of 48 by Thornton & Ross,MarketedProduct
+21034280,Ibuprofen 400 MG Oral Tablet Box of 84 by Mawdsley-Brooks,MarketedProduct
+21034281,Ibuprofen 400 MG Oral Tablet Box of 84 by TEVA,MarketedProduct
+21034282,Ibuprofen 400 MG Oral Tablet [Advil Extra Strength] Box of 24 by Wyeth,MarketedProduct
+21034284,Ibuprofen 400 MG Oral Tablet [Mandafen] Box of 24 by M & A chem,MarketedProduct
+21034285,Ibuprofen 400 MG Oral Tablet [Mandafen] Box of 84,BrandedDrugBox
+21034286,Ibuprofen 400 MG Oral Tablet [Mandafen] Box of 250,BrandedDrugBox
+21034287,Ibuprofen 400 MG Oral Tablet [Manorfen] Box of 24 by The Manor Drug,MarketedProduct
+21034288,Ibuprofen 400 MG Oral Tablet [Cuprofen Maximum Strength] Box of 24,BrandedDrugBox
+21034289,Ibuprofen 600 MG Oral Tablet by Alliance,MarketedProduct
+21034290,Ibuprofen 600 MG Oral Tablet by Ranbaxy,MarketedProduct
+21034291,Ibuprofen 600 MG Oral Tablet [Brufen] by BGP,MarketedProduct
+21034292,Ibuprofen 20 MG/ML [Galpharm Ibuprofen For Children],BrandedDrugComp
+21034293,Ibuprofen 20 MG/ML [Galprofen],BrandedDrugComp
+21034294,Ibuprofen 20 MG/ML Oral Suspension by Thornton & Ross,MarketedProduct
+21034295,Ibuprofen 20 MG/ML Oral Suspension [Mandafen],BrandedDrug
+21034296,Ibuprofen 20 MG/ML Oral Suspension [Galpharm Ibuprofen For Children],BrandedDrug
+21034297,Ibuprofen 20 MG/ML Oral Suspension [Brufen] by Lexon,MarketedProduct
+21034298,Ibuprofen 20 MG/ML Oral Suspension [Fenpaed] by Pinewood,MarketedProduct
+21034299,Ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard] by BGP,MarketedProduct
+21034300,Ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard] Box of 28 by Dowelhurst,MarketedProduct
+21034301,Ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard] Box of 60 by Dowelhurst,MarketedProduct
+21034302,Codeine / Ibuprofen Extended Release Oral Tablet [Codafen Continus],BrandedDrugForm
+21034303,Codeine 20 MG / Ibuprofen 300 MG Extended Release Oral Tablet [Codafen Continus],BrandedDrug
+21034304,Ibuprofen 200 MG / Pseudoephedrine 30 MG Oral Tablet Box of 24,ClinicalDrugBox
+21034305,Ibuprofen 300 MG / Pseudoephedrine 45 MG [Lemsip Ibuprofen],BrandedDrugComp
+21036295,Ibuprofen 400 MG Oral Tablet [Seractil] by Thornton & Ross,MarketedProduct
+21038775,5 ML Ibuprofen 20 MG/ML Oral Suspension [Calprofen] Box of 8,QuantBrandedBox
+21038776,5 ML Ibuprofen 20 MG/ML Oral Suspension [Orbifen For Children] Box of 10 by Orbis Products,MarketedProduct
+21039261,30000 MG Ibuprofen 0.05 MG/MG Vaginal Gel by Waymade,MarketedProduct
+21039262,30000 MG Ibuprofen 0.1 MG/MG Vaginal Gel by Waymade,MarketedProduct
+21039263,30000 MG Ibuprofen 0.05 MG/MG / LEVOMENTHOL 0.03 MG/MG Vaginal Gel,QuantClinicalDrug
+21039264,30000 MG Ibuprofen 0.05 MG/MG / LEVOMENTHOL 0.03 MG/MG Vaginal Gel [Deep Relief],QuantBrandedDrug
+21039303,35000 MG Ibuprofen 0.05 MG/MG Vaginal Gel [Nurofen] by Reckitt Benckiser,MarketedProduct
+21039324,50000 MG Ibuprofen 0.1 MG/MG Vaginal Gel by DE,MarketedProduct
+21039651,100 ML Ibuprofen 50 MG/ML Topical Ointment,QuantClinicalDrug
+21039652,100000 MG Ibuprofen 0.05 MG/MG Vaginal Gel,QuantClinicalDrug
+21039653,100000 MG Ibuprofen 0.1 MG/MG Vaginal Gel [Phorpain] by AMCo,MarketedProduct
+21039741,100 ML Ibuprofen 20 MG/ML Oral Suspension by Vantage,MarketedProduct
+21039742,100 ML Ibuprofen 20 MG/ML Oral Suspension by A A H,MarketedProduct
+21039743,100 ML Ibuprofen 20 MG/ML Oral Suspension [Feverfen],QuantBrandedDrug
+21039886,150 ML Ibuprofen 20 MG/ML Oral Suspension [Nurofen For Children],QuantBrandedDrug
+21039887,150 ML Ibuprofen 20 MG/ML Oral Suspension [Fenpaed],QuantBrandedDrug
+21039968,200 ML Ibuprofen 20 MG/ML Oral Suspension [Calprofen],QuantBrandedDrug
+21039969,200 ML Ibuprofen 20 MG/ML Oral Suspension [Brufen] by Waymade,MarketedProduct
+21040114,500 ML Ibuprofen 20 MG/ML Oral Suspension [Fenpaed] by Pinewood,MarketedProduct
+21042412,Ibuprofen 200 MG / Phenylephrine 5 MG Oral Tablet [Lemsip Max] by Reckitt Benckiser,MarketedProduct
+21044139,Ibuprofen Oral Capsule [Nurofen For Children],BrandedDrugForm

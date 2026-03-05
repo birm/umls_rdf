@@ -1,0 +1,1001 @@
+concept_id,label,concept_class
+1000632,clotrimazole,Ingredient
+1000635,clotrimazole 10 MG/ML Topical Lotion,ClinicalDrug
+1000636,clotrimazole 500 MG Vaginal Insert,ClinicalDrug
+1000640,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Cream [Lotrisone],BrandedDrug
+1000641,clotrimazole 10 MG/ML / dexamethasone 0.4 MG/ML Topical Cream,ClinicalDrug
+1000652,clotrimazole 10 MG/ML Powder Spray,ClinicalDrug
+1000654,clotrimazole 10 MG/ML / dexamethasone 0.443 MG/ML Topical Cream,ClinicalDrug
+1000656,clotrimazole 0.01 MG/MG Medicated Bar Soap,ClinicalDrug
+1000657,clotrimazole 0.02 MG/MG Topical Gel,ClinicalDrug
+1000660,Clotrimazole 10 MG/ML Topical Cream [Desenex AF Prescription Strength],BrandedDrug
+1000661,clotrimazole 10 MG/ML Topical Cream [Fungoid (Clotrimazole)],BrandedDrug
+1000672,clotrimazole 10 MG/ML Topical Cream [Lotrimin],BrandedDrug
+1000674,clotrimazole 10 MG/ML Topical Solution [Fungoid Solution],BrandedDrug
+1000675,clotrimazole 10 MG/ML Topical Solution [Lotrimin],BrandedDrug
+1000676,clotrimazole 10 MG/ML Topical Solution [Mycelex],BrandedDrug
+1000677,clotrimazole 100 MG Vaginal Insert [Femcare],BrandedDrug
+1000678,Clotrimazole 100 MG Vaginal Insert [Gyne-Lotrimin],BrandedDrug
+1000679,clotrimazole 100 MG Vaginal Insert [Mycelex-7],BrandedDrug
+1000680,clotrimazole 10 MG/ML Topical Lotion [Lotrimin],BrandedDrug
+1000681,Clotrimazole 200 MG Vaginal Insert [Gyne-Lotrimin Inserts],BrandedDrug
+1000692,clotrimazole 0.01 MG/MG Topical Powder [Lotrimin],BrandedDrug
+1000693,clotrimazole 10 MG/ML Vaginal Cream [Clotrimazole-7],BrandedDrug
+1000694,clotrimazole 10 MG/ML Vaginal Cream [Femcare],BrandedDrug
+1000695,Clotrimazole 10 MG/ML Vaginal Cream [Gyne-Lotrimin],BrandedDrug
+1000696,clotrimazole 10 MG/ML Vaginal Cream [Mycelex-7],BrandedDrug
+1000697,betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Lotion [Lotrisone],BrandedDrug
+1000718,clotrimazole 0.01 MG/MG,ClinicalDrugComp
+1000719,clotrimazole 0.02 MG/MG,ClinicalDrugComp
+1000720,clotrimazole 3.3 MG/ML,ClinicalDrugComp
+1000732,clotrimazole 100 MG/ML,ClinicalDrugComp
+1000733,clotrimazole 10 MG Oral Tablet,ClinicalDrug
+1000734,clotrimazole 10 MG/ML Topical Spray,ClinicalDrug
+1000736,betamethasone 1 MG/ML / clotrimazole 10 MG/ML Topical Lotion,ClinicalDrug
+1000737,Clotrimazole 20 MG/ML Vaginal Cream [Clotrimazole-3],BrandedDrug
+1000738,Clotrimazole 20 MG/ML Vaginal Cream [Gyne-Lotrimin],BrandedDrug
+1000740,Clotrimazole 10 MG/ML Topical Spray [FungiCURE],BrandedDrug
+1000979,guar gum,Ingredient
+1000995,coal tar,Ingredient
+1000999,coal tar 0.08 MG/MG / salicylic acid 0.02 MG/MG Topical Gel,ClinicalDrug
+1001000,coal tar 10 MG/ML Topical Lotion,ClinicalDrug
+1001055,"coal tar 0.02 MG/MG / salicylic acid 0.015 MG/MG / sulfur, colloidal 0.011 MG/MG Topical Ointment [MG 217]",BrandedDrug
+1001056,coal tar 10 MG/ML Medicated Shampoo [Betatar Gel],BrandedDrug
+1001057,coal tar 10 MG/ML Medicated Shampoo [Doctar],BrandedDrug
+1001058,Coal Tar 10 MG/ML Medicated Shampoo [Neutrogena T/Gel Extra Strength],BrandedDrug
+1001059,coal tar 10 MG/ML Medicated Shampoo [Zetar],BrandedDrug
+1001072,Coal Tar 0.05 MG/MG Topical Gel [Estar],BrandedDrug
+1001074,coal tar 50 MG/ML Topical Lotion [Oxipor VHC],BrandedDrug
+1001076,coal tar 20 MG/ML Topical Oil [Doak Tar Oil],BrandedDrug
+1001077,Coal Tar 50 MG/ML Topical Oil [Neutrogena T/Derm],BrandedDrug
+1001078,coal tar 43 MG/ML Medicated Shampoo [Pentrax Gold],BrandedDrug
+1001079,Coal Tar 50 MG/ML Topical Cream [Tegrin Medicated],BrandedDrug
+1001080,coal tar 30 MG/ML Medicated Shampoo [Doak Tar],BrandedDrug
+1001093,Coal Tar 75 MG/ML Topical Solution [Cutar],BrandedDrug
+1001097,Coal Tar 100 MG/ML / Salicylic Acid 50 MG/ML Medicated Shampoo [Tarsum],BrandedDrug
+1001098,coal tar 20 MG/ML / lactic acid 50 MG/ML / salicylic acid 30 MG/ML Topical Lotion [SLT],BrandedDrug
+1001122,Coal Tar 100 MG/ML Topical Lotion,ClinicalDrug
+1001123,coal tar 75 MG/ML Topical Oil,ClinicalDrug
+1001124,coal tar 330 MG/ML Topical Oil,ClinicalDrug
+1001125,coal tar 16 MG/ML Topical Cream,ClinicalDrug
+1001126,Coal Tar 50 MG/ML Topical Cream,ClinicalDrug
+1001127,coal tar 0.025 MG/MG Topical Gel,ClinicalDrug
+1001129,allantoin 17 MG/ML / coal tar 50 MG/ML Topical Cream,ClinicalDrug
+1001130,allantoin 17 MG/ML / coal tar 50 MG/ML Topical Lotion,ClinicalDrug
+1001131,Coal Tar 100 MG/ML / Salicylic Acid 40 MG/ML Medicated Shampoo,ClinicalDrug
+1001152,coal tar 50 MG/ML / salicylic acid 30 MG/ML Topical Cream,ClinicalDrug
+1001153,coal tar 0.016 MG/MG / salicylic acid 0.02 MG/MG Topical Gel,ClinicalDrug
+1001157,coal tar 25 MG/ML Topical Solution,ClinicalDrug
+1001158,coal tar 75 MG/ML Topical Solution,ClinicalDrug
+1001159,coal tar 255 MG/ML Topical Oil,ClinicalDrug
+1001160,coal tar 0.015 MG/MG Topical Gel,ClinicalDrug
+1001161,coal tar 0.02 MG/MG Topical Gel,ClinicalDrug
+1001172,coal tar 0.1 MG/MG Topical Gel,ClinicalDrug
+1001173,coal tar 0.05 MG/MG Topical Ointment,ClinicalDrug
+1001174,allantoin 20 MG/ML / coal tar 50 MG/ML Topical Cream,ClinicalDrug
+1001175,allantoin 20 MG/ML / coal tar 50 MG/ML Topical Lotion,ClinicalDrug
+1001177,coal tar 50 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001178,Coal Tar 50 MG/ML / Salicylic Acid 20 MG/ML / Sulfur 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001179,coal tar 0.05 MG/MG Medicated Bar Soap,ClinicalDrug
+1001180,coal tar 20 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001193,Coal Tar 100 MG/ML / Salicylic Acid 50 MG/ML Medicated Shampoo,ClinicalDrug
+1001194,coal tar 20 MG/ML Topical Lotion,ClinicalDrug
+1001195,chloroxylenol 5 MG/ML / coal tar 10 MG/ML Medicated Shampoo,ClinicalDrug
+1001197,coal tar 0.005 MG/MG Medicated Bar Soap,ClinicalDrug
+1001199,Coal Tar 0.1 MG/MG Topical Ointment,ClinicalDrug
+1001212,boric acid 30 MG/ML / coal tar 11.2 MG/ML Topical Solution,ClinicalDrug
+1001213,coal tar 60 MG/ML Topical Cream,ClinicalDrug
+1001217,coal tar 53 MG/ML Topical Solution,ClinicalDrug
+1001218,coal tar 10 MG/ML / triamcinolone 1 MG/ML Topical Cream,ClinicalDrug
+1001219,coal tar 50 MG/ML Topical Solution,ClinicalDrug
+1001220,coal tar 10 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo,ClinicalDrug
+1001221,allantoin 20 MG/ML / coal tar 50 MG/ML Topical Solution,ClinicalDrug
+1001232,coal tar 70 MG/ML Medicated Shampoo,ClinicalDrug
+1001234,coal tar 15 MG/ML Topical Lotion,ClinicalDrug
+1001235,Coal Tar 125 MG/ML Medicated Shampoo,ClinicalDrug
+1001237,coal tar 20 MG/ML Medicated Shampoo [Theraplex T],BrandedDrug
+1001274,coal tar 300 MG/ML,ClinicalDrugComp
+1001276,Coal Tar 87.5 MG/ML,ClinicalDrugComp
+1001277,coal tar 90 MG/ML,ClinicalDrugComp
+1001278,Coal Tar 125 MG/ML,ClinicalDrugComp
+1001281,coal tar 25 MG/ML,ClinicalDrugComp
+1001292,coal tar 0.016 MG/MG,ClinicalDrugComp
+1001293,coal tar 0.0175 MG/MG,ClinicalDrugComp
+1001294,coal tar 75 MG/ML,ClinicalDrugComp
+1001298,coal tar 43 MG/ML,ClinicalDrugComp
+1001299,coal tar 30 MG/ML,ClinicalDrugComp
+1001300,coal tar 0.002 MG/MG,ClinicalDrugComp
+1001312,coal tar 70 MG/ML,ClinicalDrugComp
+1001313,coal tar 255 MG/ML,ClinicalDrugComp
+1001314,coal tar 53 MG/ML,ClinicalDrugComp
+1001315,coal tar 0.08 MG/MG,ClinicalDrugComp
+1001316,coal tar 330 MG/ML,ClinicalDrugComp
+1001317,coal tar 11.2 MG/ML,ClinicalDrugComp
+1001337,coal tar 60 MG/ML,ClinicalDrugComp
+1001338,coal tar 150 MG/ML,ClinicalDrugComp
+1001339,coal tar 5 MG/ML,ClinicalDrugComp
+1001341,coal tar 15 MG/ML,ClinicalDrugComp
+1001352,coal tar 16 MG/ML,ClinicalDrugComp
+1001353,Coal tar extract 20 MG/ML,ClinicalDrugComp
+1001355,coal tar 0.0125 MG/MG Topical Gel,ClinicalDrug
+1001356,coal tar 0.015 MG/MG / flumethasone 0.0002 MG/MG / salicylic acid 0.01 MG/MG Topical Ointment,ClinicalDrug
+1001357,coal tar 28 MG/ML Medicated Shampoo,ClinicalDrug
+1001358,coal tar 75 MG/ML Topical Lotion,ClinicalDrug
+1001359,coal tar 0.0125 MG/MG,ClinicalDrugComp
+1001360,coal tar 28 MG/ML,ClinicalDrugComp
+1001372,coal tar 0.002 MG/MG Medicated Bar Soap,ClinicalDrug
+1001373,coal tar 1.1 MG/ML,ClinicalDrugComp
+1001375,coal tar 480 MG/ML,ClinicalDrugComp
+1001376,benzocaine 20 MG/ML / coal tar 480 MG/ML / salicylic acid 10 MG/ML Topical Lotion,ClinicalDrug
+1001377,coal tar 5.5 MG/ML,ClinicalDrugComp
+1001378,coal tar 5.5 MG/ML / resorcinol 10 MG/ML / salicylic acid 18 MG/ML Topical Cream,ClinicalDrug
+1001381,coal tar 20 MG/ML Topical Foam,ClinicalDrug
+1001392,coal tar 20 MG/ML Topical Foam [Scytera],BrandedDrug
+1001419,cocaine,Ingredient
+1001420,cocaine 135 MG Oral Tablet,ClinicalDrug
+1001434,cocaine 100 MG/ML,ClinicalDrugComp
+1001435,cocaine 135 MG,ClinicalDrugComp
+1001436,cocaine 40 MG/ML,ClinicalDrugComp
+1002093,Haemophilus influenzae DNA [Presence] by NAA with probe detection in Positive blood culture,LabTest
+1002168,Neisseria meningitidis DNA [Presence] by NAA with probe detection in Positive blood culture,LabTest
+1004304,Levomepromazine,LoincComponent
+1006277,Premarin pill,LoincComponent
+1011764,Cyanocobalamin,LoincComponent
+1012178,Yeast bakers,LoincComponent
+1012185,Avibactam,LoincComponent
+1012478,Phosphatidylserine,LoincComponent
+1012565,Methicillin resistant Staphylococcus aureus,LoincComponent
+1016747,Phosphorus,LoincComponent
+1018424,Lead,LoincComponent
+1018477,Diphenylhydramine,LoincComponent
+1018525,Nitrofural,LoincComponent
+1026169,L-dopa,LoincComponent
+1026192,HCG,LoincComponent
+1026205,IX,LoincComponent
+1029483,Rh immune globulin,LoincSystem
+1033736,Water,LoincSystem
+1034938,Paliperidone,LoincComponent
+1034953,Tocopherol,LoincComponent
+1036059,antipyrine,Ingredient
+1036074,antipyrine 1 MG/ML,ClinicalDrugComp
+1036076,antipyrine 50 MG/ML,ClinicalDrugComp
+1036078,antipyrine 54 MG/ML / benzocaine 14.4 MG/ML Otic Solution,ClinicalDrug
+1036079,antipyrine 50 MG/ML / benzocaine 50 MG/ML / phenylephrine 2.5 MG/ML Otic Solution [Ear-gesic],BrandedDrug
+1036081,antipyrine 50 MG/ML / benzocaine 50 MG/ML / phenylephrine 2.5 MG/ML Otic Solution [Otigesic],BrandedDrug
+1036083,antipyrine 54 MG/ML / benzocaine 14 MG/ML Otic Solution [Balagan],BrandedDrug
+1036094,stannous fluoride,Ingredient
+1036095,stannous fluoride 0.004 MG/MG Oral Gel,ClinicalDrug
+1036096,stannous fluoride 32.8 MG/ML Oral Solution,ClinicalDrug
+1036097,stannous fluoride 25 MG/ML Oral Solution,ClinicalDrug
+1036106,stannous fluoride 6.3 MG/ML,ClinicalDrugComp
+1036107,stannous fluoride 32.8 MG/ML,ClinicalDrugComp
+1036108,stannous fluoride 25 MG/ML,ClinicalDrugComp
+1036109,stannous fluoride 0.004 MG/MG,ClinicalDrugComp
+1036110,stannous fluoride 0.011 MG/MG,ClinicalDrugComp
+1036114,stannous fluoride 16.4 MG/ML,ClinicalDrugComp
+1036115,stannous fluoride 16.4 MG/ML Mouthwash,ClinicalDrug
+1036116,stannous fluoride 0.011 MG/MG Paste,ClinicalDrug
+1036117,stannous fluoride 6.3 MG/ML Mouthwash,ClinicalDrug
+1036118,hydrofluoric acid 1 MG/ML / sodium fluoride 11 MG/ML / stannous fluoride 4 MG/ML Oral Solution [Dental Resources DS-8],BrandedDrug
+1036140,stannous fluoride 0.004 MG/MG Oral Gel [Stop brand of stannous fluoride],BrandedDrug
+1036141,stannous fluoride 0.01 MG/MG Oral Gel,ClinicalDrug
+1036142,stannous fluoride 0.01 MG/MG Oral Gel [Stop brand of stannous fluoride],BrandedDrug
+1036143,stannous fluoride 120000 MG Oral Powder,ClinicalDrug
+1036144,stannous fluoride 0.004 MG/MG Oral Gel [Gelato stannous fluoride],BrandedDrug
+1036157,starch,Ingredient
+1036159,starch 0.51 MG/MG Rectal Suppository [Anusol Hemorrhoidal Suppositories],BrandedDrug
+1036160,silicones 0.3 MG/MG / starch 0.1 MG/MG Topical Ointment,ClinicalDrug
+1036161,starch 0.51 MG/MG,ClinicalDrugComp
+1036228,sucralfate,Ingredient
+1036231,sucralfate 200 MG/ML Oral Suspension,ClinicalDrug
+1036232,sucralfate 100 MG/ML Oral Suspension,ClinicalDrug
+1036233,sucralfate 1000 MG Oral Tablet,ClinicalDrug
+1036234,sucralfate 100 MG/ML,ClinicalDrugComp
+1036236,sucralfate 200 MG/ML,ClinicalDrugComp
+1036237,sucralfate 100 MG/ML Oral Suspension [Xactdose],BrandedDrug
+1036252,sulfacetamide,Ingredient
+1036281,betamethasone 1 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036284,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Solution,ClinicalDrug
+1036286,phenylephrine 1.2 MG/ML / prednisolone 5 MG/ML / sulfacetamide 100 MG/ML Ophthalmic Suspension,ClinicalDrug
+1036287,Phenylephrine 1.25 MG/ML / Sulfacetamide 150 MG/ML Ophthalmic Solution,ClinicalDrug
+1036296,Prednisolone 5 MG/ML / Sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036297,Sulfacetamide 100 MG/ML Topical Lotion,ClinicalDrug
+1036298,Sulfacetamide 0.1 MG/MG Ophthalmic Ointment,ClinicalDrug
+1036299,Sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036300,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion,ClinicalDrug
+1036302,Sulfacetamide 300 MG/ML Ophthalmic Solution,ClinicalDrug
+1036303,Prednisolone 2.5 MG/ML / Sulfacetamide 100 MG/ML Ophthalmic Solution,ClinicalDrug
+1036304,sulfabenzamide 184 MG / Sulfacetamide 144 MG / sulfathiazole 172 MG Vaginal Tablet,ClinicalDrug
+1036305,Sulfacetamide 300 MG/ML,ClinicalDrugComp
+1036306,sulfacetamide 100 MG/ML,ClinicalDrugComp
+1036309,Sulfacetamide 0.0286 MG/MG,ClinicalDrugComp
+1036312,sulfacetamide sodium 28.6 MG/ML,ClinicalDrugComp
+1036313,sulfacetamide sodium 0.1 MG/MG,ClinicalDrugComp
+1036316,Sulfacetamide 0.1 MG/MG Ophthalmic Ointment [Ocu-Sul 10],BrandedDrug
+1036317,Sulfacetamide 100 MG/ML Ophthalmic Solution [Ocu-Sul 10],BrandedDrug
+1036318,Sulfacetamide 100 MG/ML Ophthalmic Solution [S.O.S.S.],BrandedDrug
+1036320,Sulfacetamide 300 MG/ML Ophthalmic Solution [Ocu-Sul 30],BrandedDrug
+1036321,Sulfacetamide 100 MG/ML Topical Lotion [Carmol Scalp],BrandedDrug
+1036322,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Nicosyn],BrandedDrug
+1036323,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Rosanil],BrandedDrug
+1036324,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Rosula],BrandedDrug
+1036325,Sulfacetamide Monosodium Salt 100 MG/ML / Sulfur 50 MG/ML Medicated Liquid Soap [Plexion Cleanser],BrandedDrug
+1036326,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Solution [Rosula Cleanser],BrandedDrug
+1036327,Prednisolone 2.5 MG/ML / Sulfacetamide Monosodium Salt 100 MG/ML Ophthalmic Solution [Vasocidin],BrandedDrug
+1036328,Sulfacetamide Monosodium Salt 100 MG/ML Medicated Liquid Soap [Ovace],BrandedDrug
+1036335,Sulfacetamide 0.1 MG/MG Topical Gel,ClinicalDrug
+1036338,Sulfacetamide 150 MG/ML Ophthalmic Solution [Sulf-15],BrandedDrug
+1036339,Phenylephrine 1.25 MG/ML / Sulfacetamide 150 MG/ML Ophthalmic Solution [Vasosulf],BrandedDrug
+1036340,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Cream [Suphera],BrandedDrug
+1036341,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Zetacet],BrandedDrug
+1036342,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Gel [Avar],BrandedDrug
+1036343,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Novacet],BrandedDrug
+1036346,sulfacetamide 100 MG/ML Topical Solution,ClinicalDrug
+1036347,Sulfacetamide 100 MG/ML Medicated Liquid Soap,ClinicalDrug
+1036350,prednisolone 0.005 MG/MG / Sulfacetamide 0.1 MG/MG Ophthalmic Ointment [Predsulfair],BrandedDrug
+1036352,sulfabenzamide 37 MG/ML / sulfacetamide sodium 28.6 MG/ML / sulfathiazole 34.2 MG/ML Vaginal Cream,ClinicalDrug
+1036353,sulfacetamide sodium 0.1 MG/MG / sulfur 0.05 MG/MG Topical Gel,ClinicalDrug
+1036356,Sulfacetamide 0.1 MG/MG Topical Gel [Ovace],BrandedDrug
+1036357,Sulfacetamide 100 MG/ML Topical Foam [Ovace],BrandedDrug
+1036358,Sulfacetamide 100 MG/ML Topical Lotion [Cetaderm],BrandedDrug
+1036364,Sulfacetamide 0.1 MG/MG / Sulfur 0.05 MG/MG Topical Gel [Rosula],BrandedDrug
+1036365,Sulfacetamide 100 MG/ML Topical Cream [Seb-Prev],BrandedDrug
+1036366,Sulfacetamide 0.1 MG/MG Topical Gel [Seb-Prev],BrandedDrug
+1036367,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Cream [Prascion RA],BrandedDrug
+1036368,Sulfacetamide 100 MG/ML / Sulfur 10 MG/ML Medicated Liquid Soap,ClinicalDrug
+1036369,Sulfacetamide 100 MG/ML / Sulfur 10 MG/ML Medicated Liquid Soap [Rosac],BrandedDrug
+1036370,prednisolone 0.005 MG/MG / Sulfacetamide 0.1 MG/MG Ophthalmic Ointment [Metimyd],BrandedDrug
+1036375,Sulfacetamide 100 MG/ML / Sulfur 40 MG/ML Medicated Liquid Soap,ClinicalDrug
+1036376,Sulfacetamide 100 MG/ML / Sulfur 40 MG/ML Medicated Liquid Soap [Rosula],BrandedDrug
+1036378,Sulfacetamide 100 MG/ML / Sulfur 40 MG/ML / Urea 100 MG/ML Topical Solution,ClinicalDrug
+1036379,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Medicated Liquid Soap [Avar],BrandedDrug
+1036380,85 ML Sulfacetamide 100 MG/ML Topical Lotion,ClinicalDrug
+1036382,Sulfacetamide 100 MG/ML Medicated Pad,ClinicalDrug
+1036383,Sulfacetamide 100 MG/ML Medicated Pad [Rosula NS],BrandedDrug
+1036384,Sulfacetamide 108 MG/ML,ClinicalDrugComp
+1036385,Sulfacetamide 108 MG/ML Medicated Pad,ClinicalDrug
+1036390,Sulfacetamide 100 MG/ML / Sulfur 50 MG/ML Topical Lotion [Rosaderm Cleanser],BrandedDrug
+1036425,sulfamethizole,Ingredient
+1036428,sulfamethizole 250 MG,ClinicalDrugComp
+1036429,sulfamethizole 500 MG,ClinicalDrugComp
+1036475,sulfanilamide,Ingredient
+1036478,sulfanilamide 1050 MG Vaginal Insert,ClinicalDrug
+1036479,sulfanilamide 100 MG/ML Vaginal Cream,ClinicalDrug
+1036483,sulfanilamide 100 MG/ML,ClinicalDrugComp
+1036487,sulfathiazole,Ingredient
+1036525,sulfur,Ingredient
+1036526,benzoyl peroxide 100 MG/ML / sulfur 50 MG/ML Topical Lotion,ClinicalDrug
+1036527,benzoyl peroxide 50 MG/ML / sulfur 20 MG/ML Topical Lotion,ClinicalDrug
+1036529,sulfur 50 MG/ML Topical Cream,ClinicalDrug
+1036530,sulfur 64 MG/ML Topical Lotion,ClinicalDrug
+1036531,sulfur 30 MG/ML Topical Cream,ClinicalDrug
+1036540,sulfur 0.03 MG/MG Medicated Bar Soap [Sulfo-Lo],BrandedDrug
+1036541,sulfur 40 MG/ML Topical Lotion [Sulfo-Lo],BrandedDrug
+1036543,benzoyl peroxide 100 MG/ML / sulfur 50 MG/ML Topical Lotion [Sulfoxyl],BrandedDrug
+1036544,benzoyl peroxide 50 MG/ML / sulfur 20 MG/ML Topical Lotion [Sulfoxyl],BrandedDrug
+1036548,sulfur 0.02 MG/MG Topical Gel,ClinicalDrug
+1036549,sulfur 0.04 MG/MG Topical Gel,ClinicalDrug
+1036550,sulfur 0.02 MG/MG Topical Ointment,ClinicalDrug
+1036552,benzocaine 30 MG/ML / sulfur 100 MG/ML Topical Lotion,ClinicalDrug
+1036556,sulfur 25 MG/ML Medicated Shampoo,ClinicalDrug
+1036557,sulfur 20.8 MG/ML Medicated Shampoo,ClinicalDrug
+1036558,sulfur 40 MG/ML Topical Cream,ClinicalDrug
+1036559,benzoyl peroxide 100 MG/ML / sulfur 50 MG/ML Topical Cream,ClinicalDrug
+1036562,sulfur 0.1 MG/MG Medicated Bar Soap,ClinicalDrug
+1036563,sulfur 0.1 MG/MG Topical Ointment,ClinicalDrug
+1036564,sulfur 20 MG/ML Topical Cream,ClinicalDrug
+1036565,sulfur 50 MG/ML Medicated Shampoo,ClinicalDrug
+1036566,sulfur 0.05 MG/MG Medicated Bar Soap,ClinicalDrug
+1036569,sulfur 0.05 MG/MG,ClinicalDrugComp
+1036570,sulfur 0.1 MG/MG,ClinicalDrugComp
+1036571,sulfur 0.03 MG/MG,ClinicalDrugComp
+1036572,sulfur 0.04 MG/MG,ClinicalDrugComp
+1036573,sulfur 0.075 MG/MG,ClinicalDrugComp
+1036574,sulfur 0.01 MG/MG,ClinicalDrugComp
+1036575,sulfur 0.016 MG/MG,ClinicalDrugComp
+1036576,sulfur 20.8 MG/ML,ClinicalDrugComp
+1036583,sulfur 40 MG/ML,ClinicalDrugComp
+1036584,sulfur 60 MG/ML,ClinicalDrugComp
+1036585,sulfur 37.5 MG/ML,ClinicalDrugComp
+1036586,sulfur 5 MG/ML,ClinicalDrugComp
+1036587,sulfur 25 MG/ML,ClinicalDrugComp
+1036588,sulfur 0.08 MG/MG,ClinicalDrugComp
+1036589,sulfur 60 MG/ML Topical Cream,ClinicalDrug
+1036590,sulfur 0.05 MG/MG Topical Ointment,ClinicalDrug
+1036591,bentonite 100 MG/ML / sulfur 80 MG/ML / triclosan 1 MG/ML Topical Cream,ClinicalDrug
+1036592,sulfur 50 MG/ML Topical Lotion,ClinicalDrug
+1036593,sulfur 10 MG/ML,ClinicalDrugComp
+1036596,Sulfur 0.05 MG/MG Bar Soap,ClinicalDrug
+1036597,benzoyl peroxide 0.06 MG/MG / sulfur 0.03 MG/MG Topical Gel,ClinicalDrug
+1036600,sulfuric acid,Ingredient
+1036602,Sulfuric acid 500 MG/ML,ClinicalDrugComp
+1036603,sulfonated phenol 500 MG/ML / sulfuric acid 300 MG/ML Mucous Membrane Topical Solution,ClinicalDrug
+1036604,sulfuric acid 300 MG/ML,ClinicalDrugComp
+1036667,talc,Ingredient
+1036668,Talc 4000 MG Inhalant Powder,ClinicalDrug
+1036670,talc 4000 MG,ClinicalDrugComp
+1036674,talc 4000 MG Powder Spray,ClinicalDrug
+1036690,tannic acid,Ingredient
+1036691,tannic acid 0.07 MG/MG Topical Gel [Zilactin],BrandedDrug
+1036692,Benzocaine 100 MG/ML / Tannic Acid 60 MG/ML Topical Solution,ClinicalDrug
+1036694,tannic acid 100 MG/ML Topical Lotion,ClinicalDrug
+1036697,benzocaine 50 MG/ML / tannic acid 60 MG/ML Topical Solution,ClinicalDrug
+1036698,benzocaine 80 MG/ML / tannic acid 60 MG/ML Topical Solution,ClinicalDrug
+1036699,tannic acid 2500 MG,ClinicalDrugComp
+1036700,tannic acid 60 MG/ML,ClinicalDrugComp
+1036701,tannic acid 45 MG/ML,ClinicalDrugComp
+1036702,tannic acid 0.05 MG/MG,ClinicalDrugComp
+1036704,tannic acid 100 MG/ML,ClinicalDrugComp
+1036705,tannic acid 0.07 MG/MG,ClinicalDrugComp
+1036706,benzocaine 10 MG/ML / ethanol 0.6 ML/ML / tannic acid 45 MG/ML Topical Spray,ClinicalDrug
+1036884,tetracaine,Ingredient
+1036885,tetracaine 0.005 MG/MG Topical Ointment,ClinicalDrug
+1036886,2 ML tetracaine hydrochloride 10 MG/ML Injection,QuantClinicalDrug
+1036895,tetracaine 20 MG/ML Topical Solution [Dermocaine],BrandedDrug
+1036896,tetracaine 20 MG/ML Topical Solution [Pontocaine],BrandedDrug
+1036897,Tetracaine 20 MG/ML Topical Cream,ClinicalDrug
+1036898,nitrofurantoin 5 MG / tetracaine 9 MG Oral Lozenge,ClinicalDrug
+1036899,Tetracaine 10 MG/ML Ophthalmic Solution,ClinicalDrug
+1036901,benzocaine 18 MG/ACTUAT / tetracaine 2 MG/ACTUAT Topical Spray,ClinicalDrug
+1036902,tetracaine 2 MG/ML Injectable Solution,ClinicalDrug
+1036903,tetracaine 3 MG/ML Injectable Solution,ClinicalDrug
+1036908,Tetracaine 5 MG/ML Ophthalmic Solution,ClinicalDrug
+1036909,tetracaine 10 MG/ML Topical Cream,ClinicalDrug
+1036910,Tetracaine 0.02 MG/MG Topical Gel,ClinicalDrug
+1036912,tetracaine 20 MG/ML Topical Solution,ClinicalDrug
+1036914,tetracaine 3 MG/ML,ClinicalDrugComp
+1036915,tetracaine 10 MG/ML,ClinicalDrugComp
+1036916,tetracaine 0.005 MG/MG,ClinicalDrugComp
+1036917,tetracaine 5 MG/ML,ClinicalDrugComp
+1036918,tetracaine 0.02 MG/MG,ClinicalDrugComp
+1036919,tetracaine 2 MG/ACTUAT,ClinicalDrugComp
+1036921,tetracaine 0.04 MG/MG,ClinicalDrugComp
+1036925,Tetracaine 20 MG/ML Topical Cream [Viractin],BrandedDrug
+1036926,Tetracaine 0.02 MG/MG Topical Gel [Viractin],BrandedDrug
+1036928,benzocaine 140 MG/ML / butamben 20 MG/ML / tetracaine 20 MG/ML Mucous Membrane Topical Solution,ClinicalDrug
+1036929,benzocaine 0.18 MG/MG / tetracaine 0.02 MG/MG Oral Gel,ClinicalDrug
+1036930,Tetracaine 1.3 MG/ACTUAT,ClinicalDrugComp
+1036931,Benzocaine 9.3 MG/ACTUAT / butamben 1.3 MG/ACTUAT / Tetracaine 1.3 MG/ACTUAT Topical Spray,ClinicalDrug
+1036932,Benzocaine 9.3 MG/ACTUAT / butamben 1.3 MG/ACTUAT / Tetracaine 1.3 MG/ACTUAT Topical Spray [Exactacain],BrandedDrug
+1036933,Tetracaine 5 MG/ML Ophthalmic Solution [Accu Tetracaine],BrandedDrug
+1036937,benzocaine 0.18 MG/MG / tetracaine 0.02 MG/MG Oral Gel [One Touch],BrandedDrug
+1036938,benzocaine 180 MG/ML / tetracaine 20 MG/ML Oral Spray,ClinicalDrug
+1036939,benzocaine 180 MG/ML / tetracaine 20 MG/ML Oral Spray [Freeze brand of Benzocaine],BrandedDrug
+1036940,tetracaine 70 MG,ClinicalDrugComp
+1036941,lidocaine 70 MG / tetracaine 70 MG Medicated Patch,ClinicalDrug
+1036942,tetracaine 70 MG/ML,ClinicalDrugComp
+1036943,lidocaine 70 MG/ML / tetracaine 70 MG/ML Topical Cream,ClinicalDrug
+1036944,tetracaine 2 MG/ML Injectable Solution [Pontocaine],BrandedDrug
+1037005,dronabinol,Ingredient
+1037006,dronabinol 10 MG Oral Capsule,ClinicalDrug
+1037007,dronabinol 2.5 MG Oral Capsule,ClinicalDrug
+1037008,dronabinol 5 MG Oral Capsule,ClinicalDrug
+1037012,dronabinol 10 MG,ClinicalDrugComp
+1037013,dronabinol 2.5 MG,ClinicalDrugComp
+1037014,dronabinol 5 MG,ClinicalDrugComp
+1037015,bran,Ingredient
+1037016,bran 1000 MG Oral Wafer,ClinicalDrug
+1037017,bran 500 MG Oral Tablet,ClinicalDrug
+1037018,bran 1000 MG Oral Tablet,ClinicalDrug
+1037019,bran 500 MG Chewable Tablet,ClinicalDrug
+1037021,bran 1000 MG,ClinicalDrugComp
+1072876,Alprazolam 3 mg prolonged-release oral tablet,ClinicalDrug
+1072886,Phenobarbital 50 mg oral tablet,ClinicalDrug
+1072890,Bromazepam 6 mg oral tablet,ClinicalDrug
+1073184,Zinc oxide-containing product in cutaneous dose form,ClinicalDrugForm
+1073230,Passiflora incarnata extract,PharmabiolProduct
+1073323,Hydrochlorothiazide 12.5 mg and irbesartan (as irbesartan hydrochloride) 150 mg oral tablet,ClinicalDrug
+1073324,Hydrochlorothiazide 12.5 mg and irbesartan (as irbesartan hydrochloride) 300 mg oral tablet,ClinicalDrug
+1073325,Hydrochlorothiazide 25 mg and irbesartan (as irbesartan hydrochloride) 300 mg oral tablet,ClinicalDrug
+1073326,Atorvastatin (as atorvastatin calcium) 80 mg and ezetimibe 10 mg oral tablet,ClinicalDrug
+1073328,Atorvastatin (as atorvastatin calcium) 20 mg and ezetimibe 10 mg oral tablet,ClinicalDrug
+1073329,Amiloride hydrochloride anhydrous (as amiloride hydrochloride) 5 mg and furosemide 40 mg oral tablet,ClinicalDrug
+1073355,Empagliflozin 10 mg and linagliptin 5 mg oral tablet,ClinicalDrug
+1073374,Calcium carbonate 600 mg and cholecalciferol 10 microgram oral tablet,ClinicalDrug
+1073380,Drospirenone 3 mg and ethinyl estradiol (as ethinylestradiol betadex clathrate) 20 microgram oral tablet,ClinicalDrug
+1073382,Aluminum hydroxide 35 mg/mL and magnesium hydroxide 40 mg/mL oral suspension,ClinicalDrug
+1073388,Aluminum hydroxide- and magnesium hydroxide- and simethicone-containing product in oral dose form,ClinicalDrugForm
+1073459,Emtricitabine 200 mg and tenofovir alafenamide (as tenofovir alafenamide fumarate) 25 mg oral tablet,ClinicalDrug
+1073484,Canagliflozin 150 mg and metformin hydrochloride 1 g oral tablet,ClinicalDrug
+1073499,Candesartan cilexetil 32 mg and hydrochlorothiazide 25 mg oral tablet,ClinicalDrug
+1073503,Doravirine 100 mg and lamivudine 300 mg and tenofovir disoproxil (as tenofovir disoproxil fumarate) 245 mg oral tablet,ClinicalDrug
+1073508,Aspirin 325 mg and caffeine 15 mg oral tablet,ClinicalDrug
+1073510,Aspirin- and caffeine-containing product in oral dose form,ClinicalDrugForm
+1073537,Canagliflozin 50 mg and metformin hydrochloride 1 g oral tablet,ClinicalDrug
+1073544,Dydrogesterone- and estradiol-containing product in oral dose form,ClinicalDrugForm
+1073546,Dydrogesterone 10 mg and estradiol 1 mg oral tablet,ClinicalDrug
+1073547,Dydrogesterone 5 mg and estradiol 1 mg oral tablet,ClinicalDrug
+1073558,Bictegravir (as bictegravir sodium) 50 mg and emtricitabine 200 mg and tenofovir alafenamide (as tenofovir alafenamide fumarate) 25 mg oral tablet,ClinicalDrug
+1073559,Emtricitabine 200 mg and rilpivirine (as rilpivirine hydrochloride) 25 mg and tenofovir alafenamide (as tenofovir alafenamide fumarate) 25 mg oral tablet,ClinicalDrug
+1073560,Emtricitabine 200 mg and rilpivirine (as rilpivirine hydrochloride) 25 mg and tenofovir disoproxil (as tenofovir disoproxil fumarate) 245 mg oral tablet,ClinicalDrug
+1073562,Emtricitabine- and rilpivirine- and tenofovir-containing product in oral dose form,ClinicalDrugForm
+1073568,Prednisolone (as prednisolone acetate) 5 mg/g oromucosal paste,ClinicalDrug
+1073638,Ezetimibe 10 mg and rosuvastatin (as rosuvastatin calcium) 10 mg oral tablet,ClinicalDrug
+1073639,Ezetimibe 10 mg and rosuvastatin (as rosuvastatin calcium) 20 mg oral tablet,ClinicalDrug
+1073640,Ezetimibe 10 mg and rosuvastatin (as rosuvastatin calcium) 40 mg oral tablet,ClinicalDrug
+1073685,Glucose 40 mg/mL and sodium chloride 1.8 mg/mL solution for infusion,ClinicalDrug
+1073686,Glucose 40 mg/mL and sodium chloride 1.8 mg/mL solution for infusion and/or injection,ClinicalDrug
+1073690,Abacavir (as abacavir hydrochloride) 600 mg and lamivudine 300 mg oral tablet,ClinicalDrug
+1073717,Carbidopa anhydrous (as carbidopa) 12.5 mg and entacapone 200 mg and levodopa 50 mg oral tablet,ClinicalDrug
+1073737,Cilastatin (as cilastatin sodium) 500 mg and imipenem 500 mg powder for solution for infusion and/or injection vial,ClinicalDrug
+1073752,Acetaminophen- and diphenhydramine- and pseudoephedrine-containing product in oral dose form,ClinicalDrugForm
+1073754,Ampicillin (as ampicillin sodium) 1 g powder for solution for infusion and/or injection vial,ClinicalDrug
+1073766,Piperacillin (as piperacillin sodium) 4 g and tazobactam (as tazobactam sodium) 500 mg powder for solution for infusion and/or injection vial,ClinicalDrug
+1073793,Levobupivacaine (as levobupivacaine hydrochloride) 7.5 mg/mL solution for infusion and/or injection,ClinicalDrug
+1073794,Levobupivacaine (as levobupivacaine hydrochloride) 7.5 mg/mL solution for infusion,ClinicalDrug
+1073799,Levobupivacaine (as levobupivacaine hydrochloride) 2.5 mg/mL solution for infusion and/or injection,ClinicalDrug
+1073801,Levobupivacaine (as levobupivacaine hydrochloride) 5 mg/mL solution for infusion,ClinicalDrug
+1073802,Levobupivacaine (as levobupivacaine hydrochloride) 5 mg/mL solution for infusion and/or injection,ClinicalDrug
+1073805,Acetaminophen 10 mg/mL and ibuprofen (as ibuprofen sodium) 3 mg/mL solution for infusion,ClinicalDrug
+1073807,Acetaminophen- and ibuprofen-containing product in parenteral dose form,ClinicalDrugForm
+1073939,Nirmatrelvir 150 mg oral tablet,ClinicalDrug
+1073941,Nirmatrelvir-containing product in oral dose form,ClinicalDrugForm
+1073943,Lauromacrogol 400 30 mg/mL solution for injection,ClinicalDrug
+1074104,Benzocaine 50 mg/g gingival gel,ClinicalDrug
+1074107,Glucose 50 mg/mL and sodium chloride 2 mg/mL solution for injection,ClinicalDrug
+1074239,Calcium chloride 200 microgram/mL and potassium chloride 300 microgram/mL and sodium chloride 6 mg/mL and sodium lactate 3.1 mg/mL solution for infusion,ClinicalDrug
+1074275,Sodium chloride 30 mg/mL solution for injection,ClinicalDrug
+1074276,Glucose 250 mg/mL solution for injection,ClinicalDrug
+1074292,Brimonidine tartrate 2 mg/mL and brinzolamide 10 mg/mL eye drops suspension,ClinicalDrug
+1074294,Brimonidine- and brinzolamide-containing product in ocular dose form,ClinicalDrugForm
+1074300,Netarsudil 200 microgram/mL eye drops solution,ClinicalDrug
+1074747,Escherichia coli serotype O112ab:H2,Organism
+1074748,Vaccine-derived human poliovirus,Organism
+1074749,Escherichia coli serotype O111:H1,Organism
+1074750,Escherichia coli serotype O186:H15,Organism
+1074765,Extensively drug resistant Pseudomonas aeruginosa,Organism
+1075264,Bismuth oxide-containing product,PharmabiolProduct
+1075769,Dichlorobenzyl alcohol-containing product,PharmabiolProduct
+1075795,Nirmatrelvir,Substance
+1075898,Nirmatrelvir-containing product,PharmabiolProduct
+1076400,L-phenylalanine,Substance
+1091027,Streptococcus pyogenes DNA [Presence] in Specimen,LabTest
+1091209,Haemophilus influenzae DNA [Presence] in Nasopharynx by NAA with probe detection,LabTest
+1091272,Bordetella pertussis DNA [Presence] in Bronchoalveolar lavage by NAA with probe detection,LabTest
+1091469,Bordetella pertussis DNA [Presence] in Specimen,LabTest
+1091501,Haemophilus influenzae DNA [Presence] in Bronchoalveolar lavage by NAA with probe detection,LabTest
+1091661,Haemophilus influenzae DNA [Cycle Threshold #] in Positive blood culture by NAA with probe detection,LabTest
+1091893,Streptococcus pyogenes DNA [Cycle Threshold #] in Positive blood culture by NAA with probe detection,LabTest
+1092190,Neisseria meningitidis DNA [Cycle Threshold #] in Positive blood culture by NAA with probe detection,LabTest
+1092202,Streptococcus pyogenes [Presence] in Specimen,LabTest
+1092286,Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen,LabTest
+1094330,Proteus mirabilis,Answer
+1100125,Aspirin 325 MG / butalbital 50 MG / Caffeine 40 MG / Codeine 30 MG Oral Capsule [Fiorinal with Codeine],BrandedDrug
+1100126,Aspirin 325 MG / butalbital 50 MG / Caffeine 40 MG / Codeine 30 MG Oral Capsule [Fiortal with Codeine],BrandedDrug
+1100131,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Phenhist DH with Codeine],BrandedDrug
+1100142,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Ryna-C],BrandedDrug
+1100145,codeine 10 MG/ML Oral Solution,ClinicalDrug
+1100147,Codeine 20 MG / Pseudoephedrine 60 MG Oral Tablet,ClinicalDrug
+1100148,aspirin 325 MG / codeine 8 MG Oral Tablet,ClinicalDrug
+1100164,Acetaminophen 24 MG/ML / Codeine 2.4 MG/ML Oral Solution,ClinicalDrug
+1100165,Codeine 2 MG/ML / Guaifenesin 40 MG/ML Oral Solution,ClinicalDrug
+1100167,Acetaminophen 500 MG / Codeine 8 MG Oral Tablet,ClinicalDrug
+1100168,aspirin 500 MG / codeine 8 MG Oral Tablet,ClinicalDrug
+1100189,Codeine 0.6 MG/ML Oral Solution,ClinicalDrug
+1100190,Codeine 5 MG/ML Oral Solution,ClinicalDrug
+1100191,Codeine 50 MG / Diclofenac 50 MG Oral Tablet,ClinicalDrug
+1100213,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Codehist DH],BrandedDrug
+1100214,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Decohistine DH],BrandedDrug
+1100215,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Phenylhistine DH],BrandedDrug
+1100303,chlorpheniramine maleate 0.4 MG/ML / codeine phosphate 2 MG/ML / phenylephrine hydrochloride 2 MG/ML Oral Solution,ClinicalDrug
+1100307,aspirin 200 MG / butalbital 50 MG / caffeine 40 MG / codeine 30 MG Oral Tablet,ClinicalDrug
+1100308,aspirin 380 MG / caffeine 30 MG / codeine 30 MG Oral Tablet,ClinicalDrug
+1100333,codeine 30 MG,ClinicalDrugComp
+1100334,codeine 60 MG,ClinicalDrugComp
+1100335,Codeine 2.4 MG/ML,ClinicalDrugComp
+1100336,codeine 10 MG,ClinicalDrugComp
+1100337,codeine 20 MG,ClinicalDrugComp
+1100338,Codeine 4 MG/ML,ClinicalDrugComp
+1100339,codeine 15 MG,ClinicalDrugComp
+1100341,codeine 7.5 MG,ClinicalDrugComp
+1100362,Codeine 5 MG/ML,ClinicalDrugComp
+1100363,Codeine 60 MG/ML,ClinicalDrugComp
+1100386,Codeine 0.6 MG/ML,ClinicalDrugComp
+1100387,codeine 10 MG/ML,ClinicalDrugComp
+1100388,codeine 100 MG,ClinicalDrugComp
+1100412,Codeine 1.8 MG/ML,ClinicalDrugComp
+1100416,Acetaminophen 97.2 MG / Aspirin 227 MG / Caffeine 32.4 MG / Codeine 1 MG / salicylamide 32.4 MG Oral Tablet,ClinicalDrug
+1100418,Chlorpheniramine 1 MG/ML / Codeine 2 MG/ML / Phenylephrine 4 MG/ML / Phenylpropanolamine 4 MG/ML Oral Solution,ClinicalDrug
+1100419,Codeine 4 MG/ML / Pseudoephedrine 12 MG/ML Oral Solution,ClinicalDrug
+1100420,Codeine 1 MG,ClinicalDrugComp
+1100442,Codeine 2 MG/ML / Guaifenesin 40 MG/ML Oral Solution [Diabetic Tussin C],BrandedDrug
+1100444,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 0.25 MG/ML Oral Solution,ClinicalDrug
+1100446,Chlorpheniramine 0.2 MG/ML / Codeine 1 MG/ML Oral Suspension,ClinicalDrug
+1100447,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 0.4 MG/ML Oral Solution,ClinicalDrug
+1100450,codeine 1.5 MG/ML,ClinicalDrugComp
+1100451,acetaminophen 300 MG / codeine 10 MG / guaifenesin 100 MG / phenylpropanolamine 25 MG Oral Tablet,ClinicalDrug
+1100472,codeine 4.56 MG/ML,ClinicalDrugComp
+1100475,Codeine 2 MG/ML / Guaifenesin 20 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [C Tussin],BrandedDrug
+1100476,Codeine 2 MG/ML / Guaifenesin 20 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Suttar 2],BrandedDrug
+1100477,codeine 2 MG/ML / guaifenesin 40 MG/ML / phenylpropanolamine 2.5 MG/ML Oral Suspension,ClinicalDrug
+1100480,Codeine 2 MG/ML / Guaifenesin 60 MG/ML Oral Solution,ClinicalDrug
+1100481,Codeine 0.15 MG/ML,ClinicalDrugComp
+1100502,Acetaminophen 2.5 MG/ML / Codeine 0.15 MG/ML Oral Solution,ClinicalDrug
+1100503,Codeine 0.04 MG/ML,ClinicalDrugComp
+1100504,Acetaminophen 650 MG / Codeine 60 MG Oral Tablet,ClinicalDrug
+1100510,codeine 2 MG/ML / guaiacolsulfonate 16 MG/ML Oral Solution,ClinicalDrug
+1100511,Codeine 2 MG/ML / Guaifenesin 60 MG/ML Oral Solution [Tussiden C],BrandedDrug
+1100532,Chlorpheniramine 4 MG / Codeine 20 MG Oral Tablet,ClinicalDrug
+1100534,Codeine 10 MG / Guaifenesin 400 MG Oral Tablet,ClinicalDrug
+1100535,Acetaminophen 500 MG / Codeine 10 MG / Guaifenesin 400 MG / Phenylephrine 10 MG Oral Tablet,ClinicalDrug
+1100539,Codeine 20 MG / Guaifenesin 400 MG Oral Tablet,ClinicalDrug
+1100540,Codeine 20 MG / Guaifenesin 400 MG / Pseudoephedrine 40 MG Oral Tablet,ClinicalDrug
+1100541,Codeine 20 MG / Guaifenesin 400 MG / Pseudoephedrine 60 MG Oral Tablet,ClinicalDrug
+1100552,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Guaifenesin 40 MG/ML Oral Solution [Tusnel C],BrandedDrug
+1100553,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Bromanate DC Cough],BrandedDrug
+1100555,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Bromphen DC with Codeine],BrandedDrug
+1100556,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Bromphen DC],BrandedDrug
+1100557,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Dimetane DC],BrandedDrug
+1100558,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Liquihistine CS],BrandedDrug
+1100559,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Myphetane DC],BrandedDrug
+1100560,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Poly CS],BrandedDrug
+1100561,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Poly-Histine CS],BrandedDrug
+1100582,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Polytine CS],BrandedDrug
+1100583,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Trihist-CS],BrandedDrug
+1100585,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution [Uni-Multihist CS],BrandedDrug
+1100614,Codeine 2 MG/ML / Guaifenesin 20 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Gencofed Pediatric Expectorant],BrandedDrug
+1100615,Codeine 2 MG/ML / Guaifenesin 20 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Sudatuss SF],BrandedDrug
+1100616,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Brontex],BrandedDrug
+1100617,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Cheracol with Codeine],BrandedDrug
+1100618,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Cheratussin AC],BrandedDrug
+1100620,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Diabetic Tus with Codeine],BrandedDrug
+1100621,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Duraganidin NR],BrandedDrug
+1100642,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Gani-Tuss NR],BrandedDrug
+1100643,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Glydeine],BrandedDrug
+1100644,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Guai-Co],BrandedDrug
+1100645,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Guaiatussin AC],BrandedDrug
+1100646,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Guaifen AC],BrandedDrug
+1100647,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Guiatuss AC],BrandedDrug
+1100648,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Guiatussin with Codeine],BrandedDrug
+1100650,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Iophen-C NF],BrandedDrug
+1100651,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Iophen],BrandedDrug
+1100662,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Mytussin AC],BrandedDrug
+1100663,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Robafen AC],BrandedDrug
+1100664,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Robichem AC],BrandedDrug
+1100665,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Robitussin-AC],BrandedDrug
+1100666,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Romilar AC],BrandedDrug
+1100667,Codeine 2 MG/ML / Guaifenesin 20 MG/ML Oral Solution [Tussi-Organidin NR],BrandedDrug
+1100668,Codeine 2 MG/ML / Guaifenesin 40 MG/ML Oral Solution [Tusso-C],BrandedDrug
+1100669,Codeine 2 MG/ML / Phenylephrine 1 MG/ML / Promethazine 1.25 MG/ML Oral Solution [Promethazine VC with Codeine],BrandedDrug
+1100670,Codeine 2 MG/ML / Phenylephrine 1 MG/ML / Pyrilamine 1.67 MG/ML Oral Solution [Dicomal-PH],BrandedDrug
+1100671,Codeine 2 MG/ML / Promethazine 1.25 MG/ML Oral Solution [Pentazine with Codeine],BrandedDrug
+1100683,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 0.25 MG/ML Oral Solution [Triacin C],BrandedDrug
+1100684,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 0.25 MG/ML Oral Solution [Triafed & Codeine],BrandedDrug
+1100685,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 0.25 MG/ML Oral Solution [Trifed C],BrandedDrug
+1100686,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 250 MG/ML Oral Solution [Actifed with Codeine],BrandedDrug
+1100687,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 250 MG/ML Oral Solution [Allerfrin with Codeine],BrandedDrug
+1100702,Chlorpheniramine 0.15 MG/ML / Codeine 1 MG/ML / Phenylephrine 0.5 MG/ML / Potassium Iodide 15 MG/ML Oral Solution,ClinicalDrug
+1100703,chlorpheniramine maleate 0.3 MG/ML / codeine phosphate 1.6 MG/ML / phenylephrine hydrochloride 0.9 MG/ML Oral Solution,ClinicalDrug
+1100704,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML / Guaifenesin 40 MG/ML Oral Solution,ClinicalDrug
+1100710,Codeine 1.8 MG/ML / Diphenhydramine 2 MG/ML Oral Solution,ClinicalDrug
+1100711,codeine 2 MG/ML / ephedrine 1.25 MG/ML / guaifenesin 20 MG/ML Oral Solution,ClinicalDrug
+1101092,codeine 2 MG/ML / phenylephrine 0.4 MG/ML / pseudoephedrine 6 MG/ML Oral Solution,ClinicalDrug
+1101093,Codeine 2 MG/ML / Phenylephrine 1 MG/ML / Pyrilamine 1.67 MG/ML Oral Solution,ClinicalDrug
+1101094,Codeine 2 MG/ML / Phenylpropanolamine 1 MG/ML / Promethazine 1.25 MG/ML Oral Solution,ClinicalDrug
+1101095,codeine 2 MG/ML / potassium 43.3 MG/ML Oral Solution,ClinicalDrug
+1101096,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML / Triprolidine 250 MG/ML Oral Solution,ClinicalDrug
+1101097,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution,ClinicalDrug
+1101098,codeine 2.5 MG/ML / guaifenesin 20 MG/ML / phenylpropanolamine 5 MG/ML Oral Solution,ClinicalDrug
+1101099,Codeine 2.5 MG/ML / Guaifenesin 25 MG/ML / Phenylephrine 0.8 MG/ML Oral Solution,ClinicalDrug
+1101100,Codeine 5 MG/ML / Guaifenesin 20 MG/ML / Promethazine 1.25 MG/ML Oral Solution,ClinicalDrug
+1101101,anhydrous calcium iodide 30.4 MG/ML / Codeine 1.68 MG/ML Oral Solution,ClinicalDrug
+1101112,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Codahistine-DH],BrandedDrug
+1101113,chlorpheniramine maleate 0.4 MG/ML / codeine phosphate 2 MG/ML / phenylpropanolamine hydrochloride 3.75 MG/ML Oral Solution,ClinicalDrug
+1101114,chlorpheniramine maleate 0.4 MG/ML / codeine phosphate 2 MG/ML / iodinated glycerol 3 MG/ML Oral Solution,ClinicalDrug
+1101115,Codeine 2 MG/ML / Phenylephrine 1.5 MG/ML Oral Solution,ClinicalDrug
+1101116,Brompheniramine 0.8 MG/ML / Codeine 2 MG/ML / Phenylephrine 1.5 MG/ML Oral Solution,ClinicalDrug
+1101118,Brompheniramine 0.4 MG/ML / Codeine 2 MG/ML Oral Solution,ClinicalDrug
+1101121,2 ML Codeine 30 MG/ML Prefilled Syringe,ClinicalDrug
+1101146,Codeine 1.26 MG/ML,ClinicalDrugComp
+1101147,Brompheniramine 0.26 MG/ML / Codeine 1.26 MG/ML / Pseudoephedrine 2 MG/ML Oral Solution,ClinicalDrug
+1101148,Brompheniramine 0.26 MG/ML / Codeine 1.26 MG/ML / Pseudoephedrine 2 MG/ML Oral Solution [M-End WC],BrandedDrug
+1101149,Codeine 2 MG/ML / dexchlorpheniramine 0.2 MG/ML / Phenylephrine 1 MG/ML Oral Solution,ClinicalDrug
+1101150,Codeine 1.26 MG/ML / Guaifenesin 20 MG/ML Oral Solution,ClinicalDrug
+1101151,Codeine 1.26 MG/ML / Guaifenesin 20 MG/ML Oral Solution [M-Clear WC],BrandedDrug
+1101183,Chlorpheniramine 0.4 MG/ML / Codeine 2 MG/ML Oral Solution [Notuss AC],BrandedDrug
+1101184,Codeine 2 MG/ML / Pseudoephedrine 6 MG/ML Oral Solution [Notuss DC],BrandedDrug
+1101185,Codeine 10 MG / Guaifenesin 400 MG Oral Tablet [Allfen CD],BrandedDrug
+1101186,Codeine 20 MG / Guaifenesin 400 MG Oral Tablet [Allfen CDX],BrandedDrug
+1101187,Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 60 MG Oral Tablet [Maxifed CD],BrandedDrug
+1101188,Codeine 20 MG / Guaifenesin 400 MG / Pseudoephedrine 60 MG Oral Tablet [Maxifed CDX],BrandedDrug
+1101189,Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 20 MG Oral Tablet,ClinicalDrug
+1101190,Acetaminophen 500 MG / Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 40 MG Oral Tablet [Maxiflu CD],BrandedDrug
+1101191,Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 30 MG Oral Tablet,ClinicalDrug
+1101222,Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 40 MG Oral Tablet [Maxifed-G CD],BrandedDrug
+1101223,Codeine 20 MG / Guaifenesin 400 MG / Pseudoephedrine 30 MG Oral Tablet,ClinicalDrug
+1101225,Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 20 MG Oral Tablet [Ambifed-G CD],BrandedDrug
+1101226,Codeine 10 MG / Guaifenesin 400 MG / Pseudoephedrine 30 MG Oral Tablet [Ambifed CD],BrandedDrug
+1101227,Codeine 20 MG / Guaifenesin 400 MG / Pseudoephedrine 20 MG Oral Tablet,ClinicalDrug
+1101228,Codeine 20 MG / Guaifenesin 400 MG / Pseudoephedrine 20 MG Oral Tablet [Ambifed-G CDX],BrandedDrug
+1101229,Chlorpheniramine 4 MG / Codeine 20 MG Oral Tablet [Cotab AX],BrandedDrug
+1101284,chlorpheniramine maleate 0.8 MG/ML / codeine 2 MG/ML / pseudoephedrine hydrochloride 12 MG/ML Oral Solution,ClinicalDrug
+1101285,Codeine 1.8 MG/ML / Pyrilamine 1.67 MG/ML Oral Solution [Pro Clear AC],BrandedDrug
+1101286,Codeine 1.27 MG/ML,ClinicalDrugComp
+1101290,codeine phosphate 2 MG/ML,ClinicalDrugComp
+1101291,Brompheniramine Maleate 0.4 MG/ML / Codeine Phosphate 2 MG/ML Oral Solution,ClinicalDrug
+1101312,Brompheniramine Maleate 0.4 MG/ML / Codeine Phosphate 2 MG/ML Oral Solution [Endacof AC],BrandedDrug
+1101554,colchicine,Ingredient
+1101556,colchicine 0.6 MG Oral Tablet,ClinicalDrug
+1101557,colchicine 0.5 MG/ML Injectable Solution,ClinicalDrug
+1101558,colchicine 1 MG Oral Tablet,ClinicalDrug
+1101560,allopurinol 100 MG / colchicine 0.5 MG Oral Tablet,ClinicalDrug
+1101583,colchicine 0.5 MG,ClinicalDrugComp
+1101584,colchicine 0.5 MG/ML,ClinicalDrugComp
+1101585,colchicine 0.54 MG,ClinicalDrugComp
+1101586,colchicine 0.6 MG,ClinicalDrugComp
+1101587,colchicine 0.65 MG,ClinicalDrugComp
+1101588,colchicine 0.001 MG/MG,ClinicalDrugComp
+1101589,colchicine 1 MG,ClinicalDrugComp
+1101703,homatropine,Ingredient
+1101708,homatropine 2 MG/ML Oral Solution,ClinicalDrug
+1101711,homatropine 4 MG/ML Oral Solution,ClinicalDrug
+1101732,dipyrone 400 MG/ML / homatropine 1.5 MG/ML Oral Solution,ClinicalDrug
+1101741,homatropine 0.3 MG/ML,ClinicalDrugComp
+1101772,homatropine 5 MG,ClinicalDrugComp
+1101773,homatropine 10 MG,ClinicalDrugComp
+1101775,homatropine 0.833 MG/ML,ClinicalDrugComp
+1101776,homatropine 10 MG/ML,ClinicalDrugComp
+1101778,homatropine 4 MG/ML,ClinicalDrugComp
+1101779,homatropine 4 MG,ClinicalDrugComp
+1101780,homatropine 1.5 MG/ML,ClinicalDrugComp
+1101781,homatropine 0.5 MG/ML,ClinicalDrugComp
+1101812,homatropine 0.3 MG,ClinicalDrugComp
+1101813,homatropine 2.5 MG,ClinicalDrugComp
+1101814,homatropine 0.03 MG/ML,ClinicalDrugComp
+1101815,homatropine 10 MG Oral Tablet [Homapin-10],BrandedDrug
+1101816,homatropine 5 MG Oral Tablet [Homapin-5],BrandedDrug
+1101818,Dehydrocholate 200 MG / homatropine 5 MG Oral Tablet,ClinicalDrug
+1101820,homatropine 0.3 MG/ML / Hydrocodone 1 MG/ML Oral Solution [Hydromet],BrandedDrug
+1101821,homatropine 0.3 MG/ML / Hydrocodone 1 MG/ML Oral Solution [Hydromide],BrandedDrug
+1101842,homatropine 0.3 MG/ML / Hydrocodone 1 MG/ML Oral Solution [Hydropane],BrandedDrug
+1101843,homatropine 0.3 MG/ML / Hydrocodone 1 MG/ML Oral Solution [Hydrotropine],BrandedDrug
+1102527,meperidine,Ingredient
+1102528,Meperidine 100 MG Oral Tablet,ClinicalDrug
+1102529,Meperidine 50 MG Oral Tablet,ClinicalDrug
+1102570,Meperidine 100 MG/ML Injectable Solution,ClinicalDrug
+1102571,Meperidine 25 MG/ML Injectable Solution,ClinicalDrug
+1102593,Meperidine 50 MG/ML Injectable Solution,ClinicalDrug
+1102594,Meperidine 50 MG / Promethazine 25 MG Oral Capsule,ClinicalDrug
+1102595,Meperidine 10 MG/ML Injectable Solution,ClinicalDrug
+1102596,meperidine 100 MG,ClinicalDrugComp
+1102598,Meperidine 25 MG/ML,ClinicalDrugComp
+1102599,Meperidine 50 MG,ClinicalDrugComp
+1102600,Meperidine 75 MG/ML,ClinicalDrugComp
+1102624,30 ML Meperidine 10 MG/ML Prefilled Syringe,ClinicalDrug
+1102625,Meperidine 10 MG/ML Oral Solution [Demerol HCl],BrandedDrug
+1103006,desloratadine,Ingredient
+1103034,desloratadine 5 MG / Pseudoephedrine 240 MG 24 Hour Extended Release Tablet [Clarinex-D],BrandedDrug
+1103037,desloratadine 2.5 MG / Pseudoephedrine 120 MG 12 hour Extended Release Tablet [Clarinex-D],BrandedDrug
+1103038,desloratadine 5 MG Disintegrating Oral Tablet [Clarinex],BrandedDrug
+1103040,desloratadine 0.5 MG/ML Oral Solution [Clarinex],BrandedDrug
+1103137,iodinated glycerol,Ingredient
+1103139,iodinated glycerol 12.5 MG/ML Oral Solution,ClinicalDrug
+1103163,iodinated glycerol 12 MG/ML,ClinicalDrugComp
+1103164,iodinated glycerol 2 MG/ML,ClinicalDrugComp
+1103165,iodinated glycerol 30 MG,ClinicalDrugComp
+1103166,iodinated glycerol 50 MG/ML,ClinicalDrugComp
+1103167,iodinated glycerol 6 MG/ML,ClinicalDrugComp
+1103314,tramadol,Ingredient
+1103316,Tramadol 50 MG/ML Injectable Solution,ClinicalDrug
+1103320,Tramadol 50 MG Oral Tablet,ClinicalDrug
+1103321,Tramadol 50 MG,ClinicalDrugComp
+1103342,Tramadol 50 MG/ML,ClinicalDrugComp
+1103343,tramadol 100 MG,ClinicalDrugComp
+1103344,Tramadol 150 MG,ClinicalDrugComp
+1103345,Tramadol 200 MG,ClinicalDrugComp
+1103346,tramadol hydrochloride 100 MG,ClinicalDrugComp
+1103347,tramadol hydrochloride 200 MG,ClinicalDrugComp
+1103348,tramadol hydrochloride 300 MG,ClinicalDrugComp
+1103351,24 HR tramadol hydrochloride 200 MG Extended Release Oral Tablet,QuantClinicalDrug
+1103352,Matrix Delivery 24 HR tramadol hydrochloride 200 MG Extended Release Oral Tablet [Ryzolt],BrandedDrug
+1103353,24 HR tramadol hydrochloride 300 MG Extended Release Oral Tablet,QuantClinicalDrug
+1103354,Matrix Delivery 24 HR tramadol hydrochloride 300 MG Extended Release Oral Tablet [Ryzolt],BrandedDrug
+1103358,tramadol hydrochloride 37.5 MG,ClinicalDrugComp
+1103359,acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet,ClinicalDrug
+1103360,acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet [Ultracet],BrandedDrug
+1103361,tramadol hydrochloride 100 MG Extended Release Oral Tablet,ClinicalDrug
+1103398,tramadol hydrochloride 50 MG Oral Capsule,ClinicalDrug
+1103399,tramadol hydrochloride 50 MG Oral Capsule [Tramalgin],BrandedDrug
+1103400,tramadol hydrochloride 100 MG Extended Release Oral Tablet [Ryzolt],BrandedDrug
+1103401,tramadol hydrochloride 200 MG Extended Release Oral Tablet [Ryzolt],BrandedDrug
+1103422,24 HR tramadol hydrochloride 100 MG Extended Release Oral Tablet [Ultram],QuantBrandedDrug
+1103423,24 HR tramadol hydrochloride 200 MG Extended Release Oral Tablet [Ultram],QuantBrandedDrug
+1103424,24 HR tramadol hydrochloride 300 MG Extended Release Oral Tablet [Ultram],QuantBrandedDrug
+1103518,isometheptene,Ingredient
+1103519,isometheptene 130 MG Oral Tablet,ClinicalDrug
+1103521,isometheptene 130 MG,ClinicalDrugComp
+1103552,almotriptan,Ingredient
+1103555,almotriptan 6.25 MG Oral Tablet [Axert],BrandedDrug
+1103556,almotriptan 12.5 MG Oral Tablet [Axert],BrandedDrug
+1103557,almotriptan 6.25 MG,ClinicalDrugComp
+1103558,almotriptan 12.5 MG,ClinicalDrugComp
+1105775,aminophylline,Ingredient
+1105776,aminophylline 250 MG Rectal Suppository,ClinicalDrug
+1105779,aminophylline 225 MG Extended Release Oral Tablet [Phyllocontin],BrandedDrug
+1105780,aminophylline 350 MG Extended Release Oral Tablet,ClinicalDrug
+1105781,aminophylline 50 MG/ML Injectable Solution,ClinicalDrug
+1105802,aminophylline 250 MG/ML Injectable Solution,ClinicalDrug
+1105803,aminophylline 24 MG/ML Injectable Solution,ClinicalDrug
+1105804,aminophylline 36 MG/ML Injectable Solution,ClinicalDrug
+1105805,aminophylline 240 MG/ML Injectable Solution,ClinicalDrug
+1105837,aminophylline 100 MG Oral Tablet,ClinicalDrug
+1105838,aminophylline 2 MG/ML Injectable Solution,ClinicalDrug
+1105853,tripelennamine,Ingredient
+1105857,tripelennamine 7.5 MG/ML Oral Solution,ClinicalDrug
+1105861,Tripelennamine 20 MG/ML Topical Cream,ClinicalDrug
+1105868,aminophylline 250 MG/ML,ClinicalDrugComp
+1105869,aminophylline 240 MG/ML,ClinicalDrugComp
+1105870,aminophylline 24 MG/ML,ClinicalDrugComp
+1105871,aminophylline 36 MG/ML,ClinicalDrugComp
+1105872,aminophylline 50 MG/ML,ClinicalDrugComp
+1105873,aminophylline 350 MG,ClinicalDrugComp
+1105874,aminophylline 111 MG,ClinicalDrugComp
+1105875,aminophylline 130 MG,ClinicalDrugComp
+1105878,aminophylline 180 MG,ClinicalDrugComp
+1105880,aminophylline 60 MG/ML Enema,ClinicalDrug
+1105881,aminophylline 130 MG / guaifenesin 100 MG Oral Tablet,ClinicalDrug
+1105882,tripelennamine 25 MG,ClinicalDrugComp
+1105883,tripelennamine 50 MG,ClinicalDrugComp
+1105886,Tripelennamine 5 MG/ML,ClinicalDrugComp
+1105889,triprolidine,Ingredient
+1105890,Triprolidine 0.25 MG/ML Oral Solution,ClinicalDrug
+1105891,Dextromethorphan 1 MG/ML / Triprolidine 0.125 MG/ML Oral Solution,ClinicalDrug
+1105902,12 HR aminophylline 225 MG Extended Release Oral Tablet,QuantClinicalDrug
+1105903,aminophylline 2 MG/ML,ClinicalDrugComp
+1105904,aminophylline 120 MG,ClinicalDrugComp
+1105905,aminophylline 130 MG / ephedrine 25 MG Oral Capsule,ClinicalDrug
+1105907,10 ML aminophylline 25 MG/ML Prefilled Syringe,QuantClinicalDrug
+1105932,Triprolidine 10 MG Extended Release Tablet,ClinicalDrug
+1105933,Triprolidine 2.5 MG Oral Tablet,ClinicalDrug
+1105935,Triprolidine 2.5 MG,ClinicalDrugComp
+1105936,Triprolidine 12 MG,ClinicalDrugComp
+1105939,Triprolidine 0.02 MG/ML,ClinicalDrugComp
+1105940,Triprolidine 0.5 MG/ML,ClinicalDrugComp
+1105941,Triprolidine 0.125 MG/ML,ClinicalDrugComp
+1105972,Triprolidine 0.4 MG/ML,ClinicalDrugComp
+1105973,Triprolidine 10 MG,ClinicalDrugComp
+1105975,Triprolidine 2500 MG,ClinicalDrugComp
+1105976,Triprolidine 4 MG,ClinicalDrugComp
+1105980,Triprolidine 0.25 MG/ML Oral Solution [Tripohist],BrandedDrug
+1105981,Triprolidine 0.938 MG/ML,ClinicalDrugComp
+1106647,turpentine,Ingredient
+1106740,methysergide,Ingredient
+1106741,methysergide 2 MG Oral Tablet,ClinicalDrug
+1106774,methysergide 2 MG,ClinicalDrugComp
+1106775,methysergide 1 MG,ClinicalDrugComp
+1106776,tiotropium,Ingredient
+1107830,loratadine,Ingredient
+1107882,loratadine 10 MG Oral Tablet,ClinicalDrug
+1107883,loratadine 10 MG Disintegrating Oral Tablet,ClinicalDrug
+1107884,loratadine 1 MG/ML,ClinicalDrugComp
+1107885,loratadine 10 MG,ClinicalDrugComp
+1107886,loratadine 5 MG,ClinicalDrugComp
+1107888,loratadine 10 MG Disintegrating Oral Tablet [Alavert],BrandedDrug
+1107890,loratadine 10 MG Oral Tablet [Agistam],BrandedDrug
+1107926,loratadine 5 MG Chewable Tablet [Claritin],BrandedDrug
+1107927,loratadine 1 MG/ML Oral Solution,ClinicalDrug
+1107931,loratadine 1 MG/ML Oral Solution [Alavert],BrandedDrug
+1107962,loratadine 1 MG/ML Oral Solution [Claritin],BrandedDrug
+1107963,loratadine 1 MG/ML Oral Solution [Clear-Atadine],BrandedDrug
+1107964,loratadine 1 MG/ML Oral Solution [Wal-itin],BrandedDrug
+1107966,loratadine 10 MG Oral Capsule,ClinicalDrug
+1107967,loratadine 10 MG Oral Capsule [Claritin],BrandedDrug
+1110410,morphine,Ingredient
+1110440,Morphine 200 MG Extended Release Capsule,ClinicalDrug
+1110441,Morphine 10 MG Rectal Suppository,ClinicalDrug
+1110462,Morphine 15 MG Oral Tablet,ClinicalDrug
+1110463,Morphine 20 MG Rectal Suppository,ClinicalDrug
+1110464,Morphine 30 MG Oral Tablet,ClinicalDrug
+1110465,Morphine 5 MG Rectal Suppository,ClinicalDrug
+1110466,Morphine 10 MG/ML Oral Solution,ClinicalDrug
+1110467,Morphine 1 MG/ML Oral Solution,ClinicalDrug
+1110468,Morphine 5 MG/ML Oral Solution,ClinicalDrug
+1110469,Morphine 20 MG Oral Tablet,ClinicalDrug
+1110470,Morphine 2 MG/ML Extended Release Suspension,ClinicalDrug
+1110471,Morphine 3 MG/ML Extended Release Suspension,ClinicalDrug
+1110637,Morphine 100 MG Extended Release Capsule [Kadian],BrandedDrug
+1110638,Morphine 20 MG Extended Release Capsule [Kadian],BrandedDrug
+1110639,Morphine 50 MG Extended Release Capsule [Kadian],BrandedDrug
+1110673,Morphine 30 MG 12 hour Extended Release Tablet,ClinicalDrug
+1110674,Morphine 60 MG 12 hour Extended Release Tablet,ClinicalDrug
+1110677,Morphine 15 MG 12 hour Extended Release Tablet,ClinicalDrug
+1110679,Morphine 5 MG Oral Tablet,ClinicalDrug
+1110680,Morphine 25 MG Oral Tablet,ClinicalDrug
+1110681,Morphine 50 MG Oral Tablet,ClinicalDrug
+1110706,Morphine 200 MG 12 hour Extended Release Tablet,ClinicalDrug
+1110707,Morphine 10 MG 24 Hour Extended Release Capsule,ClinicalDrug
+1110708,Morphine 30 MG Extended Release Capsule,ClinicalDrug
+1110709,Morphine 60 MG Extended Release Capsule,ClinicalDrug
+1110710,Morphine 6 MG/ML Oral Solution,ClinicalDrug
+1110711,Morphine 60 MG Rectal Suppository,ClinicalDrug
+1110727,cyproheptadine,Ingredient
+1110731,Cyproheptadine 4 MG,ClinicalDrugComp
+1110753,cyproheptadine 0.5 MG/ML,ClinicalDrugComp
+1110822,Morphine 100 MG Rectal Suppository,ClinicalDrug
+1110823,Morphine 200 MG Rectal Suppository,ClinicalDrug
+1110826,Morphine 20 MG 12 hour Extended Release Tablet,ClinicalDrug
+1110827,Morphine 50 MG 12 hour Extended Release Tablet,ClinicalDrug
+1110828,Morphine 10 MG 12 hour Extended Release Capsule,ClinicalDrug
+1110829,Morphine 15 MG 12 hour Extended Release Capsule,ClinicalDrug
+1110830,Morphine 30 MG 12 hour Extended Release Capsule,ClinicalDrug
+1110831,Morphine 60 MG 12 hour Extended Release Capsule,ClinicalDrug
+1110892,Morphine 100 MG 12 hour Extended Release Capsule,ClinicalDrug
+1110893,Morphine 200 MG 12 hour Extended Release Capsule,ClinicalDrug
+1110898,Morphine 15 MG Rectal Suppository,ClinicalDrug
+1110899,Morphine 20 MG/ML Injectable Solution,ClinicalDrug
+1110922,Morphine 30 MG Extended Release Capsule [Kadian],BrandedDrug
+1110923,Morphine 60 MG Extended Release Capsule [Kadian],BrandedDrug
+1110924,Morphine 100 MG 24 Hour Extended Release Capsule,ClinicalDrug
+1110925,Morphine 100 MG Extended Release Tablet,ClinicalDrug
+1110926,Morphine 10 MG Disintegrating Tablet,ClinicalDrug
+1110927,Morphine 2 MG/ML Oral Solution,ClinicalDrug
+1110928,Morphine 15 MG Oral Capsule,ClinicalDrug
+1110930,Morphine 15 MG/ML Injectable Solution,ClinicalDrug
+1110931,Morphine 20 MG 24 Hour Extended Release Capsule,ClinicalDrug
+1110942,omalizumab,Ingredient
+1110982,Morphine 4 MG/ML Oral Solution,ClinicalDrug
+1110983,Morphine 2 MG/ML Injectable Solution,ClinicalDrug
+1110984,Morphine 30 MG Oral Capsule,ClinicalDrug
+1110985,Morphine 30 MG Extended Release Tablet,ClinicalDrug
+1110986,Morphine 3 MG/ML Injectable Solution,ClinicalDrug
+1110987,Morphine 50 MG 24 Hour Extended Release Capsule,ClinicalDrug
+1110988,Morphine 60 MG Extended Release Tablet,ClinicalDrug
+1110989,Morphine 8 MG/ML Injectable Solution,ClinicalDrug
+1110990,Morphine 200 MG Extended Release Tablet,ClinicalDrug
+1111132,Morphine 15 MG Extended Release Tablet,ClinicalDrug
+1111133,Morphine 20 MG/ML Oral Solution,ClinicalDrug
+1111134,Morphine 10 MG/ML Injectable Solution,ClinicalDrug
+1111135,Morphine 50 MG,ClinicalDrugComp
+1111136,Morphine 15 MG,ClinicalDrugComp
+1111138,Morphine 20 MG/ML,ClinicalDrugComp
+1111139,Morphine 0.5 MG/ML,ClinicalDrugComp
+1111140,Morphine 1 MG/ML,ClinicalDrugComp
+1111141,Morphine 2 MG/ML,ClinicalDrugComp
+1111162,Morphine 4 MG/ML,ClinicalDrugComp
+1111163,Morphine 5 MG/ML,ClinicalDrugComp
+1111164,Morphine 8 MG/ML,ClinicalDrugComp
+1111165,morphine 10 MG/ML,ClinicalDrugComp
+1111166,morphine 15 MG/ML,ClinicalDrugComp
+1111167,Morphine 25 MG/ML,ClinicalDrugComp
+1111171,Morphine 60 MG,ClinicalDrugComp
+1111192,Morphine 100 MG,ClinicalDrugComp
+1111200,Morphine 40 MG,ClinicalDrugComp
+1111201,Morphine 120 MG,ClinicalDrugComp
+1111222,Morphine 150 MG,ClinicalDrugComp
+1111225,Morphine 6 MG/ML,ClinicalDrugComp
+1111226,Morphine 25 MG,ClinicalDrugComp
+1111228,Morphine 90 MG,ClinicalDrugComp
+1111231,Morphine 20 MG Extended Release Capsule,ClinicalDrug
+1111252,Morphine 50 MG Extended Release Capsule,ClinicalDrug
+1111253,Morphine 100 MG Extended Release Capsule,ClinicalDrug
+1111254,Morphine 90 MG 24 Hour Extended Release Capsule [Avinza],BrandedDrug
+1111256,Morphine 60 MG 24 Hour Extended Release Capsule [Avinza],BrandedDrug
+1111257,Morphine 30 MG 24 Hour Extended Release Capsule [Avinza],BrandedDrug
+1111260,Morphine 0.1 MG/ML Injectable Solution,ClinicalDrug
+1111289,Morphine 80 MG Extended Release Capsule [Kadian],BrandedDrug
+1111291,Morphine 10 MG Extended Release Capsule [Kadian],BrandedDrug
+1111312,Morphine 14.3 MG/ML,ClinicalDrugComp
+1111313,0.7 ML Morphine 14.3 MG/ML Prefilled Syringe,ClinicalDrug
+1111316,Morphine 6 MG/ML Injectable Solution,ClinicalDrug
+1111317,10 ML Morphine 1 MG/ML Prefilled Syringe,ClinicalDrug
+1111318,morphine sulfate 45 MG,ClinicalDrugComp
+1111319,morphine sulfate 45 MG Extended Release Oral Capsule,ClinicalDrug
+1111320,morphine sulfate 45 MG Extended Release Oral Capsule [Avinza],BrandedDrug
+1111321,morphine sulfate 75 MG,ClinicalDrugComp
+1111352,morphine sulfate 75 MG Extended Release Oral Capsule,ClinicalDrug
+1111353,morphine sulfate 75 MG Extended Release Oral Capsule [Avinza],BrandedDrug
+1111706,zafirlukast,Ingredient
+1111707,zafirlukast 20 MG Oral Tablet,ClinicalDrug
+1111708,zafirlukast 20 MG Oral Tablet [Accolate],BrandedDrug
+1111709,zafirlukast 10 MG Oral Tablet [Accolate],BrandedDrug
+1111710,zafirlukast 10 MG Oral Tablet,ClinicalDrug
+1111711,zafirlukast 20 MG,ClinicalDrugComp
+1112807,aspirin,Ingredient
+1112834,aspirin 800 MG Extended Release Oral Tablet,ClinicalDrug
+1112835,aspirin 650 MG / butalbital 50 MG Oral Tablet,ClinicalDrug
+1112836,aspirin 120 MG Rectal Suppository,ClinicalDrug
+1112837,aspirin 125 MG Rectal Suppository,ClinicalDrug
+1112838,aspirin 200 MG Rectal Suppository,ClinicalDrug
+1112839,aspirin 300 MG Rectal Suppository,ClinicalDrug
+1112840,aspirin 324 MG Oral Tablet,ClinicalDrug
+1112841,aspirin 325 MG Oral Capsule,ClinicalDrug
+1112892,aspirin 325 MG Delayed Release Oral Tablet,ClinicalDrug
+1112893,aspirin 325 MG Rectal Suppository,ClinicalDrug
+1112894,aspirin 325 MG Chewable Tablet,ClinicalDrug
+1112896,aspirin 500 MG Oral Tablet,ClinicalDrug
+1112897,aspirin 60 MG Rectal Suppository,ClinicalDrug
+1112898,aspirin 600 MG Rectal Suppository,ClinicalDrug
+1112899,aspirin 650 MG Rectal Suppository,ClinicalDrug
+1112900,aspirin 650 MG Oral Tablet,ClinicalDrug
+1112901,aspirin 80 MG Chewable Tablet,ClinicalDrug
+1112921,ipratropium,Ingredient
+1112922,aspirin 162 MG Delayed Release Oral Tablet,ClinicalDrug
+1112923,aspirin 300 MG Oral Tablet,ClinicalDrug
+1112958,aspirin 162 MG Delayed Release Oral Tablet [Halfprin],BrandedDrug
+1112960,aspirin 81 MG Chewable Tablet [St. Joseph Aspirin],BrandedDrug
+1112961,aspirin 81 MG Delayed Release Oral Tablet [Ascriptin Enteric],BrandedDrug
+1112978,Ipratropium 0.04 MG/ACTUAT Inhalant Solution,ClinicalDrug
+1113006,Ipratropium 0.167 MG/ML,ClinicalDrugComp
+1113012,Aspirin 81 MG Enteric Coated Tablet [Ecotrin Low Strength Adult],BrandedDrug
+1113013,aspirin 81 MG Delayed Release Oral Tablet [Halfprin],BrandedDrug
+1113014,aspirin 325 MG Oral Tablet [Aspir-trin],BrandedDrug
+1113015,aspirin 325 MG Oral Tablet [Aspirtab],BrandedDrug
+1113016,aspirin 325 MG Oral Tablet [Bayer Aspirin],BrandedDrug
+1113017,aspirin 325 MG Oral Tablet [Empirin],BrandedDrug
+1113018,aspirin 325 MG Delayed Release Oral Tablet [Entercote],BrandedDrug
+1113019,aspirin 325 MG Oral Tablet [Gennin-FC],BrandedDrug
+1113021,aspirin 325 MG Oral Tablet [Norwich Aspirin],BrandedDrug
+1113033,ipratropium 0.6 MG/ML Nasal Spray,ClinicalDrug
+1113036,165 ACTUAT Ipratropium Bromide 0.042 MG/ACTUAT Nasal Inhaler,QuantClinicalDrug
+1113037,ipratropium bromide 0.018 MG/ACTUAT,ClinicalDrugComp
+1113038,ipratropium bromide 0.021 MG/ACTUAT,ClinicalDrugComp
+1113039,345 ACTUAT Ipratropium Bromide 0.021 MG/ACTUAT Nasal Inhaler,QuantClinicalDrug
+1113040,ipratropium bromide 0.017 MG/ACTUAT,ClinicalDrugComp
+1113041,200 ACTUAT ipratropium bromide 0.017 MG/ACTUAT Metered Dose Inhaler,QuantClinicalDrug
+1113052,aspirin 325 MG Oral Tablet [Ridiprin],BrandedDrug
+1113053,aspirin 325 MG Oral Tablet [Uni-Tren],BrandedDrug
+1113054,Aspirin 500 MG Oral Tablet [Arthritis Foundation Aspirin],BrandedDrug
+1113055,aspirin 500 MG Oral Tablet [Bayer Aspirin],BrandedDrug
+1113057,aspirin 500 MG Oral Tablet [Norwich Aspirin],BrandedDrug
+1113058,aspirin 500 MG Oral Tablet [Valomag],BrandedDrug
+1113059,aspirin 81 MG Oral Tablet [Acuprin 81],BrandedDrug
+1113060,Aspirin 81 MG Oral Tablet [Halfprin],BrandedDrug
+1113061,Aspirin 81 MG Oral Tablet [Low Dose ASA],BrandedDrug
+1113072,200 ACTUAT ipratropium bromide 0.018 MG/ACTUAT Metered Dose Inhaler,QuantClinicalDrug
+1113073,Ipratropium Bromide 0.021 MG/ACTUAT Nasal Spray,ClinicalDrug
+1113074,Ipratropium Bromide 0.042 MG/ACTUAT Nasal Spray,ClinicalDrug
+1113075,ipratropium bromide 0.2 MG/ML,ClinicalDrugComp
+1113076,ipratropium bromide 0.2 MG/ML Inhalation Solution,ClinicalDrug
+1113077,165 ACTUAT Ipratropium Bromide 0.042 MG/ACTUAT Nasal Inhaler [Atrovent],QuantBrandedDrug
+1113078,200 ACTUAT albuterol 0.09 MG/ACTUAT / ipratropium bromide 0.018 MG/ACTUAT Inhalation Spray [Combivent],QuantBrandedDrug
+1113079,200 ACTUAT ipratropium bromide 0.017 MG/ACTUAT Metered Dose Inhaler [Atrovent],QuantBrandedDrug
+1113081,345 ACTUAT Ipratropium Bromide 0.021 MG/ACTUAT Nasal Inhaler [Atrovent],QuantBrandedDrug
+1113089,Aspirin 325 MG / Oxycodone 2.44 MG Oral Tablet,ClinicalDrug
+1113090,Aspirin 325 MG / Oxycodone 4.88 MG Oral Tablet,ClinicalDrug
+1113091,aspirin 130 MG Rectal Suppository,ClinicalDrug
+1113102,ipratropium bromide 0.2 MG/ML Inhalation Solution [Atrovent],BrandedDrug
+1113112,aspirin 195 MG Rectal Suppository,ClinicalDrug
+1113114,aspirin 65 MG Oral Tablet,ClinicalDrug
+1113115,aspirin 60 MG Oral Tablet,ClinicalDrug
+1113117,aspirin 600 MG Oral Tablet,ClinicalDrug
+1113118,aspirin 325 MG Extended Release Oral Tablet,ClinicalDrug
+1113120,aspirin 300 MG / methylprednisolone 1.5 MG Oral Tablet,ClinicalDrug
+1113143,aspirin 100 MG Oral Tablet,ClinicalDrug
+1113144,aspirin 650 MG Oral Powder,ClinicalDrug
+1113145,aspirin 850 MG Oral Powder,ClinicalDrug
+1113147,aspirin 100 MG / dipyridamole 100 MG Oral Capsule,ClinicalDrug
+1113148,Aspirin 81 MG / Calcium Carbonate 250 MG Oral Tablet,ClinicalDrug
+1113149,ascorbic acid 200 MG / aspirin 500 MG Oral Tablet,ClinicalDrug
+1113173,aspirin 125 MG Oral Tablet,ClinicalDrug
+1113176,aspirin 150 MG / pyridinolcarbamate 250 MG Extended Release Oral Tablet,ClinicalDrug
+1113203,Aspirin 500 MG Enteric Coated Tablet [Ecotrin Maximum Strength],BrandedDrug
+1113236,Aspirin 325 MG / Oxycodone 5 MG Oral Tablet,ClinicalDrug
+1113237,aspirin 325 MG / pentazocine 12.5 MG Oral Tablet,ClinicalDrug
+1113240,aspirin 125 MG,ClinicalDrugComp
+1113241,aspirin 130 MG,ClinicalDrugComp
+1113262,aspirin 150 MG,ClinicalDrugComp
+1113263,aspirin 165 MG,ClinicalDrugComp
+1113264,aspirin 195 MG,ClinicalDrugComp
+1113265,aspirin 240 MG,ClinicalDrugComp
+1113266,aspirin 260 MG,ClinicalDrugComp
+1113267,aspirin 300 MG,ClinicalDrugComp
+1113268,aspirin 324 MG,ClinicalDrugComp
+1113270,aspirin 400 MG,ClinicalDrugComp
+1113271,aspirin 486 MG,ClinicalDrugComp
+1113302,aspirin 500 MG,ClinicalDrugComp
+1113303,aspirin 60 MG,ClinicalDrugComp
+1113304,aspirin 600 MG,ClinicalDrugComp
+1113305,aspirin 65 MG,ClinicalDrugComp
+1113306,aspirin 650 MG,ClinicalDrugComp
+1113307,aspirin 75 MG,ClinicalDrugComp
+1113309,aspirin 81 MG,ClinicalDrugComp
+1113310,aspirin 850 MG,ClinicalDrugComp
+1113311,aspirin 975 MG,ClinicalDrugComp
+1113342,aspirin 120 MG,ClinicalDrugComp
+1113343,aspirin 162 MG,ClinicalDrugComp
+1113344,aspirin 200 MG,ClinicalDrugComp
+1113346,aspirin 81 MG Chewable Tablet,ClinicalDrug
+1113347,aspirin 80 MG,ClinicalDrugComp
+1113348,aspirin 100 MG,ClinicalDrugComp
+1113349,aspirin 421 MG,ClinicalDrugComp
+1113350,aspirin 25 MG,ClinicalDrugComp

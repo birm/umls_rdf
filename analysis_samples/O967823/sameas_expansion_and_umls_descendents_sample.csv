@@ -1,0 +1,365 @@
+concept_id,label,concept_class
+1074275,Sodium chloride 30 mg/mL solution for injection,ClinicalDrug
+1201537,{4 (0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector) } Pack,ClinicalPack
+1201538,{4 (0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]) } Pack [Yuflyma Auto-Injector 40 MG/0.4 ML Starter Pack - Plaque Psoriasis],BrandedPack
+1201539,{6 (0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector) } Pack,ClinicalPack
+1201540,"{6 (0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]) } Pack [Yuflyma Auto-Injector 40 MG/0.4 ML Starter Package for Crohn's Disease, Pediatric Crohn's Disease, Ulcerative Colitis or Hidradenitis Suppurativa]",BrandedPack
+1201612,0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector,QuantClinicalDrug
+1201613,0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma],QuantBrandedDrug
+1201614,0.4 ML adalimumab-aaty 100 MG/ML Prefilled Syringe,QuantClinicalDrug
+1201615,0.4 ML adalimumab-aaty 100 MG/ML Prefilled Syringe [Yuflyma],QuantBrandedDrug
+1302291,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 8 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 13.6 - 14.0 kg],BrandedPack
+1302292,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 9 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 14.1 - 14.5 kg],BrandedPack
+1302293,{10 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 14.6 - 15.0 kg],BrandedPack
+1302294,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 9 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 15.1 - 15.5 kg],BrandedPack
+1302295,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 10 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 15.6 - 16.0 kg],BrandedPack
+1302296,{11 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 16.1 - 16.5 kg],BrandedPack
+1302297,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 10 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 16.6 - 17.0 kg],BrandedPack
+1302298,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 11 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 17.1 - 17.5 kg],BrandedPack
+1302299,{12 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 17.6 - 18.0 kg],BrandedPack
+1302300,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 11 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 18.1 - 18.5 kg],BrandedPack
+1302301,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 12 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 18.6 - 19.0 kg],BrandedPack
+1302302,{13 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 19.1 - 19.5 kg],BrandedPack
+1302303,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 12 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 19.6 - 20.0 kg],BrandedPack
+1302304,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 13 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 20.1 - 20.5 kg],BrandedPack
+1302305,{14 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 20.6 - 21.0 kg],BrandedPack
+1351622,leuprolide acetate 5 MG/ML Injectable Solution,ClinicalDrug
+1361669,5 ML bupivacaine hydrochloride 2.5 MG/ML Injection,QuantClinicalDrug
+1361709,100 ML sodium chloride 72 MG/ML Injection,QuantClinicalDrug
+1396756,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 1 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 3.1 - 3.5 kg],BrandedPack
+1396758,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 2 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 3.6 - 4.0 kg],BrandedPack
+1396760,{3 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 4.1 - 4.5 kg],BrandedPack
+1396762,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 2 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 4.6 - 5.0 kg],BrandedPack
+1396764,{2 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 2.6 - 3.0 kg],BrandedPack
+1396766,{9 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 13.1 - 13.5 kg],BrandedPack
+1396768,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 6 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 9.6 - 10.0 kg],BrandedPack
+1396770,{7 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 10.1 - 10.5 kg],BrandedPack
+1396772,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 6 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 10.6 - 11.0 kg],BrandedPack
+1396774,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 7 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 11.1 - 11.5 kg],BrandedPack
+1396776,{8 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 11.6 - 12.0 kg],BrandedPack
+1396778,{5 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 7.1 - 7.5 kg],BrandedPack
+1396780,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 7 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 12.1 - 12.5 kg],BrandedPack
+1396782,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 4 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 7.6 - 8.0 kg],BrandedPack
+1396784,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 5 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 8.1 - 8.5 kg],BrandedPack
+1396786,{6 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 8.6 - 9.0 kg],BrandedPack
+1396788,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 5 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 9.1 - 9.5 kg],BrandedPack
+1396790,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 3 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 5.1 - 5.5 kg],BrandedPack
+1396792,{4 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 5.6 - 6.0 kg],BrandedPack
+1396794,{2 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 3 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 6.1 - 6.5 kg],BrandedPack
+1396796,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 4 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 6.6 - 7.0 kg],BrandedPack
+1396798,{1 (5.5 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) / 8 (8.3 ML onasemnogene abeparvovec-xioi 20000000000000 VECTOR-GENOMES/ML Injection [Zolgensma]) } Pack [Zolgensma Kit 12.6 - 13.0 kg],BrandedPack
+1465775,Hydra-Neb,BrandName
+1466367,3000 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+1466479,5000 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+1592626,{6 (0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen 40 MG/0.4 ML Starter Pack - Crohn's Disease],BrandedPack
+1592627,{4 (0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen 40 MG/0.4 ML Starter Pack - Psoriasis],BrandedPack
+1592628,{3 (0.8 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]) } Pack [Humira Prefilled Syringe 80 MG/0.8 ML Starter Pack - Pediatric Crohn's Disease],BrandedPack
+1592637,"{3 (0.8 ML adalimumab 100 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen 80 MG/0.8 ML - Starter Package for Crohn's Disease, Ulcerative Colitis or Hidradenitis Suppurativa]",BrandedPack
+1592638,{2 (0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira]) / 1 (0.8 ML adalimumab 100 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen 80 MG/0.8 ML and 40 MG/0.4 ML - Psoriasis/Uveitis Starter Package],BrandedPack
+1592710,0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira],QuantBrandedDrug
+1593548,Sinucleanse,BrandName
+1594145,0.1 ML adalimumab 100 MG/ML Prefilled Syringe [Humira],QuantBrandedDrug
+1594147,0.2 ML adalimumab 100 MG/ML Prefilled Syringe [Humira],QuantBrandedDrug
+1594202,0.8 ML adalimumab 100 MG/ML Auto-Injector [Humira],QuantBrandedDrug
+1594674,100 ML gentamicin 1.2 MG/ML Injection,QuantClinicalDrug
+1594676,50 ML gentamicin 1.2 MG/ML Injection,QuantClinicalDrug
+1718325,0.8 ML adalimumab 100 MG/ML Prefilled Syringe [Humira],QuantBrandedDrug
+1718880,{1 (0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]) / 1 (0.8 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]) } Pack [Humira Pediatric Crohn's Disease Starter Package (2 count)],BrandedPack
+1735702,{4 (0.4 ML adalimumab-adbm 100 MG/ML Auto-Injector) } Pack,ClinicalPack
+1735703,{4 (0.4 ML adalimumab-adbm 100 MG/ML Auto-Injector [Cyltezo]) } Pack [Cyltezo Pen 40 MG/0.4 ML Starter Pack - Psoriasis],BrandedPack
+1735704,{6 (0.4 ML adalimumab-adbm 100 MG/ML Auto-Injector) } Pack,ClinicalPack
+1735705,{6 (0.4 ML adalimumab-adbm 100 MG/ML Auto-Injector [Cyltezo]) } Pack [Cyltezo Pen 40 MG/0.4 ML Starter Pack - Crohn's Disease or Ulcerative Colitis],BrandedPack
+1735755,0.4 ML adalimumab-adbm 100 MG/ML Prefilled Syringe,QuantClinicalDrug
+1735756,0.4 ML adalimumab-adbm 100 MG/ML Prefilled Syringe [Cyltezo],QuantBrandedDrug
+1735757,0.4 ML adalimumab-adbm 100 MG/ML Auto-Injector,QuantClinicalDrug
+1735758,0.4 ML adalimumab-adbm 100 MG/ML Auto-Injector [Cyltezo],QuantBrandedDrug
+1750297,povidone-iodine 100 MG/ML Topical Solution,ClinicalDrug
+1750415,povidone-iodine 100 MG/ML Topical Spray,ClinicalDrug
+1750417,povidone-iodine 100 MG/ML Medicated Pad [Betadine],BrandedDrug
+19000552,MoviPrep,BrandName
+19005436,ENTsol,BrandName
+19007643,sodium chloride 300 MG Oral Tablet,ClinicalDrug
+19011965,Hyper-Sal,BrandName
+19015790,Normosol-R,BrandName
+19023625,TriLyte,BrandName
+19025659,Plasma-lyte 148,BrandName
+19025691,Plasmalyte A,BrandName
+19027805,bacitracin 0.4 UNT/MG / neomycin 0.0035 MG/MG / polymyxin B 5 UNT/MG Topical Ointment,ClinicalDrug
+19028193,isopropyl alcohol 0.7 ML/ML Medicated Pad,ClinicalDrug
+19030562,Dianeal PD-2/4.25,BrandName
+19030566,Dianeal PD-2/2.5,BrandName
+19030568,Dianeal PD-2/1.5,BrandName
+19030570,Dianeal Low Calcium 1.5,BrandName
+19030592,Dianeal Low Calcium 4.25,BrandName
+19030664,Dianeal Low Calcium 2.5,BrandName
+19030734,Clinimix E 4.25/5,BrandName
+19030944,Clinimix E 2.75/5,BrandName
+19031062,Clinimix E 5/15,BrandName
+19031064,Clinimix E 5/20,BrandName
+19031066,Clinimix E 5/25,BrandName
+19031102,Ionosol-B,BrandName
+19031184,Normosol-M,BrandName
+19031319,ProcalAmine 3,BrandName
+19032778,BSS Ophthalmic Solution,BrandName
+19034580,Simply Saline,BrandName
+19045906,povidone-iodine 100 MG/ML Topical Solution [Betadine],BrandedDrug
+19045907,povidone-iodine 100 MG/ML Topical Solution [Clinidine],BrandedDrug
+19048078,"Aminosyn 3.5 % M, Sulfite Free",BrandName
+19051733,Sea Soft,BrandName
+19053655,Altamist,BrandName
+19055574,Ayr Saline Nasal,BrandName
+19057152,Broncho Saline,BrandName
+19059244,sodium chloride 600 MG Extended Release Oral Tablet,ClinicalDrug
+19060742,Deep Sea,BrandName
+19070273,Isolyte S,BrandName
+19071154,sodium chloride 11.1 MG/ML Nasal Spray,ClinicalDrug
+19071624,Little Noses,BrandName
+19073867,Muro 128,BrandName
+19075373,cimetidine 6 MG/ML Injectable Solution,ClinicalDrug
+19075552,Ocean brand of sodium chloride,BrandName
+19077506,Physiolyte,BrandName
+19077508,Physiosol,BrandName
+19077607,100 ML gentamicin 0.8 MG/ML Injection,QuantClinicalDrug
+19077631,50 ML gentamicin 1.6 MG/ML Injection,QuantClinicalDrug
+19079523,sodium chloride 9 MG/ML Nasal Solution,ClinicalDrug
+19079524,sodium chloride 9 MG/ML Injectable Solution,ClinicalDrug
+19079527,sodium chloride 1000 MG Oral Tablet,ClinicalDrug
+19079551,sodium chloride 234 MG/ML Injectable Solution,ClinicalDrug
+19082727,Thermotabs,BrandName
+19082858,Tis-U-Sol,BrandName
+19088940,Saljet,BrandName
+19100361,Golytely,BrandName
+19121682,ethanol 0.62 ML/ML Topical Gel,ClinicalDrug
+19126665,sodium chloride 6.5 MG/ML Nasal Spray,ClinicalDrug
+19126697,sodium chloride 6.5 MG/ML Nasal Solution,ClinicalDrug
+19126701,sodium chloride 6.5 MG/ML Nasal Solution [Ayr Saline Nasal],BrandedDrug
+19126717,sodium chloride 6.5 MG/ML Nasal Spray [Ayr Saline Nasal],BrandedDrug
+19126731,sodium chloride 6.5 MG/ML Nasal Spray [Deep Sea],BrandedDrug
+19126751,sodium chloride 6.5 MG/ML Nasal Spray [Sea Soft],BrandedDrug
+19127197,0.8 ML adalimumab 50 MG/ML Prefilled Syringe [Humira],QuantBrandedDrug
+19127213,10 ML sodium chloride 9 MG/ML Prefilled Syringe,QuantClinicalDrug
+19127417,500 ML sodium chloride 30 MG/ML Injection,QuantClinicalDrug
+19127418,500 ML sodium chloride 50 MG/ML Injection,QuantClinicalDrug
+19128370,follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection [Menopur],BrandedDrug
+19130340,povidone-iodine 100 MG/ML Medicated Pad,ClinicalDrug
+19131060,magnesium chloride 0.00148 MEQ/ML / potassium chloride 0.0497 MEQ/ML / sodium acetate 0.0163 MEQ/ML / sodium chloride 0.0899 MEQ/ML / sodium gluconate 5.02 MG/ML Injectable Solution [Normosol-R],BrandedDrug
+19131240,magnesium sulfate 0.2 MG/ML / monobasic potassium phosphate 0.063 MG/ML / potassium chloride 0.005 MEQ/ML / sodium chloride 0.14 MEQ/ML / sodium phosphate dihydrate 0.088 MG/ML Irrigation Solution [Tis-U-Sol],BrandedDrug
+19132168,sodium chloride 6.9 MG/ML Nasal Spray,ClinicalDrug
+19132180,sodium chloride 30 MG/ML Nasal Solution,ClinicalDrug
+19132181,sodium chloride 30 MG/ML Nasal Spray,ClinicalDrug
+19132186,sodium chloride 21.6 MG/ML Nasal Solution,ClinicalDrug
+19133087,{6 (0.8 ML adalimumab 50 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen - Crohn's Disease Starter Pack],BrandedPack
+19135459,sodium chloride 30 MG/ML Nasal Spray [ENTsol],BrandedDrug
+1990124,Normal saline,Answer
+35603105,"antihemophilic factor, human recombinant residues 743-1636 deleted 1 UNT Prefilled Syringe [Xyntha]",BrandedDrug
+35603161,Gavilyte-H,BrandName
+35603169,"antihemophilic factor, human recombinant residues 743-1636 deleted 1 UNT Injection [Xyntha]",BrandedDrug
+35604011,10 ML bupivacaine hydrochloride 2.5 MG/ML Injection,QuantClinicalDrug
+35604012,10 ML bupivacaine hydrochloride 2.5 MG/ML Injection [Marcaine],QuantBrandedDrug
+35604015,30 ML bupivacaine hydrochloride 2.5 MG/ML Injection,QuantClinicalDrug
+35604016,30 ML bupivacaine hydrochloride 2.5 MG/ML Injection [Marcaine],QuantBrandedDrug
+35604017,10 ML bupivacaine hydrochloride 2.5 MG/ML Injection [Sensorcaine],QuantBrandedDrug
+35604019,30 ML bupivacaine hydrochloride 2.5 MG/ML Injection [Sensorcaine],QuantBrandedDrug
+35604020,20 ML bupivacaine hydrochloride 2.5 MG/ML Injection,QuantClinicalDrug
+35604492,0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira],QuantBrandedDrug
+35623268,Sodium chloride 600 mg prolonged-release oral tablet,ClinicalDrug
+35623868,Povidone iodine 100 mg/mL cutaneous solution,ClinicalDrug
+36030038,potassium chloride / sodium chloride,MultipleIngredients
+36030058,glucose / potassium chloride / sodium chloride,MultipleIngredients
+36227313,sodium chloride Injectable Product,ClinicalDoseGroup
+36227315,sodium chloride Nasal Product,ClinicalDoseGroup
+36227318,sodium chloride Oral Product,ClinicalDoseGroup
+36228343,Ocean brand of sodium chloride Nasal Product,BrandedDoseGroup
+36229534,Little Noses Nasal Product,BrandedDoseGroup
+36230174,Sea Soft Nasal Product,BrandedDoseGroup
+36231087,Ayr Saline Nasal Nasal Product,BrandedDoseGroup
+36234323,Altamist Nasal Product,BrandedDoseGroup
+36235098,Deep Sea Nasal Product,BrandedDoseGroup
+36236755,Cleanoz Saline Nasal Product,BrandedDoseGroup
+36237367,ENTsol Nasal Product,BrandedDoseGroup
+36239057,Simply Saline Nasal Product,BrandedDoseGroup
+36239828,Mycinaire Nasal Product,BrandedDoseGroup
+36240322,Rhinaris Nasal Product,BrandedDoseGroup
+36242734,SaltAire Nasal Product,BrandedDoseGroup
+36246777,Nasadrops Nasal Product,BrandedDoseGroup
+36249660,{4 (0.8 ML adalimumab 50 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen - Psoriasis Starter Pack],BrandedPack
+36683888,Lidocaine hydrochloride 10 mg/mL solution for injection,ClinicalDrug
+36684025,Sodium chloride 9 mg/mL solution for injection,ClinicalDrug
+37002410,sodium chloride 500 MG Oral Tablet,ClinicalDrug
+37002945,Regiocit,BrandName
+37003541,sodium chloride dihyrdate,PreciseIngredient
+37205140,Heparin (as porcine heparin sodium) 100 unit/mL solution for injection,ClinicalDrug
+37205400,Cimetidine 6 mg/mL solution for injection,ClinicalDrug
+37205526,Sodium chloride 50 mg/mL solution for injection,ClinicalDrug
+37206702,Sodium chloride-containing product in solution for irrigation,ClinicalDrugForm
+40080064,sodium chloride Extended Release Oral Tablet,ClinicalDrugForm
+40080069,sodium chloride Injectable Solution,ClinicalDrugForm
+40080074,sodium chloride Nasal Gel,ClinicalDrugForm
+40080077,sodium chloride Nasal Solution,ClinicalDrugForm
+40080079,sodium chloride Nasal Solution [Ayr Saline Nasal],BrandedDrugForm
+40080081,sodium chloride Nasal Solution [ENTsol],BrandedDrugForm
+40080090,sodium chloride Nasal Spray,ClinicalDrugForm
+40080091,sodium chloride Nasal Spray [Ayr Saline Nasal],BrandedDrugForm
+40080093,sodium chloride Nasal Spray [Deep Sea],BrandedDrugForm
+40080101,sodium chloride Nasal Spray [Sea Soft],BrandedDrugForm
+40080102,sodium chloride Nasal Spray [Simply Saline],BrandedDrugForm
+40080108,sodium chloride Oral Solution,ClinicalDrugForm
+40080109,sodium chloride Oral Tablet,ClinicalDrugForm
+40129088,sodium chloride Nasal Gel [ENTsol],BrandedDrugForm
+40139270,sodium chloride Nasal Spray [ENTsol],BrandedDrugForm
+40141424,sodium chloride Prefilled Syringe,ClinicalDrugForm
+40162042,GaviLyte-C,BrandName
+40163778,GaviLyte-N,BrandName
+40163779,Gavilyte-G,BrandName
+40163897,2.5 ML sodium chloride 9 MG/ML Prefilled Syringe,QuantClinicalDrug
+40171773,Rhinaris,BrandName
+40175446,potassium chloride 0.4 MEQ / sodium chloride 7.69 MEQ Oral Tablet,ClinicalDrug
+40175447,potassium chloride 0.4 MEQ / sodium chloride 7.69 MEQ Oral Tablet [Thermotabs],BrandedDrug
+40220357,1000 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40220358,5 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221362,sodium chloride Injection,ClinicalDrugForm
+40221363,25 ML sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+40221365,50 ML sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+40221366,100 ML sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+40221367,250 ML sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+40221368,500 ML sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+40221369,1000 ML sodium chloride 4.5 MG/ML Injection,QuantClinicalDrug
+40221371,30 ML sodium chloride 234 MG/ML Injection,QuantClinicalDrug
+40221374,20 ML sodium chloride 146 MG/ML Injection,QuantClinicalDrug
+40221376,40 ML sodium chloride 146 MG/ML Injection,QuantClinicalDrug
+40221381,150 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221383,25 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221384,50 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221385,100 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221386,250 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221387,500 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221388,2 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221389,10 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40221390,20 ML sodium chloride 9 MG/ML Injection,QuantClinicalDrug
+40225862,benzalkonium chloride 1.3 MG/ML / lidocaine hydrochloride 5 MG/ML Topical Cream,ClinicalDrug
+40225968,bupivacaine hydrochloride 5 MG/ML Injectable Solution [Marcaine],BrandedDrug
+40226299,sodium chloride 2 MG/ML Nasal Spray,ClinicalDrug
+40227012,lidocaine hydrochloride 10 MG/ML Injectable Solution,ClinicalDrug
+40227019,lidocaine hydrochloride 10 MG/ML Injectable Solution [Xylocaine],BrandedDrug
+40228031,SaltAire,BrandName
+40228038,sodium chloride 2 MG/ML Nasal Spray [Rhinaris],BrandedDrug
+40228047,sodium chloride 21 MG/ML Nasal Solution,ClinicalDrug
+40228048,sodium chloride 21 MG/ML Nasal Solution [SaltAire],BrandedDrug
+40228050,sodium chloride Nasal Solution [SaltAire],BrandedDrugForm
+40228058,sodium chloride Nasal Spray [Rhinaris],BrandedDrugForm
+40229528,benzalkonium chloride 1.3 MG/ML Medicated Pad,ClinicalDrug
+40229536,benzalkonium chloride 1.33 MG/ML Medicated Pad,ClinicalDrug
+40229820,Cleanoz Saline,BrandName
+40229871,povidone-iodine 100 MG/ML Topical Solution [Ovadine],BrandedDrug
+40230237,sodium chloride 9 MG/ML Nasal Solution [Cleanoz Saline],BrandedDrug
+40230244,sodium chloride Nasal Solution [Cleanoz Saline],BrandedDrugForm
+40234046,triamcinolone acetonide 40 MG/ML Injectable Suspension [Kenalog],BrandedDrug
+40234196,water 991 MG/ML Ophthalmic Irrigation Solution,ClinicalDrug
+40235117,Clinimix E 4.25/10,BrandName
+40235760,Pretz,BrandName
+40239177,Extraneal,BrandName
+40240364,1 ML leuprolide acetate 3.75 MG/ML Prefilled Syringe [Lupron],QuantBrandedDrug
+40241111,sodium chloride 0.011 MG/MG Nasal Gel,ClinicalDrug
+40241112,sodium chloride 0.011 MG/MG Nasal Gel [ENTsol],BrandedDrug
+40241869,sodium chloride 6.9 MG/ML Nasal Spray [Mycinaire],BrandedDrug
+40241876,sodium chloride 20 MG/ML Nasal Spray,ClinicalDrug
+40241880,sodium chloride Nasal Spray [Mycinaire],BrandedDrugForm
+40242303,Nebusal,BrandName
+40242307,Mycinaire,BrandName
+40242644,1000 ML sodium chloride 72 MG/ML Injection,QuantClinicalDrug
+40243267,"Aminosyn 7 % with Electrolytes, Sulfite-Free",BrandName
+40243268,"Aminosyn 8.5 % with Electrolytes, Sulfite-Free",BrandName
+40243278,"Aminosyn II 8.5 % with Electrolytes, Sulfite-Free",BrandName
+40243609,Plasma-Lyte 56 in 5 % Dextrose,BrandName
+40243664,Trophamine 10 %,BrandName
+40243665,Trophamine 6 %,BrandName
+40243946,Isolyte S in 5 % Dextrose,BrandName
+40244018,Normosol-R in 5 % Dextrose,BrandName
+4160077,Hypertonic saline,Substance
+4168961,Glucose- and potassium chloride- and sodium chloride-containing product,PharmabiolProduct
+4207394,Sodium chloride-containing product in parenteral dose form,ClinicalDrugForm
+4211416,Sodium chloride 9 mg/mL nasal drops,ClinicalDrug
+4212022,Sodium chloride 300 mg oral tablet,ClinicalDrug
+4230670,Sodium chloride-containing product in oral dose form,ClinicalDrugForm
+42609751,1 ML infliximab-dyyb 120 MG/ML Pen Injector [Zymfentra],QuantBrandedDrug
+42609753,1 ML infliximab-dyyb 120 MG/ML Prefilled Syringe [Zymfentra],QuantBrandedDrug
+4268931,Sodium (22-Na) chloride,Substance
+42707025,sodium chloride Nasal Spray [Ocean brand of sodium chloride],BrandedDrugForm
+42707676,water 984 MG/ML Ophthalmic Irrigation Solution [Dorama-Neo],BrandedDrug
+42709158,sodium chloride 6.5 MG/ML Nasal Spray [Ocean brand of sodium chloride],BrandedDrug
+4290069,Sodium chloride-containing product,PharmabiolProduct
+42901020,Nasadrops,BrandName
+42901022,sodium chloride Nasal Solution [Nasadrops],BrandedDrugForm
+42901703,sodium chloride 9 MG/ML Nasal Solution [Nasadrops],BrandedDrug
+43011816,"heparin sodium, porcine 100 UNT/ML Injectable Solution",ClinicalDrug
+43011966,"heparin sodium, porcine 2 UNT/ML Injectable Solution",ClinicalDrug
+43013843,"sodium chloride, (22)Na",PreciseIngredient
+4305026,Potassium chloride- and sodium chloride-containing product,PharmabiolProduct
+4305895,Sodium chloride,Substance
+44507879,PulmoSal,BrandName
+45775953,Nutrilyte II,BrandName
+45775956,calcium chloride 16.55 MG/ML / magnesium chloride 25.5 MG/ML / potassium acetate 98 MG/ML / sodium acetate 64.6 MG/ML / sodium chloride 74.5 MG/ML Injectable Solution [Nutrilyte II],BrandedDrug
+45776007,sodium chloride Nasal Spray [Altamist],BrandedDrugForm
+45776008,sodium chloride 6.5 MG/ML Nasal Spray [Altamist],BrandedDrug
+45776009,sodium chloride Nasal Spray [Little Noses],BrandedDrugForm
+45776010,sodium chloride 6.5 MG/ML Nasal Spray [Little Noses],BrandedDrug
+45777078,{6 (0.8 ML adalimumab 50 MG/ML Prefilled Syringe [Humira]) } Pack [Humira Pediatric Crohn's Disease Starter Package (6 count)],BrandedPack
+45777080,{3 (0.8 ML adalimumab 50 MG/ML Prefilled Syringe [Humira]) } Pack [Humira Pediatric Crohn's Disease Starter Package (3 count)],BrandedPack
+46233806,0.5 ML interferon beta-1a 0.06 MG/ML Auto-Injector [Avonex],QuantBrandedDrug
+46275376,"1000 ML heparin sodium, porcine 2 UNT/ML Injection",QuantClinicalDrug
+46275378,"500 ML heparin sodium, porcine 2 UNT/ML Injection",QuantClinicalDrug
+46275400,"250 ML heparin sodium, porcine 100 UNT/ML Injection",QuantClinicalDrug
+46275567,0.8 ML adalimumab 50 MG/ML Auto-Injector [Humira],QuantBrandedDrug
+46276154,sodium chloride Cartridge,ClinicalDrugForm
+46276155,2 ML sodium chloride 9 MG/ML Cartridge,QuantClinicalDrug
+46276157,3 ML sodium chloride 9 MG/ML Cartridge,QuantClinicalDrug
+600611,Sodium chloride-containing product in oromucosal dose form,ClinicalDrugForm
+702483,sodium chloride 4 MEQ/ML Oral Solution,ClinicalDrug
+722454,0.5 ML interferon beta-1a 0.06 MG/ML Prefilled Syringe [Avonex],QuantBrandedDrug
+740228,{4 (0.8 ML adalimumab 100 MG/ML Auto-Injector [Humira]) } Pack [Humira Pen 80 MG/0.8 ML - Starter Package for Pediatric Ulcerative Colitis],BrandedPack
+740264,1 ML triamcinolone acetonide 40 MG/ML Injection [Kenalog],QuantBrandedDrug
+747534,{4 (0.8 ML adalimumab-adbm 50 MG/ML Auto-Injector) } Pack,ClinicalPack
+747535,{4 (0.8 ML adalimumab-adbm 50 MG/ML Auto-Injector [Cyltezo]) } Pack [Cyltezo Pen 40 MG/0.8 ML Starter Pack - Psoriasis],BrandedPack
+747536,{6 (0.8 ML adalimumab-adbm 50 MG/ML Auto-Injector) } Pack,ClinicalPack
+747537,{6 (0.8 ML adalimumab-adbm 50 MG/ML Auto-Injector [Cyltezo]) } Pack [Cyltezo Pen 40 MG/0.8 ML Starter Package for Crohn's Disease or Ulcerative Colitis],BrandedPack
+747689,{3 (0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector) } Pack,ClinicalPack
+747690,"{3 (0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]) } Pack [Yuflyma Auto-Injector 80 MG/0.8 ML Starter Package for Crohn's Disease, Ulcerative Colitis or Hidradenitis Suppurativa]",BrandedPack
+747691,{3 (0.8 ML adalimumab-aaty 100 MG/ML Prefilled Syringe) } Pack,ClinicalPack
+747692,{3 (0.8 ML adalimumab-aaty 100 MG/ML Prefilled Syringe [Yuflyma]) } Pack [Yuflyma Pediatric Crohn's Disease Starter Package (3 count)],BrandedPack
+747693,{2 (0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector) / 1 (0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector) } Pack,ClinicalPack
+747694,{2 (0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]) / 1 (0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]) } Pack [Yuflyma Auto-Injector 80 MG/0.8 ML and 40 MG/0.4 ML Starter Pack - Plaque Psoriasis],BrandedPack
+747695,{1 (0.4 ML adalimumab-aaty 100 MG/ML Prefilled Syringe) / 1 (0.8 ML adalimumab-aaty 100 MG/ML Prefilled Syringe) } Pack,ClinicalPack
+747696,{1 (0.4 ML adalimumab-aaty 100 MG/ML Prefilled Syringe [Yuflyma]) / 1 (0.8 ML adalimumab-aaty 100 MG/ML Prefilled Syringe [Yuflyma]) } Pack [Yuflyma Prefilled Syringe 80 MG/0.8 ML and 40 MG/0.4 ML Starter Package for Pediatric Crohn's Disease],BrandedPack
+747707,0.8 ML adalimumab-fkjp 50 MG/ML Auto-Injector,QuantClinicalDrug
+747708,0.8 ML adalimumab-fkjp 50 MG/ML Auto-Injector [Hulio],QuantBrandedDrug
+747709,0.4 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe,QuantClinicalDrug
+747710,0.4 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe [Hulio],QuantBrandedDrug
+747711,0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe,QuantClinicalDrug
+747712,0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe [Hulio],QuantBrandedDrug
+747723,0.8 ML adalimumab-adbm 50 MG/ML Prefilled Syringe,QuantClinicalDrug
+747724,0.8 ML adalimumab-adbm 50 MG/ML Prefilled Syringe [Cyltezo],QuantBrandedDrug
+747725,0.2 ML adalimumab-adbm 50 MG/ML Prefilled Syringe,QuantClinicalDrug
+747726,0.2 ML adalimumab-adbm 50 MG/ML Prefilled Syringe [Cyltezo],QuantBrandedDrug
+747727,0.4 ML adalimumab-adbm 50 MG/ML Prefilled Syringe,QuantClinicalDrug
+747728,0.4 ML adalimumab-adbm 50 MG/ML Prefilled Syringe [Cyltezo],QuantBrandedDrug
+747729,0.8 ML adalimumab-adbm 50 MG/ML Auto-Injector,QuantClinicalDrug
+747730,0.8 ML adalimumab-adbm 50 MG/ML Auto-Injector [Cyltezo],QuantBrandedDrug
+747876,0.2 ML adalimumab-aaty 100 MG/ML Prefilled Syringe,QuantClinicalDrug
+747877,0.2 ML adalimumab-aaty 100 MG/ML Prefilled Syringe [Yuflyma],QuantBrandedDrug
+747878,0.8 ML adalimumab-aaty 100 MG/ML Prefilled Syringe,QuantClinicalDrug
+747879,0.8 ML adalimumab-aaty 100 MG/ML Prefilled Syringe [Yuflyma],QuantBrandedDrug
+747880,0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector,QuantClinicalDrug
+747881,0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma],QuantBrandedDrug
+763570,Non-iodized salt,Substance
+763571,Iodized salt,Substance
+792521,Na-zone,BrandName
+792523,sodium chloride Nasal Spray [Na-zone],BrandedDrugForm
+792525,Na-zone Nasal Product,BrandedDoseGroup
+792526,sodium chloride 6.5 MG/ML Nasal Spray [Na-zone],BrandedDrug
+919427,100 ML gentamicin 1 MG/ML Injection,QuantClinicalDrug
+967823,sodium chloride,Ingredient
+967950,sodium chloride 30 MG/ML Nasal Solution [ENTsol],BrandedDrug
+968167,sodium chloride 9 MG/ML Nasal Spray,ClinicalDrug
+968170,sodium chloride 9 MG/ML Nasal Spray [Simply Saline],BrandedDrug
+968307,sodium chloride 26.5 MG/ML Nasal Spray,ClinicalDrug
+968478,5 ML sodium chloride 9 MG/ML Prefilled Syringe,QuantClinicalDrug

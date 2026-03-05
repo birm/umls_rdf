@@ -1,0 +1,212 @@
+concept_id,label,concept_class
+1072996,Serial plain X-ray of chest,Procedure
+1072997,"Plain X-ray of chest, lateral",Procedure
+1072998,"Plain X-ray of chest, oblique",Procedure
+1072999,"Plain X-ray of chest, combined posteroanterior and lateral",Procedure
+1073000,Plain X-ray of soft tissue of chest,Procedure
+1073001,Plain X-ray of soft tissue of chest wall,Procedure
+1073002,Plain X-ray of heart,Procedure
+1073053,Plain X-ray of chest wall,Procedure
+1073061,Postmortem plain X-ray of heart,Procedure
+1074237,Fluoroscopic lymphangiography of internal mammary lymph node group with contrast,Procedure
+1074450,Fluoroscopy of fistula of chest wall with contrast,Procedure
+1074526,Plain X-ray of clavicular region,Procedure
+1075103,Plain X-ray of entire clavicle,Procedure
+1075106,"Plain X-ray of bone structure of rib, clavicle and sternum",Procedure
+1075107,Plain X-ray of sternoclavicular joint,Procedure
+1075157,Plain X-ray of chest normal,ClinicalFinding
+1075158,Plain X-ray of chest abnormal,ClinicalFinding
+1075159,Plain X-ray of diaphragm,Procedure
+1075180,Plain X-ray of sternum,Procedure
+1075181,Plain X-ray of thoracic cage,Procedure
+1075182,Plain X-ray of thoracic cage normal,ClinicalFinding
+1075183,Plain X-ray of thoracic cage abnormal,ClinicalFinding
+1075197,Plain X-ray of bone of bilateral ribs,Procedure
+1075776,Plain X-ray guided fine needle aspiration biopsy of right breast,Procedure
+1075777,Plain X-ray guided fine needle aspiration biopsy and core needle biopsy of right breast,Procedure
+1075953,Plain X-ray guided fine needle aspiration biopsy of left breast,Procedure
+1075954,Plain X-ray guided fine needle aspiration biopsy of bilateral breasts,Procedure
+1075955,Prone stereotactic plain X-ray guided fine needle aspiration biopsy of left breast,Procedure
+1075956,Prone stereotactic plain X-ray guided fine needle aspiration biopsy of right breast,Procedure
+1075957,Prone stereotactic plain X-ray guided fine needle aspiration biopsy of bilateral breasts,Procedure
+1075958,Prone stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of left breast,Procedure
+1075959,Prone stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of right breast,Procedure
+1075960,Prone stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of bilateral breasts,Procedure
+1075961,Upright stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of left breast,Procedure
+1075962,Upright stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of right breast,Procedure
+1075963,Upright stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of bilateral breasts,Procedure
+1075964,Plain X-ray guided fine needle aspiration biopsy and core needle biopsy of left breast,Procedure
+1075965,Plain X-ray guided fine needle aspiration biopsy and core needle biopsy of bilateral breasts,Procedure
+1075966,Upright stereotactic plain X-ray guided fine needle aspiration biopsy of left breast,Procedure
+1075967,Upright stereotactic plain X-ray guided fine needle aspiration biopsy of right breast,Procedure
+1075968,Upright stereotactic plain X-ray guided fine needle aspiration biopsy of bilateral breasts,Procedure
+1447926,Plain X-ray of soft tissue of breast,Procedure
+1450114,Stereotactic plain X-ray guided vacuum assisted biopsy of breast,Procedure
+3010713,XR Chest Views,ClinicalObservation
+3525904,Chest X-ray,Undefined
+3544124,X-ray guided radiofrequency biopsy of breast,Procedure
+35610523,X-ray of excised tissue of both breasts,Procedure
+3562853,Fluoroscopic angiography of internal mammary artery,Procedure
+3563388,Fluoroscopy guided percutaneous embolisation of intercostal artery,Procedure
+3563574,X-ray guided wire localisation of breast lesion,Procedure
+3565626,Fluoroscopy guided insertion of cardiac biventricular PPM,Procedure
+3566081,X-ray of chest and abdomen,Procedure
+3569618,Fluoroscopy guided insertion of permanent cardiac pacemaker,Procedure
+3570826,X-ray of thorax using mobile image intensifier,Procedure
+36713182,"Plain X-ray of chest, apical and lordotic views",Procedure
+36713195,"Plain X-ray of chest, anteroposterior view",Procedure
+36713260,"Plain X-ray of chest, posteroanterior",Procedure
+36713588,X-ray tomography of sternum,Procedure
+36714376,Stereotactic plain X-ray guided vacuum assisted excision of lesion of breast,Procedure
+37016881,Plain X-ray of scapula,Procedure
+37017312,Plain X-ray guided localization of iodine 125 radioactive seed to breast lesion,Procedure
+37110059,X-ray tomography of left rib,Procedure
+37110129,X-ray tomography of right rib,Procedure
+37111264,Stereotactic plain X-ray guided radiofrequency biopsy of breast,Procedure
+37155012,Digital tomosynthesis guided insertion of magnetic marker into breast,Procedure
+37155017,Digital tomosynthesis guided insertion of guide wire into breast,Procedure
+37155018,Digital tomosynthesis guided insertion of guide wire into left breast,Procedure
+37155019,Digital tomosynthesis guided insertion of guide wire into right breast,Procedure
+37155030,Digital chest tomosynthesis,Procedure
+37165264,Radiographic imaging of bone structure of rib,Procedure
+37165265,"Radiographic imaging of bone structure of rib, clavicle and sternum",Procedure
+37165266,Plain X-ray of bone structure of rib,Procedure
+37169637,Digital tomosynthesis guided vacuum assisted biopsy of breast,Procedure
+37169638,Digital tomosynthesis guided vacuum assisted biopsy of left breast,Procedure
+37169639,Digital tomosynthesis guided vacuum assisted biopsy of right breast,Procedure
+37169640,Digital tomosynthesis guided vacuum assisted biopsy of bilateral breasts,Procedure
+37169962,Digital breast tomosynthesis guided vacuum assisted excision of right breast,Procedure
+37170004,Digital breast tomosynthesis guided vacuum assisted excision of left breast,Procedure
+37170005,Digital breast tomosynthesis guided vacuum assisted excision of bilateral breasts,Procedure
+37175119,Plain X-ray of bone structure of rib abnormal,ClinicalFinding
+37175120,Plain X-ray of bone structure of rib normal,ClinicalFinding
+37203868,Implantation of permanent cardiac pacemaker using fluoroscopic guidance,Procedure
+37203869,Implantation of cardiac biventricular permanent pacemaker using fluoroscopic guidance,Procedure
+37207125,Plain X-ray of left acromioclavicular joint,Procedure
+37207144,Plain X-ray of right acromioclavicular joint,Procedure
+37207170,Plain X-ray of left scapula,Procedure
+37207171,Plain X-ray of right scapula,Procedure
+37207189,Plain X-ray of bilateral acromioclavicular joints,Procedure
+37207193,Plain X-ray of bilateral clavicles,Procedure
+37207207,Plain X-ray of bilateral scapulae,Procedure
+37207293,Plain X-ray of bone of left rib,Procedure
+37207294,Plain X-ray of bone of right rib,Procedure
+37209014,Plain X-ray guided insertion of magnetic marker into bilateral breasts,Procedure
+37209017,Plain X-ray guided insertion of magnetic marker into left breast,Procedure
+37209018,Plain X-ray guided insertion of magnetic marker into right breast,Procedure
+37209050,Plain X-ray guided insertion of magnetic marker into breast,Procedure
+37394545,Stereotactic X-ray guided vacuum assisted excision of breast,Procedure
+37397362,Bilateral lung opacities on plain chest X-ray,ClinicalFinding
+4013637,"Diagnostic radiography of chest, lateral",Procedure
+40307987,Fluoroscopy - chest wall,Procedure
+40308446,Kymography - heart,Procedure
+40308448,Kymography - lungs,Procedure
+40308449,Kymography - diaphragm,Procedure
+40308452,Serial radiography of lungs,Procedure
+40308506,Postmortem radiology - heart,Procedure
+40309800,Screening chest X-ray,Procedure
+40314866,Thoracic cage X-ray,Procedure
+40314867,X-ray thoracic cage normal,ContextDependent
+40314868,X-ray thoracic cage abnormal,ContextDependent
+40314869,Clavicle X-ray,Procedure
+40314871,Ribs X-ray,Procedure
+40314872,Sternum X-ray,Procedure
+40314873,Sternoclavicular joint X-ray,Procedure
+40314891,Scapula X-ray,Procedure
+40314979,Standard chest X-ray,Procedure
+40314981,Chest X-ray normal (& standard),Procedure
+40314983,Standard chest X-ray abnormal,ContextDependent
+40314984,Standard chest X-ray NOS,Procedure
+40314985,Soft tissue X-ray chest,Procedure
+40314986,Soft tissue X-ray chest normal,ContextDependent
+40314987,Soft tissue X-ray chest abnormal,ContextDependent
+40314990,Soft tissue X-ray chest wall,Procedure
+40315398,Soft tissue X-ray heart,Procedure
+40315400,Soft tissue X-ray thoracic aorta,Procedure
+40315401,Soft tissue X-ray diaphragm,Procedure
+40315488,Diagnostic pneumomediastinum,Procedure
+40336521,Thoracic cage X-ray,Procedure
+40337056,Soft tissue X-ray chest wall,Procedure
+40355596,Chest X-ray normal (& standard),ClinicalFinding
+40489428,Radiofrequency biopsy of breast using plain X-ray guidance,Procedure
+4050744,Radiography of sternum,Procedure
+40538321,Radiographic procedure on chest,Procedure
+4056689,Sternoclavicular joint X-ray,Procedure
+4056695,Plain X-ray of scapula normal,ClinicalFinding
+4056836,Standard chest X-ray,Procedure
+4056837,Standard chest X-ray abnormal,ClinicalFinding
+4056838,Standard chest X-ray NOS,Procedure
+4056839,Plain X-ray of thoracic aorta,Procedure
+4056840,Soft tissue X-ray diaphragm,Procedure
+4057770,X-ray thoracic cage abnormal,ClinicalFinding
+4057912,Plain X-ray of soft tissue of chest normal,ClinicalFinding
+4057916,Soft tissue X-ray heart,Procedure
+4058187,Kymography - diaphragm,Procedure
+4058332,Kymography - heart,Procedure
+4058898,X-ray thoracic cage normal,ClinicalFinding
+4058899,Plain X-ray of clavicle,Procedure
+4058900,Plain X-ray ribs abnormal,ClinicalFinding
+4059047,Soft tissue X-ray chest,Procedure
+4059516,Plain X-ray of clavicle normal,ClinicalFinding
+4059517,Plain X-ray of clavicle abnormal,ClinicalFinding
+4059518,Plain X-ray ribs normal,ClinicalFinding
+4059523,Plain X-ray of scapula abnormal,ClinicalFinding
+4059546,Standard chest X-ray normal,ClinicalFinding
+4059547,Plain X-ray of soft tissue of chest abnormal,ClinicalFinding
+4059667,Serial radiography of lungs,Procedure
+4060497,Kymography - lungs,Procedure
+4060900,Fluoroscopy - chest wall,Procedure
+4061021,Postmortem radiographic imaging of heart,Procedure
+40614581,Routine chest X-ray,Procedure
+4062736,Screening plain X-ray of chest,Procedure
+4071322,Radiography of ribs,Procedure
+4122945,Plain X-ray of lung,Procedure
+4122946,Thoracic cage X-ray,Procedure
+4140233,"Radiologic examination of ribs, sternum AND clavicle",Procedure
+4163872,Plain X-ray of chest,Procedure
+4169275,Plain X-ray of chest and abdomen,Procedure
+4169437,Fluoroscopic angiography of internal mammary artery with contrast,Procedure
+4174219,"Diagnostic radiography of chest, stereo",Procedure
+4177789,Diagnostic radiography of scapula,Procedure
+4179075,Plain X-ray guided wire localization of breast lesion,Procedure
+4181300,"Diagnostic radiography of chest, combined PA and lateral",Procedure
+4190759,Radiographic procedure of chest,Procedure
+4194181,"Diagnostic radiography of chest, PA",Procedure
+4196956,Radiography of chest wall,Procedure
+4197182,Plain X-ray of chest using mobile image intensifier,Procedure
+4199841,Insertion of cardiac biventricular permanent pacemaker (PPM) using fluoroscopic guidance,Procedure
+4202149,Fluoroscopy guided percutaneous embolization of intercostal artery with contrast,Procedure
+4244393,Soft tissue X-ray of chest wall,Procedure
+42535274,Fluoroscopic angiography of bilateral internal mammary arteries with contrast,Procedure
+42535532,Plain X-ray of left clavicle,Procedure
+42539174,Plain X-ray of right clavicle,Procedure
+4284681,"Diagnostic radiography of chest, oblique, standard",Procedure
+4286948,Radiography of heart,Procedure
+4300764,"Diagnostic radiography of ribs, bilateral",Procedure
+4332099,Insertion of permanent cardiac pacemaker using fluoroscopic guidance,Procedure
+4347679,Internal mammary lymphangiogram,Procedure
+44791901,Plain X-ray guided core needle biopsy of breast,Procedure
+44791903,Plain X-ray guided fine needle aspiration biopsy of breast,Procedure
+44791913,Plain X-ray guided fine needle aspiration biopsy and core needle biopsy of breast,Procedure
+44791926,Upright stereotactic plain X-ray guided core needle biopsy of breast,Procedure
+44791927,Upright stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of breast,Procedure
+44791928,Upright stereotactic plain X-ray guided wire localization of breast lesion,Procedure
+44791929,Upright stereotactic plain X-ray guided fine needle aspiration biopsy of breast,Procedure
+44791999,Prone stereotactic plain X-ray guided vacuum assisted biopsy of breast,Procedure
+44792000,Upright stereotactic plain X-ray guided vacuum assisted biopsy of breast,Procedure
+44792005,Prone stereotactic plain X-ray guided fine needle aspiration biopsy and core needle biopsy of breast,Procedure
+44792006,Prone stereotactic plain X-ray guided core needle biopsy of breast,Procedure
+44792007,Prone stereotactic plain X-ray guided wire localization of breast lesion,Procedure
+44792009,Prone stereotactic plain X-ray guided fine needle aspiration biopsy of breast,Procedure
+44804683,Tuberculosis screening chest X-ray abnormal,ClinicalFinding
+44804684,Tuberculosis screening chest X-ray normal,ClinicalFinding
+44809408,Plain X-ray guided insertion of marker into breast,Procedure
+44811732,Fluoroscopy guided insertion of cardiac single chamber permanent pacemaker,Procedure
+45768799,Plain X-ray of chest for tuberculosis screening abnormal,ClinicalFinding
+45768800,Plain X-ray of chest for tuberculosis screening normal,ClinicalFinding
+45770177,X-ray guided localisation of iodine 125 seed to breast lesion,Procedure
+45876814,Chest x-ray,Answer
+46273075,X-ray of rib,Procedure
+46273561,Fluoroscopy guided biopsy of bone structure of rib,Procedure
+46286682,X-ray skeletal survey of chest with oblique ribs,Procedure
+507348,Stereotactic X-ray guided radiofrequency biopsy of breast,Procedure
