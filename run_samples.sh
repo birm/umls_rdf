@@ -8,7 +8,7 @@ python omop_umls_analysis.py 201254 "Type 1 Diabetes mellitus"
 # ibuprofen
 python omop_umls_analysis.py 1177480 "Ibuprofen"
 #  penicilin G
-python omop_umls_analysis.py 1728416 "penicilin G"
+python omop_umls_analysis.py 1728416 "penicillin G"
 
 # Cardiovascular procedures
 python omop_umls_analysis.py 4012185 "Cardiovascular procedures"

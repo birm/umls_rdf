@@ -17,6 +17,7 @@ SPARQL_ENDPOINT = "http://localhost:7020"
 PREFIXES = """
 PREFIX omop: <http://purl.org/ohdsi/>
 PREFIX omop_concept: <http://purl.org/ohdsi/Concept/>
+PREFIX umls_concept: <https://uts.nlm.nih.gov/uts/umls/concept/>
 PREFIX umls: <http://bioportal.bioontology.org/ontologies/umls/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -44,7 +45,8 @@ omop_concept:%ROOT% ( ^omop:isAncestryChildOf)* ?co .
 ?co owl:sameAs ?ext .
 ?umls owl:sameAs ?ext .
 ?umls owl:sameAs ?ext2 .
-?c owl:sameAs ?ext2 .
+?c1 owl:sameAs ?ext2 .
+?c1 (omop:weakMapping | omop:strongMapping )? ?c .
 ?c a omop:Concept .
 """,
 
@@ -54,7 +56,8 @@ omop_concept:%ROOT% (owl:sameAs) ?ext .
 ?umls_parent (owl:sameAs) ?ext .
 ?umls_child (umls:RB )*  ?umls_parent .
 ?umls_child owl:sameAs ?ext2 .
-?c owl:sameAs ?ext2 .
+?c1 owl:sameAs ?ext2 .
+?c1 (omop:weakMapping | omop:strongMapping )? ?c .
 ?c a omop:Concept .
 ?c rdfs:label ?label .
 """,
@@ -65,22 +68,45 @@ omop_concept:%ROOT% (owl:sameAs) ?ext .
 ?umls_parent (owl:sameAs) ?ext .
 ?umls_child (umls:RB | umls:PAR)*  ?umls_parent .
 ?umls_child owl:sameAs ?ext2 .
-?c owl:sameAs ?ext2 .
+?c1 owl:sameAs ?ext2 .
+?c1 (omop:weakMapping | omop:strongMapping )? ?c .
 ?c a omop:Concept .
 ?c rdfs:label ?label .
 """,
 
 # 6. Swap between and use either descendents
-#
-#"dual_semantic_expansion": """
-#?c (
-#    ^omop:isAncestryChildOf
-#  | owl:sameAs
-#  | ^owl:sameAs
-#  | umls:RB
-#)* omop_concept:%ROOT% .
-#?c a omop:Concept .
-#"""
+
+"dual_semantic_expansion": """
+  {
+    # --- Path A: Internal OMOP Expansion ---
+    # Captures standard hierarchy and local synonyms (No bridge required)
+    omop_concept:%ROOT% (omop:weakMapping | omop:strongMapping )? ?co .
+    ?co ( ^omop:isAncestryChildOf )* ?c_local .
+    ?c_local (omop:weakMapping | omop:strongMapping )? ?c .
+    BIND("internal" AS ?source)
+  }
+  UNION
+  {
+    # --- Path B: External UMLS Hypergraph Expansion ---
+    # Performs the jump to UMLS and expands via 'RB' relations
+    omop_concept:%ROOT% (omop:weakMapping | omop:strongMapping )? ?co .
+    ?co ( ^omop:isAncestryChildOf )* ?c_local .
+    
+    # The Bridge Jump
+    ?c_local owl:sameAs ?ext .
+    ?umls_parent owl:sameAs ?ext .
+    ?umls_child (umls:RB)* ?umls_parent .
+    
+    # The Bridge Back
+    ?umls_child owl:sameAs ?ext2 .
+    ?bridge_end owl:sameAs ?ext2 .
+    ?bridge_end (omop:weakMapping | omop:strongMapping )? ?c .
+    BIND("external_umls" AS ?source)
+  }
+  ?c a omop:Concept .
+  ?c rdfs:label ?label .
+
+"""
 }
 
 def write_summary_row(root, strategy, total_count, class_dist):

@@ -8,7 +8,6 @@ STRATEGIES = [
     "partial_synonym_descendants",
     "hierarchy_and_sameas",
     "sameas_expansion_and_umls_rb",
-    "sameas_expansion_and_umls_rb_or_par",
     "dual_semantic_expansion"
 ]
 
