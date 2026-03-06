@@ -35,11 +35,12 @@ VALUES ?icd_vocabs { omop_vocab:Icd10cm omop_vocab:Icd10 }
 VALUES ?icd_root { %ROOT_URI% }
 # Bridge ICD Source to OMOP Standard Concept
 ?omop_start owl:sameAs ?icd_root .
-?c0 (omop:weakMapping | omop:strongMapping )? ?omop_start .
+?omop_start a omop:Concept .
+?c0 (omop:mapsTo | omop:mappedFrom )? ?omop_start .
 # Expand down the Standard Hierarchy (e.g., SNOMED)
 ?c0 (^omop:isAncestryChildOf)* ?c1 .
 # Map back to ICD Source codes
-?c1 (omop:weakMapping | omop:strongMapping )? ?c .
+?c1 (omop:mapsTo | omop:mappedFrom )? ?c .
 ?c a omop:Concept ;
 omop:hasVocabulary ?icd_vocabs ;
 omop:hasConceptCode ?code ;
@@ -65,22 +66,32 @@ rdfs:label ?label .
 }
 """,
 
-"dual_expand": """
+"umls_syn_omop_expand": """
 SELECT DISTINCT ?c ?label ?code
 WHERE {
+
 VALUES ?icd_vocabs { omop_vocab:Icd10cm omop_vocab:Icd10 }
 VALUES ?icd_root { %ROOT_URI% }
-?start_node owl:sameAs ?icd_root .
-?c0 (omop:strongMapping | omop:weakMapping)? ?start_node .
 
-?c0 (umls:RN | ^omop:isAncestryChild)* ?expanded .
+# Start from ICD root
+?start_node owl:sameAs ?icd_root .
+
+# umls synonymy
+?c0 (owl:sameAs / ^owl:sameAs )? ?start_node . 
+
+# Map into OMOP
+?c1 (omop:mapsTo | omop:mappedFrom)? ?c0 .
+
+?c1 (^omop:isAncestryChildOf)* ?expanded .
+
 # Final projection back to ICD
-?expanded (owl:sameAs / ^owl:sameAs)? ?omop_base .
-?omop_base (omop:weakMapping | omop:strongMapping )? ?c .
-?c a omop:Concept .
-?c omop:hasVocabulary ?icd_vocabs .
-?c omop:hasConceptCode ?code .
-?c rdfs:label ?label .
+?expanded (omop:mapsTo | omop:mappedFrom)? ?c .
+
+?c a omop:Concept ;
+   omop:hasVocabulary ?icd_vocabs ;
+   omop:hasConceptCode ?code ;
+   rdfs:label ?label .
+
 }
 """
 } 
@@ -108,10 +119,13 @@ def benchmark_icd_codes(test_cases):
     for uri, prefix in test_cases.items():
         print(f"\n--- Benchmarking Root: {uri} (Prefix: {prefix}) ---")
         
-        # 1. Get Control Group (Baseline)
+        # 1. Baseline
         baseline_data = get_baseline(prefix)
         baseline_set = set(baseline_data.keys())
+        baseline_codes = set(baseline_data.values())
         print(f"Baseline Count (Starts with '{prefix}'): {len(baseline_set)}")
+
+        strategy_codes = {"baseline": baseline_codes}
         
         # 2. Run Expansions
         for strategy_name, query_template in QUERIES.items():
@@ -120,12 +134,14 @@ def benchmark_icd_codes(test_cases):
             
             expansion_data = {r['c']['value']: r['code']['value'] for r in results}
             expansion_set = set(expansion_data.keys())
+            expansion_codes = set(expansion_data.values())
+
+            strategy_codes[strategy_name] = expansion_codes
             
-            # 3. Calculate Deltas
+            # 3. Calculate Deltas (same as your original logic)
             gained_uris = expansion_set - baseline_set
             lost_uris = baseline_set - expansion_set
             
-            # Get the actual ICD codes for the sample output
             gained_codes = [expansion_data[u] for u in gained_uris]
             lost_codes = [baseline_data[u] for u in lost_uris]
             
@@ -136,12 +152,37 @@ def benchmark_icd_codes(test_cases):
                 "expansion_count": len(expansion_set),
                 "gained_count": len(gained_codes),
                 "lost_count": len(lost_codes),
-                "sample_gained_codes": gained_codes[:3], # Top 3 gained
-                "sample_lost_codes": lost_codes[:3]      # Top 3 lost
+                "sample_gained_codes": gained_codes[:3],
+                "sample_lost_codes": lost_codes[:3]
             })
-            
-    return pd.DataFrame(all_results)
 
+        # 4. Build presence matrix (CODE based)
+        baseline_codes = set(baseline_data.values())
+
+        all_codes = set(baseline_codes)
+        for codes in strategy_codes.values():
+            all_codes |= codes
+
+        rows = []
+        for code in sorted(all_codes):
+            row = {"code": code}
+            row["baseline"] = "Y" if code in baseline_codes else ""
+            
+            for strat in QUERIES.keys():
+                row[strat] = "Y" if code in strategy_codes.get(strat, set()) else ""
+                
+            rows.append(row)
+
+        df_matrix = pd.DataFrame(rows)
+        df_matrix = df_matrix[["code", "baseline"] + list(QUERIES.keys())]
+
+        safe_name = uri.replace(":", "_")
+        out_path = f"./icd_results/icd_matrix_{safe_name}.csv"
+        df_matrix.to_csv(out_path, index=False)
+
+        print(f"Wrote matrix: {out_path}")
+
+    return pd.DataFrame(all_results)
 if __name__ == "__main__":
     # Dictionary of Root URI : Lexical Prefix
     test_cases = {
@@ -153,26 +194,22 @@ if __name__ == "__main__":
         
         # 3. The Autoimmune Discovery (Endocrine)
         "icd10:E10.9": "E10.9",   # Type 1 diabetes without complications (Will it find LADA?)
-        
-        # 4. The Psychiatric Drift (Mental Health)
-        "icd10:F32": "F32",       # Major depressive disorder (Does it drift into bipolar or anxiety?)
-        
-        # 5. The Anatomical Specificity (Neoplasms)
+        # 4. The Anatomical Specificity (Neoplasms)
         "icd10:C50": "C50",       # Malignant neoplasm of breast (Does it pull in generic metastases?)
         
-        # 6. The Syndrome Boundary (Respiratory)
+        # 5. The Syndrome Boundary (Respiratory)
         "icd10:J45": "J45",       # Asthma (Does it appropriately pull in COPD or inappropriately pull in generic coughs?)
         
-        # 7. The Autoimmune Cascade (Musculoskeletal)
+        # 6. The Autoimmune Cascade (Musculoskeletal)
         "icd10:M06.9": "M06.9",   # Rheumatoid arthritis, unspecified (Should pull in specific joint involvements)
         
-        # 8. The Pathogen Web (Infectious Disease)
+        # 7. The Pathogen Web (Infectious Disease)
         "icd10:A41.9": "A41.9",   # Sepsis, unspecified organism (Will it expand to specific bacterial sepses?)
         
-        # 9. The Tightly Bounded Acute Event (Digestive)
+        # 8. The Tightly Bounded Acute Event (Digestive)
         "icd10:K35": "K35",       # Acute appendicitis (Control case: should have very little cross-chapter drift)
         
-        # 10. The Cross-Chapter Classic (Nervous System vs. Mental Health)
+        # 9. The Cross-Chapter Classic (Nervous System vs. Mental Health)
         "icd10:G30.9": "G30.9"    # Alzheimer's disease, unspecified (Should correctly discover F00/F01 Dementia codes)
     }
     
