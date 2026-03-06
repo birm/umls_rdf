@@ -1,7 +1,0 @@
-concept_id,label,concept_class
-1032211,Diabetes mellitus,LoincComponent
-201820,Diabetes mellitus,Disorder
-36210383,Diabetes mellitus (DM),Answer
-44833365,Diabetes mellitus,3DigNonbillCode
-45571663,Unspecified diabetes mellitus,Icd10Hierarchy
-45876545,Diabetes mellitus,Answer

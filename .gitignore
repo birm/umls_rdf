@@ -1,4 +1,7 @@
+analysis_results/
+omop_concepts.db
 umls_rdf/concepts
+__pycache__/
 umls_rdf/rels
 input/
 .DS_Store

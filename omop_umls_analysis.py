@@ -5,9 +5,10 @@ import requests
 import csv
 from collections import Counter
 import os
+from text_baseline import get_lexical_baseline
 
 SUMMARY_FILE = "analysis_summary.csv"
-write_header = False
+WRITTEN_HEADER = False
 
 DEBUG = False
 
@@ -21,68 +22,74 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 """
 
-LIMIT_SAMPLE = 1000
-
 QUERIES = {
 
+# 1. Pure OMOP hierarchy
 "descendants_only": """
-omop_concept:%ROOT%(^omop:isAncestryChildOf)+ ?c .
+omop_concept:%ROOT% (^omop:isAncestryChildOf)* ?c .
 ?c a omop:Concept .
 """,
 
-"single_hop_mapping_descendants": """
-omop_concept:%ROOT% (omop:strongMapping | omop:weakMapping)? ?mapped .
-?mapped (^omop:isAncestryChildOf)+ ?c .
-?c a omop:Concept .
-""",
-
+# 2. OMOP hierarchy plus OMOP synonym mappings
 "partial_synonym_descendants": """
-omop_concept:%ROOT% (omop:strongMapping | ^omop:isAncestryChildOf)+ ?c .
+omop_concept:%ROOT% (omop:weakMapping | omop:strongMapping )? ?co .
+?co ( ^omop:isAncestryChildOf )* ?c1 .
+?c1 (omop:weakMapping | omop:strongMapping )? ?c .
 ?c a omop:Concept .
 """,
 
-"unconstrained_mapping_descendants": """
-omop_concept:%ROOT% (omop:weakMapping | omop:strongMapping | ^omop:isAncestryChildOf)+ ?c .
+# 3. Allow hierarchy traversal and equivalence during expansion
+"hierarchy_and_sameas": """
+omop_concept:%ROOT% ( ^omop:isAncestryChildOf)* ?co .
+?co owl:sameAs ?ext .
+?umls owl:sameAs ?ext .
+?umls owl:sameAs ?ext2 .
+?c owl:sameAs ?ext2 .
 ?c a omop:Concept .
 """,
 
-"sameas_roundtrip": """
-omop_concept:%ROOT% (owl:sameAs | ^owl:sameAs)+ ?c .
+# 4. Expand through equivalence and UMLS broader relations
+"sameas_expansion_and_umls_rb": """
+omop_concept:%ROOT% (owl:sameAs) ?ext .
+?umls_parent (owl:sameAs) ?ext .
+?umls_child (umls:RB )*  ?umls_parent .
+?umls_child owl:sameAs ?ext2 .
+?c owl:sameAs ?ext2 .
 ?c a omop:Concept .
+?c rdfs:label ?label .
 """,
 
-"descendants_then_sameas_roundtrip": """
-?co omop:isAncestryChildOf+ omop_concept:%ROOT% .
-?co owl:sameAs ?external .
-?c owl:sameAs ?external .
+# 5. Same as above but allow PAR hierarchy
+"sameas_expansion_and_umls_rb_or_par": """
+omop_concept:%ROOT% (owl:sameAs) ?ext .
+?umls_parent (owl:sameAs) ?ext .
+?umls_child (umls:RB | umls:PAR)*  ?umls_parent .
+?umls_child owl:sameAs ?ext2 .
+?c owl:sameAs ?ext2 .
 ?c a omop:Concept .
+?c rdfs:label ?label .
 """,
 
-"omop_descendants_and_sameas_expansion": """
-?c (omop:isAncestryChildOf | omop:strongMapping | owl:sameAs | ^owl:sameAs)+ omop_concept:%ROOT% .
-?c a omop:Concept .
-""",
-
-"sameas_expansion_and_umls_descendents": """
-?c (umls:RB | owl:sameAs | ^owl:sameAs)+
-omop_concept:%ROOT% .
-?c a omop:Concept .
-""",
-
-"dual_expansion":"""
-?c (omop:isAncestryChildOf | omop:strongMapping | owl:sameAs | ^owl:sameAs | umls:SY | ^umls:SY | umls:RB)+ omop_concept:%ROOT% .
-?c a omop:Concept .
-"""
+# 6. Swap between and use either descendents
+#
+#"dual_semantic_expansion": """
+#?c (
+#    ^omop:isAncestryChildOf
+#  | owl:sameAs
+#  | ^owl:sameAs
+#  | umls:RB
+#)* omop_concept:%ROOT% .
+#?c a omop:Concept .
+#"""
 }
 
-def write_summary_row(root, strategy, total_count, sample_size, class_dist):
-    global write_header
+def write_summary_row(root, strategy, total_count, class_dist):
+    global WRITTEN_HEADER
 
     row = {
         "root": root,
         "strategy": strategy,
         "total_count": total_count,
-        "sample_size": sample_size,
         "class_distribution": "; ".join(f"{k}:{v}" for k, v in sorted(class_dist.items(), key=lambda x: -x[1]))
     }
 
@@ -90,9 +97,9 @@ def write_summary_row(root, strategy, total_count, sample_size, class_dist):
     mode = "a"
     with open(SUMMARY_FILE, mode, newline="") as f:
         writer = csv.DictWriter(f, fieldnames=row.keys())
-        if not write_header:
+        if not WRITTEN_HEADER:
             writer.writeheader()
-            write_header = True
+            WRITTEN_HEADER = True
         writer.writerow(row)
 
 def run_sparql(query):
@@ -132,7 +139,7 @@ WHERE {{
     return int(results[0]["count"]["value"])
 
 
-def run_sample(where_block):
+def run_results(where_block):
 
     query = PREFIXES + f"""
 SELECT DISTINCT ?c ?label ?class
@@ -147,7 +154,6 @@ OPTIONAL {{
   ?c omop:hasConceptClass ?class .
 }}
 }}
-LIMIT {LIMIT_SAMPLE}
 """
 
     return run_sparql(query)
@@ -176,10 +182,10 @@ def analyze_sample(results):
     return ids, labels, classes, class_counts
 
 
-def save_sample(root, strategy, ids, labels, classes):
+def save_results(root, strategy, ids, labels, classes):
 
-    filename = f"analysis_samples/O{root}/{strategy}_sample.csv"
-    os.makedirs(f'analysis_samples/O{root}', exist_ok=True)
+    filename = f"analysis_results/O{root}/{strategy}.csv"
+    os.makedirs(f'analysis_results/O{root}', exist_ok=True)
 
     with open(filename, "w", newline="") as f:
 
@@ -197,11 +203,15 @@ def save_sample(root, strategy, ids, labels, classes):
     print("Saved:", filename)
 
 
-def benchmark(root):
+def benchmark(root, name):
 
     print("Root concept:", root)
     print()
 
+    lex_ids = get_lexical_baseline('omop_concepts.db', name)
+    write_summary_row(root, "lexical_baseline",  len(lex_ids), {})
+    save_results(root, "lexical_baseline", lex_ids, {}, {})
+    
     for name, where in QUERIES.items():
         try:
 
@@ -216,7 +226,7 @@ def benchmark(root):
             print("Total concepts:", total)
 
             print("Fetching sample...")
-            sample = run_sample(where_block)
+            sample = run_results(where_block)
 
             ids, labels, classes, class_dist = analyze_sample(sample)
 
@@ -226,8 +236,8 @@ def benchmark(root):
             for c, n in class_dist.most_common():
                 print(f"  {c}: {n}")
 
-            save_sample(root, name, ids, labels, classes)
-            write_summary_row(root, name, total, len(ids), class_dist)
+            save_results(root, name, ids, labels, classes)
+            write_summary_row(root, name, total, class_dist)
 
             print()
         except BaseException as e:
@@ -236,10 +246,11 @@ def benchmark(root):
 
 if __name__ == "__main__":
 
-    if len(sys.argv) != 2:
-        print("Usage: python benchmark_expansion.py ROOT_CONCEPT_ID")
+    if len(sys.argv) != 3:
+        print("Usage: python benchmark_expansion.py ROOT_CONCEPT_ID NAME")
         sys.exit(1)
 
     root = sys.argv[1]
+    name = sys.argv[2]
 
-    benchmark(root)
+    benchmark(root, name)
