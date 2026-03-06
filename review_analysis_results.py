@@ -50,7 +50,10 @@ def uniqueness_report(sets, labels, save_dir):
             "missing_example1_cid",
             "missing_example1_label",
             "missing_example2_cid",
-            "missing_example2_label"
+            "missing_example2_label",
+            "beyond_baseline_count",
+            "beyond_baseline_cid",
+            "beyond_baseline_label"
         ])
         writer.writeheader()
         
@@ -70,6 +73,15 @@ def uniqueness_report(sets, labels, save_dir):
             missing_examples = random.sample(missing_list, min(2, len(missing_list)))
             while len(missing_examples) < 2:
                 missing_examples.append(None)
+            
+            beyond_baseline = s_ids - baseline
+            beyond_list = list(beyond_baseline)
+            beyond_example = None
+            try:
+                beyond_example = random.choice(beyond_list)
+            except:
+                pass
+                                           
 
             # Write row
             writer.writerow({
@@ -84,6 +96,9 @@ def uniqueness_report(sets, labels, save_dir):
                 "missing_example1_label": labels.get(missing_examples[0], "") if missing_examples[0] else "",
                 "missing_example2_cid": missing_examples[1] or "",
                 "missing_example2_label": labels.get(missing_examples[1], "") if missing_examples[1] else "",
+                "beyond_baseline_count": len(beyond_list),
+                "beyond_baseline_cid": beyond_example or "",
+                "beyond_baseline_label": labels.get(beyond_example, "") 
             })
 
     print("Saved uniqueness/missing report:", report_file)
